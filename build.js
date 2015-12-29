@@ -6,6 +6,7 @@ var metalsmith = require('metalsmith'),
     destination = conf.destination,
 
     layouts = require('metalsmith-layouts'),
+    markdown = require('metalsmith-markdown'),
     collections = require('metalsmith-collections'),
     permalinks = require('metalsmith-permalinks');
 
@@ -14,6 +15,7 @@ metalsmith(__dirname)
     .destination(destination)
     .use(collections(conf.collections))
     .use(permalinks(conf.permalinks))
+    .use(markdown())
     .use(layouts(conf.layouts))
     .build(function (error, res) {
         if ( error ) {
