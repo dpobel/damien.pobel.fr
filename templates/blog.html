@@ -1,0 +1,7 @@
+<h1>{{ title }}</h1>
+
+<ul>
+{% for post in collections.posts %}
+    <li>{{ post.title }}</li>
+{% endfor %}
+</ul>
