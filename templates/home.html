@@ -1,0 +1,6 @@
+<h1>Deniers articles</h1>
+<ul>
+{% for post in collections.lastPosts %}
+    <li>{% include "templates/parts/post_line.html" %}</li>
+{% endfor %}
+</ul>

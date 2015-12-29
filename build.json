@@ -8,6 +8,13 @@
             "sortBy": "published",
             "reverse": true
         },
+        "lastPosts": {
+            "pattern": "post/*",
+            "sortBy": "published",
+            "reverse": true,
+            "limit": 10,
+            "refer": false
+        },
         "pages": {
             "pattern": "page/*",
             "sortBy": "published",
@@ -18,9 +25,9 @@
         "collections.posts": {
             "perPage": 5,
             "layout": "blog.html",
-            "first": "index.md",
+            "first": "posts.md",
             "noPageOne": true,
-            "path": ":num/index.html"
+            "path": "posts/:num/index.html"
         },
         "collections.pages": {
             "perPage": 5,
