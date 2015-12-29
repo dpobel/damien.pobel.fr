@@ -1,6 +1,6 @@
 <ul>
 {% for post in pagination.files %}
-    <li>{{ post.title }}</li>
+    <li>{% include "templates/parts/post_line.html" %}</li>
 {% endfor %}
 </ul>
 
