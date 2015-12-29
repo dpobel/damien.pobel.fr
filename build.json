@@ -1,0 +1,20 @@
+{
+    "source": "src",
+    "destination": "web",
+    "baseUri": "http://damien.pobel.fr",
+    "collections": {
+        "posts": {
+            "pattern": "post/*",
+            "sortBy": "published",
+            "reverse": true
+        },
+        "pages": {
+            "pattern": "page/*",
+            "sortBy": "published",
+            "reverse": true
+        }
+    },
+    "permalinks": {
+        "relative": false
+    }
+}
