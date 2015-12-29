@@ -14,8 +14,8 @@ metalsmith(__dirname)
     .source(source)
     .destination(destination)
     .use(collections(conf.collections))
-    .use(permalinks(conf.permalinks))
     .use(markdown())
+    .use(permalinks(conf.permalinks))
     .use(layouts(conf.layouts))
     .build(function (error, res) {
         if ( error ) {
