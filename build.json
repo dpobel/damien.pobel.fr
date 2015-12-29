@@ -16,5 +16,10 @@
     },
     "permalinks": {
         "relative": false
+    },
+    "layouts": {
+        "engine": "nunjucks",
+        "directory": "templates",
+        "default": "default.html"
     }
 }

@@ -15,6 +15,8 @@
   "devDependencies": {
     "metalsmith": "^2.1.0",
     "metalsmith-collections": "^0.6.0",
-    "metalsmith-permalinks": "^0.4.0"
+    "metalsmith-layouts": "^1.4.2",
+    "metalsmith-permalinks": "^0.4.0",
+    "nunjucks": "^2.2.0"
   }
 }
