@@ -1,0 +1,33 @@
+{
+  "ContentCreate": {
+    "ContentType": {
+      "_href": "/content/types/27"
+    },
+    "mainLanguageCode": "eng-GB",
+    "LocationCreate": {
+      "ParentLocation": {
+        "_href": "/content/locations/1/43/51"
+      },
+      "sortField": "PATH",
+      "sortOrder": "ASC"
+    },
+    "Section": {
+      "_href": "/content/sections/3"
+    },
+    "fields": {
+      "field": [
+        {
+          "fieldDefinitionIdentifier": "name",
+          "fieldValue": "eZ Systems logo created with the REST API"
+        },{
+          "fieldDefinitionIdentifier": "image",
+          "fieldValue": {
+              "fileName": "ez-logo.gif",
+              "fileSize": 622,
+              "data": "R0lGODlhRQBGAIQTAAAAABEEASIJAkQTBCAgICIiIjMzM4gmCERERFVVVWRkZP9JD3d3d4iIiJmZmaqqqru7u8zMzO7u7v///////////////////////////////////////////////////yH5BAEKAB8ALAAAAABFAEYAAAX+ICKOZGmeaKqSzue+LyDPdG3feK7TDOzvwKAw1/PFhsikrmj8KJ9QGdNIa0yu2Kx2y+16tbymq/otm8/ZsJiMbrvTs+lvZn3b0eom+8735ql0fYJcf3MydYOJE4Uwe4qCjEeHj4mRY4GUkHFiTpiZfJadk5+gm2uepG+hjqltq6iteKZ6sLFmr6O2slKcrLpfuACIaBErxik0BCgMvmUQUdAyCM1fz9FR07XO19jUXtYyAgPj5OXm5+jpATPZuWjgAAcL8/T19vf4+QPs3l3w8vkCCtTHT1s1GgAHKhy4T1o/Lv8WSgzYEEA7YW8iTtxYr+LFYWc0cuTo8eEWkSPsJ5Y0+A1hSpIF3YV0+VJlTIxuUNZkeBOkGZ07KfbMSDMoT4cs/RU1KhSpzJ9LmeJb+XTbjIRSpw7NGTVrx61tgHqdRxVn2K5jF5T1aVUG1rRkwb5DO3Yt0atw7dnlijcvvb1n+/pVK3emYL+A5x7Om9iw28FxnZpV/BhyWQQNMmvezDmzArpey0Z7C1c0NNJpTUdBXffmaMiEpXGa/UJsa9m0Z9sOzS63btBZPfrmtDt47+FN4A04wLy58+fQo0sXcBy5D3jckCCwbgR7diHbucPw/h1IePEuyJfXcR79Bwjw48ufT7++/fsRQgAAOw=="
+          }
+        }
+      ]
+    }
+  }
+}
