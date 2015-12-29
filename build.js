@@ -8,12 +8,14 @@ var metalsmith = require('metalsmith'),
     layouts = require('metalsmith-layouts'),
     markdown = require('metalsmith-markdown'),
     collections = require('metalsmith-collections'),
+    pagination = require('metalsmith-pagination'),
     permalinks = require('metalsmith-permalinks');
 
 metalsmith(__dirname)
     .source(source)
     .destination(destination)
     .use(collections(conf.collections))
+    .use(pagination(conf.pagination))
     .use(markdown())
     .use(permalinks(conf.permalinks))
     .use(layouts(conf.layouts))

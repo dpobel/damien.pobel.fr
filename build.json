@@ -14,6 +14,22 @@
             "reverse": true
         }
     },
+    "pagination": {
+        "collections.posts": {
+            "perPage": 5,
+            "layout": "blog.html",
+            "first": "index.md",
+            "noPageOne": true,
+            "path": ":num/index.html"
+        },
+        "collections.pages": {
+            "perPage": 5,
+            "layout": "pages.html",
+            "first": "pages.md",
+            "noPageOne": true,
+            "path": "pages/:num/index.html"
+        }
+    },
     "permalinks": {
         "relative": false
     },

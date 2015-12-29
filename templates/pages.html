@@ -1,5 +1,7 @@
 <ul>
-{% for page in collections.pages %}
+{% for page in pagination.files %}
     <li>{{ page.title }}</li>
 {% endfor %}
 </ul>
+
+{% include "templates/parts/pagination.html" %}
