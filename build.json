@@ -2,6 +2,14 @@
     "source": "src",
     "destination": "web",
     "baseUri": "http://damien.pobel.fr",
+    "tags": {
+        "handle": "tags",
+        "path": "tag/:tag.html",
+        "layout": "tag.html",
+        "sortBy": "published",
+        "reverse": true,
+        "skipMetadata": false
+    },
     "collections": {
         "posts": {
             "pattern": "post/*",
