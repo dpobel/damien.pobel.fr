@@ -4,12 +4,18 @@ var metalsmith = require('metalsmith'),
     conf = require('./build.json'),
     source = conf.source,
     destination = conf.destination,
+    consolidate = require('consolidate'),
+    nunjucks = require('nunjucks'),
 
     layouts = require('metalsmith-layouts'),
     markdown = require('metalsmith-markdown'),
     collections = require('metalsmith-collections'),
     pagination = require('metalsmith-pagination'),
     permalinks = require('metalsmith-permalinks');
+
+console.log('Adding custom Nunjucks filters');
+consolidate.requires.nunjucks = nunjucks.configure();
+require('./lib/nunjucks/filters')(consolidate.requires.nunjucks);
 
 metalsmith(__dirname)
     .source(source)

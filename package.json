@@ -13,6 +13,7 @@
   "author": "Damien Pobel",
   "license": "MIT",
   "devDependencies": {
+    "consolidate": "^0.13.1",
     "metalsmith": "^2.1.0",
     "metalsmith-collections": "^0.6.0",
     "metalsmith-layouts": "^1.4.2",

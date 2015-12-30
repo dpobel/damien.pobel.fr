@@ -1,6 +1,6 @@
 <ul>
 {% for page in pagination.files %}
-    <li>{{ page.title }}</li>
+    <li><a href="{{ page.path|url }}">{{ page.title }}</a></li>
 {% endfor %}
 </ul>
 
