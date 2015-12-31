@@ -8,7 +8,9 @@
         "layout": "tag.html",
         "sortBy": "published",
         "reverse": true,
-        "skipMetadata": false
+        "skipMetadata": false,
+        "perPage": 5,
+        "pathPage": "tag/:tag/:num.html"
     },
     "collections": {
         "posts": {
