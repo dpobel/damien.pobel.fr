@@ -31,6 +31,15 @@ function renameFiles(files, metalsmith, done) {
     done();
 }
 
+function metadataToString(data) {
+    if ( Array.isArray(data) ) {
+        return data.join(', ');
+    } else if ( data instanceof Date ) {
+        return data.toJSON();
+    }
+    return data.toString();
+}
+
 function keepMetadata(files, metalsmith, done) {
     var excludeProps = ['contents', 'stats', 'mode'];
 
@@ -41,7 +50,7 @@ function keepMetadata(files, metalsmith, done) {
         if ( filePath.endsWith('.md') ) {
             Object.keys(file).forEach(function (key) {
                 if ( excludeProps.indexOf(key) === -1 ) {
-                    line += key + ": " + file[key].toString() + "\n";
+                    line += key + ": " + metadataToString(file[key]) + "\n";
                 }
             });
             line += "---\n";
