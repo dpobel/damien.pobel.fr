@@ -1,3 +1,6 @@
+{% extends "templates/layout.html" %}
+
+{% block content %}
 <ul>
 {% for post in pagination.files %}
     <li>{% include "templates/parts/post_line.html" %}</li>
@@ -5,3 +8,4 @@
 </ul>
 
 {% include "templates/parts/pagination.html" %}
+{% endblock %}

@@ -1,0 +1,10 @@
+/* TEAM */
+    Owner: Damien Pobel
+    Twitter: dpobel
+    From: St-Paul-de-Varax, France
+
+/* SITE */
+    Standards: HTML5, CSS3
+    Software: Nodejs, Lectroid
+    Languages: French, English
+    IDE: vim

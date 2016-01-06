@@ -1,3 +1,6 @@
+{% extends "templates/layout.html" %}
+
+{% block content %}
 <ul>
 {% for page in pagination.files %}
     <li><a href="{{ page.path|url }}">{{ page.title }}</a></li>
@@ -5,3 +8,4 @@
 </ul>
 
 {% include "templates/parts/pagination.html" %}
+{% endblock %}

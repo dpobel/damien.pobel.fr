@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ lang|default('fr', true) }}">
+<head>
+    <meta charset="utf-8">
+    <title>{% block title %}Damien Pobel{% endblock %}</title>
+    <meta name="description" content="{% block metaDescription %}{% endblock %}">
+
+    <meta name="viewport" content="width=device-width">
+    <link rel="Shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="author" href="/humans.txt">
+    <link rel="apple-touch-icon" href="/images/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/touch-icon-ipad-retina.png">
+    <!--[if lt IE 9]>
+    <script>(function(){var tags=['header','article','footer','nav', 'time', 'section', 'figure', 'abbr'];for(var i=0;i!=tags.length;i++) document.createElement(tags[i]);})();</script>
+    <![endif]-->
+</head>
+<body>
+{% block pageHeader %}{% endblock %}
+{% block content %}{% endblock %}
+{% block pageFooter %}{% endblock %}
+</body>
+</html>
