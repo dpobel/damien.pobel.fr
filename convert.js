@@ -38,13 +38,15 @@ function keepMetadata(files, metalsmith, done) {
         var file = files[filePath],
             line = "---\n";
 
-        Object.keys(file).forEach(function (key) {
-            if ( excludeProps.indexOf(key) === -1 ) {
-                line += key + ": " + file[key].toString() + "\n";
-            }
-        });
-        line += "---\n";
-        file.contents = line + file.contents;
+        if ( filePath.endsWith('.md') ) {
+            Object.keys(file).forEach(function (key) {
+                if ( excludeProps.indexOf(key) === -1 ) {
+                    line += key + ": " + file[key].toString() + "\n";
+                }
+            });
+            line += "---\n";
+            file.contents = line + file.contents;
+        }
     });
     done();
 }
