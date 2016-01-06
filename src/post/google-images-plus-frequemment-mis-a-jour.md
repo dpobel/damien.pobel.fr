@@ -1,10 +1,10 @@
 ---
-title: Google Images plus fréquemment mis à jour ?
+title: "Google Images plus fréquemment mis à jour ?"
 tags: photo, google, référencement
 updated: 2007-07-31T16:41:44.000Z
-lang: fr
-node: 65040
-remoteId: 739f16e4992bd196cbe9bd4e6c0f2da9
+lang: "fr"
+node: "65040"
+remoteId: "739f16e4992bd196cbe9bd4e6c0f2da9"
 published: 2007-04-02T21:44:07+02:00
 ---
  

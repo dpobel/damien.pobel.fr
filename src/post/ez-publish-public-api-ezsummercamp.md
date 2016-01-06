@@ -1,5 +1,5 @@
 ---
-title: eZ Publish Public API at the eZ Summer Camp 2013
+title: "eZ Publish Public API at the eZ Summer Camp 2013"
 tags: ez publish, php, ezsummercamp
 published: 2013-09-06T09:24:02+02:00
 ---

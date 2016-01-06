@@ -1,9 +1,9 @@
 ---
-title: News about Video FLV Datatype
+title: "News about Video FLV Datatype"
 tags: ez publish, vidéo, ezvideoflv
 updated: 2008-10-31T08:44:54.000Z
-node: 66680
-remoteId: 36f8fd078ec97ddc03f41f9cedf3c1ad
+node: "66680"
+remoteId: "36f8fd078ec97ddc03f41f9cedf3c1ad"
 published: 2008-02-20T13:49:14+01:00
 ---
 

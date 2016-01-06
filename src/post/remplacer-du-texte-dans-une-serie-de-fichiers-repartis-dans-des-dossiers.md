@@ -1,10 +1,10 @@
 ---
-title: Remplacer du texte dans une série de fichiers répartis dans des dossiers
+title: "Remplacer du texte dans une série de fichiers répartis dans des dossiers"
 tags: bash, ubuntu, linux, shell
 updated: 2007-04-20T07:22:49.000Z
-lang: fr
-node: 60930
-remoteId: b7bb2782edeb2fcbab529aa9ef4286d4
+lang: "fr"
+node: "60930"
+remoteId: "b7bb2782edeb2fcbab529aa9ef4286d4"
 published: 2006-09-01T20:39:22+02:00
 ---
  

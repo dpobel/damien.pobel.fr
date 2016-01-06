@@ -1,10 +1,10 @@
 ---
-title: Ce bel Olivier
+title: "Ce bel Olivier"
 tags: photo
 updated: 2007-07-12T18:25:48.000Z
-lang: fr
-node: 65211
-remoteId: f8222fbbf31f1105628be77997ac99cd
+lang: "fr"
+node: "65211"
+remoteId: "f8222fbbf31f1105628be77997ac99cd"
 published: 2007-05-03T23:56:25+02:00
 ---
  

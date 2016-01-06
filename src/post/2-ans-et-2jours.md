@@ -1,9 +1,9 @@
 ---
-title: 2 ans (et 2jours)
+title: "2 ans (et 2jours)"
 tags: humeurs, blog, travail
-lang: fr
-node: 67086
-remoteId: acca0bc1f695391004e138b2edcf5cc3
+lang: "fr"
+node: "67086"
+remoteId: "acca0bc1f695391004e138b2edcf5cc3"
 published: 2008-08-30T15:56:09+02:00
 ---
 

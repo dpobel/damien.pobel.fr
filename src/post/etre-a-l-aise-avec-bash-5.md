@@ -1,10 +1,10 @@
 ---
-title: Être à l'aise avec bash #5
+title: "Être à l'aise avec bash #5"
 tags: ssh, truc, bash, ubuntu, linux, debian, shell
 updated: 2007-01-27T14:22:20.000Z
-lang: fr
-node: 63693
-remoteId: a878971184b2adf1013385e3f8d463e8
+lang: "fr"
+node: "63693"
+remoteId: "a878971184b2adf1013385e3f8d463e8"
 published: 2006-11-26T16:53:06+01:00
 ---
  

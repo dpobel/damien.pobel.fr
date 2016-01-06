@@ -1,9 +1,9 @@
 ---
-title: Fetch eZ Publish content nodes in PHP
+title: "Fetch eZ Publish content nodes in PHP"
 tags: ez publish, truc, php, pense bête
 updated: 2007-10-01T21:51:05.000Z
-node: 66235
-remoteId: b1f35362162c589ed9b1e3d9ce1d861c
+node: "66235"
+remoteId: "b1f35362162c589ed9b1e3d9ce1d861c"
 published: 2007-09-08T00:21:47+02:00
 ---
  

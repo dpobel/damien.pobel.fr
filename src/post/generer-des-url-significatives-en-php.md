@@ -1,10 +1,10 @@
 ---
-title: Générer des URL significatives en PHP
+title: "Générer des URL significatives en PHP"
 tags: ez publish, truc, cms, windows, microsofterie, php, web
 updated: 2008-10-31T08:41:20.000Z
-lang: fr
-node: 66631
-remoteId: 134041734a784d250939028157609383
+lang: "fr"
+node: "66631"
+remoteId: "134041734a784d250939028157609383"
 published: 2008-02-03T14:34:07+01:00
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Load a third party library with the YUI Loader
+title: "Load a third party library with the YUI Loader"
 tags: yui, javascript
-lang: en
+lang: "en"
 published: 2013-07-10T23:54:46+02:00
 ---
 

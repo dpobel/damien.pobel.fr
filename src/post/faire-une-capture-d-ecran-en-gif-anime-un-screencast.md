@@ -1,10 +1,10 @@
 ---
-title: Faire une capture d'écran en GIF animé (un screencast)
+title: "Faire une capture d'écran en GIF animé (un screencast)"
 tags: gnome, x11, truc, ubuntu, blog, debian
 updated: 2007-01-15T08:08:27.000Z
-lang: fr
-node: 63855
-remoteId: 2d34b0225d06caaff01a4b4364546608
+lang: "fr"
+node: "63855"
+remoteId: "2d34b0225d06caaff01a4b4364546608"
 published: 2006-12-16T00:56:35+01:00
 ---
  

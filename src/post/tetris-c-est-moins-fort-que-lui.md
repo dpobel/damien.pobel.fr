@@ -1,10 +1,10 @@
 ---
-title: Tetris, c'est moins fort que lui
+title: "Tetris, c'est moins fort que lui"
 tags: jeux, vidéo
 updated: 2008-10-29T08:25:18.000Z
-lang: fr
-node: 66261
-remoteId: 5278f3e623f150f7361aca20704f02bc
+lang: "fr"
+node: "66261"
+remoteId: "5278f3e623f150f7361aca20704f02bc"
 published: 2007-09-12T18:17:55+02:00
 ---
 

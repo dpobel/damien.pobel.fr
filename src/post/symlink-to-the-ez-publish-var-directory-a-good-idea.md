@@ -1,8 +1,8 @@
 ---
-title: Symlink to the eZ Publish var directory, a good idea?
+title: "Symlink to the eZ Publish var directory, a good idea?"
 tags: ez publish, cache, truc, apache
-node: 69792
-remoteId: 5076a4d23339a88b527dd6fdae96c9ef
+node: "69792"
+remoteId: "5076a4d23339a88b527dd6fdae96c9ef"
 published: 2012-07-06T17:49:12+02:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Service après vente...
+title: "Service après vente..."
 tags: freebox, humeurs, consommation, free
 updated: 2007-02-03T14:24:39.000Z
-lang: fr
-node: 62058
-remoteId: 5864b6d31cccce2692bcc85fbfb2876c
+lang: "fr"
+node: "62058"
+remoteId: "5864b6d31cccce2692bcc85fbfb2876c"
 published: 2006-10-21T14:32:24+02:00
 ---
  

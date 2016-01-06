@@ -1,10 +1,10 @@
 ---
-title: Constraste Olympique
+title: "Constraste Olympique"
 tags: jeux olympiques, photo, humeurs
 updated: 2008-10-30T08:36:21.000Z
-lang: fr
-node: 66999
-remoteId: a53bbaa7cea9fe1fbfcef27a0e8641f2
+lang: "fr"
+node: "66999"
+remoteId: "a53bbaa7cea9fe1fbfcef27a0e8641f2"
 published: 2008-08-12T23:25:27+02:00
 ---
 <figure class="object-center"><a href="/images/constraste-olympique.jpg">![Constraste Olympique](/images//constraste-olympique.jpg)

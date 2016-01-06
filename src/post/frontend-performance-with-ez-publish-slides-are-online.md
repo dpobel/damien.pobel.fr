@@ -1,9 +1,9 @@
 ---
-title: Frontend performance with eZ Publish slides are online
+title: "Frontend performance with eZ Publish slides are online"
 tags: ez publish, performances, http, cms, template
 updated: 2010-07-13T15:53:14.000Z
-node: 68115
-remoteId: 667f969267f2c4ae108b802d96b5f5ea
+node: "68115"
+remoteId: "667f969267f2c4ae108b802d96b5f5ea"
 published: 2010-02-06T00:05:40+01:00
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Google Android vs iPhone
+title: "Google Android vs iPhone"
 tags: amusant, google, humeurs
-lang: fr
-node: 67136
-remoteId: 24f4335f0d0be454e9d13b7600bfa529
+lang: "fr"
+node: "67136"
+remoteId: "24f4335f0d0be454e9d13b7600bfa529"
 published: 2008-09-25T15:01:42+02:00
 ---
 

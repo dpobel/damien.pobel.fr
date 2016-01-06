@@ -1,10 +1,10 @@
 ---
-title: Être à l'aise avec bash #4
+title: "Être à l'aise avec bash #4"
 tags: apache, bash, ubuntu, debian, shell
 updated: 2007-02-03T18:43:17.000Z
-lang: fr
-node: 63644
-remoteId: e21756dda852ab923281ab5074b11d1f
+lang: "fr"
+node: "63644"
+remoteId: "e21756dda852ab923281ab5074b11d1f"
 published: 2006-11-19T15:04:40+01:00
 ---
  

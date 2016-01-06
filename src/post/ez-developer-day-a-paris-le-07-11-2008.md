@@ -1,10 +1,10 @@
 ---
-title: eZ developer day à Paris le 07/11/2008
+title: "eZ developer day à Paris le 07/11/2008"
 tags: ez publish, ez components, php
 updated: 2008-11-12T11:13:41.000Z
-lang: fr
-node: 67317
-remoteId: 45b16db972104cf64a891c27b537d915
+lang: "fr"
+node: "67317"
+remoteId: "45b16db972104cf64a891c27b537d915"
 published: 2008-11-10T12:51:43+01:00
 ---
 

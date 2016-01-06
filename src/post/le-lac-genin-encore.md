@@ -1,10 +1,10 @@
 ---
-title: Le lac Genin encore...
+title: "Le lac Genin encore..."
 tags: nikon d50, vacances, nature
 updated: 2007-11-12T14:31:12.000Z
-lang: fr
-node: 66062
-remoteId: 5fa9b236d2afd1a75322b4c871108410
+lang: "fr"
+node: "66062"
+remoteId: "5fa9b236d2afd1a75322b4c871108410"
 published: 2007-07-26T21:39:34+02:00
 ---
  

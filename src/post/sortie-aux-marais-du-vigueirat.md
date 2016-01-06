@@ -1,10 +1,10 @@
 ---
-title: Sortie aux Marais du Vigueirat
+title: "Sortie aux Marais du Vigueirat"
 tags: photo, nikon d50, nature
 updated: 2008-10-30T08:37:32.000Z
-lang: fr
-node: 66734
-remoteId: 7530d1c92ab720ee7c07c995610112b5
+lang: "fr"
+node: "66734"
+remoteId: "7530d1c92ab720ee7c07c995610112b5"
 published: 2008-03-30T22:08:19+02:00
 ---
 

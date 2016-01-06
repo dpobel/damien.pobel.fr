@@ -1,10 +1,10 @@
 ---
-title: Pourquoi j'utilise GNU/Linux, Ubuntu Linux et le Logiciel libre ?
+title: "Pourquoi j'utilise GNU/Linux, Ubuntu Linux et le Logiciel libre ?"
 tags: logiciels libres, humeurs, informatique, ubuntu, linux, debian
 updated: 2007-01-30T13:17:02.000Z
-lang: fr
-node: 61120
-remoteId: 20bdd277a38e5f92b31a0bb3009ddced
+lang: "fr"
+node: "61120"
+remoteId: "20bdd277a38e5f92b31a0bb3009ddced"
 published: 2006-09-04T23:08:49+02:00
 ---
  

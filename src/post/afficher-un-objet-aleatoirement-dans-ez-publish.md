@@ -1,10 +1,10 @@
 ---
-title: Afficher un objet aléatoirement dans eZ publish
+title: "Afficher un objet aléatoirement dans eZ publish"
 tags: ez publish, truc, pense bête
 updated: 2007-02-06T08:46:10.000Z
-lang: fr
-node: 61549
-remoteId: a3a1ec26fca7ab8f083165917a87cb49
+lang: "fr"
+node: "61549"
+remoteId: "a3a1ec26fca7ab8f083165917a87cb49"
 published: 2006-09-19T00:10:14+02:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: La course de tondeuses à gazon
+title: "La course de tondeuses à gazon"
 tags: sport, amusant, photo, télévision
 updated: 2008-10-31T08:45:02.000Z
-lang: fr
-node: 66982
-remoteId: 20afdc69e0d208783e88e476ba18dd13
+lang: "fr"
+node: "66982"
+remoteId: "20afdc69e0d208783e88e476ba18dd13"
 published: 2008-08-10T15:30:21+02:00
 ---
 <figure class="object-center"><a href="/images/course-de-tondeuses-a-gazon.jpg">![Course de tondeuses à gazon](/images/660x/course-de-tondeuses-a-gazon.jpg)

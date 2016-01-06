@@ -1,10 +1,10 @@
 ---
-title: V, la série
+title: "V, la série"
 tags: série, humeurs, télévision
 updated: 2007-11-12T15:26:45.000Z
-lang: fr
-node: 66231
-remoteId: 12d91ae1150d1b41fa581ad1d83b7b4f
+lang: "fr"
+node: "66231"
+remoteId: "12d91ae1150d1b41fa581ad1d83b7b4f"
 published: 2007-09-07T20:28:36+02:00
 ---
  

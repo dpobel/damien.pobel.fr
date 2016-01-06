@@ -1,10 +1,10 @@
 ---
-title: Apwal !
+title: "Apwal !"
 tags: geek, x11, truc, openbox, ubuntu
 updated: 2007-01-30T13:07:48.000Z
-lang: fr
-node: 63826
-remoteId: 97ce2ea8527ca402492f6693dec557c4
+lang: "fr"
+node: "63826"
+remoteId: "97ce2ea8527ca402492f6693dec557c4"
 published: 2006-12-13T22:36:18+01:00
 ---
  

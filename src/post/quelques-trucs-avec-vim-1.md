@@ -1,10 +1,10 @@
 ---
-title: Quelques trucs avec ViM #1
+title: "Quelques trucs avec ViM #1"
 tags: vim, geek, ssh, truc, dedibox, ubuntu, linux, pense bête, shell
 updated: 2007-04-01T14:25:33.000Z
-lang: fr
-node: 64608
-remoteId: 237acf3518519cbf41875e997c12ef5e
+lang: "fr"
+node: "64608"
+remoteId: "237acf3518519cbf41875e997c12ef5e"
 published: 2007-02-20T00:48:22+01:00
 ---
  

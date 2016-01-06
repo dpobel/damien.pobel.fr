@@ -1,10 +1,10 @@
 ---
-title: Les "Blue Screen Of Death" olympiques
+title: "Les \"Blue Screen Of Death\" olympiques"
 tags: amusant, microsofterie, jeux olympiques, travail, informatique
 updated: 2008-10-27T13:02:44.000Z
-lang: fr
-node: 67006
-remoteId: 13cdad67fb1d26db844b19f296af2a78
+lang: "fr"
+node: "67006"
+remoteId: "13cdad67fb1d26db844b19f296af2a78"
 published: 2008-08-13T13:30:05+02:00
 ---
 <figure class="object-center"><a href="/images/blue-screen-of-death-olympique.jpg">![Blue Screen Of Death Olympique](/images//blue-screen-of-death-olympique.jpg)

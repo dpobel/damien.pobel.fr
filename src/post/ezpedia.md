@@ -1,10 +1,10 @@
 ---
-title: eZpedia !
+title: "eZpedia !"
 tags: ez publish, sécurité
 updated: 2011-07-22T20:04:48.000Z
-lang: fr
-node: 63715
-remoteId: 1d83b6942ab9ff12f9f6d2f388d5ac4e
+lang: "fr"
+node: "63715"
+remoteId: "1d83b6942ab9ff12f9f6d2f388d5ac4e"
 published: 2006-11-28T00:16:52+01:00
 ---
 

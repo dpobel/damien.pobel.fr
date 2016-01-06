@@ -1,10 +1,10 @@
 ---
-title: Quelques liens en vrac
+title: "Quelques liens en vrac"
 tags: radio, banque, performances, smile, mobile, javascript, zeta components, varnish, ez components, php, framework
 updated: 2010-12-22T07:58:42.000Z
-lang: fr
-node: 68984
-remoteId: 5d17a8b5a705219234a78a89a12e9ec8
+lang: "fr"
+node: "68984"
+remoteId: "5d17a8b5a705219234a78a89a12e9ec8"
 published: 2010-12-02T13:38:34+01:00
 ---
 

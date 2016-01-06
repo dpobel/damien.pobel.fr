@@ -1,10 +1,10 @@
 ---
-title: eZ Publish 4
+title: "eZ Publish 4"
 tags: ez publish, ez components, php
 updated: 2008-10-31T08:41:10.000Z
-lang: fr
-node: 66549
-remoteId: fd293995a7ad00b14621f4d8c97fa76d
+lang: "fr"
+node: "66549"
+remoteId: "fd293995a7ad00b14621f4d8c97fa76d"
 published: 2007-12-04T00:52:26+01:00
 ---
 

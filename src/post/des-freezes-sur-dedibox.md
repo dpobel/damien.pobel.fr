@@ -1,10 +1,10 @@
 ---
-title: Des freezes sur Dedibox ?
+title: "Des freezes sur Dedibox ?"
 tags: hébergement, mysql, dedibox
 updated: 2008-10-27T22:51:42.000Z
-lang: fr
-node: 65448
-remoteId: 8d567ecda4ebe8e7ae67a9cd6ce94c87
+lang: "fr"
+node: "65448"
+remoteId: "8d567ecda4ebe8e7ae67a9cd6ce94c87"
 published: 2007-05-12T17:37:18+02:00
 ---
 

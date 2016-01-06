@@ -1,10 +1,10 @@
 ---
-title: Le lac de Porté-Puymorens, El Tarter, le Pas de la Case
+title: "Le lac de Porté-Puymorens, El Tarter, le Pas de la Case"
 tags: vacances, humeurs, photo, nikon d50
 updated: 2007-08-20T08:26:16.000Z
-lang: fr
-node: 65174
-remoteId: 4a387f8e820f17c4702682866f0849fd
+lang: "fr"
+node: "65174"
+remoteId: "4a387f8e820f17c4702682866f0849fd"
 published: 2007-04-27T00:11:25+02:00
 ---
  

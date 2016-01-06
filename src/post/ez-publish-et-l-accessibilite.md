@@ -1,10 +1,10 @@
 ---
-title: eZ Publish et l'accessibilité
+title: "eZ Publish et l'accessibilité"
 tags: accessibilité, cms, ez publish, online editor, template
 updated: 2008-10-24T07:26:52.000Z
-lang: fr
-node: 67020
-remoteId: f66cf1cd27808519e03cf761c913bd80
+lang: "fr"
+node: "67020"
+remoteId: "f66cf1cd27808519e03cf761c913bd80"
 published: 2008-08-17T16:06:10+02:00
 ---
 

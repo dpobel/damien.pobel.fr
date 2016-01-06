@@ -1,10 +1,10 @@
 ---
-title: I believe I can fly ...
+title: "I believe I can fly ..."
 tags: photo, nikon d50, blog
 updated: 2007-07-14T12:20:50.000Z
-lang: fr
-node: 65790
-remoteId: b191da4469e99b5cc2d79efa3e108a14
+lang: "fr"
+node: "65790"
+remoteId: "b191da4469e99b5cc2d79efa3e108a14"
 published: 2007-06-26T23:28:53+02:00
 ---
  

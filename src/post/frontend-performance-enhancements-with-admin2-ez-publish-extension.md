@@ -1,9 +1,9 @@
 ---
-title: Frontend performance enhancements with admin2++  eZ Publish extension
+title: "Frontend performance enhancements with admin2++  eZ Publish extension"
 tags: ez publish, javascript, performances, html, jquery, jqueryui
 updated: 2010-07-01T14:28:02.000Z
-node: 68149
-remoteId: a019a5023a3dd93426de2ec128037d5b
+node: "68149"
+remoteId: "a019a5023a3dd93426de2ec128037d5b"
 published: 2010-03-23T14:29:41+01:00
 ---
 

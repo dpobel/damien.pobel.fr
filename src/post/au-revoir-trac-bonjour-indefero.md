@@ -1,10 +1,10 @@
 ---
-title: Au revoir Trac, bonjour InDefero
+title: "Au revoir Trac, bonjour InDefero"
 tags: svn, php, framework, interface, ergonomie
 updated: 2009-03-08T21:50:28.000Z
-lang: fr
-node: 67654
-remoteId: 508b5903e324352e954334b226ca1285
+lang: "fr"
+node: "67654"
+remoteId: "508b5903e324352e954334b226ca1285"
 published: 2009-03-08T22:46:30+01:00
 ---
 

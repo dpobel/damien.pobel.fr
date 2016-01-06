@@ -1,10 +1,10 @@
 ---
-title: Vers un plugin eZVim ?
+title: "Vers un plugin eZVim ?"
 tags: python, ezvim, xml, ez publish, vim, travail, livre
 updated: 2007-03-28T22:03:37.000Z
-lang: fr
-node: 64993
-remoteId: b73553abc7084beb702f7e860521acf5
+lang: "fr"
+node: "64993"
+remoteId: "b73553abc7084beb702f7e860521acf5"
 published: 2007-03-28T23:54:51+02:00
 ---
  

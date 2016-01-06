@@ -1,10 +1,10 @@
 ---
-title: Photos du monastère de Brou
+title: "Photos du monastère de Brou"
 tags: retouche, cherry, photo
 updated: 2007-02-03T14:25:43.000Z
-lang: fr
-node: 61607
-remoteId: dceaa3e7db6cf002c0076c8c5b2da2b0
+lang: "fr"
+node: "61607"
+remoteId: "dceaa3e7db6cf002c0076c8c5b2da2b0"
 published: 2006-09-24T20:52:44+02:00
 ---
  

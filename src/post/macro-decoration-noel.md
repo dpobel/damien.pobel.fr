@@ -1,7 +1,7 @@
 ---
-title: Ambiance de Noël
+title: "Ambiance de Noël"
 tags: photo, nikon d90, macro, noël
-lang: fr
+lang: "fr"
 published: 2013-12-28T11:53:20+01:00
 ---
 

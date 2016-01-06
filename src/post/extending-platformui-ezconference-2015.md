@@ -1,7 +1,7 @@
 ---
-title: Extending PlatformUI eZ Conference 2015 Workshop
+title: "Extending PlatformUI eZ Conference 2015 Workshop"
 tags: ez platform, rest, yui, symfony, php, javascript
-lang: en
+lang: "en"
 published: 2015-11-04T21:19:40+01:00
 ---
 

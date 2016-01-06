@@ -1,10 +1,10 @@
 ---
-title: Le massif de l'Aigoual
+title: "Le massif de l'Aigoual"
 tags: photo, nature, vtt, philovelo
 updated: 2007-10-24T11:23:42.000Z
-lang: fr
-node: 66283
-remoteId: e5227bbf41ccf26f07da5499ff7568ad
+lang: "fr"
+node: "66283"
+remoteId: "e5227bbf41ccf26f07da5499ff7568ad"
 published: 2007-09-20T20:58:02+02:00
 ---
  

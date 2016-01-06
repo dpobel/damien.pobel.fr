@@ -1,7 +1,7 @@
 ---
-title: Theme Gtk2, Gtk3 et Qt4 unifié
+title: "Theme Gtk2, Gtk3 et Qt4 unifié"
 tags: ubuntu, gtk, gnome, openbox, linux
-lang: fr
+lang: "fr"
 published: 2013-04-07T18:43:30+02:00
 ---
 

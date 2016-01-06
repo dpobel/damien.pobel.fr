@@ -1,10 +1,10 @@
 ---
-title: Rions avec l'Oeil Du Thon
+title: "Rions avec l'Oeil Du Thon"
 tags: amusant, vidéo
 updated: 2007-08-02T07:37:41.000Z
-lang: fr
-node: 65133
-remoteId: fa02857fd8290a8e12ae4922c3374595
+lang: "fr"
+node: "65133"
+remoteId: "fa02857fd8290a8e12ae4922c3374595"
 published: 2007-04-17T21:58:52+02:00
 ---
  

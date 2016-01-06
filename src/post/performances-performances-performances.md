@@ -1,10 +1,10 @@
 ---
-title: Performances, performances, performances !
+title: "Performances, performances, performances !"
 tags: postgresql, ez publish, performances, mysql, php, google, windows
 updated: 2010-07-20T08:05:52.000Z
-lang: fr
-node: 67857
-remoteId: e4731e7a53d5387d8eb24b56a1424ec2
+lang: "fr"
+node: "67857"
+remoteId: "e4731e7a53d5387d8eb24b56a1424ec2"
 published: 2009-07-04T15:22:44+02:00
 ---
 

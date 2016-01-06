@@ -1,10 +1,10 @@
 ---
-title: VTT Trial on steroid
+title: "VTT Trial on steroid"
 tags: sport, vidéo, vtt, philovelo
 updated: 2007-11-12T14:31:16.000Z
-lang: fr
-node: 66349
-remoteId: ad3c72d8bacf8300f9b22defac43dd2a
+lang: "fr"
+node: "66349"
+remoteId: "ad3c72d8bacf8300f9b22defac43dd2a"
 published: 2007-10-06T23:51:21+02:00
 ---
  

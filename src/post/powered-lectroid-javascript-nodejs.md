@@ -1,5 +1,5 @@
 ---
-title: Powered by Lectroid, JavaScript and Node.js
+title: "Powered by Lectroid, JavaScript and Node.js"
 tags: javascript, blog, lectroid, node.js
 published: 2013-03-06T21:40:40+01:00
 ---

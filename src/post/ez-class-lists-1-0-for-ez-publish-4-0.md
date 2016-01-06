@@ -1,9 +1,9 @@
 ---
-title: eZ Class Lists 1.0 for eZ Publish 4.0
+title: "eZ Class Lists 1.0 for eZ Publish 4.0"
 tags: ez class lists, ez publish, php
 updated: 2009-01-19T21:26:54.000Z
-node: 67321
-remoteId: 46100695b46115117cfc148d002db5e4
+node: "67321"
+remoteId: "46100695b46115117cfc148d002db5e4"
 published: 2008-11-10T20:58:55+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Sortie de Auto status 0.1
+title: "Sortie de Auto status 0.1"
 tags: twitter, ez publish, extension, php, zend framework
 updated: 2009-10-31T16:57:10.000Z
-lang: fr
-node: 68020
-remoteId: ed4e7501514071653e26f44b7bb8eb83
+lang: "fr"
+node: "68020"
+remoteId: "ed4e7501514071653e26f44b7bb8eb83"
 published: 2009-10-31T17:55:25+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: 15 photos non retouchées, mais vous ne le croirez pas
+title: "15 photos non retouchées, mais vous ne le croirez pas"
 tags: photo, amusant, web
 updated: 2008-10-31T08:41:38.000Z
-lang: fr
-node: 67057
-remoteId: d3e3732999b7e5e5ffc42116764ba746
+lang: "fr"
+node: "67057"
+remoteId: "d3e3732999b7e5e5ffc42116764ba746"
 published: 2008-08-21T21:19:22+02:00
 ---
 <figure class="object-center"><a href="/images/la-tete-geante-d-eddie-murphy.jpg">![La tête géante d'Eddie Murphy](/images/660x/la-tete-geante-d-eddie-murphy.jpg)

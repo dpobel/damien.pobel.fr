@@ -1,9 +1,9 @@
 ---
-title: Benchmark between eZ Publish 4 and eZ Publish 3.10 with or without a PHP opcode cache
+title: "Benchmark between eZ Publish 4 and eZ Publish 3.10 with or without a PHP opcode cache"
 tags: ez publish, apache, mysql, linux, php, debian, shell, performances
 updated: 2010-07-16T08:04:42.000Z
-node: 66538
-remoteId: 34473393e5dd4aa89a9ba7206cc4aad6
+node: "66538"
+remoteId: "34473393e5dd4aa89a9ba7206cc4aad6"
 published: 2007-12-02T19:36:00+01:00
 ---
 

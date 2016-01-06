@@ -1,10 +1,10 @@
 ---
-title: Un peu de philosophie...
+title: "Un peu de philosophie..."
 tags: humeurs, photo
 updated: 2007-07-29T11:42:33.000Z
-lang: fr
-node: 65130
-remoteId: ab85d1ca2ef651f790047148b576895e
+lang: "fr"
+node: "65130"
+remoteId: "ab85d1ca2ef651f790047148b576895e"
 published: 2007-04-17T20:52:46+02:00
 ---
  

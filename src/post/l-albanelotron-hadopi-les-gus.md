@@ -1,10 +1,10 @@
 ---
-title: L'albanelotron, HADOPI, les gus ...
+title: "L'albanelotron, HADOPI, les gus ..."
 tags: amusant, citation, web, politique
 updated: 2009-04-06T21:04:19.000Z
-lang: fr
-node: 67742
-remoteId: 5da701f1650c2f9f073dde69efd9bb99
+lang: "fr"
+node: "67742"
+remoteId: "5da701f1650c2f9f073dde69efd9bb99"
 published: 2009-04-06T18:43:31+02:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Tout le monde aime le CTRL-Z
+title: "Tout le monde aime le CTRL-Z"
 tags: amusant, vidéo, informatique
 updated: 2010-07-20T08:05:41.000Z
-lang: fr
-node: 67454
-remoteId: fe96d7aa3ccabc1528c6981c85713382
+lang: "fr"
+node: "67454"
+remoteId: "fe96d7aa3ccabc1528c6981c85713382"
 published: 2009-01-25T19:11:23+01:00
 ---
 

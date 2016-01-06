@@ -1,10 +1,10 @@
 ---
-title: Windows Internet Explorer 7 RC1 "standalone" bientôt sous Linux
+title: "Windows Internet Explorer 7 RC1 \"standalone\" bientôt sous Linux"
 tags: standards, css, ubuntu, linux, internet explorer, web
 updated: 2007-02-01T17:00:46.000Z
-lang: fr
-node: 61542
-remoteId: 54d2231ec3b72ace0947d74a95743693
+lang: "fr"
+node: "61542"
+remoteId: "54d2231ec3b72ace0947d74a95743693"
 published: 2006-09-18T22:07:53+02:00
 ---
  

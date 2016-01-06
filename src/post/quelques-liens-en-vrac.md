@@ -1,10 +1,10 @@
 ---
-title: Quelques liens en vrac
+title: "Quelques liens en vrac"
 tags: html5, cache, javascript, performances, livre, navigateur, internet explorer, jquery
 updated: 2010-11-25T13:29:22.000Z
-lang: fr
-node: 68976
-remoteId: f02dfc61c992d1f11853a6f19fcf74c7
+lang: "fr"
+node: "68976"
+remoteId: "f02dfc61c992d1f11853a6f19fcf74c7"
 published: 2010-11-25T14:07:52+01:00
 ---
 

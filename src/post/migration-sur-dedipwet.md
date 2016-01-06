@@ -1,10 +1,10 @@
 ---
-title: Migration sur Dedipwet :)
+title: "Migration sur Dedipwet :)"
 tags: hébergement, mysql, dedibox, blog
 updated: 2007-03-30T21:25:23.000Z
-lang: fr
-node: 64074
-remoteId: 97e3ee714ee8b7d5d3290b3610464fb7
+lang: "fr"
+node: "64074"
+remoteId: "97e3ee714ee8b7d5d3290b3610464fb7"
 published: 2007-01-21T01:24:16+01:00
 ---
  

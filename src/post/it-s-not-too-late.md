@@ -1,10 +1,10 @@
 ---
-title: It's not too late
+title: "It's not too late"
 tags: vidéo, humeurs, climat, réchauffement, environnement
 updated: 2007-03-06T17:12:12.000Z
-lang: fr
-node: 64211
-remoteId: ace29991d8ac83d653b5a849371fe19c
+lang: "fr"
+node: "64211"
+remoteId: "ace29991d8ac83d653b5a849371fe19c"
 published: 2007-02-03T01:18:26+01:00
 ---
  

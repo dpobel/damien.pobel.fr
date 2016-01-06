@@ -1,10 +1,10 @@
 ---
-title: Mise à jour vers eZ Publish 4.2 et eZVideoFLV 0.3
+title: "Mise à jour vers eZ Publish 4.2 et eZVideoFLV 0.3"
 tags: ez publish, blog, ezvideoflv, php, vidéo
 updated: 2010-10-07T22:27:00.000Z
-lang: fr
-node: 67996
-remoteId: c30c805ed25091ff55703c8fb38d13bc
+lang: "fr"
+node: "67996"
+remoteId: "c30c805ed25091ff55703c8fb38d13bc"
 published: 2009-10-04T22:33:55+02:00
 ---
 

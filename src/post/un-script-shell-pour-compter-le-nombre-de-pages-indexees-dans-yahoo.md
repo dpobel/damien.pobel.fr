@@ -1,10 +1,10 @@
 ---
-title: Un script shell pour compter le nombre de pages indexées dans Yahoo
+title: "Un script shell pour compter le nombre de pages indexées dans Yahoo"
 tags: yahoo, geek, xml, xslt, google, blog, référencement, shell
 updated: 2007-02-01T23:31:09.000Z
-lang: fr
-node: 61128
-remoteId: 770b444515f9dc45cf1f5974506172d2
+lang: "fr"
+node: "61128"
+remoteId: "770b444515f9dc45cf1f5974506172d2"
 published: 2006-09-05T22:22:03+02:00
 ---
  

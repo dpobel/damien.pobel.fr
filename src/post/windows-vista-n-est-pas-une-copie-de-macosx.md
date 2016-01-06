@@ -1,10 +1,10 @@
 ---
-title: Windows Vista n'est pas une copie de MacOSX
+title: "Windows Vista n'est pas une copie de MacOSX"
 tags: macosx, gnome, amusant, vidéo, windows, interface
 updated: 2007-12-01T12:50:44.000Z
-lang: fr
-node: 64326
-remoteId: 7ee9d16e5c6bd32631e029cbdc82ae8e
+lang: "fr"
+node: "64326"
+remoteId: "7ee9d16e5c6bd32631e029cbdc82ae8e"
 published: 2007-02-10T18:12:30+01:00
 ---
  

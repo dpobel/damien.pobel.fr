@@ -1,10 +1,10 @@
 ---
-title: La recherche universelle de Google même dans le code
+title: "La recherche universelle de Google même dans le code"
 tags: yahoo, google, php, référencement
 updated: 2008-10-31T08:40:55.000Z
-lang: fr
-node: 66906
-remoteId: efaf98d232917edfd3594364a18d1d4b
+lang: "fr"
+node: "66906"
+remoteId: "efaf98d232917edfd3594364a18d1d4b"
 published: 2008-07-01T22:23:40+02:00
 ---
 

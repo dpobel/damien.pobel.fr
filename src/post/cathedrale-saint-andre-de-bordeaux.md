@@ -1,10 +1,10 @@
 ---
-title: Cathédrale Saint-André de Bordeaux
+title: "Cathédrale Saint-André de Bordeaux"
 tags: bordeaux, photo, nikon d90
 updated: 2011-03-07T08:39:40.000Z
-lang: fr
-node: 69051
-remoteId: 3dd9d05ebed45dec4cf913b0e7e1bf19
+lang: "fr"
+node: "69051"
+remoteId: "3dd9d05ebed45dec4cf913b0e7e1bf19"
 published: 2011-03-06T21:16:19+01:00
 ---
 <figure class="object-center"><a href="/images/grands-orgues-de-la-cathedrale-de-bordeaux.jpg">![Grands orgues de la cathédrale de Bordeaux](/images/660x/grands-orgues-de-la-cathedrale-de-bordeaux.jpg)

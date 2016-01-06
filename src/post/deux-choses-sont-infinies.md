@@ -1,10 +1,10 @@
 ---
-title: Deux choses sont infinies...
+title: "Deux choses sont infinies..."
 tags: humeurs, stupides, web
 updated: 2008-10-23T07:29:58.000Z
-lang: fr
-node: 66705
-remoteId: 57f648957c730a8228d51d42f04d0602
+lang: "fr"
+node: "66705"
+remoteId: "57f648957c730a8228d51d42f04d0602"
 published: 2008-03-18T21:12:34+01:00
 ---
 <blockquote>

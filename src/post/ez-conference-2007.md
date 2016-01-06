@@ -1,10 +1,10 @@
 ---
-title: eZ Conference 2007
+title: "eZ Conference 2007"
 tags: photo, ez publish, ez components, travail, nikon d50, php
 updated: 2007-07-31T07:17:52.000Z
-lang: fr
-node: 65725
-remoteId: e90200be0f0df8a7c89cfd0ae64d9ea4
+lang: "fr"
+node: "65725"
+remoteId: "e90200be0f0df8a7c89cfd0ae64d9ea4"
 published: 2007-06-12T00:40:24+02:00
 ---
  

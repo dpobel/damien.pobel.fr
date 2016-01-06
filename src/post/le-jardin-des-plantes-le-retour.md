@@ -1,10 +1,10 @@
 ---
-title: Le jardin des plantes (le retour)
+title: "Le jardin des plantes (le retour)"
 tags: photo, montpellier, nikon d50, nature, fleur
 updated: 2008-10-27T13:02:23.000Z
-lang: fr
-node: 66763
-remoteId: c37bfed9ca975fd892c996ea2ac205f7
+lang: "fr"
+node: "66763"
+remoteId: "c37bfed9ca975fd892c996ea2ac205f7"
 published: 2008-04-08T21:58:23+02:00
 ---
 

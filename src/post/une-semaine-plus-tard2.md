@@ -1,10 +1,10 @@
 ---
-title: Une semaine plus tard...
+title: "Une semaine plus tard..."
 tags: php, ez publish, travail, humeurs, cms
 updated: 2011-05-06T21:20:14.000Z
-lang: fr
-node: 69117
-remoteId: 2e66cd02aa8a671dab7e91c6dd91c7c9
+lang: "fr"
+node: "69117"
+remoteId: "2e66cd02aa8a671dab7e91c6dd91c7c9"
 published: 2011-04-18T21:13:46+02:00
 ---
 

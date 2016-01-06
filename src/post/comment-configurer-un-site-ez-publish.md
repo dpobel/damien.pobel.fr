@@ -1,10 +1,10 @@
 ---
-title: Comment configurer un site eZ Publish
+title: "Comment configurer un site eZ Publish"
 tags: ez publish, php, web
 updated: 2008-08-20T17:19:21.000Z
-lang: fr
-node: 66562
-remoteId: b3234eff8cb6d42dbc51c34d3bf35776
+lang: "fr"
+node: "66562"
+remoteId: "b3234eff8cb6d42dbc51c34d3bf35776"
 published: 2007-12-13T23:40:36+01:00
 ---
 

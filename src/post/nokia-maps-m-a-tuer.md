@@ -1,9 +1,9 @@
 ---
-title: Nokia Maps m'a tuer :-)
+title: "Nokia Maps m'a tuer :-)"
 tags: gps, nokia 5800, travail
-lang: fr
-node: 67659
-remoteId: 3c811360568d3affe520158c9ac39181
+lang: "fr"
+node: "67659"
+remoteId: "3c811360568d3affe520158c9ac39181"
 published: 2009-03-10T14:25:33+01:00
 ---
 

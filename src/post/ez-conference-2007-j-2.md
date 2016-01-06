@@ -1,10 +1,10 @@
 ---
-title: eZ Conference 2007 J-2
+title: "eZ Conference 2007 J-2"
 tags: ez publish, ez components, travail, php
 updated: 2007-07-12T13:30:13.000Z
-lang: fr
-node: 65626
-remoteId: 8518c2d236a9f50ffce01c707196eb41
+lang: "fr"
+node: "65626"
+remoteId: "8518c2d236a9f50ffce01c707196eb41"
 published: 2007-06-05T22:06:40+02:00
 ---
  

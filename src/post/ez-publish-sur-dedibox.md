@@ -1,10 +1,10 @@
 ---
-title: eZ Publish sur Dedibox
+title: "eZ Publish sur Dedibox"
 tags: ez publish, hébergement, dedibox
 updated: 2007-08-01T15:02:48.000Z
-lang: fr
-node: 65479
-remoteId: 94827446bcc4cb1b41df6d25f01f51d8
+lang: "fr"
+node: "65479"
+remoteId: "94827446bcc4cb1b41df6d25f01f51d8"
 published: 2007-05-14T22:46:58+02:00
 ---
  

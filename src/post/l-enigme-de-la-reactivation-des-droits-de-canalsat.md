@@ -1,10 +1,10 @@
 ---
-title: L'énigme de la "réactivation des droits" de CanalSat
+title: "L'énigme de la \"réactivation des droits\" de CanalSat"
 tags: humeurs, free, freebox
 updated: 2008-10-29T08:27:29.000Z
-lang: fr
-node: 66918
-remoteId: d0f1ebac6894180b024d3799e41944a8
+lang: "fr"
+node: "66918"
+remoteId: "d0f1ebac6894180b024d3799e41944a8"
 published: 2008-07-02T22:23:58+02:00
 ---
 

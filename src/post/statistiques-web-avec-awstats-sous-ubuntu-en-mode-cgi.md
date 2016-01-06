@@ -1,10 +1,10 @@
 ---
-title: Statistiques web avec AWStats sous Ubuntu en mode CGI
+title: "Statistiques web avec AWStats sous Ubuntu en mode CGI"
 tags: hébergement, apache, bash, dedibox, ubuntu, linux
 updated: 2007-02-01T13:18:21.000Z
-lang: fr
-node: 64124
-remoteId: 41b20c2a9e984b76efd4f822590910a7
+lang: "fr"
+node: "64124"
+remoteId: "41b20c2a9e984b76efd4f822590910a7"
 published: 2007-01-23T22:47:36+01:00
 ---
  

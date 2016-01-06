@@ -1,10 +1,10 @@
 ---
-title: Migration de sites chez Free.fr
+title: "Migration de sites chez Free.fr"
 tags: free, hébergement, php, référencement, shell
 updated: 2010-07-16T08:02:47.000Z
-lang: fr
-node: 61435
-remoteId: 3720492bc261f7b65145acca8387233e
+lang: "fr"
+node: "61435"
+remoteId: "3720492bc261f7b65145acca8387233e"
 published: 2006-09-10T19:57:20+02:00
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Putting a site under maintenance
+title: "Putting a site under maintenance"
 tags: ez publish, web, hébergement, apache, truc
 updated: 2009-01-19T21:27:10.000Z
-node: 66997
-remoteId: 6091401a0cdcf57e6912f41a4d9de191
+node: "66997"
+remoteId: "6091401a0cdcf57e6912f41a4d9de191"
 published: 2008-08-12T21:55:00+02:00
 ---
 

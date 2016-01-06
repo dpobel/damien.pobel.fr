@@ -1,9 +1,9 @@
 ---
-title: How to split components across domains with eZ Publish
+title: "How to split components across domains with eZ Publish"
 tags: ez publish, truc, performances, template, internet explorer, firefox
 updated: 2011-02-23T15:43:42.000Z
-node: 69024
-remoteId: f4c1198bab74a1f833c3f4c7a574e0c4
+node: "69024"
+remoteId: "f4c1198bab74a1f833c3f4c7a574e0c4"
 published: 2011-02-23T09:37:17+01:00
 ---
 

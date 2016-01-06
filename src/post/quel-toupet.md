@@ -1,10 +1,10 @@
 ---
-title: Quel toupet !
+title: "Quel toupet !"
 tags: photo, nikon d50, nature
 updated: 2007-09-11T19:59:13.000Z
-lang: fr
-node: 65611
-remoteId: 1623ec01245a1c8d41acfea9fd8204eb
+lang: "fr"
+node: "65611"
+remoteId: "1623ec01245a1c8d41acfea9fd8204eb"
 published: 2007-06-02T19:12:51+02:00
 ---
  

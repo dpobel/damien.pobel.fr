@@ -1,10 +1,10 @@
 ---
-title: Ouverture !
+title: "Ouverture !"
 tags: humeurs, ez publish, google, blog, référencement
 updated: 2007-05-17T09:48:16.000Z
-lang: fr
-node: 56961
-remoteId: b06ff3886c4439f9795f97d658953844
+lang: "fr"
+node: "56961"
+remoteId: "b06ff3886c4439f9795f97d658953844"
 published: 2006-08-28T23:23:46+02:00
 ---
  

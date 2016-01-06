@@ -1,10 +1,10 @@
 ---
-title: Mondial de l'automobile de Paris me voila
+title: "Mondial de l'automobile de Paris me voila"
 tags: humeurs, photo
 updated: 2007-02-01T13:23:29.000Z
-lang: fr
-node: 61731
-remoteId: 3b1fcc6f5f318d4932a7dd46e4896ce6
+lang: "fr"
+node: "61731"
+remoteId: "3b1fcc6f5f318d4932a7dd46e4896ce6"
 published: 2006-10-12T13:08:01+02:00
 ---
  

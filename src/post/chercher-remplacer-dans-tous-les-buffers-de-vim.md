@@ -1,10 +1,10 @@
 ---
-title: Chercher remplacer dans tous les buffers de vim
+title: "Chercher remplacer dans tous les buffers de vim"
 tags: vim, linux, ezvim, shell, pense bête
 updated: 2010-07-13T15:53:03.000Z
-lang: fr
-node: 67937
-remoteId: dbc5c3306f52b726613334b4ebaebd2f
+lang: "fr"
+node: "67937"
+remoteId: "dbc5c3306f52b726613334b4ebaebd2f"
 published: 2009-09-08T23:30:46+02:00
 ---
 

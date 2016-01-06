@@ -1,10 +1,10 @@
 ---
-title: Living Colour au Rockstore #2
+title: "Living Colour au Rockstore #2"
 tags: musique, living colour, montpellier, photo, concert, rock
 updated: 2008-10-22T15:24:31.000Z
-lang: fr
-node: 67143
-remoteId: d82637903bbd46158d290422640bb66b
+lang: "fr"
+node: "67143"
+remoteId: "d82637903bbd46158d290422640bb66b"
 published: 2008-10-01T23:14:56+02:00
 ---
 <figure class="object-center"><a href="/images/living-colour-en-concert-a-madrid-2008.jpg">![Living Colour en concert à Madrid 2008](/images/660x/living-colour-en-concert-a-madrid-2008.jpg)

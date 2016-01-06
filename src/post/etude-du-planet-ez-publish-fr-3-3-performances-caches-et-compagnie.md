@@ -1,10 +1,10 @@
 ---
-title: Étude du Planet eZ Publish.fr (3/3) : performances, caches et compagnie
+title: "Étude du Planet eZ Publish.fr (3/3) : performances, caches et compagnie"
 tags: ez publish, performances, yahoo, dedibox, http, php
 updated: 2009-01-27T20:58:34.000Z
-lang: fr
-node: 67476
-remoteId: c31f9208fde0d24818a826b83d37953e
+lang: "fr"
+node: "67476"
+remoteId: "c31f9208fde0d24818a826b83d37953e"
 published: 2009-01-27T23:09:00+01:00
 ---
 

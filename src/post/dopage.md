@@ -1,10 +1,10 @@
 ---
-title: Dopage...
+title: "Dopage..."
 tags: tour de france, cyclisme, dopage, humeurs, sport
 updated: 2008-10-31T08:42:16.000Z
-lang: fr
-node: 66070
-remoteId: 5c98f3ff35cbbf49b325457fa65bcc51
+lang: "fr"
+node: "66070"
+remoteId: "5c98f3ff35cbbf49b325457fa65bcc51"
 published: 2007-07-27T00:14:31+02:00
 ---
 

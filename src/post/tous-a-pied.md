@@ -1,10 +1,10 @@
 ---
-title: Tous à pied !
+title: "Tous à pied !"
 tags: humeurs, climat, réchauffement, environnement
 updated: 2007-07-12T13:30:26.000Z
-lang: fr
-node: 61658
-remoteId: 23abc931cdfadd6495810079e2704d1e
+lang: "fr"
+node: "61658"
+remoteId: "23abc931cdfadd6495810079e2704d1e"
 published: 2006-10-03T23:25:38+02:00
 ---
  

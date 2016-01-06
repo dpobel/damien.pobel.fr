@@ -1,9 +1,9 @@
 ---
-title: Upgrade to eZ Publish 4.0.1
+title: "Upgrade to eZ Publish 4.0.1"
 tags: ez publish, humeurs, dedibox, hébergement
 updated: 2009-01-19T21:26:58.000Z
-node: 67063
-remoteId: 053274302440a02bd6419c0a96a8b916
+node: "67063"
+remoteId: "053274302440a02bd6419c0a96a8b916"
 published: 2008-08-24T17:55:58+02:00
 ---
 <figure class="object-center"><a href="/images/nouveau-logo-ez-publish-4-0-1.png">![Nouveau logo eZ Publish 4.0.1](/images//nouveau-logo-ez-publish-4-0-1.png)

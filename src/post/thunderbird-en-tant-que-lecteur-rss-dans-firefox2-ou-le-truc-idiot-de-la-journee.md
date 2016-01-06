@@ -1,10 +1,10 @@
 ---
-title: Thunderbird en tant que lecteur RSS dans Firefox2 ou le truc idiot de la journée
+title: "Thunderbird en tant que lecteur RSS dans Firefox2 ou le truc idiot de la journée"
 tags: mozilla, rss, humeurs, stupides, informatique, cherry, linux
 updated: 2007-07-28T16:06:56.000Z
-lang: fr
-node: 64242
-remoteId: b1ebb16f8c4c2d1f0d162e1bfd50bdee
+lang: "fr"
+node: "64242"
+remoteId: "b1ebb16f8c4c2d1f0d162e1bfd50bdee"
 published: 2007-02-03T18:14:49+01:00
 ---
  

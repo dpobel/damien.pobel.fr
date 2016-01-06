@@ -1,10 +1,10 @@
 ---
-title: Optimiser son site sous Ubuntu : Configurer l'en-tête Expires
+title: "Optimiser son site sous Ubuntu : Configurer l'en-tête Expires"
 tags: ubuntu, linux, dedibox, php, apache, hébergement, performances
 updated: 2008-08-18T11:57:26.000Z
-lang: fr
-node: 66992
-remoteId: 00be671d9d2e17ab8fa99923b2bb55da
+lang: "fr"
+node: "66992"
+remoteId: "00be671d9d2e17ab8fa99923b2bb55da"
 published: 2008-08-11T23:49:41+02:00
 ---
 

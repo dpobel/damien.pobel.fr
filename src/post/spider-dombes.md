@@ -1,5 +1,5 @@
 ---
-title: Spider from the Dombes
+title: "Spider from the Dombes"
 tags: araignée, photo, nikon d90, macro, dombes, ain
 published: 2014-08-31T22:42:26+02:00
 ---

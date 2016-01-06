@@ -1,10 +1,10 @@
 ---
-title: Des log CVS comme SVN
+title: "Des log CVS comme SVN"
 tags: cvs, svn, shell, linux, travail
 updated: 2008-10-29T08:27:46.000Z
-lang: fr
-node: 67112
-remoteId: 058cf03f2dce1cd131fbedfdbcc86b16
+lang: "fr"
+node: "67112"
+remoteId: "058cf03f2dce1cd131fbedfdbcc86b16"
 published: 2008-09-12T12:10:49+02:00
 ---
 

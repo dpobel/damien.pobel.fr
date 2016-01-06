@@ -1,10 +1,10 @@
 ---
-title: AWStats et les recherches "accentuées"
+title: "AWStats et les recherches \"accentuées\""
 tags: hébergement, truc, ubuntu, linux, web
 updated: 2009-10-14T20:00:27.000Z
-lang: fr
-node: 65196
-remoteId: fee7937772240bc9df67653fe801ac79
+lang: "fr"
+node: "65196"
+remoteId: "fee7937772240bc9df67653fe801ac79"
 published: 2007-05-01T23:31:02+02:00
 ---
 

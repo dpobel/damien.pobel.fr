@@ -1,10 +1,10 @@
 ---
-title: Mise en ligne d'une capture d'écran plus vite que son ombre
+title: "Mise en ligne d'une capture d'écran plus vite que son ombre"
 tags: free, x11, openbox, bash, ubuntu, linux, debian, shell
 updated: 2007-01-30T13:06:09.000Z
-lang: fr
-node: 61611
-remoteId: 5ed1be7cf5da93cab16d234711511c41
+lang: "fr"
+node: "61611"
+remoteId: "5ed1be7cf5da93cab16d234711511c41"
 published: 2006-09-25T00:37:38+02:00
 ---
  

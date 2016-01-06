@@ -1,10 +1,10 @@
 ---
-title: PHP4 (mod_php) et PHP5 (fastcgi) avec Apache sous Ubuntu
+title: "PHP4 (mod_php) et PHP5 (fastcgi) avec Apache sous Ubuntu"
 tags: hébergement, apache, dedibox, ubuntu, linux, php
 updated: 2007-01-30T13:15:33.000Z
-lang: fr
-node: 63988
-remoteId: 64bad30ec0d02d6e8187d6ab0b78de20
+lang: "fr"
+node: "63988"
+remoteId: "64bad30ec0d02d6e8187d6ab0b78de20"
 published: 2007-01-10T22:33:38+01:00
 ---
  

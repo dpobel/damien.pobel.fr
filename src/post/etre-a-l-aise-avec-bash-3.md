@@ -1,10 +1,10 @@
 ---
-title: Être à l'aise avec bash #3
+title: "Être à l'aise avec bash #3"
 tags: truc, apt, bash, ubuntu, debian, shell, sécurité
 updated: 2007-01-15T08:07:31.000Z
-lang: fr
-node: 62750
-remoteId: af1aa31fd76644ecfcd7b39cdde446d4
+lang: "fr"
+node: "62750"
+remoteId: "af1aa31fd76644ecfcd7b39cdde446d4"
 published: 2006-11-04T22:26:38+01:00
 ---
  

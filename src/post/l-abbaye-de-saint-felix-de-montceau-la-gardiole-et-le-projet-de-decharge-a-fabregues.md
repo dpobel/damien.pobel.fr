@@ -1,10 +1,10 @@
 ---
-title: L'abbaye de Saint-Félix-de-Montceau, la Gardiole et le projet de décharge à Fabrègues
+title: "L'abbaye de Saint-Félix-de-Montceau, la Gardiole et le projet de décharge à Fabrègues"
 tags: déchets, humeurs, photo, hérault, blog
 updated: 2007-01-30T13:14:12.000Z
-lang: fr
-node: 64050
-remoteId: 46e120834198999ba1445f42c0f47a37
+lang: "fr"
+node: "64050"
+remoteId: "46e120834198999ba1445f42c0f47a37"
 published: 2007-01-15T00:32:05+01:00
 ---
  

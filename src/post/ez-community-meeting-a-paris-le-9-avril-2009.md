@@ -1,10 +1,10 @@
 ---
-title: eZ Community meeting à Paris le 9 avril 2009
+title: "eZ Community meeting à Paris le 9 avril 2009"
 tags: ez publish, logiciels libres, php, cms
 updated: 2009-03-26T14:57:53.000Z
-lang: fr
-node: 67704
-remoteId: fe1fac111573566da99e7449f46d2435
+lang: "fr"
+node: "67704"
+remoteId: "fe1fac111573566da99e7449f46d2435"
 published: 2009-03-26T00:13:25+01:00
 ---
 

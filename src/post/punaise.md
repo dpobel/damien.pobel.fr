@@ -1,7 +1,7 @@
 ---
-title: Punaise!
+title: "Punaise!"
 tags: macro, photo, dombes, ain, nikon d90, insecte
-lang: fr
+lang: "fr"
 published: 2015-09-16T09:26:32+02:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Migration vers eZ Publish 3.9.2
+title: "Migration vers eZ Publish 3.9.2"
 tags: ez publish, interface, travail, blog
 updated: 2007-07-13T07:50:00.000Z
-lang: fr
-node: 65471
-remoteId: 62305a81b8f6e95c42413af0c3b623a9
+lang: "fr"
+node: "65471"
+remoteId: "62305a81b8f6e95c42413af0c3b623a9"
 published: 2007-05-14T00:52:57+02:00
 ---
  

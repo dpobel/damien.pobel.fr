@@ -1,10 +1,10 @@
 ---
-title: À lire à droite, à gauche
+title: "À lire à droite, à gauche"
 tags: informatique, free, réseau, procès, logiciels libres, google, php, internet explorer, référencement, sécurité
 updated: 2007-02-01T13:30:50.000Z
-lang: fr
-node: 63976
-remoteId: ad7b9eef0a6360cb63377ecd79098c7b
+lang: "fr"
+node: "63976"
+remoteId: "ad7b9eef0a6360cb63377ecd79098c7b"
 published: 2007-01-09T20:08:14+01:00
 ---
  * [Où sont passés les tuyaux ?](http://fredericdevillamil.com/articles/2007/01/07/ou-sont-passÃƒÂ©s-les-tuyaux) sur le blog de Frederic de Villamil, un billet un peu long mais très intéressant sur les problèmes des FAI face à l'augmentation exponentielle du traffic réseau, vraiment très intéressant !

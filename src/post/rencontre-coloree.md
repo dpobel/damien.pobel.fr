@@ -1,10 +1,10 @@
 ---
-title: Rencontre colorée
+title: "Rencontre colorée"
 tags: insecte, fleur, photo, nikon d50, nature
 updated: 2008-10-29T08:26:27.000Z
-lang: fr
-node: 67015
-remoteId: 8db1ee0c2067868d3b9c9468c5e4e318
+lang: "fr"
+node: "67015"
+remoteId: "8db1ee0c2067868d3b9c9468c5e4e318"
 published: 2008-08-16T23:42:00+02:00
 ---
 <figure class="object-center"><a href="/images/insecte-rouge-et-noir-et-fleur-violette.jpg">![Insecte rouge et noir et fleur violette](/images/660x/insecte-rouge-et-noir-et-fleur-violette.jpg)

@@ -1,9 +1,9 @@
 ---
-title: GUI enhancements with admin2++ eZ Publish extension
+title: "GUI enhancements with admin2++ eZ Publish extension"
 tags: ez publish, interface, extension, jquery, jqueryui, vidéo
 updated: 2010-07-01T14:45:18.000Z
-node: 68156
-remoteId: 13c17827eb870c4bc0d40b3cdbd73c21
+node: "68156"
+remoteId: "13c17827eb870c4bc0d40b3cdbd73c21"
 published: 2010-03-28T23:10:01+02:00
 ---
 

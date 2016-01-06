@@ -1,10 +1,10 @@
 ---
-title: eZ Publish dans PHP Solutions de mai 2011
+title: "eZ Publish dans PHP Solutions de mai 2011"
 tags: ez publish, cms, php
 updated: 2011-05-06T22:09:58.000Z
-lang: fr
-node: 69142
-remoteId: b6f27244e83ae60a85c92e2a9dbc8fad
+lang: "fr"
+node: "69142"
+remoteId: "b6f27244e83ae60a85c92e2a9dbc8fad"
 published: 2011-05-03T14:57:07+02:00
 ---
 

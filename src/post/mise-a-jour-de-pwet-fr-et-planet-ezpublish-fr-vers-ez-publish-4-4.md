@@ -1,9 +1,9 @@
 ---
-title: Mise à jour de pwet.fr et planet-ezpublish.fr vers eZ Publish 4.4
+title: "Mise à jour de pwet.fr et planet-ezpublish.fr vers eZ Publish 4.4"
 tags: ez publish, blog, apache, svn
-lang: fr
-node: 68744
-remoteId: ed5399cdded8fffc676b40774f88b763
+lang: "fr"
+node: "68744"
+remoteId: "ed5399cdded8fffc676b40774f88b763"
 published: 2010-10-12T00:22:28+02:00
 ---
 

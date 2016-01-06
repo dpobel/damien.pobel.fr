@@ -1,10 +1,10 @@
 ---
-title: eZ Publish 4 Alpha 1 et beaucoup d'autres choses
+title: "eZ Publish 4 Alpha 1 et beaucoup d'autres choses"
 tags: ez publish, mysql, ez components, linux, php, sécurité
 updated: 2008-10-24T07:25:20.000Z
-lang: fr
-node: 66338
-remoteId: eee60f9314a8675eec2b0e51ad39d752
+lang: "fr"
+node: "66338"
+remoteId: "eee60f9314a8675eec2b0e51ad39d752"
 published: 2007-10-06T00:42:52+02:00
 ---
 

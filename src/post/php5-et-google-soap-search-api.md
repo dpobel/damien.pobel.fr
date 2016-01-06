@@ -1,10 +1,10 @@
 ---
-title: PHP5 et Google SOAP Search API
+title: "PHP5 et Google SOAP Search API"
 tags: xml, amusant, google, php
 updated: 2007-05-17T09:46:27.000Z
-lang: fr
-node: 63024
-remoteId: 2a2911915a6591978b28a019c0fa0f9d
+lang: "fr"
+node: "63024"
+remoteId: "2a2911915a6591978b28a019c0fa0f9d"
 published: 2006-11-08T00:54:18+01:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: Quelques trucs avec ViM #2
+title: "Quelques trucs avec ViM #2"
 tags: truc, vim, ubuntu, linux
 updated: 2007-07-12T13:29:41.000Z
-lang: fr
-node: 65114
-remoteId: 13c1ec3de533c98a31fc0bf1a803a979
+lang: "fr"
+node: "65114"
+remoteId: "13c1ec3de533c98a31fc0bf1a803a979"
 published: 2007-04-15T21:39:34+02:00
 ---
  

@@ -1,9 +1,9 @@
 ---
-title: Apache Rewrite rules to replace wildcard based url translation in eZ Publish 3.10.0
+title: "Apache Rewrite rules to replace wildcard based url translation in eZ Publish 3.10.0"
 tags: ez publish, apache, blog, php
 updated: 2010-07-13T15:53:34.000Z
-node: 66474
-remoteId: a58484c380ac4b4ef1d3d8ba7bf49543
+node: "66474"
+remoteId: "a58484c380ac4b4ef1d3d8ba7bf49543"
 published: 2007-11-15T22:14:41+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: PEBKAC : Le problème se situe entre la chaise et le clavier...
+title: "PEBKAC : Le problème se situe entre la chaise et le clavier..."
 tags: geek, amusant
 updated: 2007-07-13T12:34:44.000Z
-lang: fr
-node: 65062
-remoteId: ab273761733b8ff49219a2aee606f6b4
+lang: "fr"
+node: "65062"
+remoteId: "ab273761733b8ff49219a2aee606f6b4"
 published: 2007-04-05T19:38:55+02:00
 ---
  

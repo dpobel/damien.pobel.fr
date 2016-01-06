@@ -1,9 +1,9 @@
 ---
-title: How to make eZ Publish use override conditions when loading a template
+title: "How to make eZ Publish use override conditions when loading a template"
 tags: ez publish, php, truc, pense bête, template
 updated: 2010-07-01T14:28:16.000Z
-node: 67919
-remoteId: 288bef9488410ea0e41b0e24b4ba8631
+node: "67919"
+remoteId: "288bef9488410ea0e41b0e24b4ba8631"
 published: 2009-08-26T20:13:34+02:00
 ---
 

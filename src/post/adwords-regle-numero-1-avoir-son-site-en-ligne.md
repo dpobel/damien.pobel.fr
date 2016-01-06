@@ -1,10 +1,10 @@
 ---
-title: Adwords, règle numéro 1 avoir son site en ligne
+title: "Adwords, règle numéro 1 avoir son site en ligne"
 tags: stupides, amusant, google, web
 updated: 2007-02-12T08:22:03.000Z
-lang: fr
-node: 63819
-remoteId: cc853441c1da1fa212bf0795a594c3e5
+lang: "fr"
+node: "63819"
+remoteId: "cc853441c1da1fa212bf0795a594c3e5"
 published: 2006-12-12T23:25:23+01:00
 ---
  

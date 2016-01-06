@@ -1,10 +1,10 @@
 ---
-title: VTT autour de Montpellier avec Philovelo
+title: "VTT autour de Montpellier avec Philovelo"
 tags: vtt, philovelo, sport, montpellier, vidéo
 updated: 2008-10-31T08:42:03.000Z
-lang: fr
-node: 66210
-remoteId: 18752838ce2a5f4adbcc5639a6bc0c02
+lang: "fr"
+node: "66210"
+remoteId: "18752838ce2a5f4adbcc5639a6bc0c02"
 published: 2007-09-02T15:35:21+02:00
 ---
 

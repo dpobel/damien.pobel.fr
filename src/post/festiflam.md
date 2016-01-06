@@ -1,10 +1,10 @@
 ---
-title: Festiflam
+title: "Festiflam"
 tags: photo, montpellier, nikon d50
 updated: 2008-10-31T08:40:46.000Z
-lang: fr
-node: 66313
-remoteId: f2613cde7d10808c52a3836d3540ef5b
+lang: "fr"
+node: "66313"
+remoteId: "f2613cde7d10808c52a3836d3540ef5b"
 published: 2007-09-28T00:00:39+02:00
 ---
 

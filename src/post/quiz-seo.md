@@ -1,10 +1,10 @@
 ---
-title: Quiz SEO
+title: "Quiz SEO"
 tags: humeurs, référencement, web
 updated: 2008-09-10T08:58:48.000Z
-lang: fr
-node: 67108
-remoteId: 1a5dc83a90b5beb7faae5f99b99e1872
+lang: "fr"
+node: "67108"
+remoteId: "1a5dc83a90b5beb7faae5f99b99e1872"
 published: 2008-09-09T13:42:16+02:00
 ---
 

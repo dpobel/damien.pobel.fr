@@ -1,10 +1,10 @@
 ---
-title: Google Chrome
+title: "Google Chrome"
 tags: navigateur, buzz, humeurs, google
 updated: 2008-09-05T15:54:23.000Z
-lang: fr
-node: 67100
-remoteId: cfb6057940e1d54a51bafe3ab8de82e7
+lang: "fr"
+node: "67100"
+remoteId: "cfb6057940e1d54a51bafe3ab8de82e7"
 published: 2008-09-05T13:39:20+02:00
 ---
 

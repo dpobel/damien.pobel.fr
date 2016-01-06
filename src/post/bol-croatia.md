@@ -1,5 +1,5 @@
 ---
-title: Bol in Croatia
+title: "Bol in Croatia"
 tags: bol, croatia, ez publish, ezsummercamp, photo, nikon d90
 published: 2013-09-04T22:49:39+02:00
 ---

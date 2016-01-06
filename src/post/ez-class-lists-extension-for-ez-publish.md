@@ -1,9 +1,9 @@
 ---
-title: eZ Class Lists extension for eZ Publish
+title: "eZ Class Lists extension for eZ Publish"
 tags: ez publish, spam, interface, php, ez class lists
 updated: 2008-11-10T19:59:53.000Z
-node: 66029
-remoteId: 9e660e8d4f20dc9b34ac63896039e43f
+node: "66029"
+remoteId: "9e660e8d4f20dc9b34ac63896039e43f"
 published: 2007-07-14T16:10:09+02:00
 ---
 

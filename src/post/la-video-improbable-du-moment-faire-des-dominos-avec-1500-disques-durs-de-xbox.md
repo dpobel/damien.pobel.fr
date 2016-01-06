@@ -1,10 +1,10 @@
 ---
-title: La vidéo improbable du moment : faire des dominos avec 1500 disques durs de XBox
+title: "La vidéo improbable du moment : faire des dominos avec 1500 disques durs de XBox"
 tags: amusant, vidéo
 updated: 2008-10-29T08:26:45.000Z
-lang: fr
-node: 66612
-remoteId: 902ce7b7eb11c30a29618b3a612dca5e
+lang: "fr"
+node: "66612"
+remoteId: "902ce7b7eb11c30a29618b3a612dca5e"
 published: 2008-01-23T19:14:14+01:00
 ---
 

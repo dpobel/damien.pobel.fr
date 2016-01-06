@@ -1,10 +1,10 @@
 ---
-title: eZ publish 3.9 wow !
+title: "eZ publish 3.9 wow !"
 tags: ez publish, openoffice
 updated: 2007-02-01T19:15:00.000Z
-lang: fr
-node: 61695
-remoteId: 3d6f64a1ca8fd630fed7879e169ce55f
+lang: "fr"
+node: "61695"
+remoteId: "3d6f64a1ca8fd630fed7879e169ce55f"
 published: 2006-10-06T23:07:21+02:00
 ---
  

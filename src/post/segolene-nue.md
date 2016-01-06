@@ -1,10 +1,10 @@
 ---
-title: Ségolène nue !
+title: "Ségolène nue !"
 tags: amusant, politique
 updated: 2007-07-14T16:57:15.000Z
-lang: fr
-node: 65136
-remoteId: 598dd30e6bcda2693e0f38cdbe3dbf9f
+lang: "fr"
+node: "65136"
+remoteId: "598dd30e6bcda2693e0f38cdbe3dbf9f"
 published: 2007-04-19T20:10:39+02:00
 ---
  

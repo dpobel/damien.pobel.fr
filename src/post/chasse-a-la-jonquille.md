@@ -1,9 +1,9 @@
 ---
-title: Chasse à la jonquille !
+title: "Chasse à la jonquille !"
 tags: photo, nikon d50, blog, fleur, cherry, nature
-lang: fr
-node: 67713
-remoteId: 8279361893a60f6fb446d0857cdb286f
+lang: "fr"
+node: "67713"
+remoteId: "8279361893a60f6fb446d0857cdb286f"
 published: 2009-03-29T23:03:11+02:00
 ---
 <table class="table-centre"><tr><td><figure class="object-center"><a href="/images/chasse-aux-jonquilles.jpg">![Chasse aux jonquilles](/images/330x/chasse-aux-jonquilles.jpg)

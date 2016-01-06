@@ -1,9 +1,9 @@
 ---
-title: Video FLV Datatype extension version 0.2 for eZ Publish 4 and PHP5
+title: "Video FLV Datatype extension version 0.2 for eZ Publish 4 and PHP5"
 tags: ez publish, vidéo, ezvideoflv, php
 updated: 2008-11-01T12:37:17.000Z
-node: 66605
-remoteId: 9543f11ab7a9cd899e13f08f7787a2ec
+node: "66605"
+remoteId: "9543f11ab7a9cd899e13f08f7787a2ec"
 published: 2008-01-14T16:32:15+01:00
 ---
 

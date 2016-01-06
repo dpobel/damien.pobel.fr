@@ -1,10 +1,10 @@
 ---
-title: eAccelerator avec eZ Publish
+title: "eAccelerator avec eZ Publish"
 tags: ez publish, hébergement, mysql, cms, dedibox, google, php, performances
 updated: 2009-01-12T18:02:37.000Z
-lang: fr
-node: 64645
-remoteId: 26cc3333009ac66bc2ff35c5b7824e9b
+lang: "fr"
+node: "64645"
+remoteId: "26cc3333009ac66bc2ff35c5b7824e9b"
 published: 2007-02-24T13:35:02+01:00
 ---
 

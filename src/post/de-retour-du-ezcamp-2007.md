@@ -1,10 +1,10 @@
 ---
-title: De retour du eZCamp 2007
+title: "De retour du eZCamp 2007"
 tags: ez publish, openoffice, apache, formats, ez components, cms, google, web
 updated: 2008-08-12T15:42:07.000Z
-lang: fr
-node: 64137
-remoteId: ad3cc963c719eed934897b6e574f6d6a
+lang: "fr"
+node: "64137"
+remoteId: "ad3cc963c719eed934897b6e574f6d6a"
 published: 2007-01-27T00:31:26+01:00
 ---
 

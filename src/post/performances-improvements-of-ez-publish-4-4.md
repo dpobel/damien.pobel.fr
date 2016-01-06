@@ -1,9 +1,9 @@
 ---
-title: Performances improvements of eZ Publish 4.4
+title: "Performances improvements of eZ Publish 4.4"
 tags: ez publish, google, performances, php
 updated: 2010-10-27T21:21:56.000Z
-node: 68760
-remoteId: 774c6eab2cd60721788e86ca5ce9471c
+node: "68760"
+remoteId: "774c6eab2cd60721788e86ca5ce9471c"
 published: 2010-10-22T21:44:25+02:00
 ---
 

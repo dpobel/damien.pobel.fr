@@ -1,10 +1,10 @@
 ---
-title: Vrooom !
+title: "Vrooom !"
 tags: photo, nikon d50, humeurs, cherry, blog
 updated: 2008-11-13T21:19:04.000Z
-lang: fr
-node: 67325
-remoteId: ecf631411ec7f12e9a24be13e70d10e2
+lang: "fr"
+node: "67325"
+remoteId: "ecf631411ec7f12e9a24be13e70d10e2"
 published: 2008-11-11T00:32:02+01:00
 ---
 

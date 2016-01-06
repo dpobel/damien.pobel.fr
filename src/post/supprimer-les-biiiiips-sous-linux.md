@@ -1,10 +1,10 @@
 ---
-title: Supprimer les biiiiips sous Linux
+title: "Supprimer les biiiiips sous Linux"
 tags: openbox, shell, bash, linux, kde, x11, gnome
 updated: 2008-08-09T17:36:16.000Z
-lang: fr
-node: 66977
-remoteId: ac453e7e056d588ae83e205816d0c2aa
+lang: "fr"
+node: "66977"
+remoteId: "ac453e7e056d588ae83e205816d0c2aa"
 published: 2008-08-08T23:58:35+02:00
 ---
 

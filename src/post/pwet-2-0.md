@@ -1,10 +1,10 @@
 ---
-title: pwet 2.0
+title: "pwet 2.0"
 tags: template, design, ez publish, ez components, xhtml, css, internet explorer
 updated: 2008-10-29T08:27:56.000Z
-lang: fr
-node: 66964
-remoteId: cfa13c7eebd45223030e8472393f1eab
+lang: "fr"
+node: "66964"
+remoteId: "cfa13c7eebd45223030e8472393f1eab"
 published: 2008-08-05T22:48:30+02:00
 ---
 

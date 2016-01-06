@@ -1,9 +1,9 @@
 ---
-title: La fin d'Internet Explorer 6 ?
+title: "La fin d'Internet Explorer 6 ?"
 tags: microsofterie, web, internet explorer, humeurs
-lang: fr
-node: 67650
-remoteId: 7114468f9376b7a4def78988ef7a5a70
+lang: "fr"
+node: "67650"
+remoteId: "7114468f9376b7a4def78988ef7a5a70"
 published: 2009-03-07T13:59:18+01:00
 ---
 <figure class="object-center"><a href="/images/stop-internet-explorer-6.png">![Stop Internet Explorer 6](/images//stop-internet-explorer-6.png)

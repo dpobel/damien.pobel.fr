@@ -1,10 +1,10 @@
 ---
-title: Un script pour (dés)activer les template path hints dans Magento
+title: "Un script pour (dés)activer les template path hints dans Magento"
 tags: php, magento, template, shell
 updated: 2010-07-13T15:52:50.000Z
-lang: fr
-node: 67973
-remoteId: 240a8f10a42e1a6c6c20606bc91068d7
+lang: "fr"
+node: "67973"
+remoteId: "240a8f10a42e1a6c6c20606bc91068d7"
 published: 2009-10-02T00:11:00+02:00
 ---
 

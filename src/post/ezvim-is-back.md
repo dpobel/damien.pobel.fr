@@ -1,9 +1,9 @@
 ---
-title: eZVim is back !
+title: "eZVim is back !"
 tags: ez publish, ezvim, vim
 updated: 2009-01-24T23:29:18.000Z
-node: 67424
-remoteId: 3b0101e718087a908e55f0b1d314d401
+node: "67424"
+remoteId: "3b0101e718087a908e55f0b1d314d401"
 published: 2009-01-17T00:10:58+01:00
 ---
 

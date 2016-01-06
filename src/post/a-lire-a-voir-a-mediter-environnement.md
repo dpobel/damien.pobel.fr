@@ -1,10 +1,10 @@
 ---
-title: À lire, à voir, à méditer "Environnement"
+title: "À lire, à voir, à méditer \"Environnement\""
 tags: climat, réchauffement, alimentation, procès, cinéma, environnement
 updated: 2010-07-20T08:06:50.000Z
-lang: fr
-node: 61625
-remoteId: f0516bbd330b9518acb126f96523e079
+lang: "fr"
+node: "61625"
+remoteId: "f0516bbd330b9518acb126f96523e079"
 published: 2006-09-25T23:48:31+02:00
 ---
 

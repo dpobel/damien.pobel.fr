@@ -1,9 +1,9 @@
 ---
-title: VTT Trial on steroid #2
+title: "VTT Trial on steroid #2"
 tags: vtt, vidéo, sport
-lang: fr
-node: 68975
-remoteId: 94530b581b6ca02b7c5d05dcd89140eb
+lang: "fr"
+node: "68975"
+remoteId: "94530b581b6ca02b7c5d05dcd89140eb"
 published: 2010-11-20T21:56:47+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Les titres de OuiFM en OSD
+title: "Les titres de OuiFM en OSD"
 tags: musique, openbox, bash, ubuntu, linux, php, debian, shell, ouïfm
 updated: 2009-01-12T17:28:30.000Z
-lang: fr
-node: 65454
-remoteId: 80a245475f8533256bbc56b01fc4d08d
+lang: "fr"
+node: "65454"
+remoteId: "80a245475f8533256bbc56b01fc4d08d"
 published: 2007-05-13T16:56:11+02:00
 ---
 

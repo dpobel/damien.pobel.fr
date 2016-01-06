@@ -1,10 +1,10 @@
 ---
-title: En attendant eZ Publish 4.0.1 (ou 4.1)
+title: "En attendant eZ Publish 4.0.1 (ou 4.1)"
 tags: ez publish, php, truc, bug, shell, patch, dedibox
 updated: 2008-10-31T08:42:31.000Z
-lang: fr
-node: 66971
-remoteId: 30111511d0fa63ef86e11fb1a850b20e
+lang: "fr"
+node: "66971"
+remoteId: "30111511d0fa63ef86e11fb1a850b20e"
 published: 2008-08-06T22:46:00+02:00
 ---
 

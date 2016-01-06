@@ -1,10 +1,10 @@
 ---
-title: eZ Publish 3.9.2 et 3.8.8 et quelques réflexions sur eZ Publish juste après l'installation
+title: "eZ Publish 3.9.2 et 3.8.8 et quelques réflexions sur eZ Publish juste après l'installation"
 tags: humeurs, ez publish, mysql, interface, blog
 updated: 2007-07-13T07:49:34.000Z
-lang: fr
-node: 65213
-remoteId: 7a6e2f49559db55d3aaa685bb22a43b9
+lang: "fr"
+node: "65213"
+remoteId: "7a6e2f49559db55d3aaa685bb22a43b9"
 published: 2007-05-04T20:03:30+02:00
 ---
  

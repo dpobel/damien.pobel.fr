@@ -1,10 +1,10 @@
 ---
-title: eZ publish et son cache
+title: "eZ publish et son cache"
 tags: pense bête, ez publish, blog, performances
 updated: 2009-01-12T17:46:20.000Z
-lang: fr
-node: 56973
-remoteId: 264827f496485cfdb12d1242b19e9f32
+lang: "fr"
+node: "56973"
+remoteId: "264827f496485cfdb12d1242b19e9f32"
 published: 2006-08-29T23:09:48+02:00
 ---
 

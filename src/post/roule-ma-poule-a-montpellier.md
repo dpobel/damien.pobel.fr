@@ -1,10 +1,10 @@
 ---
-title: Roule ma poule à Montpellier
+title: "Roule ma poule à Montpellier"
 tags: restaurant, montpellier
 updated: 2007-07-19T20:59:07.000Z
-lang: fr
-node: 64593
-remoteId: 727f4d0a67e9c3b208c1d62d8770742e
+lang: "fr"
+node: "64593"
+remoteId: "727f4d0a67e9c3b208c1d62d8770742e"
 published: 2007-02-16T23:38:50+01:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: Script de sauvegarde de bases de données sur un FTP
+title: "Script de sauvegarde de bases de données sur un FTP"
 tags: hébergement, mysql, bash, dedibox, ubuntu, linux, shell, sécurité
 updated: 2007-03-06T17:11:34.000Z
-lang: fr
-node: 64259
-remoteId: 0bd8403899132bf4bd493e1405b18431
+lang: "fr"
+node: "64259"
+remoteId: "0bd8403899132bf4bd493e1405b18431"
 published: 2007-02-04T19:00:58+01:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: Système de "tags" avec eZ publish
+title: "Système de \"tags\" avec eZ publish"
 tags: ez publish, truc, blog
 updated: 2008-08-12T15:50:43.000Z
-lang: fr
-node: 61571
-remoteId: 6e2c5f82e7fa315cd36844f5375e2414
+lang: "fr"
+node: "61571"
+remoteId: "6e2c5f82e7fa315cd36844f5375e2414"
 published: 2006-09-23T23:42:19+02:00
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Firefox OS
+title: "Firefox OS"
 tags: firefox, firefox os, html5, css3, javascript
-lang: en
+lang: "en"
 published: 2013-03-02T19:55:40+01:00
 ---
 

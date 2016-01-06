@@ -1,10 +1,10 @@
 ---
-title: Trouver un fichier dans le système de paquets APT
+title: "Trouver un fichier dans le système de paquets APT"
 tags: apt, truc, ubuntu, debian, shell
 updated: 2006-11-19T23:16:00.000Z
-lang: fr
-node: 61565
-remoteId: f5cb2638f5edd8a7831dcc81b423f6c8
+lang: "fr"
+node: "61565"
+remoteId: "f5cb2638f5edd8a7831dcc81b423f6c8"
 published: 2006-09-20T22:57:04+02:00
 ---
  

@@ -1,9 +1,9 @@
 ---
-title: Creating a link to download a file with Online Editor in eZ Publish
+title: "Creating a link to download a file with Online Editor in eZ Publish"
 tags: ez publish, truc, interface, online editor
 updated: 2007-09-27T08:10:00.000Z
-node: 66099
-remoteId: f368794b04a7ca2c700e41bb25f7bb7c
+node: "66099"
+remoteId: "f368794b04a7ca2c700e41bb25f7bb7c"
 published: 2007-08-02T01:21:42+02:00
 ---
  

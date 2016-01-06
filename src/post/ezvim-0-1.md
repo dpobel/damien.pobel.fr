@@ -1,10 +1,10 @@
 ---
-title: eZVim 0.1
+title: "eZVim 0.1"
 tags: ez publish, vim, python, ezvim
 updated: 2007-07-29T20:11:11.000Z
-lang: fr
-node: 65079
-remoteId: c724b73de858aef7db17e15e800ee919
+lang: "fr"
+node: "65079"
+remoteId: "c724b73de858aef7db17e15e800ee919"
 published: 2007-04-08T22:13:14+02:00
 ---
  

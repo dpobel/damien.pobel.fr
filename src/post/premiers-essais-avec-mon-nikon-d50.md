@@ -1,10 +1,10 @@
 ---
-title: Premiers essais avec mon Nikon D50
+title: "Premiers essais avec mon Nikon D50"
 tags: photo, montpellier, nikon d50
 updated: 2007-04-24T21:56:22.000Z
-lang: fr
-node: 65108
-remoteId: c77d9009739658274a62c7c34eb76bf4
+lang: "fr"
+node: "65108"
+remoteId: "c77d9009739658274a62c7c34eb76bf4"
 published: 2007-04-15T17:20:27+02:00
 ---
   

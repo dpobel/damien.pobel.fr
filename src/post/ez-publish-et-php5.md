@@ -1,10 +1,10 @@
 ---
-title: eZ publish et PHP5
+title: "eZ publish et PHP5"
 tags: php, ez publish, debian
 updated: 2007-03-30T12:17:55.000Z
-lang: fr
-node: 61149
-remoteId: 5e2ba29ae78a2b1b89a6a76b17adbc86
+lang: "fr"
+node: "61149"
+remoteId: "5e2ba29ae78a2b1b89a6a76b17adbc86"
 published: 2006-09-08T00:24:48+02:00
 ---
  

@@ -1,9 +1,9 @@
 ---
-title: Quote from #ezpublish@freenode
+title: "Quote from #ezpublish@freenode"
 tags: ez publish, amusant
 updated: 2010-07-16T08:05:20.000Z
-node: 66509
-remoteId: 084572e6ad3619f1fc8c984205eb0a38
+node: "66509"
+remoteId: "084572e6ad3619f1fc8c984205eb0a38"
 published: 2007-11-26T00:37:20+01:00
 ---
 

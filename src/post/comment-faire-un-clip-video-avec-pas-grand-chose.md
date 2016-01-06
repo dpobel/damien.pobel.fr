@@ -1,10 +1,10 @@
 ---
-title: Comment faire un clip video avec pas grand chose
+title: "Comment faire un clip video avec pas grand chose"
 tags: musique, amusant, vidéo
 updated: 2008-11-01T12:37:40.000Z
-lang: fr
-node: 66674
-remoteId: 61e3bd5fb65a69bc735a10d9b690fcdc
+lang: "fr"
+node: "66674"
+remoteId: "61e3bd5fb65a69bc735a10d9b690fcdc"
 published: 2008-02-17T00:52:12+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Erreur technique !
+title: "Erreur technique !"
 tags: stupides, web, humeurs
 updated: 2009-01-24T23:29:40.000Z
-lang: fr
-node: 67390
-remoteId: 94959f23cbdbd1d648ecdc13b53439c9
+lang: "fr"
+node: "67390"
+remoteId: "94959f23cbdbd1d648ecdc13b53439c9"
 published: 2008-12-29T18:36:20+01:00
 ---
 

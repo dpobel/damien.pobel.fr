@@ -1,5 +1,5 @@
 ---
-title: My JavaScript style badge
+title: "My JavaScript style badge"
 tags: useless, javascript
 published: 2013-03-03T15:40:43+01:00
 ---

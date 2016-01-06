@@ -1,9 +1,9 @@
 ---
-title: Montpellier comme vous ne l'avez jamais vu
+title: "Montpellier comme vous ne l'avez jamais vu"
 tags: montpellier, photo, web
-lang: fr
-node: 67716
-remoteId: 0bce763f11f5456fe3e99c563a81dbc3
+lang: "fr"
+node: "67716"
+remoteId: "0bce763f11f5456fe3e99c563a81dbc3"
 published: 2009-03-30T22:35:48+02:00
 ---
 <figure class="object-center"><a href="/images/meteorites-sur-montpellier.jpg">![Météorites sur Montpellier](/images/660x/meteorites-sur-montpellier.jpg)

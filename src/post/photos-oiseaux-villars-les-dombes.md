@@ -1,5 +1,5 @@
 ---
-title: Lori, Amazone, Échasse blanche, Martin-Chasseur et...
+title: "Lori, Amazone, Échasse blanche, Martin-Chasseur et..."
 tags: photo, dombes, ain, nikon d90, oiseau
 published: 2013-09-01T21:48:09+02:00
 ---

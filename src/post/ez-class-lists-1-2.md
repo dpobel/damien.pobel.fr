@@ -1,9 +1,9 @@
 ---
-title: eZ Class Lists 1.2
+title: "eZ Class Lists 1.2"
 tags: extension, ez class lists, ez publish, php
-lang: fr
-node: 69193
-remoteId: c9d1cb9053602110dca0a95410d6f74b
+lang: "fr"
+node: "69193"
+remoteId: "c9d1cb9053602110dca0a95410d6f74b"
 published: 2011-06-22T22:51:23+02:00
 ---
 <a href="/images/screenshot-ez-class-list-1-2.png">![Screenshot eZ Class List 1.2](/images/660x/screenshot-ez-class-list-1-2.png)

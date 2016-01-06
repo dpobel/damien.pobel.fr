@@ -1,10 +1,10 @@
 ---
-title: AC/DC, Black Ice Tour à Bercy le 27 février 2009 !
+title: "AC/DC, Black Ice Tour à Bercy le 27 février 2009 !"
 tags: concert, acdc, musique, performances, web, rock
 updated: 2008-10-13T21:43:33.000Z
-lang: fr
-node: 67155
-remoteId: ef9faeca39a29eecf0ad07c6801b42a5
+lang: "fr"
+node: "67155"
+remoteId: "ef9faeca39a29eecf0ad07c6801b42a5"
 published: 2008-10-13T23:42:42+02:00
 ---
 <figure class="object-center"><a href="/images/ac-dc-black-ice-tour.png">![AC/DC Black Ice Tour](/images//ac-dc-black-ice-tour.png)

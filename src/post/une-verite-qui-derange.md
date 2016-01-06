@@ -1,10 +1,10 @@
 ---
-title: Une vérité qui dérange
+title: "Une vérité qui dérange"
 tags: climat, réchauffement, cinéma, environnement
 updated: 2007-02-26T09:19:14.000Z
-lang: fr
-node: 61970
-remoteId: df16592b48222d8e09f82d55b1c2a4d0
+lang: "fr"
+node: "61970"
+remoteId: "df16592b48222d8e09f82d55b1c2a4d0"
 published: 2006-10-16T00:24:58+02:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: eZ Publish developer day à Paris le 31/10/2007
+title: "eZ Publish developer day à Paris le 31/10/2007"
 tags: ez publish, iis, ez components, cms, interface, travail, php
 updated: 2008-08-21T13:42:00.000Z
-lang: fr
-node: 66433
-remoteId: 89db68f12d680fe8a25651229a886cce
+lang: "fr"
+node: "66433"
+remoteId: "89db68f12d680fe8a25651229a886cce"
 published: 2007-11-01T19:43:51+01:00
 ---
 

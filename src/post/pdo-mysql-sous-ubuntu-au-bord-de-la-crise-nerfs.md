@@ -1,10 +1,10 @@
 ---
-title: PDO_MySQL sous Ubuntu, au bord de la crise nerfs...
+title: "PDO_MySQL sous Ubuntu, au bord de la crise nerfs..."
 tags: ez components, ubuntu, linux, php
 updated: 2007-05-17T09:49:14.000Z
-lang: fr
-node: 64163
-remoteId: 5ed43df9d92ce454c9823d18e60928a7
+lang: "fr"
+node: "64163"
+remoteId: "5ed43df9d92ce454c9823d18e60928a7"
 published: 2007-01-30T00:39:27+01:00
 ---
  

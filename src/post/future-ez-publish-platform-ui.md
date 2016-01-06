@@ -1,7 +1,7 @@
 ---
-title: La future interface utilisateur d'eZ Publish Platform
+title: "La future interface utilisateur d'eZ Publish Platform"
 tags: ez publish, user interface, yui, symfony, php, javascript
-lang: fr
+lang: "fr"
 published: 2014-07-08T19:04:47+02:00
 ---
 

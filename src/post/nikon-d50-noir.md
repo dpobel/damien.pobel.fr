@@ -1,10 +1,10 @@
 ---
-title: Nikon D50 Noir
+title: "Nikon D50 Noir"
 tags: nikon d50, humeurs, photo, montpellier
 updated: 2007-05-18T06:47:31.000Z
-lang: fr
-node: 65088
-remoteId: faded0cd94cccbaa60364d164a798939
+lang: "fr"
+node: "65088"
+remoteId: "faded0cd94cccbaa60364d164a798939"
 published: 2007-04-09T19:17:10+02:00
 ---
  

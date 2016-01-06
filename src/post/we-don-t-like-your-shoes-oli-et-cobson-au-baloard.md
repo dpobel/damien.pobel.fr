@@ -1,10 +1,10 @@
 ---
-title: We don't like your shoes, Oli et CobSon au Baloard
+title: "We don't like your shoes, Oli et CobSon au Baloard"
 tags: musique, montpellier, humeurs, cherry
 updated: 2007-02-22T20:13:51.000Z
-lang: fr
-node: 63665
-remoteId: eebf872d7ccde98f6b525dec3af355b8
+lang: "fr"
+node: "63665"
+remoteId: "eebf872d7ccde98f6b525dec3af355b8"
 published: 2006-11-23T20:21:19+01:00
 ---
  

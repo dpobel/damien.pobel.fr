@@ -1,10 +1,10 @@
 ---
-title: Bye bye Smile...
+title: "Bye bye Smile..."
 tags: ez systems, humeurs, travail, smile, ez publish
 updated: 2011-03-20T11:05:14.000Z
-lang: fr
-node: 69072
-remoteId: 0c401763d790f990b7a583d1fc5902ec
+lang: "fr"
+node: "69072"
+remoteId: "0c401763d790f990b7a583d1fc5902ec"
 published: 2011-03-19T18:00:00+01:00
 ---
 

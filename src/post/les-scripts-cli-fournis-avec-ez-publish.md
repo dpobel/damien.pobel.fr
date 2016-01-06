@@ -1,10 +1,10 @@
 ---
-title: Les scripts CLI fournis avec eZ Publish
+title: "Les scripts CLI fournis avec eZ Publish"
 tags: ez publish, truc, blog, php, shell
 updated: 2007-03-30T21:23:59.000Z
-lang: fr
-node: 64654
-remoteId: 6db672149dd84077bed9557d5fa8c242
+lang: "fr"
+node: "64654"
+remoteId: "6db672149dd84077bed9557d5fa8c242"
 published: 2007-02-25T14:04:41+01:00
 ---
  

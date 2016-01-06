@@ -1,7 +1,7 @@
 ---
-title: On recrute!
+title: "On recrute!"
 tags: ez systems, ez publish, ez platform, user interface, javascript, css, frontend, lyon
-lang: fr
+lang: "fr"
 published: 2015-09-04T12:14:40+02:00
 ---
 

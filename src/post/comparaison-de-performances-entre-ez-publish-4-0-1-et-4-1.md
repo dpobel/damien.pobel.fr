@@ -1,10 +1,10 @@
 ---
-title: Comparaison de performances entre eZ Publish 4.0.1 et 4.1
+title: "Comparaison de performances entre eZ Publish 4.0.1 et 4.1"
 tags: ez publish, php, mysql, ez components, dedibox, performances
 updated: 2010-07-20T08:06:40.000Z
-lang: fr
-node: 67727
-remoteId: 3dd253bb6febb9a951ba5661a341829f
+lang: "fr"
+node: "67727"
+remoteId: "3dd253bb6febb9a951ba5661a341829f"
 published: 2009-04-01T23:54:37+02:00
 ---
 

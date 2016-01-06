@@ -1,10 +1,10 @@
 ---
-title: Faire une présentation avec l'extension Firefox Fullerscreen
+title: "Faire une présentation avec l'extension Firefox Fullerscreen"
 tags: xhtml, ez publish, mozilla, vim, css
 updated: 2007-08-20T07:26:26.000Z
-lang: fr
-node: 65817
-remoteId: c45e04d48e1e899974ee78b8f7129258
+lang: "fr"
+node: "65817"
+remoteId: "c45e04d48e1e899974ee78b8f7129258"
 published: 2007-07-01T23:12:10+02:00
 ---
  

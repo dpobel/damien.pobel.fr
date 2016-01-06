@@ -1,10 +1,10 @@
 ---
-title: Le début de la célébrité :-)
+title: "Le début de la célébrité :-)"
 tags: hérault, humeurs, photo
 updated: 2007-02-17T11:03:32.000Z
-lang: fr
-node: 63574
-remoteId: 30567c530d51f7b4f02e9be9fe99eaef
+lang: "fr"
+node: "63574"
+remoteId: "30567c530d51f7b4f02e9be9fe99eaef"
 published: 2006-11-15T23:51:11+01:00
 ---
  

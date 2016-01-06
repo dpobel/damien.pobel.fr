@@ -1,10 +1,10 @@
 ---
-title: Réduction du péage pour les véhicules "propres" : un grain de sable contre le réchauffement climatique ?
+title: "Réduction du péage pour les véhicules \"propres\" : un grain de sable contre le réchauffement climatique ?"
 tags: humeurs, consommation, climat, réchauffement, environnement
 updated: 2007-03-30T21:24:56.000Z
-lang: fr
-node: 64305
-remoteId: e82d28494231ad3208484df66f295808
+lang: "fr"
+node: "64305"
+remoteId: "e82d28494231ad3208484df66f295808"
 published: 2007-02-08T23:00:50+01:00
 ---
  

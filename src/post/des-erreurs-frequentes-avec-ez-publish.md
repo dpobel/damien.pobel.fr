@@ -1,10 +1,10 @@
 ---
-title: Des erreurs fréquentes avec eZ publish
+title: "Des erreurs fréquentes avec eZ publish"
 tags: ez publish, hébergement, truc, apache, pense bête
 updated: 2006-11-14T22:05:48.000Z
-lang: fr
-node: 61985
-remoteId: 4a057d93662b6f9a983a379dfb1bd9e8
+lang: "fr"
+node: "61985"
+remoteId: "4a057d93662b6f9a983a379dfb1bd9e8"
 published: 2006-10-16T23:58:14+02:00
 ---
  

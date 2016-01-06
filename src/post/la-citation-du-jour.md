@@ -1,10 +1,10 @@
 ---
-title: La citation du jour
+title: "La citation du jour"
 tags: cherry, fedora core, amusant, linux, logiciels libres, blog, citation
 updated: 2008-08-26T12:37:17.000Z
-lang: fr
-node: 63940
-remoteId: f4f0bf25cce5c2a2f1b3b95291263b56
+lang: "fr"
+node: "63940"
+remoteId: "f4f0bf25cce5c2a2f1b3b95291263b56"
 published: 2007-01-05T20:33:59+01:00
 ---
 

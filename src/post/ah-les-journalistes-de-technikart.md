@@ -1,10 +1,10 @@
 ---
-title: Ah les journalistes de Technikart...
+title: "Ah les journalistes de Technikart..."
 tags: web, geek, stupides, humeurs
 updated: 2009-01-24T23:26:51.000Z
-lang: fr
-node: 67450
-remoteId: 9ad0ea31d2ed203539dd4d31c5e900e4
+lang: "fr"
+node: "67450"
+remoteId: "9ad0ea31d2ed203539dd4d31c5e900e4"
 published: 2009-01-24T21:58:28+01:00
 ---
 

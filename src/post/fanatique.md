@@ -1,10 +1,10 @@
 ---
-title: Fanatique :-)
+title: "Fanatique :-)"
 tags: ubuntu, amusant, geek, linux
 updated: 2008-12-17T13:27:33.000Z
-lang: fr
-node: 67373
-remoteId: 4442b9cd194fa0f101c3fc90ba42f38e
+lang: "fr"
+node: "67373"
+remoteId: "4442b9cd194fa0f101c3fc90ba42f38e"
 published: 2008-12-17T14:21:05+01:00
 ---
 <a href="/images/coupe-de-cheveux-ubuntu.jpg">![Coupe de cheveux Ubuntu](/images/660x/coupe-de-cheveux-ubuntu.jpg)

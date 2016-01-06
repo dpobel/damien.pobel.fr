@@ -1,10 +1,10 @@
 ---
-title: Étude du Planet eZ Publish.fr (2/3) : modules/vues et templates
+title: "Étude du Planet eZ Publish.fr (2/3) : modules/vues et templates"
 tags: ez publish, php, rss, performances, template, javascript, xml, xhtml, ez components
 updated: 2009-01-28T09:55:34.000Z
-lang: fr
-node: 67475
-remoteId: f5b48b2d09057ee0298d9b12fde1f475
+lang: "fr"
+node: "67475"
+remoteId: "f5b48b2d09057ee0298d9b12fde1f475"
 published: 2009-01-27T17:59:00+01:00
 ---
 

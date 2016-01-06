@@ -1,10 +1,10 @@
 ---
-title: eZ Conference 2008
+title: "eZ Conference 2008"
 tags: ez publish, openoffice, ez components, cms, travail, online editor, ez find, linux, logiciels libres, standards, php
 updated: 2010-07-20T08:06:31.000Z
-lang: fr
-node: 66892
-remoteId: 5e8ad8667e1377486bbc8651d5558ac2
+lang: "fr"
+node: "66892"
+remoteId: "5e8ad8667e1377486bbc8651d5558ac2"
 published: 2008-06-29T18:53:13+02:00
 ---
 <figure class="object-center"><a href="/images/skien.jpg">![Skien](/images/660x/skien.jpg)

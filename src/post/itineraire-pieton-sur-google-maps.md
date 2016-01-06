@@ -1,10 +1,10 @@
 ---
-title: Itinéraire piéton sur Google Maps
+title: "Itinéraire piéton sur Google Maps"
 tags: interface, google, web
 updated: 2010-07-16T08:03:09.000Z
-lang: fr
-node: 66956
-remoteId: 7ddfcdf17bab184b92fc383fb50a6a5d
+lang: "fr"
+node: "66956"
+remoteId: "7ddfcdf17bab184b92fc383fb50a6a5d"
 published: 2008-07-30T21:25:55+02:00
 ---
 

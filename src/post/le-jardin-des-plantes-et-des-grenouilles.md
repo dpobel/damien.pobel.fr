@@ -1,10 +1,10 @@
 ---
-title: Le jardin des plantes... et des grenouilles !
+title: "Le jardin des plantes... et des grenouilles !"
 tags: photo, montpellier, nikon d50, nature
 updated: 2008-10-22T15:26:45.000Z
-lang: fr
-node: 66751
-remoteId: 23c2d3f891981d9aee6c24114d4c513a
+lang: "fr"
+node: "66751"
+remoteId: "23c2d3f891981d9aee6c24114d4c513a"
 published: 2008-04-06T18:37:07+02:00
 ---
 

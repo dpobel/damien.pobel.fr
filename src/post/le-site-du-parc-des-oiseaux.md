@@ -1,10 +1,10 @@
 ---
-title: Le site du Parc des Oiseaux
+title: "Le site du Parc des Oiseaux"
 tags: stupides, photo, accessibilité, internet explorer, web, humeurs, linux, oiseau
 updated: 2008-09-08T22:06:02.000Z
-lang: fr
-node: 61533
-remoteId: 022e6f59ea5a6b88867f68750cfa7232
+lang: "fr"
+node: "61533"
+remoteId: "022e6f59ea5a6b88867f68750cfa7232"
 published: 2006-09-17T17:21:34+02:00
 ---
 

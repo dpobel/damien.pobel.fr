@@ -1,10 +1,10 @@
 ---
-title: Lire des vidéos en ASCII avec mplayer et libcaca
+title: "Lire des vidéos en ASCII avec mplayer et libcaca"
 tags: amusant, ubuntu, shell
 updated: 2007-02-14T14:50:50.000Z
-lang: fr
-node: 61726
-remoteId: a86c581c4b06349588ea533d9f4c2310
+lang: "fr"
+node: "61726"
+remoteId: "a86c581c4b06349588ea533d9f4c2310"
 published: 2006-10-12T00:51:12+02:00
 ---
  

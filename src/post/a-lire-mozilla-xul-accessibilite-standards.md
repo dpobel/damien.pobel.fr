@@ -1,10 +1,10 @@
 ---
-title: À lire Mozilla, XUL, accessibilité, standards...
+title: "À lire Mozilla, XUL, accessibilité, standards..."
 tags: accessibilité, mail, xul, mozilla, standards
 updated: 2007-08-02T08:42:40.000Z
-lang: fr
-node: 64271
-remoteId: 2dbce17590834b0710295f5bc91cb1d3
+lang: "fr"
+node: "64271"
+remoteId: "2dbce17590834b0710295f5bc91cb1d3"
 published: 2007-02-05T21:56:13+01:00
 ---
  * Mieux que le Phénix, Netscape renaît encore de ces cendres avec [une version 9](http://blog.netscape.com/2007/01/24/netscape-9-0-teaser/) annoncée [multiplateforme](http://blog.netscape.com/2007/01/30/netscape-9-target-platforms/) (Windows, Linux, MacOS) basée sur Firefox via [MozillaZine-FR](http://www.mozillazine-fr.org/archive.phtml?article=20397)

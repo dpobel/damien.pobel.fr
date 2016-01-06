@@ -1,10 +1,10 @@
 ---
-title: Traverser la gare Saint Lazare c'est bon pour le moral !
+title: "Traverser la gare Saint Lazare c'est bon pour le moral !"
 tags: paris, humeurs, travail, montpellier
 updated: 2008-10-27T22:53:01.000Z
-lang: fr
-node: 67148
-remoteId: 9e4817e7c60b3d4bd9088d5febf74241
+lang: "fr"
+node: "67148"
+remoteId: "9e4817e7c60b3d4bd9088d5febf74241"
 published: 2008-10-06T23:41:34+02:00
 ---
 

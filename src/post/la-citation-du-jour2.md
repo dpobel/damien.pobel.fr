@@ -1,9 +1,9 @@
 ---
-title: La citation du jour
+title: "La citation du jour"
 tags: amusant, citation, musique, ouïfm
-lang: fr
-node: 67419
-remoteId: 8bfc40671b13b772620a3ec26dd3cc06
+lang: "fr"
+node: "67419"
+remoteId: "8bfc40671b13b772620a3ec26dd3cc06"
 published: 2009-01-12T18:27:58+01:00
 ---
 

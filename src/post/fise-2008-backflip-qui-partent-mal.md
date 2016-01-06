@@ -1,10 +1,10 @@
 ---
-title: FISE 2008 : backflip qui partent mal...
+title: "FISE 2008 : backflip qui partent mal..."
 tags: sport, bmx, photo, montpellier, nikon d50, fise
 updated: 2009-05-22T15:41:10.000Z
-lang: fr
-node: 66829
-remoteId: 815ea2658b479a05c29da6f8c8327c74
+lang: "fr"
+node: "66829"
+remoteId: "815ea2658b479a05c29da6f8c8327c74"
 published: 2008-05-04T14:59:47+02:00
 ---
 <figure class="object-center"><a href="/images/backflip-qui-part-mal-en-bmx-dirt.jpg">![Backflip qui part mal en BMX Dirt](/images/660x/backflip-qui-part-mal-en-bmx-dirt.jpg)

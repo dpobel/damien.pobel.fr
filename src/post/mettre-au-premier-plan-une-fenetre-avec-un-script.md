@@ -1,10 +1,10 @@
 ---
-title: Mettre au premier plan une fenêtre avec un script
+title: "Mettre au premier plan une fenêtre avec un script"
 tags: x11, openbox, bash, ubuntu, linux, debian, shell
 updated: 2007-01-29T11:48:05.000Z
-lang: fr
-node: 63781
-remoteId: 2a640f01b627729c4a34148771643cde
+lang: "fr"
+node: "63781"
+remoteId: "2a640f01b627729c4a34148771643cde"
 published: 2006-12-07T14:25:35+01:00
 ---
  

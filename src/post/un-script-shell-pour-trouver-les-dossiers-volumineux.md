@@ -1,10 +1,10 @@
 ---
-title: Un script shell pour trouver les dossiers volumineux
+title: "Un script shell pour trouver les dossiers volumineux"
 tags: geek, truc, bash, ubuntu, linux, shell
 updated: 2007-02-08T22:31:12.000Z
-lang: fr
-node: 63953
-remoteId: c6d8d294c93f263522e18e689bf1f3f8
+lang: "fr"
+node: "63953"
+remoteId: "c6d8d294c93f263522e18e689bf1f3f8"
 published: 2007-01-07T15:51:49+01:00
 ---
  

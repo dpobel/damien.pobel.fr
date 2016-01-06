@@ -1,10 +1,10 @@
 ---
-title: Mon amie la grenouille
+title: "Mon amie la grenouille"
 tags: photo, consommation, montpellier
 updated: 2008-08-06T22:05:10.000Z
-lang: fr
-node: 64901
-remoteId: d894df6db56f017726040ceb81088ece
+lang: "fr"
+node: "64901"
+remoteId: "d894df6db56f017726040ceb81088ece"
 published: 2007-03-18T19:06:19+01:00
 ---
 

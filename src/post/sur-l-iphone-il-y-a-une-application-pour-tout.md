@@ -1,10 +1,10 @@
 ---
-title: Sur l'iPhone, il y a une application pour tout...
+title: "Sur l'iPhone, il y a une application pour tout..."
 tags: dessin, amusant, humeurs, stupides
 updated: 2010-07-20T08:06:02.000Z
-lang: fr
-node: 67910
-remoteId: af5dd3ee51bd03014cdb36b61a1a8a7f
+lang: "fr"
+node: "67910"
+remoteId: "af5dd3ee51bd03014cdb36b61a1a8a7f"
 published: 2009-08-18T22:21:04+02:00
 ---
 

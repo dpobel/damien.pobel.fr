@@ -1,9 +1,9 @@
 ---
-title: eZ Find, Solr and eZ Publish
+title: "eZ Find, Solr and eZ Publish"
 tags: ez find, ez publish, travail, php
 updated: 2008-10-29T08:26:08.000Z
-node: 66640
-remoteId: 336312ebbcd3b83f21a6811fffb6e387
+node: "66640"
+remoteId: "336312ebbcd3b83f21a6811fffb6e387"
 published: 2008-02-04T13:20:53+01:00
 ---
 

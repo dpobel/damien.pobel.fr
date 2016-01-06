@@ -1,9 +1,9 @@
 ---
-title: Roadmap eZ Publish mise à jour
+title: "Roadmap eZ Publish mise à jour"
 tags: ez publish, performances, javascript, interface
-lang: fr
-node: 67836
-remoteId: 289bfb5298ce45bfb5c30ebaba2d3992
+lang: "fr"
+node: "67836"
+remoteId: "289bfb5298ce45bfb5c30ebaba2d3992"
 published: 2009-06-18T21:35:13+02:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Anti spam avec Postfix
+title: "Anti spam avec Postfix"
 tags: postfix, spam, mail, hébergement, truc, linux, debian
 updated: 2007-02-12T08:19:34.000Z
-lang: fr
-node: 62120
-remoteId: 35ee54efa9f0e0ff063b8fd66a04dd74
+lang: "fr"
+node: "62120"
+remoteId: "35ee54efa9f0e0ff063b8fd66a04dd74"
 published: 2006-10-25T23:40:52+02:00
 ---
  

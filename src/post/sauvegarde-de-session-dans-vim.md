@@ -1,9 +1,9 @@
 ---
-title: Sauvegarde de session dans vim
+title: "Sauvegarde de session dans vim"
 tags: vim, linux, truc
-lang: fr
-node: 68747
-remoteId: 26aaad759bd7dd37dc61f4b3683f5c23
+lang: "fr"
+node: "68747"
+remoteId: "26aaad759bd7dd37dc61f4b3683f5c23"
 published: 2010-10-16T23:58:53+02:00
 ---
 

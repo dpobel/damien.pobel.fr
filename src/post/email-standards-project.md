@@ -1,9 +1,9 @@
 ---
-title: Email Standards Project
+title: "Email Standards Project"
 tags: mail, microsofterie, standards, css, web
-lang: fr
-node: 66554
-remoteId: 996b4c1ba9ef00a1e86dab5e6ecd8d73
+lang: "fr"
+node: "66554"
+remoteId: "996b4c1ba9ef00a1e86dab5e6ecd8d73"
 published: 2007-12-10T19:07:28+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Petit jeu entre amis
+title: "Petit jeu entre amis"
 tags: cherry, fedora core, google, blog, référencement
 updated: 2008-10-24T07:26:29.000Z
-lang: fr
-node: 66785
-remoteId: 3aebc1d6f2fe7e68c504adea4d01c743
+lang: "fr"
+node: "66785"
+remoteId: "3aebc1d6f2fe7e68c504adea4d01c743"
 published: 2008-04-25T21:52:01+02:00
 ---
 

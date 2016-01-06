@@ -1,10 +1,10 @@
 ---
-title: X11Forwarding : lancer une application sur un serveur et l'afficher ailleurs avec SSH
+title: "X11Forwarding : lancer une application sur un serveur et l'afficher ailleurs avec SSH"
 tags: ssh, x11, réseau, sécurité, ubuntu, linux, pense bête, shell
 updated: 2007-02-03T14:26:55.000Z
-lang: fr
-node: 61447
-remoteId: 1fff5ac545a07880bb4184230df8b4ee
+lang: "fr"
+node: "61447"
+remoteId: "1fff5ac545a07880bb4184230df8b4ee"
 published: 2006-09-13T00:15:44+02:00
 ---
  

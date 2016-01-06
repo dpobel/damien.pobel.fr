@@ -1,10 +1,10 @@
 ---
-title: Un truc amusant en PHP
+title: "Un truc amusant en PHP"
 tags: geek, amusant, php
 updated: 2007-07-12T18:42:34.000Z
-lang: fr
-node: 64724
-remoteId: d95a981f3e104e027669a689feb7bc63
+lang: "fr"
+node: "64724"
+remoteId: "d95a981f3e104e027669a689feb7bc63"
 published: 2007-03-09T23:33:43+01:00
 ---
  

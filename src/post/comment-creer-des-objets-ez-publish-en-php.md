@@ -1,10 +1,10 @@
 ---
-title: Comment créer des objets eZ Publish en PHP
+title: "Comment créer des objets eZ Publish en PHP"
 tags: ez publish, php, pense bête, truc
 updated: 2010-06-13T21:10:25.000Z
-lang: fr
-node: 67911
-remoteId: f1b674d210faeab4a0d75340130a0b84
+lang: "fr"
+node: "67911"
+remoteId: "f1b674d210faeab4a0d75340130a0b84"
 published: 2009-08-19T23:03:05+02:00
 ---
 

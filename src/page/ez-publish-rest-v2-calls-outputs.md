@@ -1,6 +1,6 @@
 ---
-title: eZ Publish REST v2 calls and outputs
-noMenu: true
+title: "eZ Publish REST v2 calls and outputs"
+noMenu: "true"
 ---
 
 # eZ Publish REST v2 calls and outputs

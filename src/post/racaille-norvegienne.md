@@ -1,10 +1,10 @@
 ---
-title: Racaille norvégienne :)
+title: "Racaille norvégienne :)"
 tags: ez publish, amusant, blog
 updated: 2008-10-31T08:45:51.000Z
-lang: fr
-node: 66880
-remoteId: be0ce2e752907cd11b7de10c4de6cead
+lang: "fr"
+node: "66880"
+remoteId: "be0ce2e752907cd11b7de10c4de6cead"
 published: 2008-06-22T23:07:48+02:00
 ---
 

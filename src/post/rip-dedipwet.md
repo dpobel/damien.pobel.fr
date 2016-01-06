@@ -1,10 +1,10 @@
 ---
-title: RIP Dedipwet
+title: "RIP Dedipwet"
 tags: dedibox, hébergement, blog
 updated: 2010-06-28T15:36:50.000Z
-lang: fr
-node: 67952
-remoteId: 60eb5464c9765ba8a41a78ff59480105
+lang: "fr"
+node: "67952"
+remoteId: "60eb5464c9765ba8a41a78ff59480105"
 published: 2009-09-13T18:00:56+02:00
 ---
 

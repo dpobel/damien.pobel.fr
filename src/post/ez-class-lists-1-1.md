@@ -1,10 +1,10 @@
 ---
-title: eZ Class Lists 1.1
+title: "eZ Class Lists 1.1"
 tags: ez class lists, ez publish, php, interface
 updated: 2009-06-02T17:54:26.000Z
-lang: fr
-node: 67812
-remoteId: d03f8121c48a950483f2a9b71ecc5425
+lang: "fr"
+node: "67812"
+remoteId: "d03f8121c48a950483f2a9b71ecc5425"
 published: 2009-05-30T17:45:05+02:00
 ---
 <figure class="object-left"><a href="/images/lien-dans-le-menu-contextuel-ajoute-par-ez-class-lists-1-1.png">![Lien dans le menu contextuel ajouté par eZ Class Lists 1.1](/images/330x/lien-dans-le-menu-contextuel-ajoute-par-ez-class-lists-1-1.png)

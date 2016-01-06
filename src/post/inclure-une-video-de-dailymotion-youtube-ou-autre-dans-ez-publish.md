@@ -1,10 +1,10 @@
 ---
-title: Inclure une vidéo de DailyMotion, Youtube ou autre dans eZ publish
+title: "Inclure une vidéo de DailyMotion, Youtube ou autre dans eZ publish"
 tags: online editor, ez publish, truc, vidéo, blog, web
 updated: 2007-03-06T17:09:41.000Z
-lang: fr
-node: 64219
-remoteId: 6aa1fd03ffc92cb054a7d95bf65549ad
+lang: "fr"
+node: "64219"
+remoteId: "6aa1fd03ffc92cb054a7d95bf65549ad"
 published: 2007-02-03T02:52:15+01:00
 ---
  

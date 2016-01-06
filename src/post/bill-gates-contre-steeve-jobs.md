@@ -1,10 +1,10 @@
 ---
-title: Bill Gates contre Steeve Jobs
+title: "Bill Gates contre Steeve Jobs"
 tags: amusant, vidéo, windows, macosx
 updated: 2008-10-31T08:42:56.000Z
-lang: fr
-node: 65031
-remoteId: 893a81030512e9af7b6014c30c8fbcc1
+lang: "fr"
+node: "65031"
+remoteId: "893a81030512e9af7b6014c30c8fbcc1"
 published: 2007-04-01T17:11:10+02:00
 ---
 

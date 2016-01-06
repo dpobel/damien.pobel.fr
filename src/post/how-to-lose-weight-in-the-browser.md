@@ -1,7 +1,7 @@
 ---
-title: How to lose weight... in the browser
+title: "How to lose weight... in the browser"
 tags: performances, frontend, ux
-lang: en
+lang: "en"
 published: 2013-03-12T14:02:16+01:00
 ---
 

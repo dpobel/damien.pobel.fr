@@ -1,10 +1,10 @@
 ---
-title: La progression des distributions Linux et d'Ubuntu en particulier
+title: "La progression des distributions Linux et d'Ubuntu en particulier"
 tags: fedora core, distribution, formats, ubuntu, linux, logiciels libres
 updated: 2007-02-14T14:51:52.000Z
-lang: fr
-node: 61681
-remoteId: 707e7ff03ae95d4b76dc61f65d902070
+lang: "fr"
+node: "61681"
+remoteId: "707e7ff03ae95d4b76dc61f65d902070"
 published: 2006-10-04T23:44:49+02:00
 ---
  

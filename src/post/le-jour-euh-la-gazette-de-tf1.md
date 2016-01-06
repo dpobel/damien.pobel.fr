@@ -1,10 +1,10 @@
 ---
-title: Le Jour... euh la gazette de TF1
+title: "Le Jour... euh la gazette de TF1"
 tags: humeurs, télévision
 updated: 2007-08-01T21:10:03.000Z
-lang: fr
-node: 64906
-remoteId: c0bafd254afa70861f25e04566f87106
+lang: "fr"
+node: "64906"
+remoteId: "c0bafd254afa70861f25e04566f87106"
 published: 2007-03-19T22:21:26+01:00
 ---
  

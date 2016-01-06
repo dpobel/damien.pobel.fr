@@ -1,10 +1,10 @@
 ---
-title: Utilisation de PHP sur le Web en Août 2006
+title: "Utilisation de PHP sur le Web en Août 2006"
 tags: apache, iis, php, web
 updated: 2007-01-30T13:11:50.000Z
-lang: fr
-node: 61558
-remoteId: 08296fd78b7fbb738d7c03230ca0c6bb
+lang: "fr"
+node: "61558"
+remoteId: "08296fd78b7fbb738d7c03230ca0c6bb"
 published: 2006-09-20T00:00:23+02:00
 ---
  

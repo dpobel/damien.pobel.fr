@@ -1,10 +1,10 @@
 ---
-title: L'électronique et l'environnement
+title: "L'électronique et l'environnement"
 tags: informatique, consommation, environnement
 updated: 2007-05-17T09:47:10.000Z
-lang: fr
-node: 56969
-remoteId: bfa3983c124be7250a609b62f9e44245
+lang: "fr"
+node: "56969"
+remoteId: "bfa3983c124be7250a609b62f9e44245"
 published: 2006-08-29T20:38:21+02:00
 ---
  

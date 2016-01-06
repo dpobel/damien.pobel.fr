@@ -1,9 +1,9 @@
 ---
-title: Concours photos au bureau : Reflets
+title: "Concours photos au bureau : Reflets"
 tags: photo, nikon d90, smile, ain, dombes, travail
-lang: fr
-node: 69067
-remoteId: 0f6df7717764aac9ec9df9a822a8ed79
+lang: "fr"
+node: "69067"
+remoteId: "0f6df7717764aac9ec9df9a822a8ed79"
 published: 2011-03-15T21:05:46+01:00
 ---
 

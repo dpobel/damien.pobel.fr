@@ -1,10 +1,10 @@
 ---
-title: Sécuriser un site eZ Publish
+title: "Sécuriser un site eZ Publish"
 tags: cms, sécurité, ez publish, php, mysql, apache
 updated: 2011-10-21T08:07:14.000Z
-lang: fr
-node: 67073
-remoteId: ce7018cbbfe9bdd39960cf5761bfc59b
+lang: "fr"
+node: "67073"
+remoteId: "ce7018cbbfe9bdd39960cf5761bfc59b"
 published: 2008-08-26T23:34:57+02:00
 ---
 

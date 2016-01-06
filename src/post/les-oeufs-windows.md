@@ -1,10 +1,10 @@
 ---
-title: Les oeufs Windows !
+title: "Les oeufs Windows !"
 tags: windows, informatique, amusant, vidéo
 updated: 2007-12-01T12:51:10.000Z
-lang: fr
-node: 64295
-remoteId: e3c8a9209ac4be12f1497d338d9d445b
+lang: "fr"
+node: "64295"
+remoteId: "e3c8a9209ac4be12f1497d338d9d445b"
 published: 2007-02-07T19:45:55+01:00
 ---
  

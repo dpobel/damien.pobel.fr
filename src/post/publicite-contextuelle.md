@@ -1,10 +1,10 @@
 ---
-title: Publicité "contextuelle"
+title: "Publicité \"contextuelle\""
 tags: amusant, web
 updated: 2007-07-31T16:41:27.000Z
-lang: fr
-node: 65485
-remoteId: 52a1e239108d8efb238a6406f8efc81d
+lang: "fr"
+node: "65485"
+remoteId: "52a1e239108d8efb238a6406f8efc81d"
 published: 2007-05-16T00:50:05+02:00
 ---
  

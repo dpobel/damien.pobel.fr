@@ -1,10 +1,10 @@
 ---
-title: À lire "Web 2.0"... enfin peut être pas tant que ça
+title: "À lire \"Web 2.0\"... enfin peut être pas tant que ça"
 tags: humeurs, stupides, amusant, blog, web
 updated: 2007-01-27T14:29:45.000Z
-lang: fr
-node: 63654
-remoteId: 0b3d2579ab62166f6a494ab4ba40da1c
+lang: "fr"
+node: "63654"
+remoteId: "0b3d2579ab62166f6a494ab4ba40da1c"
 published: 2006-11-22T01:47:51+01:00
 ---
  

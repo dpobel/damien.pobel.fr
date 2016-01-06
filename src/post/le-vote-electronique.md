@@ -1,10 +1,10 @@
 ---
-title: Le vote électronique
+title: "Le vote électronique"
 tags: politique, humeurs, stupides, informatique, logiciels libres
 updated: 2007-02-01T13:27:38.000Z
-lang: fr
-node: 61704
-remoteId: a24d4d6dd1546e0f56cc572ca31d4b30
+lang: "fr"
+node: "61704"
+remoteId: "a24d4d6dd1546e0f56cc572ca31d4b30"
 published: 2006-10-09T01:29:00+02:00
 ---
  

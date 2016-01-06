@@ -1,7 +1,7 @@
 ---
-title: Demo de l'API REST v2 d'eZ Publish à la eZ Unconf #2
+title: "Demo de l'API REST v2 d'eZ Publish à la eZ Unconf #2"
 tags: ez publish, ez publish 5, rest, javascript
-lang: fr
+lang: "fr"
 published: 2013-06-13T14:50:02+02:00
 ---
 

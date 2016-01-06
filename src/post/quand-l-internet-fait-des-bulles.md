@@ -1,10 +1,10 @@
 ---
-title: Quand l'Internet fait des bulles
+title: "Quand l'Internet fait des bulles"
 tags: télévision, web, web 2.0, politique
 updated: 2008-09-14T22:13:54.000Z
-lang: fr
-node: 67118
-remoteId: 002f17327d58bc47afff1003f3b9f0fe
+lang: "fr"
+node: "67118"
+remoteId: "002f17327d58bc47afff1003f3b9f0fe"
 published: 2008-09-15T00:04:54+02:00
 ---
 

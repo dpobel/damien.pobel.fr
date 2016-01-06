@@ -1,10 +1,10 @@
 ---
-title: Une idée originale : la cave de Gandbox
+title: "Une idée originale : la cave de Gandbox"
 tags: ez publish, web
 updated: 2009-01-02T21:22:56.000Z
-lang: fr
-node: 67395
-remoteId: 1d490bbe10347871f0ab0cdef996dadd
+lang: "fr"
+node: "67395"
+remoteId: "1d490bbe10347871f0ab0cdef996dadd"
 published: 2009-01-02T22:20:00+01:00
 ---
 

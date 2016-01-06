@@ -1,10 +1,10 @@
 ---
-title: Convertir les fichiers d'un GPS en KML lisible sur Google Map et Google Earth
+title: "Convertir les fichiers d'un GPS en KML lisible sur Google Map et Google Earth"
 tags: xml, formats, montpellier, vtt, philovelo, ubuntu, linux
 updated: 2011-04-02T19:06:00.000Z
-lang: fr
-node: 66296
-remoteId: baae9eabe0a60ed905a488bdc6cb3b41
+lang: "fr"
+node: "66296"
+remoteId: "baae9eabe0a60ed905a488bdc6cb3b41"
 published: 2007-09-25T00:03:18+02:00
 ---
 

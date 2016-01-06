@@ -1,10 +1,10 @@
 ---
-title: Le bug de l'espace supplémentaire...
+title: "Le bug de l'espace supplémentaire..."
 tags: ez publish, vim, template
 updated: 2009-01-25T00:40:49.000Z
-lang: fr
-node: 67451
-remoteId: 6d7f0d09f850fcd68a5ec55363b4b533
+lang: "fr"
+node: "67451"
+remoteId: "6d7f0d09f850fcd68a5ec55363b4b533"
 published: 2009-01-25T01:37:27+01:00
 ---
 

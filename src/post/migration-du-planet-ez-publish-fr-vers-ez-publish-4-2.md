@@ -1,10 +1,10 @@
 ---
-title: Migration du Planet eZ Publish.fr vers eZ Publish 4.2
+title: "Migration du Planet eZ Publish.fr vers eZ Publish 4.2"
 tags: ez publish, php, performances
 updated: 2010-10-26T06:15:30.000Z
-lang: fr
-node: 68028
-remoteId: 0241d1aa828cef80d59e882951401a0a
+lang: "fr"
+node: "68028"
+remoteId: "0241d1aa828cef80d59e882951401a0a"
 published: 2009-11-07T17:19:14+01:00
 ---
 <figure class="object-center"><a href="http://www.planet-ezpublish.fr">![Bandeau planet eZ Publish.fr](/images//bandeau-planet-ez-publish-fr.png)

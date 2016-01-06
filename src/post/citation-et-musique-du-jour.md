@@ -1,10 +1,10 @@
 ---
-title: Citation et musique du jour
+title: "Citation et musique du jour"
 tags: musique, amusant, citation, rock
 updated: 2008-10-13T21:45:53.000Z
-lang: fr
-node: 66853
-remoteId: 9a43f778998d42540727dc4c7acd1f77
+lang: "fr"
+node: "66853"
+remoteId: "9a43f778998d42540727dc4c7acd1f77"
 published: 2008-05-19T13:55:28+02:00
 ---
 

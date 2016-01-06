@@ -1,10 +1,10 @@
 ---
-title: Leçon de tricks en VTT Slopestyle au FISE 2009
+title: "Leçon de tricks en VTT Slopestyle au FISE 2009"
 tags: fise, vtt, montpellier, sport, photo, nikon d50
 updated: 2009-05-24T22:08:24.000Z
-lang: fr
-node: 67804
-remoteId: aa164b8c41e9ccbf4235834625c89d18
+lang: "fr"
+node: "67804"
+remoteId: "aa164b8c41e9ccbf4235834625c89d18"
 published: 2009-05-24T23:53:06+02:00
 ---
 

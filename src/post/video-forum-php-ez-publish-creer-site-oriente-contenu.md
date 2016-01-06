@@ -1,7 +1,7 @@
 ---
-title: Vidéo de la conférence "eZ Publish, créer un site orienté contenu" au Forum PHP
+title: "Vidéo de la conférence \"eZ Publish, créer un site orienté contenu\" au Forum PHP"
 tags: ez publish, forum php, afup, php
-lang: fr
+lang: "fr"
 published: 2013-12-24T14:46:49+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Quelques nouveautés dans le formulaire d'édition de contenu d'eZ Publish
+title: "Quelques nouveautés dans le formulaire d'édition de contenu d'eZ Publish"
 tags: ez publish, interface, ergonomie, travail, javascript
 updated: 2012-03-30T21:00:55.000Z
-lang: fr
-node: 69774
-remoteId: 0090a3ed0d3f97b3ffea163b3c0d58b2
+lang: "fr"
+node: "69774"
+remoteId: "0090a3ed0d3f97b3ffea163b3c0d58b2"
 published: 2012-03-30T22:45:46+02:00
 ---
 

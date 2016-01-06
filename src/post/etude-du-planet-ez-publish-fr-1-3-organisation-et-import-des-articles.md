@@ -1,10 +1,10 @@
 ---
-title: Étude du Planet eZ Publish.fr (1/3) : organisation et import des articles
+title: "Étude du Planet eZ Publish.fr (1/3) : organisation et import des articles"
 tags: ez publish, php, rss, cms, ez components
 updated: 2009-01-28T09:58:46.000Z
-lang: fr
-node: 67462
-remoteId: abbb81fea764983a17e9db6fed2d7307
+lang: "fr"
+node: "67462"
+remoteId: "abbb81fea764983a17e9db6fed2d7307"
 published: 2009-01-27T13:55:00+01:00
 ---
 

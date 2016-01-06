@@ -1,6 +1,6 @@
 ---
-title: Moved projects
-hidden: true
+title: "Moved projects"
+hidden: "true"
 ---
 
 # Moved projects

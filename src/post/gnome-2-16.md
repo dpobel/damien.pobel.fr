@@ -1,10 +1,10 @@
 ---
-title: GNOME 2.16
+title: "GNOME 2.16"
 tags: gnome, ubuntu, linux
 updated: 2007-02-03T14:20:12.000Z
-lang: fr
-node: 61162
-remoteId: 8ae8f961ed5c1a1a4cad658b9649f4df
+lang: "fr"
+node: "61162"
+remoteId: "8ae8f961ed5c1a1a4cad658b9649f4df"
 published: 2006-09-09T14:16:28+02:00
 ---
  

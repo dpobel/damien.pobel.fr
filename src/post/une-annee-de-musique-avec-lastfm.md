@@ -1,10 +1,10 @@
 ---
-title: Une année de musique avec LastFM
+title: "Une année de musique avec LastFM"
 tags: humeurs, musique, rock
 updated: 2008-10-15T16:20:59.000Z
-lang: fr
-node: 63948
-remoteId: ce890e48f477dc63d61f1d10ab955226
+lang: "fr"
+node: "63948"
+remoteId: "ce890e48f477dc63d61f1d10ab955226"
 published: 2007-01-06T23:30:08+01:00
 ---
 

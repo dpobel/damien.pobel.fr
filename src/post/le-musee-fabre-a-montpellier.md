@@ -1,10 +1,10 @@
 ---
-title: Le musée Fabre à Montpellier
+title: "Le musée Fabre à Montpellier"
 tags: accessibilité, cherry, montpellier, blog
 updated: 2007-09-11T19:59:03.000Z
-lang: fr
-node: 65239
-remoteId: def23cd8b5a85dbfc6fd143fb57abc37
+lang: "fr"
+node: "65239"
+remoteId: "def23cd8b5a85dbfc6fd143fb57abc37"
 published: 2007-05-08T22:55:04+02:00
 ---
  

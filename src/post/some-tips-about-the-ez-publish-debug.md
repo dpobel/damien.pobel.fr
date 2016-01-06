@@ -1,9 +1,9 @@
 ---
-title: Some tips about the eZ Publish debug
+title: "Some tips about the eZ Publish debug"
 tags: ez publish, template, extension, ajax, truc
 updated: 2010-07-16T08:03:46.000Z
-node: 67332
-remoteId: 911fce436dcbaf3174e0fd159f0cd8d8
+node: "67332"
+remoteId: "911fce436dcbaf3174e0fd159f0cd8d8"
 published: 2008-11-16T23:53:57+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Parallèle étonnant entre Yahoo et Google
+title: "Parallèle étonnant entre Yahoo et Google"
 tags: ez components, yahoo, google, php, référencement
 updated: 2006-12-14T21:43:49.000Z
-lang: fr
-node: 62398
-remoteId: 9fd35e184ce08535819a45df97641d57
+lang: "fr"
+node: "62398"
+remoteId: "9fd35e184ce08535819a45df97641d57"
 published: 2006-10-31T01:16:01+01:00
 ---
  

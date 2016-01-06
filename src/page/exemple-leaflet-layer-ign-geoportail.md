@@ -1,7 +1,7 @@
 ---
-title: Exemple d'utilisation de Leaflet avec une couche IGN / Géoportail
-lang: fr
-noMenu: true
+title: "Exemple d'utilisation de Leaflet avec une couche IGN / Géoportail"
+lang: "fr"
+noMenu: "true"
 updated: 2014-11-12T22:57:39.000Z
 ---
 

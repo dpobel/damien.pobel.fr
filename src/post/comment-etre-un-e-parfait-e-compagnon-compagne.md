@@ -1,10 +1,10 @@
 ---
-title: Comment être un(e) parfait(e) compagnon/compagne ?
+title: "Comment être un(e) parfait(e) compagnon/compagne ?"
 tags: humeurs, truc, amusant, web
 updated: 2007-07-12T18:25:34.000Z
-lang: fr
-node: 64286
-remoteId: 2efa68b721d0a17b21a56b8a6a8042d5
+lang: "fr"
+node: "64286"
+remoteId: "2efa68b721d0a17b21a56b8a6a8042d5"
 published: 2007-02-06T21:05:35+01:00
 ---
  

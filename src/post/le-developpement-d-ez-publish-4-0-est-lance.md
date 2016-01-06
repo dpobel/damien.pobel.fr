@@ -1,10 +1,10 @@
 ---
-title: Le développement d'eZ Publish 4.0 est lancé 
+title: "Le développement d'eZ Publish 4.0 est lancé "
 tags: interface, ez publish, ez components, blog, php
 updated: 2007-07-28T18:40:51.000Z
-lang: fr
-node: 64319
-remoteId: fe286515a0f3241ae35628c591294eab
+lang: "fr"
+node: "64319"
+remoteId: "fe286515a0f3241ae35628c591294eab"
 published: 2007-02-09T22:13:15+01:00
 ---
  

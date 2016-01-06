@@ -1,7 +1,7 @@
 ---
-title: Mante religieuse ou Prie Dieu ou Cheval du diable ou...
+title: "Mante religieuse ou Prie Dieu ou Cheval du diable ou..."
 tags: macro, photo, nikon d90, insecte
-lang: fr
+lang: "fr"
 published: 2015-10-01T11:05:50+02:00
 ---
 

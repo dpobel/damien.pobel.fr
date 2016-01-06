@@ -1,9 +1,9 @@
 ---
-title: Install eZWebin Toolbar into an existing site
+title: "Install eZWebin Toolbar into an existing site"
 tags: ez publish, online editor, interface, extension, template, design
 updated: 2009-01-19T21:28:15.000Z
-node: 67061
-remoteId: c38f247121f6a5a6f348e0d3133945e7
+node: "67061"
+remoteId: "c38f247121f6a5a6f348e0d3133945e7"
 published: 2008-08-23T19:45:12+02:00
 ---
 

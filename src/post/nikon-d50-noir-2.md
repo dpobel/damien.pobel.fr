@@ -1,10 +1,10 @@
 ---
-title: Nikon D50 Noir #2
+title: "Nikon D50 Noir #2"
 tags: humeurs, photo, ez publish, livre, nikon d50
 updated: 2007-04-20T07:23:40.000Z
-lang: fr
-node: 65101
-remoteId: 342ab61273f135c6965eae61624bfb40
+lang: "fr"
+node: "65101"
+remoteId: "342ab61273f135c6965eae61624bfb40"
 published: 2007-04-14T18:37:29+02:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: F*cking video
+title: "F*cking video"
 tags: stupides, amusant, vidéo
 updated: 2008-10-31T08:45:23.000Z
-lang: fr
-node: 65605
-remoteId: 9a90974a934fd5b3c4b71017ed075869
+lang: "fr"
+node: "65605"
+remoteId: "9a90974a934fd5b3c4b71017ed075869"
 published: 2007-06-01T19:33:57+02:00
 ---
 

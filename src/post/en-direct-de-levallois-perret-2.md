@@ -1,10 +1,10 @@
 ---
-title: En direct de Levallois Perret #2
+title: "En direct de Levallois Perret #2"
 tags: humeurs, xml, ez publish, macosx, travail, online editor
 updated: 2008-10-22T15:25:00.000Z
-lang: fr
-node: 64909
-remoteId: 1dcd27f68060d64fac790cc679ed03c9
+lang: "fr"
+node: "64909"
+remoteId: "1dcd27f68060d64fac790cc679ed03c9"
 published: 2007-03-20T23:22:14+01:00
 ---
 

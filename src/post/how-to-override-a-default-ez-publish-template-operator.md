@@ -1,9 +1,9 @@
 ---
-title: How to override a default eZ Publish template operator
+title: "How to override a default eZ Publish template operator"
 tags: ez publish, php, extension, template
 updated: 2010-11-26T22:10:38.000Z
-node: 68977
-remoteId: 4af9aa2688a8a03073ff09b127214d92
+node: "68977"
+remoteId: "4af9aa2688a8a03073ff09b127214d92"
 published: 2010-11-26T23:06:28+01:00
 ---
 

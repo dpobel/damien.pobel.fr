@@ -1,10 +1,10 @@
 ---
-title: Souriez, vous êtes observés !
+title: "Souriez, vous êtes observés !"
 tags: oiseau, photo, nikon d50, animaux
 updated: 2008-11-01T12:38:07.000Z
-lang: fr
-node: 67105
-remoteId: 3dc52a1058c99b0168e48adee8314733
+lang: "fr"
+node: "67105"
+remoteId: "3dc52a1058c99b0168e48adee8314733"
 published: 2008-09-08T21:53:57+02:00
 ---
 <figure class="object-center"><a href="/images/photo-d-un-rougequeue-noir-male.jpg">![Photo d'un rougequeue noir mâle](/images/660x/photo-d-un-rougequeue-noir-male.jpg)

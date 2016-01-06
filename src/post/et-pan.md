@@ -1,9 +1,9 @@
 ---
-title: Et pan !
+title: "Et pan !"
 tags: humeurs, politique, web 2.0, vidéo, télévision
-lang: fr
-node: 67409
-remoteId: b884aadc5e3d35c2141c1d82dbc67b6c
+lang: "fr"
+node: "67409"
+remoteId: "b884aadc5e3d35c2141c1d82dbc67b6c"
 published: 2009-01-07T00:46:17+01:00
 ---
 

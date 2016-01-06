@@ -1,10 +1,10 @@
 ---
-title: Francis Caïbrel !
+title: "Francis Caïbrel !"
 tags: musique, amusant, vidéo
 updated: 2007-07-13T07:49:22.000Z
-lang: fr
-node: 65441
-remoteId: b0ece09d4a670ba1962c81e54979231f
+lang: "fr"
+node: "65441"
+remoteId: "b0ece09d4a670ba1962c81e54979231f"
 published: 2007-05-10T23:51:00+02:00
 ---
  

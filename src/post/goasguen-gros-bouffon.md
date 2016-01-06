@@ -1,10 +1,10 @@
 ---
-title: Goasguen gros bouffon !
+title: "Goasguen gros bouffon !"
 tags: stupides, réchauffement, environnement, politique
 updated: 2007-07-12T21:32:27.000Z
-lang: fr
-node: 65044
-remoteId: 7f961cba7f55a8db49a38a605894266f
+lang: "fr"
+node: "65044"
+remoteId: "7f961cba7f55a8db49a38a605894266f"
 published: 2007-04-02T23:06:46+02:00
 ---
  

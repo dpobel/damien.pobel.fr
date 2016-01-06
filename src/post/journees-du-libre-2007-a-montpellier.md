@@ -1,10 +1,10 @@
 ---
-title: Journées du libre 2007 à Montpellier
+title: "Journées du libre 2007 à Montpellier"
 tags: ez publish, montpellier, mozilla, linux, logiciels libres
 updated: 2007-07-12T18:25:55.000Z
-lang: fr
-node: 65742
-remoteId: b62fbfd86b4fd91c5a4ce3dbcfbfb555
+lang: "fr"
+node: "65742"
+remoteId: "b62fbfd86b4fd91c5a4ce3dbcfbfb555"
 published: 2007-06-13T19:57:54+02:00
 ---
  

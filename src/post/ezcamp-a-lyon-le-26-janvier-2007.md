@@ -1,10 +1,10 @@
 ---
-title: eZCamp à Lyon le 26 janvier 2007
+title: "eZCamp à Lyon le 26 janvier 2007"
 tags: ez publish, ez components, logiciels libres, blog
 updated: 2007-01-30T13:18:14.000Z
-lang: fr
-node: 64000
-remoteId: d3914d9602cfd0dc546a427c61e600e7
+lang: "fr"
+node: "64000"
+remoteId: "d3914d9602cfd0dc546a427c61e600e7"
 published: 2007-01-12T19:26:06+01:00
 ---
  

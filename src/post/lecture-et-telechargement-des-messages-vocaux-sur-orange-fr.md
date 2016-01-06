@@ -1,9 +1,9 @@
 ---
-title: Lecture et téléchargement des messages vocaux sur Orange.fr
+title: "Lecture et téléchargement des messages vocaux sur Orange.fr"
 tags: humeurs, stupides, web, linux
-lang: fr
-node: 67472
-remoteId: b6ab9bee0cfcf264681f97bdbc270932
+lang: "fr"
+node: "67472"
+remoteId: "b6ab9bee0cfcf264681f97bdbc270932"
 published: 2009-01-27T12:05:17+01:00
 ---
 <figure class="object-center"><a href="/images/plugin-messagerie-vocale-orange.png">![Plugin messagerie vocale Orange](/images//plugin-messagerie-vocale-orange.png)

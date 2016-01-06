@@ -1,10 +1,10 @@
 ---
-title: Des sites francophones sur eZ Publish
+title: "Des sites francophones sur eZ Publish"
 tags: ez publish, rss, blog
 updated: 2008-10-29T08:26:35.000Z
-lang: fr
-node: 65235
-remoteId: 229410c3eab25d177168fdd3d67ad772
+lang: "fr"
+node: "65235"
+remoteId: "229410c3eab25d177168fdd3d67ad772"
 published: 2007-05-07T23:54:14+02:00
 ---
 

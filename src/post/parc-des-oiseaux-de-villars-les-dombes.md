@@ -1,9 +1,9 @@
 ---
-title: Parc des oiseaux de Villars les Dombes
+title: "Parc des oiseaux de Villars les Dombes"
 tags: ain, photo, nikon d90, oiseau, animaux
-lang: fr
-node: 69660
-remoteId: 15c0b717c4ffe2e8eeeeb406f13e1566
+lang: "fr"
+node: "69660"
+remoteId: "15c0b717c4ffe2e8eeeeb406f13e1566"
 published: 2011-10-02T23:38:43+02:00
 ---
 

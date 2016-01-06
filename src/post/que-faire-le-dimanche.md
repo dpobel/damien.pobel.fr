@@ -1,10 +1,10 @@
 ---
-title: Que faire le dimanche ?
+title: "Que faire le dimanche ?"
 tags: hébergement, openbox, cherry, blog, php
 updated: 2007-02-22T14:06:26.000Z
-lang: fr
-node: 64156
-remoteId: a23a4b20721fb26a55b1f42c56170c90
+lang: "fr"
+node: "64156"
+remoteId: "a23a4b20721fb26a55b1f42c56170c90"
 published: 2007-01-28T19:43:28+01:00
 ---
  * Se lever à midi

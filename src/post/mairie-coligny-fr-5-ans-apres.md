@@ -1,10 +1,10 @@
 ---
-title: Mairie-Coligny.fr, 5 ans après
+title: "Mairie-Coligny.fr, 5 ans après"
 tags: coligny, framework, cms, standards, php
 updated: 2008-10-22T15:27:23.000Z
-lang: fr
-node: 65093
-remoteId: 7b3a41ce4af10a39856ccec9ee1345d0
+lang: "fr"
+node: "65093"
+remoteId: "7b3a41ce4af10a39856ccec9ee1345d0"
 published: 2007-04-09T23:05:29+02:00
 ---
 

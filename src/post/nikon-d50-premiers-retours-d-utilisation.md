@@ -1,10 +1,10 @@
 ---
-title: Nikon D50 : premiers retours d'utilisation
+title: "Nikon D50 : premiers retours d'utilisation"
 tags: humeurs, photo, cherry, montpellier, nikon d50
 updated: 2007-07-31T20:23:55.000Z
-lang: fr
-node: 65574
-remoteId: 51a01c5f81097ed0a716855c5c8f83b3
+lang: "fr"
+node: "65574"
+remoteId: "51a01c5f81097ed0a716855c5c8f83b3"
 published: 2007-05-24T23:59:57+02:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: Jouons avec The GIMP
+title: "Jouons avec The GIMP"
 tags: photo, retouche, nikon d50, linux
 updated: 2007-07-12T21:32:16.000Z
-lang: fr
-node: 65598
-remoteId: 8d552bc72be6b7f977ebe46e43b8d73b
+lang: "fr"
+node: "65598"
+remoteId: "8d552bc72be6b7f977ebe46e43b8d73b"
 published: 2007-05-29T00:58:00+02:00
 ---
  

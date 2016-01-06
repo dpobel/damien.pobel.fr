@@ -1,10 +1,10 @@
 ---
-title: La magie du référencement
+title: "La magie du référencement"
 tags: photo, amusant, hérault, google, référencement
 updated: 2007-05-17T09:44:48.000Z
-lang: fr
-node: 63733
-remoteId: 1e0a8ff5aa843fd274379a91381ac954
+lang: "fr"
+node: "63733"
+remoteId: "1e0a8ff5aa843fd274379a91381ac954"
 published: 2006-12-01T01:10:56+01:00
 ---
  

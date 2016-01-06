@@ -1,9 +1,9 @@
 ---
-title: Let's play with eZ Components : Template and SystemInformation
+title: "Let's play with eZ Components : Template and SystemInformation"
 tags: geek, ez publish, ez components, php
 updated: 2007-07-12T18:26:06.000Z
-node: 65759
-remoteId: 749094a0b6336259a4bd10816a62fce7
+node: "65759"
+remoteId: "749094a0b6336259a4bd10816a62fce7"
 published: 2007-06-17T17:12:02+02:00
 ---
  

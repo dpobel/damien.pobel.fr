@@ -1,10 +1,10 @@
 ---
-title: Problème réseau Dedibox
+title: "Problème réseau Dedibox"
 tags: réseau, dedibox
 updated: 2007-09-02T11:57:55.000Z
-lang: fr
-node: 65224
-remoteId: 0c8c13a32b112d9dc3de84c5a347f6fe
+lang: "fr"
+node: "65224"
+remoteId: "0c8c13a32b112d9dc3de84c5a347f6fe"
 published: 2007-05-05T19:21:56+02:00
 ---
  

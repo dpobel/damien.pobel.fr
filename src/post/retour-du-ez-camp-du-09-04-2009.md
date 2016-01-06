@@ -1,9 +1,9 @@
 ---
-title: Retour du eZ Camp du 09/04/2009
+title: "Retour du eZ Camp du 09/04/2009"
 tags: ez publish, magento, communauté, humeurs, ez class lists
-lang: fr
-node: 67755
-remoteId: d7016a0adb5c7219424fc7856e1d5233
+lang: "fr"
+node: "67755"
+remoteId: "d7016a0adb5c7219424fc7856e1d5233"
 published: 2009-04-11T13:22:32+02:00
 ---
 

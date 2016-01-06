@@ -1,9 +1,9 @@
 ---
-title: Some thougths about the admin interface refresh of eZ Publish
+title: "Some thougths about the admin interface refresh of eZ Publish"
 tags: ez publish, template, performances, ergonomie, javascript
 updated: 2010-10-07T22:26:46.000Z
-node: 68047
-remoteId: 015840092d2d622282b9a0db2a0dc088
+node: "68047"
+remoteId: "015840092d2d622282b9a0db2a0dc088"
 published: 2009-11-26T23:23:15+01:00
 ---
 

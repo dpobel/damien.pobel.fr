@@ -1,10 +1,10 @@
 ---
-title: Le moteur de recherche d'eZ publish
+title: "Le moteur de recherche d'eZ publish"
 tags: ez publish, truc, linux, pense bête
 updated: 2006-11-14T22:05:37.000Z
-lang: fr
-node: 61637
-remoteId: 106b69b06cbbdd4ce564e8008169e200
+lang: "fr"
+node: "61637"
+remoteId: "106b69b06cbbdd4ce564e8008169e200"
 published: 2006-09-29T00:00:14+02:00
 ---
  

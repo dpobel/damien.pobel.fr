@@ -1,6 +1,6 @@
 ---
-title: Revermont.bike: VTT dans le Revermont
-lang: fr
+title: "Revermont.bike: VTT dans le Revermont"
+lang: "fr"
 tags: vtt, gps, javascript, metalsmith, bourg-en-bresse, ain, jura
 published: 2014-10-20T21:36:26+02:00
 ---

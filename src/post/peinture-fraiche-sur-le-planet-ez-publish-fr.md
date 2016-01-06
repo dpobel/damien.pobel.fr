@@ -1,10 +1,10 @@
 ---
-title: Peinture fraîche sur le Planet eZ Publish.fr
+title: "Peinture fraîche sur le Planet eZ Publish.fr"
 tags: responsive design, ez publish, git, navigateur, rss, ez find, solr
 updated: 2012-06-21T09:56:24.000Z
-lang: fr
-node: 69791
-remoteId: aec379c141ec0cd59b4766ed9888c86f
+lang: "fr"
+node: "69791"
+remoteId: "aec379c141ec0cd59b4766ed9888c86f"
 published: 2012-06-20T22:58:58+02:00
 ---
 <figure class="object-center"><a href="/images/nouveau-design-du-planet-ez-publish-fr.png">![Nouveau design du Planet eZ Publish.fr](/images/660x/nouveau-design-du-planet-ez-publish-fr.png)

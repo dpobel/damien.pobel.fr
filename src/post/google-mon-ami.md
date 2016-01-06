@@ -1,10 +1,10 @@
 ---
-title: Google mon ami :)
+title: "Google mon ami :)"
 tags: google, référencement, amusant
 updated: 2010-08-16T20:03:47.000Z
-lang: fr
-node: 67929
-remoteId: 9847e4498047f269da528df596ad2d69
+lang: "fr"
+node: "67929"
+remoteId: "9847e4498047f269da528df596ad2d69"
 published: 2009-09-06T10:38:06+02:00
 ---
 <figure class="object-center"><a href="/images/pornstar-dans-google.png">![Pornstar dans Google](/images//pornstar-dans-google.png)

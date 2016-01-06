@@ -1,7 +1,7 @@
 ---
-title: État des lieux et meetups autour d'eZ Publish PlatformUI
+title: "État des lieux et meetups autour d'eZ Publish PlatformUI"
 tags: ez publish, php, symfony, user interface, javascript
-lang: fr
+lang: "fr"
 published: 2015-01-12T08:07:18+01:00
 ---
 

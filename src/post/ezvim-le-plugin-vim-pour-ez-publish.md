@@ -1,10 +1,10 @@
 ---
-title: eZVim, le plugin vim pour eZ Publish
+title: "eZVim, le plugin vim pour eZ Publish"
 tags: geek, ez publish, licence, vim, python, ezvim, logiciels libres
 updated: 2007-04-20T07:24:12.000Z
-lang: fr
-node: 65053
-remoteId: 3cf94b3f11299f93237f53a00b212ee3
+lang: "fr"
+node: "65053"
+remoteId: "3cf94b3f11299f93237f53a00b212ee3"
 published: 2007-04-04T23:54:51+02:00
 ---
  

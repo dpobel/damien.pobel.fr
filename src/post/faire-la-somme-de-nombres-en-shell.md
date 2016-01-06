@@ -1,10 +1,10 @@
 ---
-title: Faire la somme de nombres en shell
+title: "Faire la somme de nombres en shell"
 tags: shell, bash, linux, mysql, pense bête, truc
 updated: 2009-03-11T13:05:20.000Z
-lang: fr
-node: 67665
-remoteId: 8499431c7d905086b47ebf712cbc9564
+lang: "fr"
+node: "67665"
+remoteId: "8499431c7d905086b47ebf712cbc9564"
 published: 2009-03-11T14:03:28+01:00
 ---
 

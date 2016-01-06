@@ -1,10 +1,10 @@
 ---
-title: Rosée (pas si) matinale
+title: "Rosée (pas si) matinale"
 tags: photo, nikon d50, blog
 updated: 2007-09-22T14:30:05.000Z
-lang: fr
-node: 65810
-remoteId: 3333ed0a712cf556ea8934b6208056ff
+lang: "fr"
+node: "65810"
+remoteId: "3333ed0a712cf556ea8934b6208056ff"
 published: 2007-06-28T23:21:42+02:00
 ---
  

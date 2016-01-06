@@ -1,10 +1,10 @@
 ---
-title: eZ publish 3.9 est sorti !
+title: "eZ publish 3.9 est sorti !"
 tags: ez publish, openoffice, formats, cms
 updated: 2007-01-30T13:09:26.000Z
-lang: fr
-node: 63873
-remoteId: 931b090a416252d5151000eda674ce80
+lang: "fr"
+node: "63873"
+remoteId: "931b090a416252d5151000eda674ce80"
 published: 2006-12-19T01:05:05+01:00
 ---
  

@@ -1,7 +1,7 @@
 ---
-title: Forum PHP 2013: eZ Publish, créer un site orienté contenu en 45 min.
+title: "Forum PHP 2013: eZ Publish, créer un site orienté contenu en 45 min."
 tags: ez publish, forum php, afup, php
-lang: fr
+lang: "fr"
 published: 2013-11-22T12:15:48+01:00
 ---
 *An english version of this post is available [on

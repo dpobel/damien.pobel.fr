@@ -1,10 +1,10 @@
 ---
-title: Éclat de rire du jour
+title: "Éclat de rire du jour"
 tags: amusant, politique, citation, stupides
 updated: 2009-01-24T23:28:53.000Z
-lang: fr
-node: 67434
-remoteId: 70d2fdf0d66334ffa1e553b1d1b8f518
+lang: "fr"
+node: "67434"
+remoteId: "70d2fdf0d66334ffa1e553b1d1b8f518"
 published: 2009-01-20T11:59:00+01:00
 ---
 

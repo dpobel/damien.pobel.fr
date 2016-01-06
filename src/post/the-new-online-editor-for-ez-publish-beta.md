@@ -1,9 +1,9 @@
 ---
-title: The new Online Editor for eZ Publish (beta)
+title: "The new Online Editor for eZ Publish (beta)"
 tags: ez publish, interface, online editor, php, internet explorer
 updated: 2008-10-29T08:25:00.000Z
-node: 66665
-remoteId: ba523002ccdfe9b3b56492e8ea74f056
+node: "66665"
+remoteId: "ba523002ccdfe9b3b56492e8ea74f056"
 published: 2008-02-16T15:27:29+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Participer à la traduction d'eZ Publish en français
+title: "Participer à la traduction d'eZ Publish en français"
 tags: traduction, ez publish, termplate, git, php, xml
 updated: 2011-03-14T08:18:02.000Z
-lang: fr
-node: 69053
-remoteId: 588487c5322bce9d367a9ccc6917d9fc
+lang: "fr"
+node: "69053"
+remoteId: "588487c5322bce9d367a9ccc6917d9fc"
 published: 2011-03-08T14:08:12+01:00
 ---
 

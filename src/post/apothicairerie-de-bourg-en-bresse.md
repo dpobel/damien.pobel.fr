@@ -1,10 +1,10 @@
 ---
-title: Apothicairerie de Bourg-en-Bresse
+title: "Apothicairerie de Bourg-en-Bresse"
 tags: bourg-en-bresse, photo, nikon d90, ain
 updated: 2011-09-18T11:18:15.000Z
-lang: fr
-node: 69655
-remoteId: 462726af83caeeb7e0bca29d4cdd5d45
+lang: "fr"
+node: "69655"
+remoteId: "462726af83caeeb7e0bca29d4cdd5d45"
 published: 2011-09-17T23:57:55+02:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: 1an (et 5 jours...)
+title: "1an (et 5 jours...)"
 tags: humeurs, ez publish, dedibox, blog
 updated: 2007-09-25T15:27:04.000Z
-lang: fr
-node: 66201
-remoteId: 00ccbbb95662ad66d90f9e041891a3f5
+lang: "fr"
+node: "66201"
+remoteId: "00ccbbb95662ad66d90f9e041891a3f5"
 published: 2007-09-02T14:35:24+02:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: Nokia FISE 2006 et 2007
+title: "Nokia FISE 2006 et 2007"
 tags: bmx, fmx, sport, photo, montpellier
 updated: 2007-03-03T11:09:12.000Z
-lang: fr
-node: 64534
-remoteId: ec62a89630569378fbbbb31b3601d05f
+lang: "fr"
+node: "64534"
+remoteId: "ec62a89630569378fbbbb31b3601d05f"
 published: 2007-02-11T19:18:21+01:00
 ---
  

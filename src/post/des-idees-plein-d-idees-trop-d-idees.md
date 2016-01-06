@@ -1,10 +1,10 @@
 ---
-title: Des idées, plein d'idées, trop d'idées
+title: "Des idées, plein d'idées, trop d'idées"
 tags: framework, xul, geek, ez publish, yahoo, spam, ez components, logiciels libres, google, blog, php, référencement, web
 updated: 2006-11-19T11:12:17.000Z
-lang: fr
-node: 62721
-remoteId: 9798971c1d39ae040cb980e4b0758198
+lang: "fr"
+node: "62721"
+remoteId: "9798971c1d39ae040cb980e4b0758198"
 published: 2006-11-04T16:16:53+01:00
 ---
  

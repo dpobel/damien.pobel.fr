@@ -1,5 +1,5 @@
 ---
-title: Premiers essais avec le Tamron 90mm f/2.8 macro
+title: "Premiers essais avec le Tamron 90mm f/2.8 macro"
 tags: photo, macro, araignée, basilic, nikon d90
 published: 2013-08-29T10:03:54+02:00
 ---

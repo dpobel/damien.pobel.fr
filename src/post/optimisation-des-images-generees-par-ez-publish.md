@@ -1,10 +1,10 @@
 ---
-title: Optimisation des images générées par eZ Publish
+title: "Optimisation des images générées par eZ Publish"
 tags: ez publish, google, performances, photo, yahoo, php
 updated: 2009-06-13T23:50:40.000Z
-lang: fr
-node: 67829
-remoteId: 51ceaf32c66cf0a061d55fb2938b5b46
+lang: "fr"
+node: "67829"
+remoteId: "51ceaf32c66cf0a061d55fb2938b5b46"
 published: 2009-06-14T01:47:21+02:00
 ---
 

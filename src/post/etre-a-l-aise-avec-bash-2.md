@@ -1,10 +1,10 @@
 ---
-title: Être à l'aise avec bash #2
+title: "Être à l'aise avec bash #2"
 tags: réseau, bash, ubuntu, linux, debian, shell
 updated: 2007-01-27T14:26:38.000Z
-lang: fr
-node: 62507
-remoteId: 237bd1f134612fea70d6ea83e9439341
+lang: "fr"
+node: "62507"
+remoteId: "237bd1f134612fea70d6ea83e9439341"
 published: 2006-11-01T15:21:41+01:00
 ---
  

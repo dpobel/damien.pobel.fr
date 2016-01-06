@@ -1,10 +1,10 @@
 ---
-title: Warning au lancement de scripts PHP4 en CLI
+title: "Warning au lancement de scripts PHP4 en CLI"
 tags: ez publish, dedibox, ubuntu, linux, php, debian
 updated: 2008-10-31T08:41:29.000Z
-lang: fr
-node: 64732
-remoteId: 567b46f774ab2a4e300673192b982ba4
+lang: "fr"
+node: "64732"
+remoteId: "567b46f774ab2a4e300673192b982ba4"
 published: 2007-03-10T14:54:38+01:00
 ---
 

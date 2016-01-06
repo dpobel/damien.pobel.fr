@@ -1,10 +1,10 @@
 ---
-title: Des fils RSS sur mesure dans eZ Publish
+title: "Des fils RSS sur mesure dans eZ Publish"
 tags: xml, xslt, ez publish, truc, rss, blog
 updated: 2007-03-27T19:00:26.000Z
-lang: fr
-node: 64671
-remoteId: c1128bf222a49b5cd3941eac5d1ae81f
+lang: "fr"
+node: "64671"
+remoteId: "c1128bf222a49b5cd3941eac5d1ae81f"
 published: 2007-02-27T23:52:14+01:00
 ---
  

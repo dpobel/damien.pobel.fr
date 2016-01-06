@@ -1,9 +1,9 @@
 ---
-title: URL aliases transformed into numbers when upgrading to eZ Publish 3.10.0 ?
+title: "URL aliases transformed into numbers when upgrading to eZ Publish 3.10.0 ?"
 tags: ez publish, php
 updated: 2008-10-29T08:25:31.000Z
-node: 66506
-remoteId: 30c19ce7094614a54e0dc690c13f01e6
+node: "66506"
+remoteId: "30c19ce7094614a54e0dc690c13f01e6"
 published: 2007-11-26T00:20:42+01:00
 ---
 

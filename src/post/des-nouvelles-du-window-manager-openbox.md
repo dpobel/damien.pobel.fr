@@ -1,10 +1,10 @@
 ---
-title: Des nouvelles du Window Manager Openbox
+title: "Des nouvelles du Window Manager Openbox"
 tags: geek, openbox, interface, linux
 updated: 2007-08-23T14:39:21.000Z
-lang: fr
-node: 65618
-remoteId: a604f7501a425b22c764915ce623705f
+lang: "fr"
+node: "65618"
+remoteId: "a604f7501a425b22c764915ce623705f"
 published: 2007-06-03T23:44:45+02:00
 ---
  

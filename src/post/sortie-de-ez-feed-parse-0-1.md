@@ -1,10 +1,10 @@
 ---
-title: Sortie de eZ Feed Parse 0.1
+title: "Sortie de eZ Feed Parse 0.1"
 tags: ez publish, extension, template, php, ez components, rss
 updated: 2009-06-30T22:07:25.000Z
-lang: fr
-node: 67853
-remoteId: 186cad6c5ee982c7065593fcd19fe857
+lang: "fr"
+node: "67853"
+remoteId: "186cad6c5ee982c7065593fcd19fe857"
 published: 2009-06-30T23:48:43+02:00
 ---
 

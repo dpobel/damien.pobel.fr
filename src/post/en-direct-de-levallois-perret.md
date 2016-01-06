@@ -1,10 +1,10 @@
 ---
-title: En direct de Levallois Perret
+title: "En direct de Levallois Perret"
 tags: humeurs, xml, ez publish, cms, vim, travail, web
 updated: 2007-03-30T18:54:16.000Z
-lang: fr
-node: 64770
-remoteId: acb3d4651881e5aac874114f9d5880da
+lang: "fr"
+node: "64770"
+remoteId: "acb3d4651881e5aac874114f9d5880da"
 published: 2007-03-14T21:07:10+01:00
 ---
  

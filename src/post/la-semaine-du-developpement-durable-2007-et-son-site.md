@@ -1,10 +1,10 @@
 ---
-title: La semaine du développement durable 2007 et son site...
+title: "La semaine du développement durable 2007 et son site..."
 tags: humeurs, stupides, accessibilité, climat, réchauffement, environnement, standards
 updated: 2007-03-29T06:26:32.000Z
-lang: fr
-node: 64631
-remoteId: 371a2bb2d87681427eed65c48de33a10
+lang: "fr"
+node: "64631"
+remoteId: "371a2bb2d87681427eed65c48de33a10"
 published: 2007-02-22T18:52:05+01:00
 ---
  

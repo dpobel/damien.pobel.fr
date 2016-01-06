@@ -1,10 +1,10 @@
 ---
-title: eZ developer day à Paris le 17/04/2008
+title: "eZ developer day à Paris le 17/04/2008"
 tags: ez publish, ez components, cms, travail, online editor, ez find, linux, logiciels libres, php, web
 updated: 2008-08-21T12:44:19.000Z
-lang: fr
-node: 66792
-remoteId: 2718ae8f7ae1cf6fb603fe66d97228b2
+lang: "fr"
+node: "66792"
+remoteId: "2718ae8f7ae1cf6fb603fe66d97228b2"
 published: 2008-04-26T20:38:59+02:00
 ---
 

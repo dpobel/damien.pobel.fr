@@ -1,10 +1,10 @@
 ---
-title: Poker Texas Hold'em multi plateforme et en ligne
+title: "Poker Texas Hold'em multi plateforme et en ligne"
 tags: poker, amusant, jeux, ubuntu, linux, logiciels libres
 updated: 2010-07-16T08:04:55.000Z
-lang: fr
-node: 66573
-remoteId: 2a67f036f74ba14f4704c9e36e6a0beb
+lang: "fr"
+node: "66573"
+remoteId: "2a67f036f74ba14f4704c9e36e6a0beb"
 published: 2007-12-24T18:21:35+01:00
 ---
 

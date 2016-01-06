@@ -1,9 +1,9 @@
 ---
-title: Sortie eZ Object States Filter 1.0
+title: "Sortie eZ Object States Filter 1.0"
 tags: ez publish, extension, template, php
-lang: fr
-node: 67770
-remoteId: b15c2afda6c627ce5a21ffc2337ef100
+lang: "fr"
+node: "67770"
+remoteId: "b15c2afda6c627ce5a21ffc2337ef100"
 published: 2009-04-25T13:30:36+02:00
 ---
 

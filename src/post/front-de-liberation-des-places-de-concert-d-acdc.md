@@ -1,9 +1,9 @@
 ---
-title: Front de libération des places de concert d'ACDC
+title: "Front de libération des places de concert d'ACDC"
 tags: acdc, vidéo, amusant, web
-lang: fr
-node: 67541
-remoteId: b56eb39dc5365ebf63fb166e573ffde2
+lang: "fr"
+node: "67541"
+remoteId: "b56eb39dc5365ebf63fb166e573ffde2"
 published: 2009-02-13T23:00:28+01:00
 ---
 

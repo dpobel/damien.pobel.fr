@@ -1,10 +1,10 @@
 ---
-title: Nouvelle méthode de sondage :-)
+title: "Nouvelle méthode de sondage :-)"
 tags: amusant, politique
 updated: 2007-11-12T22:19:06.000Z
-lang: fr
-node: 65084
-remoteId: 8cec81be23f285ffb5d6a0b3c1df764e
+lang: "fr"
+node: "65084"
+remoteId: "8cec81be23f285ffb5d6a0b3c1df764e"
 published: 2007-04-09T00:36:40+02:00
 ---
  

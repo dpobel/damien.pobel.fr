@@ -1,10 +1,10 @@
 ---
-title: Nouveau serveur
+title: "Nouveau serveur"
 tags: kimsufi, dedibox, hébergement, ez publish, ez find
 updated: 2010-07-13T15:52:41.000Z
-lang: fr
-node: 68106
-remoteId: b0f4d156caf3f6486856e1c0c767f23f
+lang: "fr"
+node: "68106"
+remoteId: "b0f4d156caf3f6486856e1c0c767f23f"
 published: 2010-01-17T23:42:00+01:00
 ---
 

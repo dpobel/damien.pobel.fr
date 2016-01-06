@@ -1,9 +1,9 @@
 ---
-title: eZ Conference 2009 aura lieu à Paris !
+title: "eZ Conference 2009 aura lieu à Paris !"
 tags: ez publish, ez components, php, mysql, web
-lang: fr
-node: 67520
-remoteId: 127b5024981fcaa51dba779f626c32f9
+lang: "fr"
+node: "67520"
+remoteId: "127b5024981fcaa51dba779f626c32f9"
 published: 2009-02-07T15:17:59+01:00
 ---
 

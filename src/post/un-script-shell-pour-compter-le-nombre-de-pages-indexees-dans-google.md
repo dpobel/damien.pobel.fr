@@ -1,10 +1,10 @@
 ---
-title: Un script shell pour compter le nombre de pages indexées dans Google
+title: "Un script shell pour compter le nombre de pages indexées dans Google"
 tags: geek, xml, xslt, debian, bash, ubuntu, google, référencement, shell
 updated: 2006-12-01T13:07:20.000Z
-lang: fr
-node: 60935
-remoteId: 1ec19d903b7ad0368a47169ba34aa526
+lang: "fr"
+node: "60935"
+remoteId: "1ec19d903b7ad0368a47169ba34aa526"
 published: 2006-09-02T00:11:47+02:00
 ---
  

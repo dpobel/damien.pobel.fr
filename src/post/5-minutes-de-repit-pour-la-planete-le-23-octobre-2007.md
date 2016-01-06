@@ -1,10 +1,10 @@
 ---
-title: 5 minutes de répit pour la planète, le 23 octobre 2007
+title: "5 minutes de répit pour la planète, le 23 octobre 2007"
 tags: humeurs, stupides, accessibilité, climat, réchauffement
 updated: 2007-11-12T14:31:22.000Z
-lang: fr
-node: 66404
-remoteId: e575677faf861dddbb3827c614c6e595
+lang: "fr"
+node: "66404"
+remoteId: "e575677faf861dddbb3827c614c6e595"
 published: 2007-10-23T14:18:21+02:00
 ---
  

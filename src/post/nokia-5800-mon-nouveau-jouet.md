@@ -1,9 +1,9 @@
 ---
-title: Nokia 5800 : mon nouveau jouet
+title: "Nokia 5800 : mon nouveau jouet"
 tags: nokia 5800, consommation, web, ergonomie, free, cherry
-lang: fr
-node: 67529
-remoteId: f4c362ee6d5dba24996bb9ff473f0bcc
+lang: "fr"
+node: "67529"
+remoteId: "f4c362ee6d5dba24996bb9ff473f0bcc"
 published: 2009-02-10T00:53:56+01:00
 ---
 <figure class="object-center"><a href="/images/nokia-5800.png">![Nokia 5800](/images//nokia-5800.png)

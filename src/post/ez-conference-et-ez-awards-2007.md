@@ -1,10 +1,10 @@
 ---
-title: eZ Conference et eZ Awards 2007
+title: "eZ Conference et eZ Awards 2007"
 tags: ez publish, ez components, travail, php
 updated: 2007-07-12T14:34:35.000Z
-lang: fr
-node: 65245
-remoteId: b8774fa2f761dfab311601273fb2fa28
+lang: "fr"
+node: "65245"
+remoteId: "b8774fa2f761dfab311601273fb2fa28"
 published: 2007-05-09T22:45:54+02:00
 ---
  

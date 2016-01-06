@@ -1,9 +1,9 @@
 ---
-title: eZ Publish shell
+title: "eZ Publish shell"
 tags: fun, ez publish, geek, ez components, interface, php
 updated: 2009-01-19T21:26:38.000Z
-node: 67361
-remoteId: 2b746e4b30afc475ed0060b37ec91a6c
+node: "67361"
+remoteId: "2b746e4b30afc475ed0060b37ec91a6c"
 published: 2008-12-07T20:12:12+01:00
 ---
 

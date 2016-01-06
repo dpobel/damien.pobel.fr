@@ -1,10 +1,10 @@
 ---
-title: Nokia FISE 2007 : Roller Street, BMX rampe, Wakeboard and BMX Street
+title: "Nokia FISE 2007 : Roller Street, BMX rampe, Wakeboard and BMX Street"
 tags: sport, bmx, photo, montpellier, nikon d50, fise
 updated: 2009-05-22T15:41:55.000Z
-lang: fr
-node: 65550
-remoteId: 9c4838611cc93c3acbccd9bbf8da3a9d
+lang: "fr"
+node: "65550"
+remoteId: "9c4838611cc93c3acbccd9bbf8da3a9d"
 published: 2007-05-20T22:37:46+02:00
 ---
 <table class="table-centre"><tr><td><figure class="object-center"><a href="/images/roller-street-sur-la-rampe.jpg">![Roller street sur la rampe](/images/330x/roller-street-sur-la-rampe.jpg)

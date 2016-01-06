@@ -1,10 +1,10 @@
 ---
-title: Captcha, vous avez dit Captcha ?
+title: "Captcha, vous avez dit Captcha ?"
 tags: stupides, amusant, php, web
 updated: 2008-10-31T08:43:31.000Z
-lang: fr
-node: 65009
-remoteId: 29d3bdcb011596af982a823ec5a1fd20
+lang: "fr"
+node: "65009"
+remoteId: "29d3bdcb011596af982a823ec5a1fd20"
 published: 2007-03-29T23:10:25+02:00
 ---
 

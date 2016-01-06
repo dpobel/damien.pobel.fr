@@ -1,10 +1,10 @@
 ---
-title: À lire #1
+title: "À lire #1"
 tags: ogm, ez publish, environnement, référencement
 updated: 2006-11-14T22:02:57.000Z
-lang: fr
-node: 61140
-remoteId: d8abd220873baf88e2ee360fcd833dfe
+lang: "fr"
+node: "61140"
+remoteId: "d8abd220873baf88e2ee360fcd833dfe"
 published: 2006-09-06T20:45:49+02:00
 ---
  

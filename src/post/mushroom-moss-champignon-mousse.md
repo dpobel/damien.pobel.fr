@@ -1,5 +1,5 @@
 ---
-title: Mushroom in the moss
+title: "Mushroom in the moss"
 tags: photo, nikon d90, macrom
 published: 2014-11-22T23:23:17+01:00
 ---

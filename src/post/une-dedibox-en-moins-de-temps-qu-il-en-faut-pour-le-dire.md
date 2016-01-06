@@ -1,10 +1,10 @@
 ---
-title: Une Dedibox en moins de temps qu'il en faut pour le dire !
+title: "Une Dedibox en moins de temps qu'il en faut pour le dire !"
 tags: dedibox, hébergement, cherry, blog
 updated: 2007-02-12T08:20:09.000Z
-lang: fr
-node: 63969
-remoteId: 16d64c6b792439d7a90c0747cf81cc44
+lang: "fr"
+node: "63969"
+remoteId: "16d64c6b792439d7a90c0747cf81cc44"
 published: 2007-01-08T22:49:59+01:00
 ---
  

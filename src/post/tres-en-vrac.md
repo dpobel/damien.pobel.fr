@@ -1,10 +1,10 @@
 ---
-title: Très en vrac
+title: "Très en vrac"
 tags: bmx, photo, hébergement, climat, réchauffement, procès, environnement, dedibox, google, php, sécurité
 updated: 2007-07-12T17:28:07.000Z
-lang: fr
-node: 64553
-remoteId: 59a9dc192e3b8eb04e4a3635a765b87e
+lang: "fr"
+node: "64553"
+remoteId: "59a9dc192e3b8eb04e4a3635a765b87e"
 published: 2007-02-12T23:26:17+01:00
 ---
  * J'ai installé [eAccelerator](http://www.eaccelerator.net/) hier soir en suivant et adaptant [le tutoriel de Vallica](http://seb.abcblog.fr/index.php?2007/02/06/17-optmiser-ezpublish-avec-eaccelerator). C'est assez incroyable comme [ma Dedibox](/post/migration-sur-dedipwet) s'en trouve moins chargée et comme les performances des sites sont bien meilleures, [enfin quand elle est joignable](http://seb.abcblog.fr/index.php?2007/02/08/18-dedibox-en-rade)...

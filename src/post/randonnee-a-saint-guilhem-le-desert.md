@@ -1,10 +1,10 @@
 ---
-title: Randonnée à Saint-Guilhem-le-Désert 
+title: "Randonnée à Saint-Guilhem-le-Désert "
 tags: photo, nikon d50, nature
 updated: 2008-11-01T12:37:27.000Z
-lang: fr
-node: 66451
-remoteId: 45a410705264edba77bc91efa68ed595
+lang: "fr"
+node: "66451"
+remoteId: "45a410705264edba77bc91efa68ed595"
 published: 2007-11-04T21:42:44+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Internet is for porn... même sur Wikipedia
+title: "Internet is for porn... même sur Wikipedia"
 tags: wikipedia, amusant, geek, web
 updated: 2008-10-08T21:38:49.000Z
-lang: fr
-node: 67150
-remoteId: ba494f6c3608daa2da4d06ff45cc9661
+lang: "fr"
+node: "67150"
+remoteId: "ba494f6c3608daa2da4d06ff45cc9661"
 published: 2008-10-08T23:38:21+02:00
 ---
 

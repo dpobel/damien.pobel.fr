@@ -1,7 +1,7 @@
 ---
-title: Cartographie avec les couches Géoportail/IGN et Leaflet
+title: "Cartographie avec les couches Géoportail/IGN et Leaflet"
 tags: ign, cartographie, sig, javascript, performances, vtt
-lang: fr
+lang: "fr"
 published: 2014-11-13T00:06:31+01:00
 ---
 

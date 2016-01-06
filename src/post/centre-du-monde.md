@@ -1,10 +1,10 @@
 ---
-title: Centre du monde
+title: "Centre du monde"
 tags: sport, bmx, photo, montpellier, nikon d50, fise
 updated: 2009-05-22T15:43:08.000Z
-lang: fr
-node: 65587
-remoteId: 2e8ac2d5610f0bd28aa592cbd900c85d
+lang: "fr"
+node: "65587"
+remoteId: "2e8ac2d5610f0bd28aa592cbd900c85d"
 published: 2007-05-26T10:45:12+02:00
 ---
 <figure class="object-center"><a href="/images/centre-du-monde.jpg">![Centre du monde](/images/660x/centre-du-monde.jpg)

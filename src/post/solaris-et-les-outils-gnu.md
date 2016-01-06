@@ -1,10 +1,10 @@
 ---
-title: Solaris et les Outils GNU
+title: "Solaris et les Outils GNU"
 tags: hébergement, ez publish, linux, shell
 updated: 2008-08-12T15:52:44.000Z
-lang: fr
-node: 61155
-remoteId: 2b730debb67d104693f8c3e75aad6483
+lang: "fr"
+node: "61155"
+remoteId: "2b730debb67d104693f8c3e75aad6483"
 published: 2006-09-08T23:08:41+02:00
 ---
 

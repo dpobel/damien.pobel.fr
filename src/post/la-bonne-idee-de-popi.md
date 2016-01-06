@@ -1,7 +1,7 @@
 ---
-title: La "bonne" idée de Popi...
+title: "La \"bonne\" idée de Popi..."
 tags: jouet, humeur, stupides
-lang: fr
+lang: "fr"
 published: 2014-02-09T18:44:20+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Les performances d'eZ Publish ?
+title: "Les performances d'eZ Publish ?"
 tags: ez publish, performances, php, mysql, cms, drupal
 updated: 2009-03-23T20:49:00.000Z
-lang: fr
-node: 67684
-remoteId: 092aa8a168f767748ce2fcce8b3ce156
+lang: "fr"
+node: "67684"
+remoteId: "092aa8a168f767748ce2fcce8b3ce156"
 published: 2009-03-21T15:22:08+01:00
 ---
 

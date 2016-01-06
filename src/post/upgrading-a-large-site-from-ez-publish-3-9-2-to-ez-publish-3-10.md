@@ -1,9 +1,9 @@
 ---
-title: Upgrading a "large" site from eZ Publish 3.9.2 to eZ Publish 3.10
+title: "Upgrading a \"large\" site from eZ Publish 3.9.2 to eZ Publish 3.10"
 tags: ez publish, truc, blog, php
 updated: 2008-10-30T08:38:23.000Z
-node: 66354
-remoteId: e539e0ac284537359c819809614e3978
+node: "66354"
+remoteId: "e539e0ac284537359c819809614e3978"
 published: 2007-10-07T23:12:00+02:00
 ---
 

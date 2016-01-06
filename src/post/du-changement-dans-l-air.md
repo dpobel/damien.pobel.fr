@@ -1,10 +1,10 @@
 ---
-title: Du changement dans l'air
+title: "Du changement dans l'air"
 tags: humeurs, blog
 updated: 2011-03-18T20:59:40.000Z
-lang: fr
-node: 64199
-remoteId: ff37500c1a7838b19e0d5fd6372735cb
+lang: "fr"
+node: "64199"
+remoteId: "ff37500c1a7838b19e0d5fd6372735cb"
 published: 2007-02-01T12:36:44+01:00
 ---
 

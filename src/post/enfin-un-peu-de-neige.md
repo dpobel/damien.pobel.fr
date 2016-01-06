@@ -1,10 +1,10 @@
 ---
-title: Enfin un peu de neige !
+title: "Enfin un peu de neige !"
 tags: neige, glace, rouille, photo, nikon d50, nature
 updated: 2010-08-15T10:34:31.000Z
-lang: fr
-node: 68096
-remoteId: c2d1b72ddacfe78d3be99809697bc564
+lang: "fr"
+node: "68096"
+remoteId: "c2d1b72ddacfe78d3be99809697bc564"
 published: 2010-01-03T21:12:08+01:00
 ---
 

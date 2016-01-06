@@ -1,10 +1,10 @@
 ---
-title: Le bug d'Internet Explorer sur le téléchargement de fichier en PHP (et autres ...)
+title: "Le bug d'Internet Explorer sur le téléchargement de fichier en PHP (et autres ...)"
 tags: http, microsofterie, stupides, truc, travail, php, internet explorer
 updated: 2007-12-02T12:43:18.000Z
-lang: fr
-node: 66486
-remoteId: 2c938aad736556e05b5ff6afd70c25b5
+lang: "fr"
+node: "66486"
+remoteId: "2c938aad736556e05b5ff6afd70c25b5"
 published: 2007-11-19T23:25:37+01:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: Être à l'aise avec bash #1
+title: "Être à l'aise avec bash #1"
 tags: geek, ssh, x11, truc, bash, ubuntu, debian, shell
 updated: 2006-11-26T12:05:14.000Z
-lang: fr
-node: 62339
-remoteId: cd23106da34dd3f5f883d7dfd8ac063b
+lang: "fr"
+node: "62339"
+remoteId: "cd23106da34dd3f5f883d7dfd8ac063b"
 published: 2006-10-29T16:36:16+01:00
 ---
  

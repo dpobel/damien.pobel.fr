@@ -1,7 +1,7 @@
 ---
-title: Jouer à "devenir une véritable fée de logis!"
+title: "Jouer à \"devenir une véritable fée de logis!\""
 tags: jouet, sexisme, stéréotype, humeur
-lang: fr
+lang: "fr"
 published: 2013-11-18T22:04:44+01:00
 ---
 

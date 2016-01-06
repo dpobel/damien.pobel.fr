@@ -1,10 +1,10 @@
 ---
-title: Sortie de Auto Status 0.2
+title: "Sortie de Auto Status 0.2"
 tags: ez publish, extension, twitter, php
 updated: 2011-07-22T20:07:11.000Z
-lang: fr
-node: 69198
-remoteId: 2631222cfa9df006ce40f13585c764bb
+lang: "fr"
+node: "69198"
+remoteId: "2631222cfa9df006ce40f13585c764bb"
 published: 2011-07-05T20:42:36+02:00
 ---
 

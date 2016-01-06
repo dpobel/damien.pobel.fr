@@ -1,10 +1,10 @@
 ---
-title: Echoes, Silence, Patience and Grace des Foo Fighters
+title: "Echoes, Silence, Patience and Grace des Foo Fighters"
 tags: foo fighters, humeurs, musique
 updated: 2008-10-22T15:28:32.000Z
-lang: fr
-node: 66371
-remoteId: 5fbfda8ce29c80b6d1361e8932e06643
+lang: "fr"
+node: "66371"
+remoteId: "5fbfda8ce29c80b6d1361e8932e06643"
 published: 2007-10-13T15:29:17+02:00
 ---
 <figure class="object-left"><a href="/images/jacquette-de-echoes-silence-patience-and-grace.jpg">![Jacquette de Echoes, Silence, Patience and Grace](/images/330x/jacquette-de-echoes-silence-patience-and-grace.jpg)

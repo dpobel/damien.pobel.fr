@@ -1,10 +1,10 @@
 ---
-title: C'est quoi le rock ?
+title: "C'est quoi le rock ?"
 tags: musique, amusant, vidéo, rock
 updated: 2008-10-30T08:37:46.000Z
-lang: fr
-node: 66651
-remoteId: 7befe97b47aeeee8ce92dd3c9130050f
+lang: "fr"
+node: "66651"
+remoteId: "7befe97b47aeeee8ce92dd3c9130050f"
 published: 2008-02-13T13:10:17+01:00
 ---
 

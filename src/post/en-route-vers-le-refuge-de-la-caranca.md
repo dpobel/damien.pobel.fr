@@ -1,10 +1,10 @@
 ---
-title: En route vers le refuge de la Carança
+title: "En route vers le refuge de la Carança"
 tags: photo, nikon d50, vacances, nature
 updated: 2007-08-20T08:26:23.000Z
-lang: fr
-node: 66049
-remoteId: 1aa804dd22fc08019a45b076c70a0644
+lang: "fr"
+node: "66049"
+remoteId: "1aa804dd22fc08019a45b076c70a0644"
 published: 2007-07-19T23:55:31+02:00
 ---
  

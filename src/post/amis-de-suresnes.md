@@ -1,10 +1,10 @@
 ---
-title: Amis de Suresnes
+title: "Amis de Suresnes"
 tags: photo, travail, nikon d50, blog
 updated: 2008-10-22T15:27:48.000Z
-lang: fr
-node: 66718
-remoteId: dade8e06663d16fd2164a5ae6b3cc14f
+lang: "fr"
+node: "66718"
+remoteId: "dade8e06663d16fd2164a5ae6b3cc14f"
 published: 2008-03-29T13:21:51+01:00
 ---
 

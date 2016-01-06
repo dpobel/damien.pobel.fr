@@ -1,7 +1,7 @@
 ---
-title: Colis ouverts et/ou endommagés livrés par La Poste
-lang: fr
-noMenu: false
+title: "Colis ouverts et/ou endommagés livrés par La Poste"
+lang: "fr"
+noMenu: "false"
 ---
 
 # Colis ouverts et/ou endommagés livrés par La Poste

@@ -1,9 +1,9 @@
 ---
-title: customcss, un plugin RoundCube pour inclure ses propres feuilles de style
+title: "customcss, un plugin RoundCube pour inclure ses propres feuilles de style"
 tags: roundcube, php, extension, css
-lang: fr
-node: 68718
-remoteId: 827376b972fcc1c4ea2b09a1950469bc
+lang: "fr"
+node: "68718"
+remoteId: "827376b972fcc1c4ea2b09a1950469bc"
 published: 2010-09-26T14:50:27+02:00
 ---
 

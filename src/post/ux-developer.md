@@ -1,7 +1,7 @@
 ---
-title: UX Developer!
+title: "UX Developer!"
 tags: ux, ergonomie, humeurs
-lang: en
+lang: "en"
 published: 2013-03-10T21:34:17+01:00
 ---
 

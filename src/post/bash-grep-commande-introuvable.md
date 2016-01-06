@@ -1,10 +1,10 @@
 ---
-title: bash:  grep : commande introuvable
+title: "bash:  grep : commande introuvable"
 tags: truc, bash, ubuntu, linux, shell
 updated: 2007-01-27T14:24:57.000Z
-lang: fr
-node: 61643
-remoteId: addfca710c9f1803141efdc212408613
+lang: "fr"
+node: "61643"
+remoteId: "addfca710c9f1803141efdc212408613"
 published: 2006-10-01T01:06:33+02:00
 ---
  

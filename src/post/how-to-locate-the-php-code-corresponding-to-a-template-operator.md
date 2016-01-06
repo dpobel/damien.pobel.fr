@@ -1,8 +1,8 @@
 ---
-title: How to locate the PHP code corresponding to a template operator?
+title: "How to locate the PHP code corresponding to a template operator?"
 tags: ez publish, template, extension, php
-node: 69669
-remoteId: 66aac4df42a7c849b97dd24d1c29cd3b
+node: "69669"
+remoteId: "66aac4df42a7c849b97dd24d1c29cd3b"
 published: 2011-10-14T21:20:33+02:00
 ---
 

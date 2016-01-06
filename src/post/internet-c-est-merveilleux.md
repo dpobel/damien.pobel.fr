@@ -1,10 +1,10 @@
 ---
-title: Internet, c'est merveilleux
+title: "Internet, c'est merveilleux"
 tags: amusant, référencement
 updated: 2007-05-09T21:48:14.000Z
-lang: fr
-node: 65168
-remoteId: 88ef1abb207b00756ee922544acd577e
+lang: "fr"
+node: "65168"
+remoteId: "88ef1abb207b00756ee922544acd577e"
 published: 2007-04-26T19:57:26+02:00
 ---
  

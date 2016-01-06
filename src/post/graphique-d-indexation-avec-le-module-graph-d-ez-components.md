@@ -1,10 +1,10 @@
 ---
-title: Graphique d'indexation avec le module Graph d'eZ components
+title: "Graphique d'indexation avec le module Graph d'eZ components"
 tags: ez publish, yahoo, ez components, google, blog, php, référencement
 updated: 2007-02-06T08:43:52.000Z
-lang: fr
-node: 62547
-remoteId: 612b67a015d219bbbb3fb0cc3171868b
+lang: "fr"
+node: "62547"
+remoteId: "612b67a015d219bbbb3fb0cc3171868b"
 published: 2006-11-01T23:37:42+01:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: Le moteur de rendu d'Outlook 2007 c'est ... Word 2007
+title: "Le moteur de rendu d'Outlook 2007 c'est ... Word 2007"
 tags: stupides, mail, microsofterie, xhtml, css, internet explorer, sécurité
 updated: 2007-11-30T16:22:56.000Z
-lang: fr
-node: 66494
-remoteId: 669e51c3fb476841a10d9978e72dc87d
+lang: "fr"
+node: "66494"
+remoteId: "669e51c3fb476841a10d9978e72dc87d"
 published: 2007-11-20T00:21:49+01:00
 ---
  

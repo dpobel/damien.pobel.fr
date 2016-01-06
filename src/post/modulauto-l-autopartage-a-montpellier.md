@@ -1,10 +1,10 @@
 ---
-title: Modulauto : l'Autopartage à Montpellier
+title: "Modulauto : l'Autopartage à Montpellier"
 tags: consommation, environnement, montpellier, blog
 updated: 2007-01-30T12:58:35.000Z
-lang: fr
-node: 64006
-remoteId: 12690463d9883c41c66540b5d4dd98d7
+lang: "fr"
+node: "64006"
+remoteId: "12690463d9883c41c66540b5d4dd98d7"
 published: 2007-01-13T12:59:24+01:00
 ---
  

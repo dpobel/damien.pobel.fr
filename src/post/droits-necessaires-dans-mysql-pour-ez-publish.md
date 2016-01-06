@@ -1,10 +1,10 @@
 ---
-title: Droits nécessaires dans MySQL pour eZ publish
+title: "Droits nécessaires dans MySQL pour eZ publish"
 tags: mysql, ez publish, hébergement, debian, pense bête, sécurité
 updated: 2007-02-03T14:28:19.000Z
-lang: fr
-node: 62000
-remoteId: de7668706fa4c165166e0ee98b30906b
+lang: "fr"
+node: "62000"
+remoteId: "de7668706fa4c165166e0ee98b30906b"
 published: 2006-10-18T00:57:04+02:00
 ---
  

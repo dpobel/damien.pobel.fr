@@ -1,10 +1,10 @@
 ---
-title: En vrac
+title: "En vrac"
 tags: télévision, gnome, kde, humeurs, amusant, vidéo
 updated: 2010-07-20T08:06:22.000Z
-lang: fr
-node: 67778
-remoteId: 94a94f68212573f3c4ce588b04062504
+lang: "fr"
+node: "67778"
+remoteId: "94a94f68212573f3c4ce588b04062504"
 published: 2009-05-08T22:05:48+02:00
 ---
 * [Ferme la Zemmour](http://www.fermelazemmour.com/) lancé par l'animateur Yassine Belattar. À quand la même pour Éric &quot;c'est nul&quot; Naulleau ?

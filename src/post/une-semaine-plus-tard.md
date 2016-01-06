@@ -1,10 +1,10 @@
 ---
-title: Une semaine plus tard...
+title: "Une semaine plus tard..."
 tags: humeurs, ez publish, montpellier, cms, blog
 updated: 2007-09-03T21:38:42.000Z
-lang: fr
-node: 64311
-remoteId: 841a7adaaeab2ab734341e5403c7bcf0
+lang: "fr"
+node: "64311"
+remoteId: "841a7adaaeab2ab734341e5403c7bcf0"
 published: 2007-02-09T14:02:20+01:00
 ---
  

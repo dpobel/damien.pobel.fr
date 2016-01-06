@@ -1,9 +1,9 @@
 ---
-title: Release of admin2++ extension version 0.2 for eZ Publish 4.4
+title: "Release of admin2++ extension version 0.2 for eZ Publish 4.4"
 tags: ez publish, extension, javascript, ergonomie, performances, jquery, jqueryui
 updated: 2010-12-19T18:35:21.000Z
-node: 68988
-remoteId: 405c0b321a47c16790c98a869e8f29a3
+node: "68988"
+remoteId: "405c0b321a47c16790c98a869e8f29a3"
 published: 2010-12-19T19:32:17+01:00
 ---
 

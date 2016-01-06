@@ -1,10 +1,10 @@
 ---
-title: Les nouveautés de PHP6
+title: "Les nouveautés de PHP6"
 tags: xml, php, web
 updated: 2008-11-01T12:38:22.000Z
-lang: fr
-node: 66846
-remoteId: 4186ca60385a96ba0d684aefcd796d3e
+lang: "fr"
+node: "66846"
+remoteId: "4186ca60385a96ba0d684aefcd796d3e"
 published: 2008-05-10T22:27:41+02:00
 ---
 

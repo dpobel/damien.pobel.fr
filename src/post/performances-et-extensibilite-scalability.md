@@ -1,10 +1,10 @@
 ---
-title: Performances et "extensibilité" (scalability)
+title: "Performances et \"extensibilité\" (scalability)"
 tags: performances, php, mysql, web, réseau, http
 updated: 2010-06-13T21:09:23.000Z
-lang: fr
-node: 67915
-remoteId: a77fce82e8b3caa04247abc210252424
+lang: "fr"
+node: "67915"
+remoteId: "a77fce82e8b3caa04247abc210252424"
 published: 2009-08-21T00:33:10+02:00
 ---
 

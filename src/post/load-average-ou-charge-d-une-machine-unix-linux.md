@@ -1,10 +1,10 @@
 ---
-title: Load Average ou charge d'une machine Unix/Linux
+title: "Load Average ou charge d'une machine Unix/Linux"
 tags: linux, shell
 updated: 2007-08-03T07:41:29.000Z
-lang: fr
-node: 65141
-remoteId: f6daeb504144a86723fa254704508502
+lang: "fr"
+node: "65141"
+remoteId: "f6daeb504144a86723fa254704508502"
 published: 2007-04-20T00:13:09+02:00
 ---
  

@@ -1,10 +1,10 @@
 ---
-title: Utiliser OpenOffice avec le look and feel GTK/GNOME sans GNOME
+title: "Utiliser OpenOffice avec le look and feel GTK/GNOME sans GNOME"
 tags: truc, openoffice, openbox, gnome, x11, ubuntu, linux
 updated: 2007-02-03T12:29:31.000Z
-lang: fr
-node: 61462
-remoteId: 2aadde2c981603fbccb06f5b93d44fd0
+lang: "fr"
+node: "61462"
+remoteId: "2aadde2c981603fbccb06f5b93d44fd0"
 published: 2006-09-17T02:04:12+02:00
 ---
  

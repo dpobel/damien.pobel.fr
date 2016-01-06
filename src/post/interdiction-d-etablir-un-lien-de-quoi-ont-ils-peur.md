@@ -1,10 +1,10 @@
 ---
-title: Interdiction d'établir un lien, de quoi ont ils peur ?
+title: "Interdiction d'établir un lien, de quoi ont ils peur ?"
 tags: humeurs, stupides, formats, google, web
 updated: 2007-12-01T12:50:57.000Z
-lang: fr
-node: 64569
-remoteId: 63c477c4d39a5729473308129809ce4e
+lang: "fr"
+node: "64569"
+remoteId: "63c477c4d39a5729473308129809ce4e"
 published: 2007-02-13T23:50:14+01:00
 ---
  

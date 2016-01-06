@@ -1,10 +1,10 @@
 ---
-title: Le parcours du combattant de la recherche d'un appartement sur le web
+title: "Le parcours du combattant de la recherche d'un appartement sur le web"
 tags: ergonomie, design, accessibilité, interface, humeurs, citation, immobilier
 updated: 2008-10-23T07:31:14.000Z
-lang: fr
-node: 67071
-remoteId: 7439effe7d1001861ab00709ca27eec5
+lang: "fr"
+node: "67071"
+remoteId: "7439effe7d1001861ab00709ca27eec5"
 published: 2008-08-26T00:30:18+02:00
 ---
 

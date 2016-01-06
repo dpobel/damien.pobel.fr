@@ -1,10 +1,10 @@
 ---
-title: Living Colour au Rockstore
+title: "Living Colour au Rockstore"
 tags: living colour, musique, montpellier, humeurs, concert, rock
 updated: 2008-10-15T16:17:00.000Z
-lang: fr
-node: 67123
-remoteId: 5a7b6b6ab5795ebaaf2264e97b05381a
+lang: "fr"
+node: "67123"
+remoteId: "5a7b6b6ab5795ebaaf2264e97b05381a"
 published: 2008-09-17T22:41:43+02:00
 ---
 <figure class="object-center"><a href="/images/living-colour.png">![Living Colour](/images//living-colour.png)

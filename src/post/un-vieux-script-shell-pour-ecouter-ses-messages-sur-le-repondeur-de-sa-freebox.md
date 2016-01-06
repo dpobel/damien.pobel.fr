@@ -1,10 +1,10 @@
 ---
-title: Un (vieux) script shell pour écouter ses messages sur le répondeur de sa Freebox
+title: "Un (vieux) script shell pour écouter ses messages sur le répondeur de sa Freebox"
 tags: geek, free, bash, linux, freebox, shell
 updated: 2007-01-30T13:19:29.000Z
-lang: fr
-node: 63834
-remoteId: 10244bd71c535ecd40dd7b9e97a2290d
+lang: "fr"
+node: "63834"
+remoteId: "10244bd71c535ecd40dd7b9e97a2290d"
 published: 2006-12-14T00:12:51+01:00
 ---
  

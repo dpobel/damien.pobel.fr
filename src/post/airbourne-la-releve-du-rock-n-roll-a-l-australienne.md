@@ -1,10 +1,10 @@
 ---
-title: Airbourne, la relève du rock'n roll à l'australienne
+title: "Airbourne, la relève du rock'n roll à l'australienne"
 tags: airbourne, musique, vidéo, acdc
 updated: 2008-08-07T22:12:49.000Z
-lang: fr
-node: 66742
-remoteId: 799cb1766c2003ef07ee2347182a4297
+lang: "fr"
+node: "66742"
+remoteId: "799cb1766c2003ef07ee2347182a4297"
 published: 2008-04-05T14:15:45+02:00
 ---
 

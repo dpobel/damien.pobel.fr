@@ -1,10 +1,10 @@
 ---
-title: Quelques nouveautés d'eZ Publish 4.1
+title: "Quelques nouveautés d'eZ Publish 4.1"
 tags: ez publish, php, xhtml, extension
 updated: 2009-04-08T09:10:42.000Z
-lang: fr
-node: 67744
-remoteId: dfc5d82b1daefb2035b5e506b7dd737d
+lang: "fr"
+node: "67744"
+remoteId: "dfc5d82b1daefb2035b5e506b7dd737d"
 published: 2009-04-08T00:22:38+02:00
 ---
 

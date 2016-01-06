@@ -1,10 +1,10 @@
 ---
-title: Mondial de l'automobile 2006 : génial !
+title: "Mondial de l'automobile 2006 : génial !"
 tags: sport, humeurs, photo, cherry
 updated: 2007-02-01T13:25:52.000Z
-lang: fr
-node: 61949
-remoteId: 5c9dc4d3dbc6b7ea7dd944a4e53aba48
+lang: "fr"
+node: "61949"
+remoteId: "5c9dc4d3dbc6b7ea7dd944a4e53aba48"
 published: 2006-10-15T02:27:09+02:00
 ---
  

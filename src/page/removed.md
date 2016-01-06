@@ -1,6 +1,6 @@
 ---
-title: Removed page
-hidden: true
+title: "Removed page"
+hidden: "true"
 ---
 
 # Removed page

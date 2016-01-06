@@ -1,9 +1,9 @@
 ---
-title: Big move !
+title: "Big move !"
 tags: saint paul de varax, ain, smile, montpellier, lyon, blog, nikon d50
-lang: fr
-node: 68715
-remoteId: 1af5e9900c78fc456effd9f9180713e8
+lang: "fr"
+node: "68715"
+remoteId: "1af5e9900c78fc456effd9f9180713e8"
 published: 2010-09-21T14:23:05+02:00
 ---
 

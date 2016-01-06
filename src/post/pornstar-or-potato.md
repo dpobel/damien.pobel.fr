@@ -1,9 +1,9 @@
 ---
-title: Pornstar or potato ?
+title: "Pornstar or potato ?"
 tags: amusant, web, buzz
-lang: fr
-node: 67900
-remoteId: 01797b9834afc0b009d038551120fb8d
+lang: "fr"
+node: "67900"
+remoteId: "01797b9834afc0b009d038551120fb8d"
 published: 2009-08-13T23:24:16+02:00
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Sensibilitation au gaspillage des appareils en veille
+title: "Sensibilitation au gaspillage des appareils en veille"
 tags: environnement, vidéo, freebox, consommation
-lang: fr
-node: 67486
-remoteId: b1b4879f85141ea0630f2365166e96aa
+lang: "fr"
+node: "67486"
+remoteId: "b1b4879f85141ea0630f2365166e96aa"
 published: 2009-01-28T14:43:02+01:00
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Les agents immobiliers
+title: "Les agents immobiliers"
 tags: humeurs, immobilier, citation, montpellier
 updated: 2008-10-12T12:37:45.000Z
-lang: fr
-node: 67151
-remoteId: 9b89eb2ba7c7e840ab85c61efde3e60e
+lang: "fr"
+node: "67151"
+remoteId: "9b89eb2ba7c7e840ab85c61efde3e60e"
 published: 2008-10-12T14:06:46+02:00
 ---
 

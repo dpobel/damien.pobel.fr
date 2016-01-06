@@ -1,10 +1,10 @@
 ---
-title: Le métal pour les nuls
+title: "Le métal pour les nuls"
 tags: musique, amusant, rock
 updated: 2008-10-24T07:25:30.000Z
-lang: fr
-node: 66516
-remoteId: 3ddcd36b05d3869f2f4c3d8b750bc513
+lang: "fr"
+node: "66516"
+remoteId: "3ddcd36b05d3869f2f4c3d8b750bc513"
 published: 2007-11-26T18:54:35+01:00
 ---
 

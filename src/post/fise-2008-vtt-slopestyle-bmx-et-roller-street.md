@@ -1,10 +1,10 @@
 ---
-title: FISE 2008 : VTT slopestyle, BMX et roller street
+title: "FISE 2008 : VTT slopestyle, BMX et roller street"
 tags: sport, bmx, photo, montpellier, nikon d50, vtt
 updated: 2008-10-23T07:30:35.000Z
-lang: fr
-node: 66814
-remoteId: 503094f66790e22c670f126b30beeee8
+lang: "fr"
+node: "66814"
+remoteId: "503094f66790e22c670f126b30beeee8"
 published: 2008-05-01T23:28:52+02:00
 ---
 

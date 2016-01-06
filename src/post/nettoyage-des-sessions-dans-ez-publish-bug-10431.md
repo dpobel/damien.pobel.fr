@@ -1,10 +1,10 @@
 ---
-title: Nettoyage des sessions dans eZ Publish (bug #10431)
+title: "Nettoyage des sessions dans eZ Publish (bug #10431)"
 tags: ez publish, hébergement, php, debian
 updated: 2007-07-12T21:32:44.000Z
-lang: fr
-node: 65191
-remoteId: 90bbd0255c8d40e5161c5e830dd7a7cd
+lang: "fr"
+node: "65191"
+remoteId: "90bbd0255c8d40e5161c5e830dd7a7cd"
 published: 2007-05-01T14:39:16+02:00
 ---
  

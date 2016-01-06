@@ -1,10 +1,10 @@
 ---
-title: Citations à propos du module Apache mod_rewrite
+title: "Citations à propos du module Apache mod_rewrite"
 tags: geek, apache, amusant, linux, citation
 updated: 2008-08-26T12:37:50.000Z
-lang: fr
-node: 65000
-remoteId: 8cb8a81211309403ecd4ea8c62ebc93a
+lang: "fr"
+node: "65000"
+remoteId: "8cb8a81211309403ecd4ea8c62ebc93a"
 published: 2007-03-29T00:15:10+02:00
 ---
 

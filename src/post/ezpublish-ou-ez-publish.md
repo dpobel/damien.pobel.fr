@@ -1,10 +1,10 @@
 ---
-title: eZpublish ou eZ publish ?
+title: "eZpublish ou eZ publish ?"
 tags: ez publish, google, référencement
 updated: 2007-05-11T22:05:22.000Z
-lang: fr
-node: 61114
-remoteId: 5063786401fd204cd56055246ce7b5c9
+lang: "fr"
+node: "61114"
+remoteId: "5063786401fd204cd56055246ce7b5c9"
 published: 2006-09-03T00:37:00+02:00
 ---
  

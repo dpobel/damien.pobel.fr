@@ -1,10 +1,10 @@
 ---
-title: AC/DC honoré par le parlement Écossais
+title: "AC/DC honoré par le parlement Écossais"
 tags: acdc, musique, humeurs, ouïfm
 updated: 2009-01-12T17:29:15.000Z
-lang: fr
-node: 67382
-remoteId: f5e47cba9af29fdfae81e9cd257926ed
+lang: "fr"
+node: "67382"
+remoteId: "f5e47cba9af29fdfae81e9cd257926ed"
 published: 2008-12-24T10:32:50+01:00
 ---
 

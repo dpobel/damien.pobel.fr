@@ -1,10 +1,10 @@
 ---
-title: Boulet
+title: "Boulet"
 tags: stupides, mysql, pense bête
 updated: 2007-07-12T14:34:21.000Z
-lang: fr
-node: 65431
-remoteId: 420330e3970b774999e3356ff01a4862
+lang: "fr"
+node: "65431"
+remoteId: "420330e3970b774999e3356ff01a4862"
 published: 2007-05-10T02:02:32+02:00
 ---
  

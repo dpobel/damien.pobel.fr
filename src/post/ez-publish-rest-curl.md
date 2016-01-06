@@ -1,7 +1,7 @@
 ---
-title: Using the eZ Publish REST API v2 with cURL
+title: "Using the eZ Publish REST API v2 with cURL"
 tags: ez publish, rest, ez publish 5, http, shell
-lang: en
+lang: "en"
 published: 2013-04-18T23:08:38+02:00
 ---
 

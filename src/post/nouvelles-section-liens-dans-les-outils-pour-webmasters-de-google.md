@@ -1,10 +1,10 @@
 ---
-title: Nouvelles section "Liens" dans les Outils pour webmasters de Google
+title: "Nouvelles section \"Liens\" dans les Outils pour webmasters de Google"
 tags: google, référencement
 updated: 2007-08-03T14:33:25.000Z
-lang: fr
-node: 64282
-remoteId: 772cf8861883449282e45174086be46f
+lang: "fr"
+node: "64282"
+remoteId: "772cf8861883449282e45174086be46f"
 published: 2007-02-06T14:06:00+01:00
 ---
  
