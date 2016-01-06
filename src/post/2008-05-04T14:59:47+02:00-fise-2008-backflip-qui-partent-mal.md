@@ -1,0 +1,23 @@
+---
+title: "FISE 2008 : backflip qui partent mal..."
+tags:
+    - sport
+    - bmx
+    - photo
+    - montpellier
+    - nikon d50
+    - fise
+updated: 2009-05-22T17:41:10+02:00
+lang: fr
+node: 66829
+remoteId: 815ea2658b479a05c29da6f8c8327c74
+---
+<figure class="object-center"><a href="/images/backflip-qui-part-mal-en-bmx-dirt.jpg">![Backflip qui part mal en BMX Dirt](/images/660x/backflip-qui-part-mal-en-bmx-dirt.jpg)
+</a></figure>
+
+<figure class="object-center"><a href="/images/backflip-qui-part-mal-en-bmx-street.jpg">![Backflip qui part mal en BMX Street](/images/660x/backflip-qui-part-mal-en-bmx-street.jpg)
+</a></figure>
+
+
+Le [backflip](http://photos.pwet.fr/villes-et-departements/herault-34/montpellier/alessandro-barbero-en-plein-back-flip/) c'est un peu LA figure qui impressionne tout le monde, mais parfois ça part mal... Heureusement dans les deux cas, pas de casse, juste une bonne frayeur et un spectacle très impressionnant.
+

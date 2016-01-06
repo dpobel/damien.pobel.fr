@@ -1,0 +1,32 @@
+---
+title: "Nokia FISE 2007 : Wakeboard, Roller street, BMX mini-spine et BMX Dirt"
+tags:
+    - sport
+    - bmx
+    - photo
+    - montpellier
+    - nikon d50
+    - fise
+updated: 2009-05-22T17:42:18+02:00
+lang: fr
+node: 65532
+remoteId: 1d89aad5b575fe86b81672ffca6a0d93
+---
+
+[Aujourd'hui encore, j'étais au Nokia FISE](/post/nokia-fise-2007-le-jeudi-qualifications-wakeboard-et-training-bmx-dirt) et une fois de plus c'était excellent. Le meilleur de la journée était sans conteste les finales de BMX Dirt avec une ambiance chauffée à blanc par des riders qui envoient des trucs pas possibles.
+
+<figure class="object-center"><a href="/images/preparation-du-saut-en-wakeboard.jpg">![Préparation du saut en wakeboard](/images/660x/preparation-du-saut-en-wakeboard.jpg)
+</a></figure>
+
+<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/wakeboarder.jpg">![Wakeboarder](/images/330x/wakeboarder.jpg)
+</a></figure></td>
+<td><figure class="object-center"><a href="/images/roller-street.jpg">![Roller street](/images/330x/roller-street.jpg)
+</a></figure></td>
+</tr>
+<tr><td><figure class="object-center"><a href="/images/bmx-mini-spine.jpg">![BMX mini-spine](/images/330x/bmx-mini-spine.jpg)
+</a></figure></td>
+<td><figure class="object-center"><a href="/images/bmx-dirt-3.jpg">![BMX Dirt #3](/images/330x/bmx-dirt-3.jpg)
+</a></figure></td>
+</tr>
+
+</table>
