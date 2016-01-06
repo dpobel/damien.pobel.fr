@@ -32,12 +32,18 @@ function renameFiles(files, metalsmith, done) {
 }
 
 function metadataToString(data) {
+    var str;
+
     if ( Array.isArray(data) ) {
         return data.join(', ');
     } else if ( data instanceof Date ) {
         return data.toJSON();
     }
-    return data.toString();
+    str = data.toString();
+    if ( str.match(/^20[01][0-9]/) ) {
+        return str;
+    }
+    return '"' + str.replace(/"/g, '\\"') + '"';
 }
 
 function keepMetadata(files, metalsmith, done) {
