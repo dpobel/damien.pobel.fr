@@ -1,0 +1,67 @@
+#!/usr/bin/env php
+<?php
+
+include_once( 'lib/ezutils/classes/ezcli.php' );
+include_once( 'kernel/classes/ezscript.php' );
+
+$cli =& eZCLI::instance();
+$script =& eZScript::instance( array( 'description' => ( "Wildcard apache rules generation\n" .
+                                                         "\nwildcard_apache_rules.php" ),
+                                      'use-session' => false,
+                                      'use-modules' => true,
+                                      'use-extensions' => false ) );
+$script->startup();
+$options = $script->getOptions();
+$script->initialize();
+$db =& eZDB::instance();
+
+$cli->output( '#### Auto-generated rules ####' );
+$cli->output( '## you may need to load mod_rewrite' );
+$cli->output( '## you may need to uncomment the following line' );
+$cli->output( '# RewriteEngine on' );
+
+function wildcardRules2RewriteRules( $wildcardRulesArray, $apacheFlag )
+{
+	global $cli;
+
+	foreach( $wildcardRulesArray as $wildcardRule )
+	{
+		$source = str_replace( '*', '(.*)', $wildcardRule['source_url'] );
+		$destination = preg_replace( '#{([0-9]+)}#', '\$\\1', $wildcardRule['destination_url'] );
+		$cli->output( '# eZ Publish ' . $wildcardRule['source_url']
+						. ' -> ' . $wildcardRule['destination_url'] );
+		$cli->output( 'RewriteRule ' . $source . ' ' . $destination . ' ' . $apacheFlag );
+	}
+	$cli->output( '' );
+}
+
+include_once( 'kernel/classes/ezurlalias.php' );
+
+/*** Forward rules ***/
+$query = 'SELECT destination_url,source_url
+			FROM `ezurlalias`
+			WHERE is_imported=0 AND is_wildcard=' . EZ_URLALIAS_WILDCARD_TYPE_FORWARD;
+$apacheFlag = '[L,R=301]';
+$wildcardRulesArray = $db->arrayQuery( $query );
+if ( count( $wildcardRulesArray ) > 0 )
+{
+	$cli->output( '### Forward rules' );
+	wildcardRules2RewriteRules( $wildcardRulesArray, $apacheFlag );
+}
+
+/*** Direct rules ***/
+$apacheFlag = '[P,L]';
+$query = 'SELECT destination_url,source_url
+			FROM `ezurlalias`
+			WHERE is_imported=0 AND is_wildcard=' . EZ_URLALIAS_WILDCARD_TYPE_DIRECT;
+$wildcardRulesArray = $db->arrayQuery( $query );
+if ( count( $wildcardRulesArray ) > 0 )
+{
+	$cli->output( '### Direct rules' );
+	$cli->output( '## for those rules, you need to load mod_proxy' );
+	wildcardRules2RewriteRules( $wildcardRulesArray, $apacheFlag );
+}
+
+
+$script->shutdown();
+?>

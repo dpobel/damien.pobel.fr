@@ -1,10 +1,6 @@
 ---
 title: JavaScript unit tests with YUI Test
-tags:
-    - yui
-    - unit test
-    - javascript
-    - frontend
+tags: yui, unit test, javascript, frontend
 lang: en
 published: 2014-02-17T13:45:46+01:00
 ---

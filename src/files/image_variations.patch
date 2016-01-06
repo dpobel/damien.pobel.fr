@@ -1,0 +1,52 @@
+Index: kernel/classes/datatypes/ezimage/ezimagealiashandler.php
+===================================================================
+--- kernel/classes/datatypes/ezimage/ezimagealiashandler.php	(révision 21172)
++++ kernel/classes/datatypes/ezimage/ezimagealiashandler.php	(révision 21173)
+@@ -535,14 +535,9 @@
+ 
+         $this->ContentObjectAttributeData['DataTypeCustom']['dom_tree'] = $domTree;
+         $imageNodeArray = $domTree->getElementsByTagName( "ezimage" );
+-        $imageInfoNodeArray = $domTree->getElementsByTagName( "information" );
+-        $imageVariationNodeArray = $domTree->getElementsByTagName( "alias" );
+-        $imageOriginalArray = $domTree->getElementsByTagName( "original" );
+ 
+         $aliasList = array();
+ 
+-        $aliasEntry = array();
+-
+         // I think this is a bug in the plain package or related to the bug I filed
+         // about the image datatype serialization
+         // http://ez.no/bugs/view/8821 ezpm Error: (eZFileHandler::copy) Unable to open source file in read mode
+@@ -552,6 +547,13 @@
+         }
+ 
+         $imageNode = $imageNodeArray->item( 0 );
++
++        $imageInfoNodeArray = $imageNode->getElementsByTagName( "information" );
++        $imageVariationNodeArray = $imageNode->getElementsByTagName( "alias" );
++        $imageOriginalArray = $imageNode->getElementsByTagName( "original" );
++
++        $aliasEntry = array();
++
+         $alternativeText = $imageNode->getAttribute( 'alternative_text' );
+         $originalFilename = $imageNode->getAttribute( 'original_filename' );
+         $basename = $imageNode->getAttribute( 'basename' );
+@@ -622,7 +624,7 @@
+ 
+         $aliasList['original'] = $aliasEntry;
+ 
+-        if ( is_array( $imageVariationNodeArray ) )
++        if ( $imageVariationNodeArray->length > 0 )
+         {
+             foreach ( $imageVariationNodeArray as $imageVariation )
+             {
+Index: doc/changelogs/4.0/CHANGELOG-4.0.0-to-4.0.1
+===================================================================
+--- doc/changelogs/4.0/CHANGELOG-4.0.0-to-4.0.1	(révision 21172)
++++ doc/changelogs/4.0/CHANGELOG-4.0.0-to-4.0.1	(révision 21173)
+@@ -101,3 +101,5 @@
+   (Merged from trunk (4.1.0alpha1) rev. 21164)
+ - Fixed bug #11970: Query error: Out of range value adjusted for column 'lang_mask' at row 1. Fixed for mysqli interfase.
+   (Merged from trunk (4.1.0alpha1) rev. 21168)
++- Fixed bug #12386: XML Handling of ImageAlias not correct
++  (Merged from trunk (4.1.0alpha1) rev. 21172)

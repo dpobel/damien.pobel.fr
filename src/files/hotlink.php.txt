@@ -1,0 +1,57 @@
+<?php
+define('IMAGE_CACHE_DIR', 'var/cache/tag_images/');
+define('TTF_FONT', 'share/Trebuchet_MS.ttf');
+define('IMG_TEXTE', 'Image sous Licence CC-By-Sa - http://pwet.fr/photos');
+define('BASE_FONT_SIZE', 25); // font size pour 1000px large
+
+if ( !array_key_exists('img', $_GET) )
+	exit();
+$image = $_GET['img'];
+if ( $image{0} == '/' )
+	$image = substr($image, 1);
+if ( !is_image($image) )
+	exit();
+tag_image($image, IMG_TEXTE);
+
+function tag_image($image, $message)
+{
+	$tagImageName = IMAGE_CACHE_DIR.md5($image).'.jpg';
+	if ( !file_exists($tagImageName) )
+	{
+		$imgInfo = getImageSize($image);
+		$imgRessource = imageCreateFromJPEG($image);
+		$color = imageColorAllocate($imgRessource, 255, 255, 255);
+		$fontSize = get_font_size($imgInfo[0]);
+		$coordInfo = get_start_coordinates($imgInfo[0], $imgInfo[1], $fontSize, $message);
+		imageTTFText($imgRessource, $fontSize, 0, $coordInfo['x'], $coordInfo['y'], $color, TTF_FONT, $message);
+		imageJPEG($imgRessource, $tagImageName);
+	}
+	header('Content-type: image/jpg');
+	header('Content-length: '.filesize($tagImageName));
+	readfile($tagImageName);
+}
+
+function get_font_size($width)
+{
+	return ceil($width*BASE_FONT_SIZE/1000);
+}
+
+function get_start_coordinates($imgWith, $imgHeight, $fontSize, $text)
+{
+	$result = array();
+	$boxInfo = imageTTFBBox($fontSize, 0, TTF_FONT, $text);
+	$widthBox = $boxInfo[2] - $boxInfo[0];
+	$heightBox = $boxInfo[3] - $boxInfo[1];
+	$result['x'] = $fontSize;
+	$result['y'] = $imgHeight - $heightBox - $fontSize;
+	return $result;
+}
+
+function is_image($file)
+{
+	if ( !file_exists($file) || !@getImageSize($file) )
+		return false;
+	return true;
+}
+
+?>

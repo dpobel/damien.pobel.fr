@@ -1,12 +1,8 @@
 ---
 title: console.log('Hello world!')
-tags:
-    - javascript
-    - ez publish
-    - blog
-    - lectroid
-    - node.js
+tags: javascript, ez publish, blog, lectroid, node.js
 lang: en
+published: 2013-02-28T22:46:13+01:00
 ---
 
 Hello world! And welcome on my brand new blog. And when I write *new*, I mean

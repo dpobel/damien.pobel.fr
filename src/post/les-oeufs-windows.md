@@ -1,0 +1,23 @@
+---
+title: Les oeufs Windows !
+tags: windows, informatique, amusant, vidéo
+updated: 2007-12-01T12:51:10.000Z
+lang: fr
+node: 64295
+remoteId: e3c8a9209ac4be12f1497d338d9d445b
+published: 2007-02-07T19:45:55+01:00
+---
+ 
+<div class="video">
+	<object width="400" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/ySFTgez_Z4k">
+		<param name="movie" value="http://www.youtube.com/v/ySFTgez_Z4k"></param>
+		<param name="allowfullscreen" value="true"></param>
+	</object>
+</div>
+
+ 
+[Groland](http://www.canalplus.fr/pid38.htm) en très grande forme une fois de plus. Le plus marrant c'est que [c'est tellement vrai](http://www.zdnet.fr/actualites/informatique/0,39040745,39146545,00.htm) !
+
+ 
+*(Non ce blog n'est pas en train de se transformer en vidéo blog...)*
+
