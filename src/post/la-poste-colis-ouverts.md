@@ -3,6 +3,7 @@ title: Colis ouverts pendant la livraison par La Poste, trop c'est trop!
 tags:
     - humeur
     - la poste
+published: 2013-12-28T22:13:16+01:00
 ---
 
 Trop, c'est trop! Voici un coli et son contenu reçus aujourd'hui&nbsp;:
