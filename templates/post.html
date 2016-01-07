@@ -1,7 +1,9 @@
 {% extends "templates/layout.html" %}
 
 {% block content %}
-<h1>{{ title }}</h1>
+<article>
+    <h1>{{ title }}</h1>
 
-{{ contents|safe }}
+    {{ contents|safe }}
+</article>
 {% endblock %}

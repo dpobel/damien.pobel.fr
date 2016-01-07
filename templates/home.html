@@ -1,10 +1,11 @@
 {% extends "templates/layout.html" %}
 
 {% block content %}
-<h1>Derniers articles</h1>
-<ul>
-{% for post in collections.lastPosts %}
-    <li>{% include "templates/parts/post_line.html" %}</li>
-{% endfor %}
-</ul>
+    <h1>Derniers articles</h1>
+
+    <ul>
+    {% for post in collections.lastPosts %}
+        <li>{% include "templates/parts/post_line.html" %}</li>
+    {% endfor %}
+    </ul>
 {% endblock %}

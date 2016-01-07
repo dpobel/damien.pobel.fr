@@ -17,8 +17,18 @@
     <![endif]-->
 </head>
 <body>
+<header>
 {% block pageHeader %}{% endblock %}
+</header>
+
+<main role="main">
 {% block content %}{% endblock %}
+</main>
+
+{% block sideMenu %}{% endblock %}
+
+<footer>
 {% block pageFooter %}{% endblock %}
+</footer>
 </body>
 </html>

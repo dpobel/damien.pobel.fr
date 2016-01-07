@@ -1,12 +1,13 @@
 {% extends "templates/layout.html" %}
 
 {% block content %}
-<h1>{{ tag }}</h1>
-<ul>
-{% for post in pagination.files  %}
-    <li>{% include "templates/parts/post_line.html" %}</li>
-{% endfor %}
-</ul>
+    <h1>{{ tag }}</h1>
 
-{% include "templates/parts/pagination.html" %}
+    <ul>
+    {% for post in pagination.files  %}
+        <li>{% include "templates/parts/post_line.html" %}</li>
+    {% endfor %}
+    </ul>
+
+    {% include "templates/parts/pagination.html" %}
 {% endblock %}
