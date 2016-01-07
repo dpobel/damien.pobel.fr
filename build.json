@@ -2,6 +2,22 @@
     "source": "src",
     "destination": "web",
     "baseUri": "http://damien.pobel.fr",
+    "fileMetadata": [{
+        "pattern": "post/*.md",
+        "metadata": {
+            "layout": "post.html"
+        }
+    }, {
+        "pattern": "page/*.md",
+        "metadata": {
+            "layout": "page.html"
+        }
+    }, {
+        "pattern": "index.md",
+        "metadata": {
+            "layout": "home.html"
+        }
+    }],
     "tags": {
         "handle": "tags",
         "path": "tag/:tag.html",
@@ -52,7 +68,6 @@
     },
     "layouts": {
         "engine": "nunjucks",
-        "directory": "templates",
-        "default": "default.html"
+        "directory": "templates"
     }
 }

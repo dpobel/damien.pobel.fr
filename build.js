@@ -7,6 +7,7 @@ var metalsmith = require('metalsmith'),
     consolidate = require('consolidate'),
     nunjucks = require('nunjucks'),
 
+    fileMetadata = require('metalsmith-filemetadata'),
     tags = require('metalsmith-tags'),
     layouts = require('metalsmith-layouts'),
     markdown = require('metalsmith-markdown'),
@@ -24,6 +25,7 @@ metalsmith(__dirname)
     .use(tags(conf.tags))
     .use(collections(conf.collections))
     .use(pagination(conf.pagination))
+    .use(fileMetadata(conf.fileMetadata))
     .use(markdown())
     .use(permalinks(conf.permalinks))
     .use(layouts(conf.layouts))
