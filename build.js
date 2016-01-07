@@ -19,6 +19,7 @@ console.log('Adding custom Nunjucks filters');
 consolidate.requires.nunjucks = nunjucks.configure();
 require('./lib/nunjucks/filters')(consolidate.requires.nunjucks);
 
+console.log('Generating the site');
 metalsmith(__dirname)
     .source(source)
     .destination(destination)
