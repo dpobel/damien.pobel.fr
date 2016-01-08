@@ -7,6 +7,12 @@
     {{ contents|safe }}
 
     <footer>
+        <ul>
+            {% for tag in tags %}
+            {# TODO: make a PR on metalsmith-tags to avoid building again the page URI #}
+            <li><a href="{{ ('tag/' + tagsList[tag].urlSafe)|url }}">{{ tag }}</a></li>
+            {% endfor %}
+        </ul>
         <time datetime="{{ published.format() }}">{{ published.format('YYYY-MM-DD HH:mm') }}</time>
     </footer>
 </article>

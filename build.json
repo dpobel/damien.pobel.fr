@@ -26,6 +26,7 @@
         "sortBy": "published",
         "reverse": true,
         "skipMetadata": false,
+        "metadataKey": "tagsList",
         "perPage": 5,
         "pathPage": "tag/:tag/:num.html"
     },
