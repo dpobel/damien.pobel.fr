@@ -18,6 +18,7 @@
             "layout": "home.html"
         }
     }],
+    "moment": ["published", "updated"],
     "tags": {
         "handle": "tags",
         "path": "tag/:tag.html",

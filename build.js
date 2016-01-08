@@ -7,6 +7,7 @@ var metalsmith = require('metalsmith'),
     consolidate = require('consolidate'),
     nunjucks = require('nunjucks'),
 
+    msMoment = require('metalsmith-moment'),
     fileMetadata = require('metalsmith-filemetadata'),
     tags = require('metalsmith-tags'),
     layouts = require('metalsmith-layouts'),
@@ -23,6 +24,7 @@ console.log('Generating the site');
 metalsmith(__dirname)
     .source(source)
     .destination(destination)
+    .use(msMoment(conf.moment))
     .use(tags(conf.tags))
     .use(collections(conf.collections))
     .use(pagination(conf.pagination))

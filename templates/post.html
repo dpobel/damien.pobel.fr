@@ -5,5 +5,9 @@
     <h1>{{ title }}</h1>
 
     {{ contents|safe }}
+
+    <footer>
+        <time datetime="{{ published.format() }}">{{ published.format('YYYY-MM-DD HH:mm') }}</time>
+    </footer>
 </article>
 {% endblock %}

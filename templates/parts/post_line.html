@@ -1,1 +1,4 @@
-<a href="{{ post.path|url }}">{{ post.title }}</a>
+<article>
+    <a href="{{ post.path|url }}">{{ post.title }}</a>
+    <time datetime="{{ post.published.format() }}">{{ post.published.format('YYYY-MM-DD HH:mm') }}</time>
+</article>
