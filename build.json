@@ -1,7 +1,11 @@
 {
     "source": "src",
     "destination": "web",
-    "baseUri": "http://damien.pobel.fr",
+    "define": {
+        "site": {
+            "url": "http://damien.pobel.fr"
+        }
+    },
     "fileMetadata": [{
         "pattern": "post/*.md",
         "metadata": {
@@ -71,5 +75,12 @@
     "layouts": {
         "engine": "nunjucks",
         "directory": "templates"
+    },
+    "feed": {
+        "collection": "posts",
+        "limit": 10,
+        "destination": "rss.xml",
+        "title": "Derniers posts",
+        "description": "Damien Pobel / Blog"
     }
 }

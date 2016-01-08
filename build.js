@@ -7,6 +7,8 @@ var metalsmith = require('metalsmith'),
     consolidate = require('consolidate'),
     nunjucks = require('nunjucks'),
 
+    define = require('metalsmith-define'),
+    feed = require('metalsmith-feed'),
     msMoment = require('metalsmith-moment'),
     fileMetadata = require('metalsmith-filemetadata'),
     tags = require('metalsmith-tags'),
@@ -24,6 +26,7 @@ console.log('Generating the site');
 metalsmith(__dirname)
     .source(source)
     .destination(destination)
+    .use(define(conf.define))
     .use(msMoment(conf.moment))
     .use(tags(conf.tags))
     .use(collections(conf.collections))
@@ -31,6 +34,7 @@ metalsmith(__dirname)
     .use(fileMetadata(conf.fileMetadata))
     .use(markdown())
     .use(permalinks(conf.permalinks))
+    .use(feed(conf.feed))
     .use(layouts(conf.layouts))
     .build(function (error, res) {
         if ( error ) {
