@@ -9,6 +9,7 @@ var metalsmith = require('metalsmith'),
 
     imageVariation = require('./lib/metalsmith/image-variation'),
 
+    ignore = require('metalsmith-ignore'),
     myth = require('metalsmith-myth'),
     assets = require('metalsmith-assets'),
     metallic = require('metalsmith-metallic'),
@@ -34,6 +35,7 @@ metalsmith(__dirname)
     .use(define(conf.define))
     .use(assets(conf.assets))
     .use(myth(conf.myth))
+    .use(ignore(conf.ignore))
     .use(msMoment(conf.moment))
     .use(tags(conf.tags))
     .use(collections(conf.collections))

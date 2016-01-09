@@ -23,6 +23,9 @@
             }
         }
     },
+    "ignore": [
+        "ext/*"
+    ],
     "assets": {
         "source": "./assets",
         "destination": "."
