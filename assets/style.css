@@ -1,5 +1,112 @@
 @import "ext/normalize.css";
 
-/* code will go there */
+:root {
+    --max-width: 960px;
+}
+
+body {
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #333;
+    background: #ccc;
+}
+
+a {
+    color: #002b56;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #444;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: normal;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul ul {
+    list-style-type: disc;
+    margin: 0;
+}
+
+ol ul, ul ol, ol ol {
+    margin: 0;
+}
+
+.page-header, .page-footer {
+    background-color: #002b56;
+    background-image: linear-gradient(to bottom, #000f1e, #002b56);
+    color: #fff;
+    padding: 1em;
+}
+
+.page-header img {
+    float: left;
+    border-radius: 50%;
+    border: 3px solid #5a97bd;
+    margin-right: 0.3em;
+}
+
+.page-header a, .site-menu a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.page-footer a {
+    color: #fff;
+}
+
+.page-header h1 {
+    margin: 0 auto;
+    max-width: var(--max-width);
+}
+
+.page-header p {
+    font-style: italic;
+    margin: 1.4em auto 0 auto;
+    max-width: var(--max-width);
+}
+
+.page-footer p {
+    max-width: var(--max-width);
+    margin: 0.5em auto;
+}
+
+.page-section:before {
+    content: "/ ";
+}
+
+.site-menu {
+    background: #333;
+}
+
+.site-menu ul {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0;
+    border-left: 1px solid #ccc;
+}
+
+.site-menu li {
+    display: table-cell;
+    vertical-align:middle;
+    list-style-type: none;
+    padding: 0.8em 1em;
+    border-right: 1px solid #ccc;
+}
+
+main {
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 0px 0px 30px 0px #888;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 1em 0;
+}
+
+main pre {
+    line-height: 1.2;
+}
 
 @import "ext/github.css";

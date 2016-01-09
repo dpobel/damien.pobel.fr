@@ -19,30 +19,31 @@
 </head>
 <body>
 {% block pageHeader %}
-<header>
+<header class="page-header">
     <h1>
+        <a href="/"><img src="/images/avatar.png" alt="avatar"></a>
         <a href="/">{{ site.name }}</a>
-        {% if section %}<a href="{{ sections[section].path|url }}">{{ sections[section].name }}</a>{% endif %}
+        {% if section %}<a href="{{ sections[section].path|url }}" class="page-section">{{ sections[section].name }}</a>{% endif %}
     </h1>
     <p>{{ site.baseline }}</p>
-    <nav>
-        <ul>
-            {% for item in menu %}
-            <li><a href="{{ item.path|url }}">{{ item.name }}</a></li>
-            {% endfor %}
-        </ul>
-    </nav>
 </header>
+<nav class="site-menu">
+    <ul>
+        {% for item in menu %}
+        <li><a href="{{ item.path|url }}">{{ item.name }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
 {% endblock %}
 
 <main role="main">
 {% block content %}{% endblock %}
-</main>
 
 {% block sideMenu %}{% endblock %}
+</main>
 
 {% block pageFooter %}
-<footer>
+<footer class="page-footer">
     <p>
         Copyright &copy; 2006-2016 Damien Pobel
         &mdash;
