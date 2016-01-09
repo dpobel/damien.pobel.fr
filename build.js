@@ -7,6 +7,8 @@ var metalsmith = require('metalsmith'),
     consolidate = require('consolidate'),
     nunjucks = require('nunjucks'),
 
+    imageVariation = require('./lib/metalsmith/image-variation'),
+
     define = require('metalsmith-define'),
     feed = require('metalsmith-feed'),
     msMoment = require('metalsmith-moment'),
@@ -33,6 +35,7 @@ metalsmith(__dirname)
     .use(pagination(conf.pagination))
     .use(fileMetadata(conf.fileMetadata))
     .use(markdown())
+    .use(imageVariation(conf.imageVariation))
     .use(permalinks(conf.permalinks))
     .use(feed(conf.feed))
     .use(layouts(conf.layouts))

@@ -2,3 +2,6 @@ language: node_js
 branches:
     only:
         - master
+addons:
+    apt_packages:
+        - graphicsmagick
