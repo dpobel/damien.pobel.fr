@@ -9,6 +9,7 @@ var metalsmith = require('metalsmith'),
 
     imageVariation = require('./lib/metalsmith/image-variation'),
 
+    metallic = require('metalsmith-metallic'),
     define = require('metalsmith-define'),
     feed = require('metalsmith-feed'),
     msMoment = require('metalsmith-moment'),
@@ -34,6 +35,7 @@ metalsmith(__dirname)
     .use(collections(conf.collections))
     .use(pagination(conf.pagination))
     .use(fileMetadata(conf.fileMetadata))
+    .use(metallic())
     .use(markdown())
     .use(imageVariation(conf.imageVariation))
     .use(permalinks(conf.permalinks))
