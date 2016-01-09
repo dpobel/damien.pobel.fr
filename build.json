@@ -23,6 +23,14 @@
             }
         }
     },
+    "assets": {
+        "source": "./assets",
+        "destination": "."
+    },
+    "myth": {
+        "files": "style.css",
+        "compress": true
+    },
     "fileMetadata": [{
         "pattern": "posts.md",
         "metadata": {
