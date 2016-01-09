@@ -82,5 +82,8 @@
         "destination": "rss.xml",
         "title": "Derniers posts",
         "description": "Damien Pobel / Blog"
+    },
+    "imageVariation": {
+        "concurrency": 2
     }
 }
