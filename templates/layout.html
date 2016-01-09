@@ -17,9 +17,22 @@
     <![endif]-->
 </head>
 <body>
+{% block pageHeader %}
 <header>
-{% block pageHeader %}{% endblock %}
+    <h1>
+        <a href="/">{{ site.name }}</a>
+        {% if section %}<a href="{{ sections[section].path|url }}">{{ sections[section].name }}</a>{% endif %}
+    </h1>
+    <p>{{ site.baseline }}</p>
+    <nav>
+        <ul>
+            {% for item in menu %}
+            <li><a href="{{ item.path|url }}">{{ item.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </nav>
 </header>
+{% endblock %}
 
 <main role="main">
 {% block content %}{% endblock %}

@@ -3,18 +3,47 @@
     "destination": "web",
     "define": {
         "site": {
-            "url": "http://damien.pobel.fr"
+            "url": "http://damien.pobel.fr",
+            "name": "Damien Pobel",
+            "baseline": "Curious geek and (sometimes grumpy) software engineer ;-)"
+        },
+        "menu": [
+            {"path": "posts", "name": "blog"},
+            {"path": "page/cv", "name": "cv"},
+            {"path": "page/about", "name": "à propos"}
+        ],
+        "sections": {
+            "blog": {
+                "name": "blog",
+                "path": "posts"
+            },
+            "pages": {
+                "name": "pages",
+                "path": "pages"
+            }
         }
     },
     "fileMetadata": [{
+        "pattern": "posts.md",
+        "metadata": {
+            "section": "blog"
+        }
+    }, {
+        "pattern": "pages.md",
+        "metadata": {
+            "section": "pages"
+        }
+    }, {
         "pattern": "post/*.md",
         "metadata": {
-            "layout": "post.html"
+            "layout": "post.html",
+            "section": "blog"
         }
     }, {
         "pattern": "page/*.md",
         "metadata": {
-            "layout": "page.html"
+            "layout": "page.html",
+            "section": "pages"
         }
     }, {
         "pattern": "index.md",
