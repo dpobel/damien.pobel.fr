@@ -53,7 +53,7 @@ function keepMetadata(files, metalsmith, done) {
         var file = files[filePath],
             line = "---\n";
 
-        if ( filePath.endsWith('.md') ) {
+        if ( filePath.endsWith('.md') || filePath.endsWith('.html') ) {
             Object.keys(file).forEach(function (key) {
                 if ( excludeProps.indexOf(key) === -1 ) {
                     line += key + ": " + metadataToString(file[key]) + "\n";
