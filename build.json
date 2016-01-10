@@ -51,7 +51,7 @@
             "section": "blog"
         }
     }, {
-        "pattern": "page/*.md",
+        "pattern": "page/*",
         "metadata": {
             "layout": "page.html",
             "section": "pages"
