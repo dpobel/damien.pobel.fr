@@ -4,6 +4,23 @@
 
 .post-content {
     text-align: justify;
+    line-height: 1.9;
+}
+
+.post-content pre {
+    line-height: 1.2;
+    border: 1px solid #bbb;
+}
+
+.post-content pre code {
+    overflow-y: auto;
+    word-wrap: normal;
+    white-space: pre;
+}
+
+.post-contant p > code, .post-content li > code {
+    padding: 2px;
+    background: #eeeeee;
 }
 
 .post .navigation {
@@ -18,4 +35,53 @@
 
 .post .navigation .navigation-next {
     text-align: right;
+}
+
+.post figure {
+    margin: 1em 0;
+}
+
+.post figure img {
+    display: block;
+}
+
+.post figcaption {
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    border-top: 0;
+    font-size: 90%;
+    padding: 0.4em 5px;
+    line-height: 1.5;
+}
+
+.post .object-left {
+    float: left;
+    margin: 0 1em 0 0;
+}
+
+.post .object-right {
+    float: right;
+    margin: 0 0 0 1em;
+}
+
+.post .object-center {
+    margin: 1em auto;
+}
+
+.post blockquote {
+    background: #eee;
+    border: 1px solid #888;
+    font-style: italic;
+    padding: 0.7em;
+    font-family: var(--serif-font);
+    font-size: 110%;
+    margin: 1em 15px;
+}
+
+.post blockquote p {
+    margin: 0.4em 0;
+}
+
+.post abbr {
+    border-bottom: 1px dotted #333;
 }

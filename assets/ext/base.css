@@ -15,7 +15,11 @@ body {
 }
 
 a {
-    color: #002b56;
+    color: #00d;
+}
+
+a:visited {
+    color: #009;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -42,7 +46,6 @@ ol ul, ul ol, ol ol {
 }
 
 .page-content {
-    line-height: 1.9;
     background: #fff;
     box-shadow: 0px 0px 30px 0px #888;
     max-width: var(--max-width);
@@ -67,14 +70,17 @@ ol ul, ul ol, ol ol {
 }
 
 .page-content h1 {
+    padding-bottom: 3px;
     border-bottom: 1px solid #eee;
-}
-
-.page-content pre {
-    line-height: 1.2;
 }
 
 .side-block {
     border-left: 1px solid #eee;
     padding: 0.5em 30px;
+}
+
+.side-block h2 {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 3px;
+    margin: 0;
 }

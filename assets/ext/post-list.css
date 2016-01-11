@@ -11,9 +11,15 @@
 
 .post-list h2 {
     margin: 0;
+    line-height: 2em;
 }
 
 .post-list h2 a {
     text-decoration: none;
     display: block;
+    color: #002b56;
+}
+
+.post-list .post-meta {
+    padding: 0;
 }
