@@ -18,7 +18,7 @@
     white-space: pre;
 }
 
-.post-contant p > code, .post-content li > code {
+.post-content p > code, .post-content li > code {
     padding: 2px;
     background: #eeeeee;
 }
