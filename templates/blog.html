@@ -1,7 +1,8 @@
 {% extends "templates/layout.html" %}
 
 {% block content %}
-    <ul>
+    <h1>Blog{% if pagination.num > 1 %} (page {{ pagination.num }}){% endif %}</h1>
+    <ul class="post-list">
     {% for post in pagination.files %}
         <li>{% include "templates/parts/post_line.html" %}</li>
     {% endfor %}

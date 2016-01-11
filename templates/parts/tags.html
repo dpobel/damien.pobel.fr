@@ -1,0 +1,6 @@
+<ul class="post-tags">
+{% for tag in tags %}
+    {# TODO: make a PR on metalsmith-tags to avoid building again the page URI #}
+    <li><a href="{{ ('tag/' + tagsList[tag].urlSafe)|url }}">{{ tag }}</a></li>
+{% endfor %}
+</ul>

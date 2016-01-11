@@ -1,17 +1,13 @@
 {% if pagination.previous or pagination.next %}
-<ul>
-    <li>
+<ul class="navigation">
+    <li class="navigation-prev">
     {% if pagination.previous %}
         <a href="{{ pagination.previous.path|url }}">&laquo;&nbsp;Page précédente</a>
-    {% else %}
-        <span>&laquo;&nbsp;Page précédente</span>
     {% endif %}
     </li>
-    <li>
+    <li class="navigation-next">
     {% if pagination.next %}
         <a href="{{ pagination.next.path|url }}">Page suivante&nbsp;&raquo;</a>
-    {% else %}
-        <span>Page suivante&nbsp;&raquo;</span>
     {% endif %}
     </li>
 </ul>

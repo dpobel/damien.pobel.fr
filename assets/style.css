@@ -2,12 +2,17 @@
 
 :root {
     --max-width: 960px;
+    --serif-font: Georgia, "Times New Roman", Times, serif;
+    --sans-serif-font: Tahoma, Arial, Helvetica, sans-serif;
+    --meta-color: #777;
+    --title-color: #444;
+    --text-color: #333;
 }
 
 body {
-    font-family: Tahoma, Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    color: #333;
+    font-family: var(--sans-serif-font);
+    font-size: 14px;
+    color: var(--text-color);
     background: #ccc;
 }
 
@@ -16,8 +21,8 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #444;
-    font-family: Georgia, "Times New Roman", Times, serif;
+    color: var(--title-color);
+    font-family: var(--serif-font);
     font-weight: normal;
 }
 
@@ -97,7 +102,7 @@ ol ul, ul ol, ol ol {
 }
 
 main {
-    line-height: 1.5;
+    line-height: 1.9;
     background: #fff;
     box-shadow: 0px 0px 30px 0px #888;
     max-width: var(--max-width);
@@ -107,6 +112,96 @@ main {
 
 main pre {
     line-height: 1.2;
+}
+
+.post-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.post-list > li {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.post-list h2 {
+    margin: 0;
+}
+
+.post-list h2 a {
+    text-decoration: none;
+    display: block;
+}
+
+.post-tags {
+    padding: 0;
+    margin: 0;
+}
+
+.post-tags li {
+    display: inline;
+    list-style-type: none;
+    padding: 0 0.6em 0 0;
+}
+
+.post-meta {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post .post-meta {
+    flex-wrap: wrap;
+}
+
+.post-meta a, .post-meta {
+    text-decoration: none;
+    color: var(--meta-color);
+}
+
+.post-content {
+    text-align: justify;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+    color: var(--meta-color);
+    width: 100%;
+}
+
+.navigation li {
+    width: 45%;
+}
+
+.navigation a {
+    display: block;
+    text-decoration: none;
+    color: var(--meta-color);
+}
+
+.navigation .navigation-prev {
+    text-align: right;
+}
+
+.navigation .navigation-next {
+    text-align: left;
+}
+
+.post .navigation {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 1em 0;
+}
+
+.post .navigation .navigation-prev {
+    text-align: left;
+}
+
+.post .navigation .navigation-next {
+    text-align: right;
 }
 
 @import "ext/github.css";

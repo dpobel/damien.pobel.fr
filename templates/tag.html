@@ -3,7 +3,7 @@
 {% block content %}
     <h1>{{ tag }}</h1>
 
-    <ul>
+    <ul class="post-list">
     {% for post in pagination.files  %}
         <li>{% include "templates/parts/post_line.html" %}</li>
     {% endfor %}

@@ -1,19 +1,37 @@
 {% extends "templates/layout.html" %}
 
 {% block content %}
-<article>
+<article class="post" lang="{{ lang }}">
     <h1>{{ title }}</h1>
 
+    <div class="post-content">
     {{ contents|safe }}
+    </div>
 
-    <footer>
-        <ul>
-            {% for tag in tags %}
-            {# TODO: make a PR on metalsmith-tags to avoid building again the page URI #}
-            <li><a href="{{ ('tag/' + tagsList[tag].urlSafe)|url }}">{{ tag }}</a></li>
-            {% endfor %}
-        </ul>
+    <footer class="post-meta">
+        {% include "templates/parts/tags.html" %}
         <time datetime="{{ published.format() }}">{{ published.format('YYYY-MM-DD HH:mm') }}</time>
+        <ul class="navigation">
+            <li class="navigation-prev">
+            {% if previous %}
+                <a href="{{ previous.path|url }}">
+                    &laquo;&nbsp;Billet précédent
+                    <br>
+                    {{ previous.title }}
+                </a>
+            {% endif %}
+            </li>
+            <li class="navigation-next">
+            {% if next %}
+                <a href="{{ next.path|url }}">
+                    Billet suivant&nbsp;&raquo;
+                    <br>
+                    {{ next.title }}
+                </a>
+            {% endif %}
+            </li>
+        </ul>
+
     </footer>
 </article>
 {% endblock %}
