@@ -1,0 +1,36 @@
+.share h2 {
+    border-bottom: 1px solid #eee;
+    margin: 0;
+}
+
+.share-networks {
+    padding: 0;
+    list-style-type: none;
+}
+
+.share-networks a {
+    line-height: 2.5;
+    display: block;
+    text-decoration: none;
+    padding-left: 1.5em;
+}
+
+.share-twitter {
+    background: #1B95E0;
+    color: #fff;
+}
+
+.share-googleplus {
+    background: #DB4437;
+    color: #fff;
+}
+
+.share-facebook {
+    background: #3F5C9A;
+    color: #fff;
+}
+
+.share-linkedin {
+    background: #1A85BC;
+    color: #fff;
+}

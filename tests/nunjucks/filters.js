@@ -20,5 +20,12 @@ describe('Nunjucks filters', function () {
 
             assert.equal('/path/', env.filters.url(path));
         });
+
+        it('should use the prefix', function () {
+            var path = 'blog',
+                prefix = 'http://damien.pobel.fr';
+
+            assert.equal('http://damien.pobel.fr/blog/', env.filters.url(path, prefix));
+        });
     });
 });

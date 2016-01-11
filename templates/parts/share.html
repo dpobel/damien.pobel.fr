@@ -1,0 +1,17 @@
+<div class="share">
+    <h2>Partager ce billet</h2>
+    <ul class="share-networks">
+        <li>
+            <a href="https://twitter.com/share?url={{ path|url(site.url)|urlencode }}&text={{ title|urlencode }}&via=dpobel" class="share-twitter" target="_blank">Twitter</a>
+        </li>
+        <li>
+            <a href="https://plus.google.com/share?url={{ path|url(site.url)|urlencode }}&hl=fr" class="share-googleplus" target="_blank">Google+</a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/sharer.php?u={{ path|url(site.url)|urlencode }}&t={{ title|urlencode }}" class="share-facebook" target="_blank">Facebook</a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ path|url(site.url)|urlencode }}&title={{ title|urlencode }}" class="share-linkedin" target="_blank">Linkedin</a>
+        </li>
+    </ul>
+</div>
