@@ -66,6 +66,10 @@ ol ul, ul ol, ol ol {
     padding: 0 30px;
 }
 
+.page-content h1 {
+    border-bottom: 1px solid #eee;
+}
+
 .page-content pre {
     line-height: 1.2;
 }
