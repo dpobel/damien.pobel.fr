@@ -1,5 +1,8 @@
 {% extends "templates/layout.html" %}
 
+
+{% block title %}Damien Pobel / {{ sections['pages'].name }}{% if pagination.num > 1 %} (page {{ pagination.num }}){% endif %}{% endblock %}
+
 {% block content %}
     <h1>Pages{% if pagination.num > 1 %} (page {{ pagination.num }}){% endif %}</h1>
 
