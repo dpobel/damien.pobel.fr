@@ -11,7 +11,8 @@
 
 .post-list h2 {
     margin: 0;
-    line-height: 2em;
+    line-height: 1.4;
+    padding-bottom: 0.5em;
 }
 
 .post-list h2 a {
