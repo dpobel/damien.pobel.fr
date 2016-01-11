@@ -60,13 +60,13 @@ ol ul, ul ol, ol ol {
 
 .page-content.type-post main,
 .page-content.type-list main {
-    max-width: 660px;
-    flex: 1;
+    flex: 1 1 auto;
 }
 
 .page-content.type-post aside,
 .page-content.type-list aside {
     width: 240px;
+    flex: 0 0 auto;
 }
 
 .page-content main {

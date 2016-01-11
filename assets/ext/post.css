@@ -45,6 +45,13 @@
     display: block;
 }
 
+.post-content figure img,
+.post-content img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
 .post-content figcaption {
     background: #f0f0f0;
     border: 1px solid #ccc;
