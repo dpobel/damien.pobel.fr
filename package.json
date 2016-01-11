@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --recursive tests",
-    "copycss": "mkdir src/ext 2> /dev/null ; cp node_modules/normalize.css/normalize.css node_modules/metalsmith-metallic/node_modules/highlight.js/styles/github.css src/ext/",
+    "copycss": "rsync -av assets/ext/* node_modules/normalize.css/normalize.css node_modules/metalsmith-metallic/node_modules/highlight.js/styles/github.css src/ext",
     "build": "npm run copycss && ./build.js"
   },
   "author": "Damien Pobel",

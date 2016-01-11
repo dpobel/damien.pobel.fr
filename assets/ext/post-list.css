@@ -1,0 +1,19 @@
+.post-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.post-list > li {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.post-list h2 {
+    margin: 0;
+}
+
+.post-list h2 a {
+    text-decoration: none;
+    display: block;
+}

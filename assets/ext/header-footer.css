@@ -1,0 +1,42 @@
+.page-header, .page-footer {
+    background-color: #002b56;
+    background-image: linear-gradient(to bottom, #000f1e, #002b56);
+    color: #fff;
+    padding: 1em;
+}
+
+.page-header img {
+    float: left;
+    border-radius: 50%;
+    border: 3px solid #5a97bd;
+    margin-right: 0.3em;
+}
+
+.page-header a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.page-footer a {
+    color: #fff;
+}
+
+.page-header h1 {
+    margin: 0 auto;
+    max-width: var(--max-width);
+}
+
+.page-header p {
+    font-style: italic;
+    margin: 1.4em auto 0 auto;
+    max-width: var(--max-width);
+}
+
+.page-footer p {
+    max-width: var(--max-width);
+    margin: 0.5em auto;
+}
+
+.page-section:before {
+    content: "/ ";
+}

@@ -1,0 +1,9 @@
+.post-meta {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-meta a, .post-meta {
+    text-decoration: none;
+    color: var(--meta-color);
+}

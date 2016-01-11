@@ -1,0 +1,53 @@
+:root {
+    --max-width: 960px;
+    --serif-font: Georgia, "Times New Roman", Times, serif;
+    --sans-serif-font: Tahoma, Arial, Helvetica, sans-serif;
+    --meta-color: #777;
+    --title-color: #444;
+    --text-color: #333;
+}
+
+body {
+    font-family: var(--sans-serif-font);
+    font-size: 14px;
+    color: var(--text-color);
+    background: #ccc;
+}
+
+a {
+    color: #002b56;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--title-color);
+    font-family: var(--serif-font);
+    font-weight: normal;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul ul {
+    list-style-type: disc;
+    margin: 0;
+}
+
+ol ul, ul ol, ol ol {
+    margin: 0;
+}
+
+main {
+    line-height: 1.9;
+    background: #fff;
+    box-shadow: 0px 0px 30px 0px #888;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 1em 0;
+}
+
+main pre {
+    line-height: 1.2;
+}
+
+

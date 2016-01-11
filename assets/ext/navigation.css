@@ -1,0 +1,28 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+    color: var(--meta-color);
+    width: 100%;
+}
+
+.navigation li {
+    width: 45%;
+}
+
+.navigation a {
+    display: block;
+    text-decoration: none;
+    color: var(--meta-color);
+}
+
+.navigation .navigation-prev {
+    text-align: right;
+}
+
+.navigation .navigation-next {
+    text-align: left;
+}
+
+
