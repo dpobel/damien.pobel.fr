@@ -40,7 +40,12 @@
     <main role="main">
     {% block content %}{% endblock %}
     </main>
-    {% block sideMenu %}{% endblock %}
+    {% block sideMenu %}
+    <aside>
+        {% include "templates/parts/share.html" %}
+        {% include "templates/parts/last.html" %}
+    </aside>
+    {% endblock %}
 </div>
 
 {% block pageFooter %}

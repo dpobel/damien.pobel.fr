@@ -35,13 +35,13 @@
         "compress": true
     },
     "fileMetadata": [{
-        "pattern": "posts.md",
+        "pattern": "posts{.md,/*.html}",
         "metadata": {
             "section": "blog",
             "type": "list"
         }
     }, {
-        "pattern": "pages.md",
+        "pattern": "pages{.md,/*.html}",
         "metadata": {
             "section": "pages",
             "type": "list"
@@ -105,14 +105,14 @@
             "layout": "blog.html",
             "first": "posts.md",
             "noPageOne": true,
-            "path": "posts/:num/index.html"
+            "path": "posts/:num.html"
         },
         "collections.pages": {
             "perPage": 10,
             "layout": "pages.html",
             "first": "pages.md",
             "noPageOne": true,
-            "path": "pages/:num/index.html"
+            "path": "pages/:num.html"
         }
     },
     "permalinks": {

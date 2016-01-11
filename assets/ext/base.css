@@ -53,15 +53,19 @@ ol ul, ul ol, ol ol {
     padding: 1em 0;
 }
 
-.page-content.type-post {
+.page-content.type-post,
+.page-content.type-list {
     display: flex;
 }
 
-.page-content.type-post main {
+.page-content.type-post main,
+.page-content.type-list main {
     max-width: 660px;
+    flex: 1;
 }
 
-.page-content.type-post aside {
+.page-content.type-post aside,
+.page-content.type-list aside {
     width: 240px;
 }
 
