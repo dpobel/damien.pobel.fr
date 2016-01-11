@@ -37,15 +37,15 @@
     text-align: right;
 }
 
-.post figure {
+.post-content figure {
     margin: 1em 0;
 }
 
-.post figure img {
+.post-content figure img {
     display: block;
 }
 
-.post figcaption {
+.post-content figcaption {
     background: #f0f0f0;
     border: 1px solid #ccc;
     border-top: 0;
@@ -54,21 +54,21 @@
     line-height: 1.5;
 }
 
-.post .object-left {
+.post-content .object-left {
     float: left;
     margin: 0 1em 0 0;
 }
 
-.post .object-right {
+.post-content .object-right {
     float: right;
     margin: 0 0 0 1em;
 }
 
-.post .object-center {
+.post-content .object-center {
     margin: 1em auto;
 }
 
-.post blockquote {
+.post-content blockquote {
     background: #eee;
     border: 1px solid #888;
     font-style: italic;
@@ -78,10 +78,10 @@
     margin: 1em 15px;
 }
 
-.post blockquote p {
+.post-content blockquote p {
     margin: 0.4em 0;
 }
 
-.post abbr {
+.post-content abbr {
     border-bottom: 1px dotted #333;
 }

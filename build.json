@@ -94,8 +94,9 @@
         },
         "pages": {
             "pattern": "page/*",
-            "sortBy": "published",
-            "reverse": true
+            "sortBy": "updated",
+            "reverse": true,
+            "refer": false
         }
     },
     "pagination": {
@@ -107,7 +108,7 @@
             "path": "posts/:num/index.html"
         },
         "collections.pages": {
-            "perPage": 5,
+            "perPage": 10,
             "layout": "pages.html",
             "first": "pages.md",
             "noPageOne": true,

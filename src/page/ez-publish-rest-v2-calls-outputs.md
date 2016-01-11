@@ -1,6 +1,6 @@
 ---
 title: "eZ Publish REST v2 calls and outputs"
-noMenu: "true"
+updated: 2013-05-08 22:23
 ---
 
 # eZ Publish REST v2 calls and outputs

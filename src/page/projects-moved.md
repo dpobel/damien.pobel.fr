@@ -1,6 +1,6 @@
 ---
 title: "Moved projects"
-hidden: "true"
+updated: 2013-05-08 22:23
 ---
 
 # Moved projects

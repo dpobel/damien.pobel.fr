@@ -1,6 +1,6 @@
 ---
 title: "Removed page"
-hidden: "true"
+updated: 2013-05-08 22:23
 ---
 
 # Removed page

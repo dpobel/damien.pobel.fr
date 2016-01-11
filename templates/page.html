@@ -1,7 +1,7 @@
 {% extends "templates/layout.html" %}
 
 {% block content %}
-<article>
+<article lang="{{ lang|default('fr') }}" class="post-content">
     {{ contents|safe }}
 </article>
 {% endblock %}

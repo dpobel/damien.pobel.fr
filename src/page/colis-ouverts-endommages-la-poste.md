@@ -1,7 +1,7 @@
 ---
 title: "Colis ouverts et/ou endommagés livrés par La Poste"
 lang: "fr"
-noMenu: "false"
+updated: 2013-12-28 22:13
 ---
 
 # Colis ouverts et/ou endommagés livrés par La Poste

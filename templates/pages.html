@@ -1,9 +1,11 @@
 {% extends "templates/layout.html" %}
 
 {% block content %}
-    <ul>
+    <h1>Pages{% if pagination.num > 1 %} (page {{ pagination.num }}){% endif %}</h1>
+
+    <ul class="post-list">
     {% for page in pagination.files %}
-        <li><a href="{{ page.path|url }}">{{ page.title }}</a></li>
+        <li>{% include "templates/parts/page_line.html" %}</li>
     {% endfor %}
     </ul>
 
