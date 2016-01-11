@@ -4,14 +4,14 @@
     --sans-serif-font: Tahoma, Arial, Helvetica, sans-serif;
     --meta-color: #777;
     --title-color: #444;
-    --text-color: #333;
+    --text-color: #555;
 }
 
 body {
     font-family: var(--sans-serif-font);
     font-size: 14px;
     color: var(--text-color);
-    background: #ccc;
+    background: #eee;
 }
 
 a {
