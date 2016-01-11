@@ -5,6 +5,7 @@
     --meta-color: #777;
     --title-color: #444;
     --text-color: #555;
+    --gutter-size: 30px;
 }
 
 body {
@@ -65,12 +66,12 @@ ol ul, ul ol, ol ol {
 
 .page-content.type-post aside,
 .page-content.type-list aside {
-    width: 240px;
+    width: calc(960px-660px-2*var(--gutter-size));
     flex: 0 0 auto;
 }
 
 .page-content main {
-    padding: 0 30px;
+    padding: 0 var(--gutter-size);
 }
 
 .page-content h1 {
@@ -80,7 +81,7 @@ ol ul, ul ol, ol ol {
 
 .side-block {
     border-left: 1px solid #eee;
-    padding: 0.5em 30px;
+    padding: 0.5em var(--gutter-size);
 }
 
 .side-block h2 {
