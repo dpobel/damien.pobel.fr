@@ -37,29 +37,34 @@
     "fileMetadata": [{
         "pattern": "posts.md",
         "metadata": {
-            "section": "blog"
+            "section": "blog",
+            "type": "list"
         }
     }, {
         "pattern": "pages.md",
         "metadata": {
-            "section": "pages"
+            "section": "pages",
+            "type": "list"
         }
     }, {
         "pattern": "post/*.md",
         "metadata": {
             "layout": "post.html",
-            "section": "blog"
+            "section": "blog",
+            "type": "post"
         }
     }, {
         "pattern": "page/*",
         "metadata": {
             "layout": "page.html",
-            "section": "pages"
+            "section": "pages",
+            "type": "page"
         }
     }, {
         "pattern": "index.md",
         "metadata": {
-            "layout": "home.html"
+            "layout": "home.html",
+            "type": "home"
         }
     }],
     "moment": ["published", "updated"],
