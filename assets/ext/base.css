@@ -24,6 +24,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
 }
 
+h1 {
+    margin-top: 0;
+}
+
 ul {
     list-style-type: square;
 }
@@ -37,7 +41,7 @@ ol ul, ul ol, ol ol {
     margin: 0;
 }
 
-main {
+.page-content {
     line-height: 1.9;
     background: #fff;
     box-shadow: 0px 0px 30px 0px #888;
@@ -46,16 +50,27 @@ main {
     padding: 1em 0;
 }
 
-.type-post {
+.page-content.type-post {
     display: flex;
 }
 
-.type-post aside {
-    width: 25%;
+.page-content.type-post main {
+    max-width: 660px;
 }
 
-main pre {
+.page-content.type-post aside {
+    width: 240px;
+}
+
+.page-content main {
+    padding: 0 30px;
+}
+
+.page-content pre {
     line-height: 1.2;
 }
 
-
+.side-block {
+    border-left: 1px solid #eee;
+    padding: 0.5em 30px;
+}

@@ -36,11 +36,12 @@
 </nav>
 {% endblock %}
 
-<main role="main" class="type-{{ type }}">
-{% block content %}{% endblock %}
-
-{% block sideMenu %}{% endblock %}
-</main>
+<div class="page-content type-{{ type }}">
+    <main role="main">
+    {% block content %}{% endblock %}
+    </main>
+    {% block sideMenu %}{% endblock %}
+</div>
 
 {% block pageFooter %}
 <footer class="page-footer">
