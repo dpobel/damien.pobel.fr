@@ -1,0 +1,10 @@
+<article>
+    <h2><a href="{{ page.path|url }}">{{ page.title }}</a></h2>
+    <div class="post-meta">
+        {% set date = page.updated if page.updated else page.published %}
+        <a href="{{ page.path|url }}">
+            Dernière mise à jour
+            <time datetime="{{ date.format() }}">{{ date.format('YYYY-MM-DD HH:mm') }}</time>
+        </a>
+    </div>
+</article>
