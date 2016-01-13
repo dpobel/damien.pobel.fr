@@ -94,3 +94,22 @@ ol ul, ul ol, ol ol {
     padding-bottom: 3px;
     margin: 0;
 }
+
+.side-block .side-block-icon {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 0.5em;
+}
+
+.side-block .side-block-icon svg {
+    fill: #fff;
+    display: inline-block;
+    height: 1.5em;
+    vertical-align: middle;
+    margin-right: 0.5em;
+}
+
+.side-block .side-block-icon a:visited {
+    color: #fff;
+}

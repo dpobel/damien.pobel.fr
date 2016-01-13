@@ -3,18 +3,6 @@
     list-style-type: none;
 }
 
-.share-networks a {
-    line-height: 2.5;
-    display: block;
-    text-decoration: none;
-    padding-left: 1.5em;
-    color: #fff;
-}
-
-.share-networks a:visited {
-    color: #fff;
-}
-
 .share-twitter {
     background: #1B95E0;
 }

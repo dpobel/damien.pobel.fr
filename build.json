@@ -23,6 +23,9 @@
             }
         }
     },
+    "fileToMetadata": {
+        "icons": "icons/*.svg"
+    },
     "ignore": [
         "ext/*"
     ],
