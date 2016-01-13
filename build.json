@@ -41,6 +41,12 @@
             "type": "list"
         }
     }, {
+        "pattern": "tag/**",
+        "metadata": {
+            "section": "blog",
+            "type": "list"
+        }
+    }, {
         "pattern": "pages{.md,/*.html}",
         "metadata": {
             "section": "pages",
