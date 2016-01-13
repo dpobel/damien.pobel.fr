@@ -7,6 +7,7 @@ var metalsmith = require('metalsmith'),
     consolidate = require('consolidate'),
     nunjucks = require('nunjucks'),
 
+    collectPhotos = require('./lib/metalsmith/collect-photos'),
     imageVariation = require('./lib/metalsmith/image-variation'),
 
     ignore = require('metalsmith-ignore'),
@@ -43,10 +44,11 @@ metalsmith(__dirname)
     .use(fileMetadata(conf.fileMetadata))
     .use(metallic())
     .use(markdown())
-    .use(imageVariation(conf.imageVariation))
+    .use(collectPhotos(conf.collectPhotos))
     .use(permalinks(conf.permalinks))
     .use(feed(conf.feed))
     .use(layouts(conf.layouts))
+    .use(imageVariation(conf.imageVariation))
     .build(function (error, res) {
         if ( error ) {
             console.error("Build failed: " + error.message);

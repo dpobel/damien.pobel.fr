@@ -135,6 +135,9 @@
         "title": "Derniers posts",
         "description": "Damien Pobel / Blog"
     },
+    "collectPhotos": {
+        "lastPhotosNumber": 3
+    },
     "imageVariation": {
         "concurrency": 2
     }
