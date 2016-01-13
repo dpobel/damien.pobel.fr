@@ -82,6 +82,11 @@ ol ul, ul ol, ol ol {
 .side-block {
     border-left: 1px solid #eee;
     padding: 0.5em var(--gutter-size);
+    margin-bottom: 2em;
+}
+
+.side-block:last-of-type {
+    margin-bottom: 0;
 }
 
 .side-block h2 {
