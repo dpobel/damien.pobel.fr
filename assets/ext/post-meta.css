@@ -8,3 +8,8 @@
     text-decoration: none;
     color: var(--meta-color);
 }
+
+.post-meta time {
+    flex: 1 0 auto;
+    text-align: right;
+}
