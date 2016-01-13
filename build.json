@@ -41,6 +41,12 @@
             "type": "list"
         }
     }, {
+        "pattern": "tag/**",
+        "metadata": {
+            "section": "blog",
+            "type": "list"
+        }
+    }, {
         "pattern": "pages{.md,/*.html}",
         "metadata": {
             "section": "pages",
@@ -128,6 +134,9 @@
         "destination": "rss.xml",
         "title": "Derniers posts",
         "description": "Damien Pobel / Blog"
+    },
+    "collectPhotos": {
+        "lastPhotosNumber": 3
     },
     "imageVariation": {
         "concurrency": 2

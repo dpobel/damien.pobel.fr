@@ -1,0 +1,8 @@
+.last-photos ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.last-photos li {
+    margin-bottom: 2px;
+}

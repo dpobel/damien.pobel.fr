@@ -1,5 +1,12 @@
 <article>
     <h2><a href="{{ post.path|url }}">{{ post.title }}</a></h2>
+    {% if post.photos %}
+    <ul class="post-thumbnails">
+        {% for photo in post.photos %}
+        <li><a href="{{ post.path|url }}"><img src="/{{ photo|image_variation('200x') }}" alt="Miniature de {{ post.title }}"></a></li>
+        {% endfor %}
+    </ul>
+    {% endif %}
     <div class="post-meta">
         {% set tags = post.tags %}
         {% include "templates/parts/tags.html" %}

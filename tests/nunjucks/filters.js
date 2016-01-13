@@ -28,4 +28,24 @@ describe('Nunjucks filters', function () {
             assert.equal('http://damien.pobel.fr/blog/', env.filters.url(path, prefix));
         });
     });
+
+    describe('image_variation', function () {
+        var func;
+
+        beforeEach(function () {
+            filters(env);
+            func = env.filters.image_variation;
+        });
+
+        it('should be defined', function () {
+            assert.ok(typeof func === 'function');
+        });
+
+        it('should add the variation part', function () {
+            assert.equal(
+                'images/whatever/photo.jpg',
+                func('images/photo.jpg', 'whatever')
+            );
+        });
+    });
 });
