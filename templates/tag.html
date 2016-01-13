@@ -1,5 +1,9 @@
 {% extends "templates/layout.html" %}
 
+{% block title %}
+    {{ tag }} {{ super() }}
+{% endblock %}
+
 {% block content %}
     <h1>{{ tag }}</h1>
 
