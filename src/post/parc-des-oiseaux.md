@@ -16,13 +16,11 @@ mon reflex très prochainement ;-)
 src="/images/660x/gallinule-poule-d-eau.jpg" alt="Gallinule poule
 d'eau"></a><figcaption>Gallinule poule d'eau (<a href="http://www.flickr.com/photos/tigr0u/9547232905/in/set-72157627802960454">Sur Flickr</a>)</figcaption>
 </figure>
-<br>
 <figure class="object-center">
 <a href="/images/flamant-nain.jpg"><img
 src="/images/660x/flamant-nain.jpg" alt="Flamant nain"></a><figcaption>Flamant
 nain (<a href="http://www.flickr.com/photos/tigr0u/9547240797/in/set-72157627802960454">Sur Flickr</a>)</figcaption>
 </figure>
-<br>
 <figure class="object-center">
 <a href="/images/oedicneme-bride.jpg"><img
 src="/images/660x/oedicneme-bride.jpg" alt="Œdicnème

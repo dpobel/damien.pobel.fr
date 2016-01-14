@@ -12,7 +12,6 @@ MACRO
 <a href="/images/araignee.jpg"><img
 src="/images/660x/araignee.jpg" alt="Araignée"></a><figcaption>Araignée (<a href="http://www.flickr.com/photos/tigr0u/9613975597/">Sur Flickr</a>, <a href="http://500px.com/photo/44507660">Sur 500px</a>)</figcaption>
 </figure>
-<br>
 <figure class="object-center">
 <a href="/images/basilic.jpg"><img
 src="/images/660x/basilic.jpg" alt="Basilic"></a><figcaption>Basilic (<a href="http://www.flickr.com/photos/tigr0u/9613975597/">Sur Flickr</a>, <a href="http://500px.com/photo/44507658">Sur 500px</a>)</figcaption>

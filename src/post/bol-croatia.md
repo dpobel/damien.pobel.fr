@@ -10,11 +10,8 @@ As you can see, this place looks like a paradise and the weather is very nice. y
 <figure class="object-center">
     <a href="/images/entree-du-port-de-bol.jpg"><img src="/images/660x/entree-du-port-de-bol.jpg" alt="Entry of the Bol harbor"></a>
 </figure>
-<br>
 <figure class="object-center"><a href="/images/bol.jpg"><img src="/images/660x/bol.jpg" alt="Bol"></a></figure>
-<br>
 <figure class="object-center"><a href="/images/bol-croatie.jpg"><img src="/images/660x/bol-croatie.jpg" alt="Bol Croatie"></a></figure>
-<br>
 <figure class="object-center">
     <a href="/images/bol-panorama.jpg"><img src="/images/660x/bol-panorama.jpg" alt="Bol panorama"></a>
 </figure>
