@@ -57,17 +57,17 @@ ol ul, ul ol, ol ol {
 .page-content.type-post,
 .page-content.type-list {
     display: flex;
+    align-content: flex-start;
 }
 
 .page-content.type-post main,
 .page-content.type-list main {
-    flex: 1 1 auto;
+    width: 68.75%;
 }
 
 .page-content.type-post aside,
 .page-content.type-list aside {
     width: calc(960px-660px-2*var(--gutter-size));
-    flex: 0 0 auto;
 }
 
 .page-content main {
