@@ -67,7 +67,7 @@ ol ul, ul ol, ol ol {
 
 .page-content.type-post aside,
 .page-content.type-list aside {
-    width: calc(960px-660px-2*var(--gutter-size));
+    width: 31.25%;
 }
 
 .page-content main {
@@ -77,6 +77,12 @@ ol ul, ul ol, ol ol {
 .page-content h1 {
     padding-bottom: 3px;
     border-bottom: 1px solid #eee;
+}
+
+.page-content img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
 }
 
 .side-block {
@@ -112,4 +118,53 @@ ol ul, ul ol, ol ol {
 
 .side-block .side-block-icon a:visited {
     color: #fff;
+}
+
+@media (max-width: 960px) {
+    .page-content main {
+        padding: 0 10px 0 10px;
+    }
+
+    .side-block {
+        padding: 0.5em 10px 0.5em 10px;
+    }
+}
+
+@media (max-width: 680px) {
+    .page-content.type-post,
+    .page-content.type-list {
+        display: block;
+    }
+
+    .page-content.type-post main,
+    .page-content.type-list main {
+        width: 100%;
+        padding: 0 10px 0 10px;
+        box-sizing: border-box;
+    }
+
+    .page-content.type-post aside,
+    .page-content.type-list aside {
+        display: flex;
+        width: 100%;
+        border-top: 1px solid #eee;
+        margin-top: 1em;
+        padding-top: 1em;
+        flex-wrap: wrap;
+    }
+
+    .side-block {
+        box-sizing: border-box;
+        width: 33%;
+    }
+}
+
+@media (max-width: 580px) {
+    .side-block {
+        width: 50%;
+    }
+
+    .side-block.last {
+        width: 100%;
+    }
 }
