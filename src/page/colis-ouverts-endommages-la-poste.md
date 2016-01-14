@@ -17,16 +17,12 @@ décembre 2013 mais je n'arrive pas à retrouver la photo...
 
 ## Coli Amazon du 28/12/2013 ouvert et abîmé pendant la livraison
 
-<div class="yui3-g">
-<div class="yui3-u-1-2">
 <figure class="object-center">
-    <a href="/images/coli-amazon-ouvert-par-la-poste_28122013.jpg"><img src="/images/330x/coli-amazon-ouvert-par-la-poste_28122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
+    <a href="/images/coli-amazon-ouvert-par-la-poste_28122013.jpg"><img src="/images/660x/coli-amazon-ouvert-par-la-poste_28122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
 </figure>
-</div><div class="yui3-u-1-2">
 <figure class="object-center">
-    <a href="/images/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg"><img src="/images/330x/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg" alt="Contenu endommagé par l'ouverture du coli par La Poste"></a>
+    <a href="/images/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg"><img src="/images/660x/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg" alt="Contenu endommagé par l'ouverture du coli par La Poste"></a>
 </figure>
-</div></div>
 
 * **Enseigne&nbsp;:** Amazon
 * **Date&nbsp;:** 28/12/2013

@@ -11,26 +11,15 @@ alentours de Lyon</a>, en tout cas bien plus sympa que
 <a href="http://comiteperouges.free.fr/index.php?page=musee&langue=fra">Le musée du vieux Pérouges</A>
 expose divers objets liés à l'histoire locale notamment des tisserands.
 
-<div class="yui3-g">
-<div class="yui3-u-1-2">
-<figure class="object-center" style="padding:1px;"><a href="/images/devidoirs-musee-du-vieux-perouges.jpg"><img
-src="/images/330x/devidoirs-musee-du-vieux-perouges.jpg" alt="Dévidoirs au musée
+<figure class="object-center"><a href="/images/devidoirs-musee-du-vieux-perouges.jpg"><img
+src="/images/660x/devidoirs-musee-du-vieux-perouges.jpg" alt="Dévidoirs au musée
 du vieux Pérouges"></a><figcaption>Dévidoirs colorés</figcaption></figure>
-</div>
-<div class="yui3-u-1-2">
-<figure class="object-center" style="padding:1px;"><a href="/images/pelottes-musee-du-vieux-perouges.jpg"><img
-src="/images/330x/pelottes-musee-du-vieux-perouges.jpg" alt="Pelottes colorées au musée
+<figure class="object-center"><a href="/images/pelottes-musee-du-vieux-perouges.jpg"><img
+src="/images/660x/pelottes-musee-du-vieux-perouges.jpg" alt="Pelottes colorées au musée
 du vieux Pérouges"></a><figcaption>Pelottes</figcaption></figure>
-</div>
-<div class="yui3-u-1-2">
-<figure class="object-center" style="padding:1px;"><a href="/images/rouet-musee-du-vieux-perouges.jpg"><img
-src="/images/330x/rouet-musee-du-vieux-perouges.jpg" alt="Rouet au musée
+<figure class="object-center"><a href="/images/rouet-musee-du-vieux-perouges.jpg"><img
+src="/images/660x/rouet-musee-du-vieux-perouges.jpg" alt="Rouet au musée
 du vieux Pérouges"></a><figcaption>Petit rouet en bois</figcaption></figure>
-</div>
-<div class="yui3-u-1-2">
-<figure class="object-center" style="padding:1px;"><a href="/images/sceau-musee-du-vieux-perouges.jpg"><img
-src="/images/330x/sceau-musee-du-vieux-perouges.jpg" alt="Sceau au musée
+<figure class="object-center"><a href="/images/sceau-musee-du-vieux-perouges.jpg"><img
+src="/images/660x/sceau-musee-du-vieux-perouges.jpg" alt="Sceau au musée
 du vieux Pérouges"></a><figcaption>Sceau de cire sur un vieux document</figcaption></figure>
-</div>
-</div>
-
