@@ -1,0 +1,91 @@
+.cv {
+    line-height: 1.5;
+}
+
+.cv header {
+    display: flex;
+}
+
+.cv h1 {
+    border-bottom: 0;
+    font-size: 250%;
+    flex: 1 1 auto;
+    order: 2;
+    text-align: center;
+    align-self: center;
+}
+
+.cv .bio {
+    list-style-type: none;
+    padding: 0;
+    flex: 0 1 auto;
+    order: 1;
+}
+
+.cv h2 {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 3px;
+}
+
+.cv dd {
+    margin: 0;
+}
+
+.cv .summary {
+    line-height: 1.9;
+}
+
+.cv abbr {
+    border-bottom: 1px dotted #333;
+}
+
+.cv .me {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.cv .address {
+    margin-top: 1em;
+}
+
+.cv .website {
+    margin-bottom: 1em;
+}
+
+.cv dl {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.cv dt {
+    width: 20%;
+    font-weight: normal;
+    background: #eee;
+    color: #333;
+}
+
+.cv dd {
+    width: 80%;
+    padding-left: 1em;
+}
+
+.cv dd, .cv dt {
+    padding: 0.5em;
+    margin-top: 0.3em;
+    box-sizing: border-box;
+}
+
+.cv dl ul {
+    padding: 0;
+    list-style-position: inside;
+}
+
+.cv dl p {
+    margin: 0;
+}
+
+.cv .tasks {
+    padding-left: 2em;
+    margin-top: 0.5em;
+}
