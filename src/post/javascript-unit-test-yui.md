@@ -19,7 +19,7 @@ install. For those who are used to write unit tests for *backend code*, testing
 frontend JavaScript code is not fundamentally different, you still need to write
 code that can be tested and then you can write the tests and run them.
 
-# Code example
+## Code example
 
 First, we need some code to be tested. To keep this post simple, I wrote a very
 simple [YUI view](http://yuilibrary.com/yui/docs/view/) called *Move it view*, it
@@ -36,9 +36,9 @@ know, the only way to stop the movement is to refresh the page, it's because *I
 like to move it* ;-) More seriously, this small list of features gives us what
 we'll have to test, the more you add features, the more you need to test.
 
-# Writing the tests!
+## Writing the tests!
 
-## Structure
+### Structure
 
 The first thing to write is the HTML file which will be used to bootstrap the
 tests. It can directly contain the test cases but I personnally prefer to put
@@ -112,7 +112,7 @@ Of course, it's possible to define several test cases to test different aspects
 of a given component. It's also possible to organize the test cases into [test
 suites](http://yuilibrary.com/yui/docs/test/#testsuites).
 
-## `setUp` and `tearDown`
+### `setUp` and `tearDown`
 
 The purpose of `setUp` and `tearDown` is well explained in [the YUI Test
 documentation](http://yuilibrary.com/yui/docs/test/#setup-and-teardown), `setUp`
@@ -139,7 +139,7 @@ tearDown: function () {
 
 ```
 
-## Test methods
+### Test methods
 
 This is the **interesting** part! At this stage, each public method should have
 at least one test. In the example of the *Move it view*, the `render` method can
@@ -202,7 +202,7 @@ mandatory (it took me a while to figure that out):
 [The full source of the test can be found on
 Github](https://github.com/dpobel/yui-test-example/blob/master/tests/moveitview-tests.js)
 
-# Running the tests
+## Running the tests
 
 [The tests can be run in a regular
 browser](http://dpobel.github.io/yui-test-example/tests/moveitview.html), since
@@ -262,7 +262,7 @@ but you need to follow the YUI module directory structure to use it. [This blog
 post](http://bretkikehara.wordpress.com/2013/03/21/yui3-yogi-module-creation-and-tests/)
 explains how to set it up if you want to follow this convention.
 
-# Code coverage
+## Code coverage
 
 Maybe, you've noticed in the test HTML file, the `coverage` option passed to the
 `YUI` function and the small trick on the `moveitview` module's full path. This
@@ -325,7 +325,7 @@ grover is also able to generate a fully browseable HTML coverage with the
 Github
 pages](http://dpobel.github.io/yui-test-example/coverage/lcov-report/yui-unit-test/).
 
-# The end (for now)
+## The end (for now)
 
 I originally planned to add a tips part on various topics (mock, asynchronous
 test, ...) in this post, but it's already too long so that will be for a next

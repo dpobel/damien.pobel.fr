@@ -20,7 +20,7 @@ mais chez certaines autres c'est souvent hallucinant. Voici une revue de ce
 qu'on peut trouver dans les magasins en ligne de certaines enseignes bien
 connues.
 
-# Maxitoys
+## Maxitoys
 
 [![Aspirateur Smoby
 sexiste](/images/660x/aspirateur-smoby-sexiste.png)](/images/aspirateur-smoby-sexiste.png)
@@ -51,7 +51,7 @@ avec un total de 11 articles et d'après les filtres dans le menu de gauche, 11
 articles pour filles et 1 aussi pour garçon (un autre kit brosse et
 ramassette qui apparemment convient aux filles et aux garçons)...
 
-# Toys &#34;R&#34; Us
+## Toys &#34;R&#34; Us
 
 Chez Toys &#34;R&#34; Us, c'est un peu plus subtil, les fiches produits
 n'indiquent pas directement si un jouet est destiné aux filles ou aux garçons en
@@ -66,7 +66,7 @@ espions (bon il y a aussi des armes...) ou papa qui bricole, mais chez les
 filles, on astique, balaie, aspire, frotte, repasse, nettoie, ... mais surtout
 on ne s'évade jamais du quotidien voire on ne sort pas de la maison!
 
-# Carrefour
+## Carrefour
 
 La situation chez Carrefour est à peu près la même que chez Toys &#34;R&#34; Us,
 dans la catégorie [Jeux d'imitation pour
@@ -87,7 +87,7 @@ par *Type: Jeux d'imitation* (sic!) mais chez les garçons on a un filtre *Type:
 Vie professionnelle* ou majoritairement le garçon sera un espion, un Power
 Ranger (de bien beaux métiers) ou bricolera sur un établi...
 
-# Auchan
+## Auchan
 
 Chez Auchan, [la catégorie *Jouet
 menage*](http://www.auchan.fr/jeux--jouets/comme-les-grands/jouet-menage/achat2/6860372)
@@ -119,7 +119,7 @@ cagette](http://www.auchan.fr/jeux--jouets/comme-les-grands/jeu-de-cuisine/caget
 futurs consommateurs! Je serais curieux de connaître les accords commerciaux
 entre les marques en question et le fabricant du jouet...
 
-# Et les autres ?
+## Et les autres ?
 
 À des degrés divers, les autres enseignes comme Joué Club, King Jouet, la Grande
 Récré, ...  présentent ces fameux jouets d'imitation de la même manière. Super U
