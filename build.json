@@ -69,6 +69,11 @@
             "section": "pages",
             "type": "page"
         }
+    },{
+        "pattern": "page/cv*",
+        "metadata": {
+            "layout": "cv.html"
+        }
     }, {
         "pattern": "index.md",
         "metadata": {
