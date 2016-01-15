@@ -80,6 +80,13 @@
             "layout": "home.html",
             "type": "home"
         }
+    }, {
+        "pattern": "tags.md",
+        "metadata": {
+            "layout": "tags.html",
+            "section": "blog",
+            "type": "list"
+        }
     }],
     "moment": ["published", "updated"],
     "tags": {

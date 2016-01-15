@@ -1,0 +1,14 @@
+{% extends "templates/layout.html" %}
+
+{% block content %}
+    {% set total = collections.posts.length %}
+    <h1>{{ title }}</h1>
+
+    <ul class="tag-cloud">
+        {% for tag in tagsList|keys()|sort() %}
+            {% set weight = tagsList[tag].length * 300/total %}
+            {# TODO: make a PR on metalsmith-tags to avoid building again the page URI #}
+            <li><a href="{{ ('tag/' + tagsList[tag].urlSafe)|url }}" style="font-size: {{ 90 + weight }}%">{{ tag }}</a></li>
+        {% endfor %}
+    </ul>
+{% endblock %}

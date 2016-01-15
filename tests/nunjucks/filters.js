@@ -48,4 +48,27 @@ describe('Nunjucks filters', function () {
             );
         });
     });
+
+    describe('keys', function () {
+        var func;
+
+        beforeEach(function () {
+            filters(env);
+            func = env.filters.keys;
+        });
+
+        it('should be defined', function () {
+            assert.ok(typeof func === 'function');
+        });
+
+        it('should return the array of object keys', function () {
+            var obj = {foo: '', bar: ''};
+
+            assert.deepEqual(
+                ['foo', 'bar'],
+                func(obj)
+            );
+        });
+
+    });
 });
