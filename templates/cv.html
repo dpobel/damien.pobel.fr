@@ -4,4 +4,8 @@
     {{ contents|safe }}
 {% endblock %}
 
+{% block title %}
+    {{ title }} - CV - Damien Pobel{% if section %} / {{ sections[section].name }}{% endif %}
+{% endblock %}
+
 {% block sideMenu %}{% endblock %}
