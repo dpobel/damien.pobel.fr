@@ -1,10 +1,10 @@
 <div class="side-block last-photos">
-    <h2>Dernières photos</h2>
+    <h2>Last photos</h2>
 
     <ul>
     {% for post in lastPhotos %}
         {% for photo in post.photos %}
-        <li><a href="{{ post.path|url }}"><img src="/{{ photo|image_variation('200x') }}" alt=""></a></li>
+        <li><a href="{{ post.path|url }}" lang="{{ post.lang|default('fr', true) }}"><img src="/{{ photo|image_variation('200x') }}" alt=""></a></li>
         {% endfor %}
     {% endfor %}
     </ul>

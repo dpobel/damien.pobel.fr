@@ -10,7 +10,7 @@
         "menu": [
             {"path": "posts", "name": "blog"},
             {"path": "page/cv", "name": "cv"},
-            {"path": "page/about", "name": "à propos"}
+            {"path": "page/about", "name": "about"}
         ],
         "sections": {
             "blog": {

@@ -1,4 +1,4 @@
-<article>
+<article lang="{{ post.lang|default('fr', true) }}">
     <h2><a href="{{ post.path|url }}">{{ post.title }}</a></h2>
     {% if post.photos %}
     <ul class="post-thumbnails">
