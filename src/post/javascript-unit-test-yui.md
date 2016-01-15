@@ -105,7 +105,6 @@ YUI.add('moveitview-tests', function (Y) {
         /* and others dependencies for the test */
     ]
 });
-
 ```
 
 Of course, it's possible to define several test cases to test different aspects
@@ -159,6 +158,7 @@ be tested with the following code:
     });
 },
 ```
+
 That's quite straighforward, `render` is supposed to add a class on the view
 container and to enable to the button(s) inside the view so the test method
 checks that. The basic assertions are described in [the YUI Test guide

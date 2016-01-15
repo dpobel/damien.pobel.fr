@@ -44,6 +44,7 @@ JSON, you have to specify it by setting the `Accept` header with the `-H` parame
 curl -u "admin:ezpublish" -i -H "Accept: application/json" \
 http://ezpublish5.loc/api/ezp/v2/
 ```
+
 Of course, it's possible to retrieve more useful data with the REST API, for instance
 to read the metadata of the */Media* folder (id 41):
 
@@ -52,6 +53,7 @@ curl -u "admin:ezpublish" -i \
 -H "Accept: application/vnd.ez.api.ContentInfo+json" \
 http://ezpublish5.loc/api/ezp/v2/content/objects/41
 ```
+
 If you want to get the whole Content with its attributes:
 
 ```
@@ -59,6 +61,7 @@ curl -u "admin:ezpublish" -i \
 -H "Accept: application/vnd.ez.api.Content+json" \
 http://ezpublish5.loc/api/ezp/v2/content/objects/41
 ```
+
 The only difference between the last two calls is the `Accept` header which
 allows to tell to the system what data I want.
 
