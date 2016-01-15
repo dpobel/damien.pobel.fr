@@ -11,6 +11,7 @@ var metalsmith = require('metalsmith'),
     imageVariation = require('./lib/metalsmith/image-variation'),
     fileToMetadata = require('./lib/metalsmith/file-to-metadata'),
 
+    htmlMinifier = require('metalsmith-html-minifier'),
     ignore = require('metalsmith-ignore'),
     myth = require('metalsmith-myth'),
     assets = require('metalsmith-assets'),
@@ -51,6 +52,7 @@ metalsmith(__dirname)
     .use(feed(conf.feed))
     .use(layouts(conf.layouts))
     .use(imageVariation(conf.imageVariation))
+    .use(htmlMinifier())
     .build(function (error, res) {
         if ( error ) {
             console.error("Build failed: " + error.message);
