@@ -3,7 +3,7 @@ var assert = require('assert'),
     metalsmith = require('metalsmith'),
     fileToMetadata = require('../../lib/metalsmith/file-to-metadata');
 
-describe('collectPhotos metalsmith plugin', function () {
+describe('fileToMetadata metalsmith plugin', function () {
     var ms, buildError, buildFiles;
 
     beforeEach(function (done) {
