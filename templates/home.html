@@ -3,13 +3,22 @@
 {% block title %}Damien Pobel{% endblock %}
 
 {% block content %}
-    <h1>Last blog posts</h1>
+    <div class="columns">
+        <div class="column">
+            <article class="post-content">
+                {{ contents|safe }}
+            </article>
+        </div>
+        <div class="column">
+            <h2>Last blog posts</h2>
 
-    <ul class="post-list">
-    {% for post in collections.lastPosts %}
-        <li>{% include "templates/parts/post_line.html" %}</li>
-    {% endfor %}
-    </ul>
+            <ul class="post-list">
+            {% for post in collections.lastPosts %}
+                <li>{% include "templates/parts/post_line.html" %}</li>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
 {% endblock %}
 
 {% block sideMenu %}{% endblock %}

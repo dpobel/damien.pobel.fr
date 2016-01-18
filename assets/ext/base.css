@@ -86,7 +86,7 @@ ol ul, ul ol, ol ol {
 }
 
 .side-block {
-    border-left: 1px solid #eee;
+    border-left: 1px solid #ddd;
     padding: 0.5em var(--gutter-size);
     margin-bottom: 2em;
 }
@@ -147,7 +147,7 @@ ol ul, ul ol, ol ol {
     .page-content.type-list aside {
         display: flex;
         width: 100%;
-        border-top: 1px solid #eee;
+        border-top: 1px solid #ddd;
         margin-top: 1em;
         padding-top: 1em;
         flex-wrap: wrap;
