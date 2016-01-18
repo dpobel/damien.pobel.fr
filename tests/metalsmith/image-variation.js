@@ -9,7 +9,7 @@ describe('imageVariation metalsmith plugin', function () {
         buildResult,
         buildError;
 
-    this.timeout(5000);
+    this.timeout(50000);
     before(function (done) {
         metalsmith(__dirname)
             .source(fixtureDir + 'src/')
