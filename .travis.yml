@@ -7,8 +7,8 @@ cache:
     directories:
         - web/images
 
-#before_script:
-#    - cp -r `find web/images -mindepth 1 -type d` src/images/
+before_script:
+    - cp -r `find web/images -mindepth 1 -type d` src/images/
 
 script:
     - npm test
