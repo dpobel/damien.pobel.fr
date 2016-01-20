@@ -8,7 +8,7 @@ remoteId: "a77fce82e8b3caa04247abc210252424"
 published: 2009-08-21T00:33:10+02:00
 ---
 
-*Via*[High Scalability](http://highscalability.com/real-world-web-performance-scalability), j'ai découvert cette présentation intitulée [Real World Web: Performance &amp; Scalability](http://develooper.com/talks/rww-mysql-2008.pdf) donnée lors de la [MySQL conference 2008](http://www.mysqlconf.com/mysql2008) par [Ask Bjørn Hansen](http://www.askbjoernhansen.com/). Cette longue présentation (189 pages !) est une excellente compilation de la plupart des conseils que l'on peut trouver un peu partout pour améliorer les performances et l'extensibilité (au niveau de l'architecture) d'une application web par exemple à base de MySQL et du langage de votre choix (PHP, Perl, Ruby, ...)
+*Via* [High Scalability](http://highscalability.com/real-world-web-performance-scalability), j'ai découvert cette présentation intitulée [Real World Web: Performance &amp; Scalability](http://develooper.com/talks/rww-mysql-2008.pdf) donnée lors de la [MySQL conference 2008](http://www.mysqlconf.com/mysql2008) par [Ask Bjørn Hansen](http://www.askbjoernhansen.com/). Cette longue présentation (189 pages !) est une excellente compilation de la plupart des conseils que l'on peut trouver un peu partout pour améliorer les performances et l'extensibilité (au niveau de l'architecture) d'une application web par exemple à base de MySQL et du langage de votre choix (PHP, Perl, Ruby, ...)
 
 
 On peut y trouver également quelques petites phrases assez amusantes du type (traduction libre) :

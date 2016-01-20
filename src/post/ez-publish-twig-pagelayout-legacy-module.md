@@ -8,8 +8,8 @@ published: 2013-05-01T12:59:44+02:00
 ([English version available on share.ez.no](http://share.ez.no/blogs/damien-pobel/twig-pagelayout-for-legacy-modules-in-ez-publish-5))
 
 Je suis en train de mettre à jour [le Planète eZ
-Publish.fr](http://www.planet-ezpublish.fr) à la dernière version d'eZ Publish
-5. J'en profite pour passer en revue les problèmes ou les fonctionnalités
+Publish.fr](http://www.planet-ezpublish.fr) à la dernière version d'eZ Publish 5.
+J'en profite pour passer en revue les problèmes ou les fonctionnalités
 manquantes que j'avais recontrés lors de [la mise en place de la version avec eZ
 Publish 5 en décembre
 dernier](/post/planet-ez-publish-fr-mis-sur-orbite-par-ez-publish-5). [L'un de
