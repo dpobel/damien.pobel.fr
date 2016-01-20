@@ -2,6 +2,8 @@
 title: "My JavaScript style badge"
 tags: useless, javascript
 published: 2013-03-03T15:40:43+01:00
+photos:
+    - images/javascript-style-badge.png
 ---
 
 <figure class="object-left"><img src="/images/javascript-style-badge.png"

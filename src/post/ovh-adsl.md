@@ -3,6 +3,8 @@ title: "OVH ADSL"
 tags: adsl, ovh, free
 lang: "fr"
 published: 2013-03-08T22:35:05+01:00
+photos:
+    - images/colis-resiliation-free-adsl-par-fabrice-roux.jpg
 ---
 
 <figure class="object-left"><a

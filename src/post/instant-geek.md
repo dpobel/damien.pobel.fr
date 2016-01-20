@@ -6,6 +6,8 @@ lang: "fr"
 node: "67543"
 remoteId: "391f18516e6f893d03b4ab29493635b1"
 published: 2009-02-14T19:13:48+01:00
+photos:
+    - images/putty-sur-nokia-5800-xpress-music.png
 ---
 <figure class="object-center"><a href="/images/putty-sur-nokia-5800-xpress-music.png">![Putty sur Nokia 5800 Xpress Music](/images//putty-sur-nokia-5800-xpress-music.png)
 </a></figure>

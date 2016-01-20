@@ -2,6 +2,8 @@
 title: "Meetup pour le lancement d'eZ Publish 5.4 à Lyon"
 tags: ez publish, php, lyon, symfony, cms
 published: 2014-11-17T15:41:17+01:00
+photos:
+    - images/ez-logo-beach.jpg
 ---
 
 <figure class="object-center">

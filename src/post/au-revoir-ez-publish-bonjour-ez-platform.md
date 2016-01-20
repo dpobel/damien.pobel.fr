@@ -3,6 +3,8 @@ title: "Au revoir eZ Publish, bonjour eZ Platform"
 tags: ez publish, ez platform, ez systems, cms, php, symfony, online editor
 lang: "fr"
 published: 2016-01-08T10:36:07+01:00
+photos:
+    - images/ez-platform-rocket-launch.png
 ---
 
 <figure class="object-left">

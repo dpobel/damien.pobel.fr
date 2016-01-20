@@ -6,6 +6,8 @@ lang: "fr"
 node: "68028"
 remoteId: "0241d1aa828cef80d59e882951401a0a"
 published: 2009-11-07T17:19:14+01:00
+photos:
+    - images/bandeau-planet-ez-publish-fr.png
 ---
 <figure class="object-center"><a href="http://www.planet-ezpublish.fr">![Bandeau planet eZ Publish.fr](/images//bandeau-planet-ez-publish-fr.png)
 </a></figure>

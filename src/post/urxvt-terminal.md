@@ -2,6 +2,8 @@
 title: "URXVT, my new terminal emulator"
 tags: linux, shell, terminal, x11
 published: 2013-03-19T08:12:59+01:00
+photos:
+    - images/urxvt.jpg
 ---
 
 A terminal emulator is like a pair of hiking shoes, it takes time to choose it

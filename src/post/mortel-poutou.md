@@ -6,6 +6,8 @@ lang: "fr"
 node: "69786"
 remoteId: "8c6ed37bc9774e722a019246a8cd31d6"
 published: 2012-06-05T21:18:00+02:00
+photos:
+    - images/affiche-elections-legislatives-2012-mortel-poutou.jpg
 ---
 <a href="/images/affiche-elections-legislatives-2012-mortel-poutou.jpg">![Affiche élections législatives 2012 Mortel Poutou](/images/660x/affiche-elections-legislatives-2012-mortel-poutou.jpg)
 </a>

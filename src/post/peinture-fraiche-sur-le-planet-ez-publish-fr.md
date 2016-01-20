@@ -6,6 +6,8 @@ lang: "fr"
 node: "69791"
 remoteId: "aec379c141ec0cd59b4766ed9888c86f"
 published: 2012-06-20T22:58:58+02:00
+photos:
+    - images/nouveau-design-du-planet-ez-publish-fr.png
 ---
 <figure class="object-center"><a href="/images/nouveau-design-du-planet-ez-publish-fr.png">![Nouveau design du Planet eZ Publish.fr](/images/660x/nouveau-design-du-planet-ez-publish-fr.png)
 </a></figure>

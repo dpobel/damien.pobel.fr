@@ -3,6 +3,8 @@ title: "Jouer à \"devenir une véritable fée de logis!\""
 tags: jouet, sexisme, stéréotype, humeur
 lang: "fr"
 published: 2013-11-18T22:04:44+01:00
+photos:
+    - images/aspirateur-smoby-sexiste.png
 ---
 
 Dernièrement, j'ai partagé sur Twitter et Google+ plusieurs articles sur le

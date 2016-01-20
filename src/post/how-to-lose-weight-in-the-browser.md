@@ -3,6 +3,8 @@ title: "How to lose weight... in the browser"
 tags: performances, frontend, ux
 lang: "en"
 published: 2013-03-12T14:02:16+01:00
+photos:
+    - images/browser-diet.jpg
 ---
 
 <figure class="object-center"><a href="/images/browser-diet.jpg"><img src="/images/660x/browser-diet.jpg"

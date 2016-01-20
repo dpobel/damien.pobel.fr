@@ -3,6 +3,8 @@ title: "On recrute!"
 tags: ez systems, ez publish, ez platform, user interface, javascript, css, frontend, lyon
 lang: "fr"
 published: 2015-09-04T12:14:40+02:00
+photos:
+    - images/ez-systems-bureau-lyon.jpg
 ---
 
 eZ Sytems est à la recherche [d'un(e) développeur(/se) frontend pour renforcer l'équipe

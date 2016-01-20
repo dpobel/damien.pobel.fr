@@ -6,6 +6,8 @@ lang: "fr"
 node: "67727"
 remoteId: "3dd253bb6febb9a951ba5661a341829f"
 published: 2009-04-01T23:54:37+02:00
+photos:
+    - images/comparaison-ez-publish-4-0-1-et-ez-publish-4-1.png
 ---
 
 C'est la saison des benchmarks autour d'[eZ Publish](/tag/ez+publish) :) Bertrand a fait [une intéressante comparaison entre le mode cluster et le mode *classique*](http://blog.ankh-morpork.net/2009/03/30/ez-publish-41-numbers-ezdb-vs-ezfs/#comment-48), suivi de près par [un article sur ez.no mettant en évidence le gain apporté par le fameux Stale Cache](http://ez.no/developer/articles/ez_publish_knowledge_series_stale_cache_or_how_caches_in_ez_publish_4_1_are_handled_in_a_smarter_way) dans la génération du cache de contenu. De mon côté, j'ai adapté les scripts de [mon benchmark entre eZ Publish 3.10 et eZ Publish 4](/post/benchmark-between-ez-publish-4-and-ez-publish-3-10-with-or-without-a-php-opcode-cache) pour comparer cette fois uniquement les performances sur une page en cache de ce site (/blog) avec eZ Publish 4.0.1, eZ Publish 4.1 sans optimisation et eZ Publish 4.1 avec [un fichier config.php](http://pubsvn.ez.no/nextgen/trunk/config.php-RECOMMENDED) ; le but étant de déterminer le gain apporté par les différentes améliorations de performances pour un site sur un seul serveur.

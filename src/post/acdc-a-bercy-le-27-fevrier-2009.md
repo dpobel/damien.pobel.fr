@@ -6,6 +6,8 @@ lang: "fr"
 node: "67622"
 remoteId: "d932fea0b39c14a6f0d240e4f1faa875"
 published: 2009-02-28T22:44:43+01:00
+photos:
+    - images/concert-acdc-a-bercy-le-27-02-09.jpg
 ---
 <figure class="object-center"><a href="/images/concert-acdc-a-bercy-le-27-02-09.jpg">![Concert ACDC à Bercy le 27/02/09](/images/660x/concert-acdc-a-bercy-le-27-02-09.jpg)
 </a></figure>

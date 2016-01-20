@@ -5,6 +5,8 @@ updated: 2009-01-24T23:29:18.000Z
 node: "67424"
 remoteId: "3b0101e718087a908e55f0b1d314d401"
 published: 2009-01-17T00:10:58+01:00
+photos:
+    - images/ezvim-0-2.png
 ---
 
 [And eZVim is not dead](/post/ezvim-le-plugin-vim-pour-ez-publish) ! I've just released a new version of [eZVim](http://projects.ez.no/ezvim), the vim plugin for [eZ Publish](/tag/ez+publish). This version brings some new important features :

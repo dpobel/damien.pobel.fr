@@ -6,6 +6,8 @@ lang: "fr"
 node: "68979"
 remoteId: "0b08d287ebbaefce040612fe17989372"
 published: 2010-11-28T13:58:31+01:00
+photos:
+    - images/couverture-de-derriere-l-ecran-de-la-revolution-sociale.png
 ---
 <figure class="object-left"><a href="/images/couverture-de-derriere-l-ecran-de-la-revolution-sociale.png">![Couverture de "Derrière l'écran de la révolution sociale"](/images/220x/couverture-de-derriere-l-ecran-de-la-revolution-sociale.png)
 </a></figure>

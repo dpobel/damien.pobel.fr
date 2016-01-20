@@ -3,6 +3,8 @@ title: "Firefox OS"
 tags: firefox, firefox os, html5, css3, javascript
 lang: "en"
 published: 2013-03-02T19:55:40+01:00
+photos:
+    - images/firefox-os-home-screen.jpg
 ---
 
 <figure class="object-left"><a href="/images/firefox-os-home-screen.jpg"><img
