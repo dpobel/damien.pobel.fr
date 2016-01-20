@@ -4,6 +4,7 @@
   "repository": "git://github.com/dpobel/damien.pobel.fr.git",
   "description": "",
   "main": "build.js",
+  "private": true,
   "directories": {
     "test": "tests"
   },
