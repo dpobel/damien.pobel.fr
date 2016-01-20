@@ -6,11 +6,15 @@ var metalsmith = require('metalsmith'),
     destination = conf.destination,
     consolidate = require('consolidate'),
     nunjucks = require('nunjucks'),
+    assetsRev = process.env.ASSET_REV,
+    renamedCss,
+    styleRenamePlugin = function () {},
 
     collectPhotos = require('./lib/metalsmith/collect-photos'),
     imageVariation = require('./lib/metalsmith/image-variation'),
     fileToMetadata = require('./lib/metalsmith/file-to-metadata'),
 
+    renamer = require('metalsmith-renamer'),
     htmlMinifier = require('metalsmith-html-minifier'),
     ignore = require('metalsmith-ignore'),
     myth = require('metalsmith-myth'),
@@ -31,6 +35,19 @@ console.log('Adding custom Nunjucks filters');
 consolidate.requires.nunjucks = nunjucks.configure();
 require('./lib/nunjucks/filters')(consolidate.requires.nunjucks);
 
+if ( assetsRev ) {
+    renamedCss = "style-" + assetsRev + ".css";
+    console.log('Preparing style.css renaming to ' + renamedCss);
+
+    styleRenamePlugin = renamer({
+        'style.css': {
+            "pattern": conf.define.css,
+            "rename": renamedCss,
+        }
+    });
+    conf.define.css = renamedCss;
+}
+
 console.log('Generating the site');
 metalsmith(__dirname)
     .source(source)
@@ -50,6 +67,7 @@ metalsmith(__dirname)
     .use(collectPhotos(conf.collectPhotos))
     .use(permalinks(conf.permalinks))
     .use(feed(conf.feed))
+    .use(styleRenamePlugin)
     .use(layouts(conf.layouts))
     .use(imageVariation(conf.imageVariation))
     .use(htmlMinifier())
