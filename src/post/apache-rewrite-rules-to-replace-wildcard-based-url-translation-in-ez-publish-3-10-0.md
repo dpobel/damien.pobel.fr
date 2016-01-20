@@ -7,7 +7,7 @@ remoteId: "a58484c380ac4b4ef1d3d8ba7bf49543"
 published: 2007-11-15T22:14:41+01:00
 ---
 
-Wildcard based URL translation has been removed in [eZ Publish](/tag/ez+publish) 3.10.0. In [the upgrading from eZ Publish 3.9.x to 3.10.0 documentation](http://ez.no/doc/ez_publish/upgrading/upgrading_to_3_10/from_3_9_x_to_3_10_0) on eZ.no, we can now read (I think this note was not there when [I upgrade](/post/upgrading-a-large-site-from-ez-publish-3-9-2-to-ez-publish-3-10) at the beginning of October...) :
+Wildcard based URL translation has been removed in [eZ Publish](/tag/ez-publish) 3.10.0. In [the upgrading from eZ Publish 3.9.x to 3.10.0 documentation](http://ez.no/doc/ez_publish/upgrading/upgrading_to_3_10/from_3_9_x_to_3_10_0) on eZ.no, we can now read (I think this note was not there when [I upgrade](/post/upgrading-a-large-site-from-ez-publish-3-9-2-to-ez-publish-3-10) at the beginning of October...) :
 
 <blockquote>
 Before continuing, note that eZ Publish 3.10.0 does not support wildcard based URL forwarding anymore. This possibility was removed when implementing the multilingual URLs functionality. However, it might be added in the future (refer to changelogs and latest release announcements for more information).

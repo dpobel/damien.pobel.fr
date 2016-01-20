@@ -20,5 +20,5 @@ RewriteRule  (.*) /path/to/your/maintenance/file/index.htm [L]
 ```
 
 
-With this setting, Apache distributes the index.htm file for all request. You can also put your own IP address on the second line and uncomment it so that you can view the normal site for example to generate some caches in [eZ Publish](/tag/ez+publish) before putting your site online again.
+With this setting, Apache distributes the index.htm file for all request. You can also put your own IP address on the second line and uncomment it so that you can view the normal site for example to generate some caches in [eZ Publish](/tag/ez-publish) before putting your site online again.
 

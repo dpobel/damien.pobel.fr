@@ -8,7 +8,7 @@ remoteId: "cce0d052c86fd44166e0de6498d983c4"
 published: 2009-09-29T00:47:11+02:00
 ---
 
-Je travaille depuis très exactement 13 jours sur un projet [Magento](/tag/magento) histoire de changer un peu d'[eZ Publish](/tag/ez+publish). Bon, en réalité j'ai fait 2 jours de formation et 11 de développement plus [une petite expérience d'optimisations côté système](/post/optimisations-magento-et-autres-applications-php-mysql). C'est certes trop court pour en saisir toutes les subtilités techniques mais c'est largement suffisant pour y voir de très bonnes choses et de beaucoup moins bonnes.
+Je travaille depuis très exactement 13 jours sur un projet [Magento](/tag/magento) histoire de changer un peu d'[eZ Publish](/tag/ez-publish). Bon, en réalité j'ai fait 2 jours de formation et 11 de développement plus [une petite expérience d'optimisations côté système](/post/optimisations-magento-et-autres-applications-php-mysql). C'est certes trop court pour en saisir toutes les subtilités techniques mais c'est largement suffisant pour y voir de très bonnes choses et de beaucoup moins bonnes.
 
 
 Parmi les excellents points :

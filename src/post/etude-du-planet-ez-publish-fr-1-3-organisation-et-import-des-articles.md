@@ -8,7 +8,7 @@ remoteId: "abbb81fea764983a17e9db6fed2d7307"
 published: 2009-01-27T13:55:00+01:00
 ---
 
-Cette série de 3 billets présente les principaux points de la conception et de la réalisation du [Planet eZ Publish.fr](http://www.planet-ezpublish.fr) avec [eZ Publish](/tag/ez+publish).Il s'agit d'un site simple à tous les niveaux, mais il concentre tout de même quelques astuces que j'espère intéressantes !
+Cette série de 3 billets présente les principaux points de la conception et de la réalisation du [Planet eZ Publish.fr](http://www.planet-ezpublish.fr) avec [eZ Publish](/tag/ez-publish).Il s'agit d'un site simple à tous les niveaux, mais il concentre tout de même quelques astuces que j'espère intéressantes !
 
 
 I. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles)

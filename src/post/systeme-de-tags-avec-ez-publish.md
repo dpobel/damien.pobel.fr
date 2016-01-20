@@ -11,7 +11,7 @@ published: 2006-09-23T23:42:19+02:00
 J'ai reçu cet après midi un mail d'une personne me demandant comment fonctionne le système de *tags* sur mon blog et plus généralement comment mettre en place un tel système avec eZ publish. Comme elle me le suggère, c'est effectivement un sujet pouvant faire l'objet d'un billet, alors c'est parti ...
 
 
-Pour faire court, un système de *tags* est un système de mots clefs ; à chaque fois que j'écris un billet, je l'associe à un ou plusieurs mots clefs. Comme mon blog tourne souvent autour [des mêmes sujets](/post/ouverture) ([Web](/tag/web), [Linux](/tag/linux), [Ubuntu](/tag/ubuntu) et biensûr [eZ publish](/tag/ez+publish)), le nombre de *tags* est assez restreint. Pour le moment, j'en ai une cinquantaine mais j'en utilise qu'une quarantaine. Un représentation de l'utilisation des *tags* est [l'affichage en nuage](/tags), c'est à dire que la taille du mot est différente en fonction de son utilisation.
+Pour faire court, un système de *tags* est un système de mots clefs ; à chaque fois que j'écris un billet, je l'associe à un ou plusieurs mots clefs. Comme mon blog tourne souvent autour [des mêmes sujets](/post/ouverture) ([Web](/tag/web), [Linux](/tag/linux), [Ubuntu](/tag/ubuntu) et biensûr [eZ publish](/tag/ez-publish)), le nombre de *tags* est assez restreint. Pour le moment, j'en ai une cinquantaine mais j'en utilise qu'une quarantaine. Un représentation de l'utilisation des *tags* est [l'affichage en nuage](/tags), c'est à dire que la taille du mot est différente en fonction de son utilisation.
 
 
 *A priori* pour réaliser un tel système avec eZ publish, je vois 4 possibilités :

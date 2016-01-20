@@ -30,7 +30,7 @@ CMS](/post/ouverture) qui s'appelait alors "eZ publish" :) Bon après, si on
 gratte un peu, on peut voir qu'eZ Platform dépend notamment d'un (gros) paquet
 appelé `ezpublish-kernel`, *la bête est encore vivante* ;-)
 
-Plus sérieusement, [eZ Platform](/tag/ez+platform) est la réécriture d'eZ
+Plus sérieusement, [eZ Platform](/tag/ez-platform) est la réécriture d'eZ
 Publish, en gros on a gardé les concepts mais ils sont mis en œuvre avec du code
 moderne, de bien meilleur qualité, mieux découpé, testé et basé notamment sur
 l'excellent Symfony. 

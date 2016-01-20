@@ -7,7 +7,7 @@ remoteId: "774c6eab2cd60721788e86ca5ce9471c"
 published: 2010-10-22T21:44:25+02:00
 ---
 
-As in almost every new release, [eZ Publish](/tag/ez+publish) is announced to perform better than the previous release This was true when [4.0 was released](/post/comparaison-de-performances-entre-ez-publish-4-0-1-et-4-1) and also for [the version 4.1](/post/comparaison-de-performances-entre-ez-publish-4-0-1-et-4-1). And what about the new 4.4 ?
+As in almost every new release, [eZ Publish](/tag/ez-publish) is announced to perform better than the previous release This was true when [4.0 was released](/post/comparaison-de-performances-entre-ez-publish-4-0-1-et-4-1) and also for [the version 4.1](/post/comparaison-de-performances-entre-ez-publish-4-0-1-et-4-1). And what about the new 4.4 ?
 
 
 [As I wrote earlier (in french)](/post/mise-a-jour-de-pwet-fr-et-planet-ezpublish-fr-vers-ez-publish-4-4), eZ Publish brings a new session system that only creates a session when it's needed. Now, it's also possible [to configure the way sessions are stored](http://doc.ez.no/eZ-Publish/Technical-manual/4.x/Reference/Configuration-files/site.ini/Session/Handler), by default the file system is used instead of the database in the previous versions. In terms of performance, this new feature is promising and since my upgrades, I find the pages more responsive but it was only a feeling.

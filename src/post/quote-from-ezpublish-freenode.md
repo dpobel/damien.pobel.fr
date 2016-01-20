@@ -20,5 +20,5 @@ About [my URL Aliases problem](/post/url-aliases-transformed-into-numbers-when-u
 ```
 
 
-A little bit hard for [eZ Publish](/tag/ez+publish), but it's just funny :-)
+A little bit hard for [eZ Publish](/tag/ez-publish), but it's just funny :-)
 

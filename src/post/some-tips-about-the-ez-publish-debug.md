@@ -7,7 +7,7 @@ remoteId: "911fce436dcbaf3174e0fd159f0cd8d8"
 published: 2008-11-16T23:53:57+01:00
 ---
 
-The [eZ Publish](/tag/ez+publish) debug is probably one of the most useful tool for the *eZ developer*. [It is recommended to always activate it during development](http://suffandnonsense.blogspot.com/2008/10/10-tips-for-new-ez-publish-developers.html) as you should read in it only debug or notice messages (and perhaps some translations warnings).
+The [eZ Publish](/tag/ez-publish) debug is probably one of the most useful tool for the *eZ developer*. [It is recommended to always activate it during development](http://suffandnonsense.blogspot.com/2008/10/10-tips-for-new-ez-publish-developers.html) as you should read in it only debug or notice messages (and perhaps some translations warnings).
 
 
 ## Enable the debug ouput

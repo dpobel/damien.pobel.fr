@@ -8,7 +8,7 @@ remoteId: "f66cf1cd27808519e03cf761c913bd80"
 published: 2008-08-17T16:06:10+02:00
 ---
 
-Plusieurs études ont été réalisées cet été sur l'accessibilité du <abbr title="Content Management System">CMS</abbr> [eZ Publish](/tag/ez+publish) :
+Plusieurs études ont été réalisées cet été sur l'accessibilité du <abbr title="Content Management System">CMS</abbr> [eZ Publish](/tag/ez-publish) :
 
 * [Comparatif de l'accessibilité des CMS par Temesis](http://blog.temesis.com/2008/07/10/331-rmll-cms-accessibilite-suite) accessible via [un compte Opquast](http://mon.opquast.com/)
 * [Audit d'accessibilité de l'interface d'administration du CMS eZ Publish 4.0](http://freemi.fr/ez_publish/backoffice_accessibilite.html)

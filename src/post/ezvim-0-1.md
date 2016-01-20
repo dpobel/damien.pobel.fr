@@ -11,7 +11,7 @@ published: 2007-04-08T22:13:14+02:00
 Je viens de mettre en ligne la toute première version du [plugin eZVim](http://projects.ez.no/ezvim) sur [la plateforme eZ Projects](http://projects.ez.no) et dans [les contributions externes eZ publish](http://ez.no/community/contribs/3rd_party/ezvim). [vim.org](http://www.vim.org/) est inaccessible au moment où j'écris ces lignes, mais je l'ajouterai aussi là bas dès que possible.
 
  
-eZVim est un plugin vim sous licence GPL qui ajoute à cet éditeur quelques fonctionnalités pour le développeur [eZ Publish](/tag/ez+publish) inspirées du [plugin Smile eZ Plugin](http://smile-ez-plugin.sourceforge.net/). Pour l'utiliser, il faut vim 6 ou supérieur, avec le support des scripts en python. Sous Ubuntu et Debian, il suffit d'installer le paquet vim-python.
+eZVim est un plugin vim sous licence GPL qui ajoute à cet éditeur quelques fonctionnalités pour le développeur [eZ Publish](/tag/ez-publish) inspirées du [plugin Smile eZ Plugin](http://smile-ez-plugin.sourceforge.net/). Pour l'utiliser, il faut vim 6 ou supérieur, avec le support des scripts en python. Sous Ubuntu et Debian, il suffit d'installer le paquet vim-python.
 
    
 ### Classes View

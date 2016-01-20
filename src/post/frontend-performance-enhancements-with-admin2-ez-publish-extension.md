@@ -13,7 +13,7 @@ About a month ago, I created a new project called [admin2++ on projects.ez.no](h
 ## Current enhancements on frontend performance
 
 
-The admin2++ extension provides the following enhancements to [eZ Publish](/tag/ez+publish) admin2 interface :
+The admin2++ extension provides the following enhancements to [eZ Publish](/tag/ez-publish) admin2 interface :
 
 * the twenties background images have been incorporated into three sprites images [to decrease the number of HTTP requests](/post/optimiser-son-site-limiter-le-nombre-de-requetes-http). This also decreases the total background images size from about 30Kb to 6Kb.
 * PNG Content class icons and PNG admin2 design images have been optimized. Here again the total size of icons and images is decreased from about 200Kb to 147Kb.

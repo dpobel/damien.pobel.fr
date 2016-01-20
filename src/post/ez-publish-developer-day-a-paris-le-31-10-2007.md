@@ -14,7 +14,7 @@ Hier s'est déroulé le premier [eZ Publish developer day à Paris](http://ez.no
 La première surprise fut l'audience puisque nous étions une bonne cinquantaine ! Même si comme le dit Roland Benedetti (Managing Director eZ Systems France), &quot; *il se passe quelque chose au niveau d'eZ Publish en France*&quot; une telle audience fut une surprise pour tout le monde. Ayant une intervention de prévue en fin d'après midi, c'était aussi un peu de challenge en plus pour moi :-) Il est aussi agréable de pouvoir mettre un visage sur différents noms rencontrés par mail, sur les forums ou via [mon blog](/).
 
 
-Pendant la première partie de l'après midi, nous avons donc pu écouter [Paul Borgermans](http://walhalla.wordpress.com/) responsable du eZ Labs (la partie R&amp;D d'eZ Systems) nous présenter les orientations et les nouveautés techniques autour d'[eZ Publish 4](/tag/ez+publish) et des extensions.
+Pendant la première partie de l'après midi, nous avons donc pu écouter [Paul Borgermans](http://walhalla.wordpress.com/) responsable du eZ Labs (la partie R&amp;D d'eZ Systems) nous présenter les orientations et les nouveautés techniques autour d'[eZ Publish 4](/tag/ez-publish) et des extensions.
 
 
 ## eZ Publish 4

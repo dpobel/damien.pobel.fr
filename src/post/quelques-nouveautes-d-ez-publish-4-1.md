@@ -10,7 +10,7 @@ published: 2009-04-08T00:22:38+02:00
 
 Il n'y a pas que [des améliorations de performances dans eZ Publish 4.1](/post/comparaison-de-performances-entre-ez-publish-4-0-1-et-4-1). [L'annonce de la sortie de la version 4.1](http://ez.no/developer/news/ez_publish_4_1_0_released) liste les plus grosses nouveautés ([stale cache](http://ez.no/developer/articles/ez_publish_knowledge_series_stale_cache_or_how_caches_in_ez_publish_4_1_are_handled_in_a_smarter_way), [object states](http://ez.no/developer/articles/ez_publish_knowledge_series_editorial_workflow_with_object_states), ...) et d'autres améliorations attendues depuis un bon moment. Je pense en particulier à [l'ajout de déclencheurs](http://issues.ez.no/10176) sur d'autres opérations que l'affichage d'un objet (<code>content/read</code>
 ), la publication (<code>content/publish</code>
-) ou ceux dédiés au module de boutique. Mais [eZ Publish](/tag/ez+publish) 4.1 apporte aussi d'autres améliorations qui sont passées pour le moment un peu inaperçues comme l'amélioration des *content edit handler* ou les extensions de type *output filter*.
+) ou ceux dédiés au module de boutique. Mais [eZ Publish](/tag/ez-publish) 4.1 apporte aussi d'autres améliorations qui sont passées pour le moment un peu inaperçues comme l'amélioration des *content edit handler* ou les extensions de type *output filter*.
 
 
 ## Validation avec un *content edit handler*

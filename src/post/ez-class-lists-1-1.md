@@ -11,7 +11,7 @@ published: 2009-05-30T17:45:05+02:00
 </a></figure>
 
 
-Cette nouvelle version est mieux intégrée au backoffice d'[eZ Publish](/tag/ez+publish)[avec un nouveau lien dans le menu contextuel accessible en cliquant sur l'icône dans la vue full d'un noeud](http://projects.ez.no/ezclasslists/gallery/new_features_of_1_1/link_in_popup_menu) et [un lien sur le nombre d'objets dans la vue class/view](http://projects.ez.no/ezclasslists/gallery/new_features_of_1_1/link_in_class_view). Ces idées sont issues [de la demande d'amélioration #14990](http://issues.ez.no/14990) de [Gaetano](http://gggeek.altervista.org/) pour le backoffice eZ Publish.
+Cette nouvelle version est mieux intégrée au backoffice d'[eZ Publish](/tag/ez-publish)[avec un nouveau lien dans le menu contextuel accessible en cliquant sur l'icône dans la vue full d'un noeud](http://projects.ez.no/ezclasslists/gallery/new_features_of_1_1/link_in_popup_menu) et [un lien sur le nombre d'objets dans la vue class/view](http://projects.ez.no/ezclasslists/gallery/new_features_of_1_1/link_in_class_view). Ces idées sont issues [de la demande d'amélioration #14990](http://issues.ez.no/14990) de [Gaetano](http://gggeek.altervista.org/) pour le backoffice eZ Publish.
 
 
 Pour rappel, [eZ Class Lists](http://projects.ez.no/ezclasslists) est une extension eZ Publish qui ajoute un onglet dans le backoffice où sont listés les objets de contenus en offrant la possibilité de filtrer par classe de contenu au lieu de la navigation arborescente.

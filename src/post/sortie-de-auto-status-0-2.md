@@ -8,7 +8,7 @@ remoteId: "2631222cfa9df006ce40f13585c764bb"
 published: 2011-07-05T20:42:36+02:00
 ---
 
-[Auto Status version 0.2](http://projects.ez.no/autostatus/downloads/auto_status_0_2) est sortie ! [Auto Status](http://projects.ez.no/autostatus) est une extension [eZ Publish](/tag/ez+publish) capable de mettre à jour votre statut sur différents réseaux sociaux (Twitter and Identi.ca sont supportés pour le moment) de manière automatique ou semie-automatique.
+[Auto Status version 0.2](http://projects.ez.no/autostatus/downloads/auto_status_0_2) est sortie ! [Auto Status](http://projects.ez.no/autostatus) est une extension [eZ Publish](/tag/ez-publish) capable de mettre à jour votre statut sur différents réseaux sociaux (Twitter and Identi.ca sont supportés pour le moment) de manière automatique ou semie-automatique.
 
 
 ## Quoi de neuf ?

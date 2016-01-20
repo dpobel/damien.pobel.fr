@@ -14,7 +14,7 @@ With one word : **GREAT** !
 With many words :
 
  * Many fun and interesting people that told me : *you should blog in english* ! I'll try in some cases ;-)
- * Many high level conferences about [eZ Publish](/tag/ez+publish), [eZ Components](/tag/ez+components), [PHP](/tag/php), and related stuffs.
+ * Many high level conferences about [eZ Publish](/tag/ez-publish), [eZ Components](/tag/ez-components), [PHP](/tag/php), and related stuffs.
  * An [eZ Award](/images/ez-award.jpg) for this blog ! I'm very proud of it.
  * A great party at Klosterøya
  * A wonderful country

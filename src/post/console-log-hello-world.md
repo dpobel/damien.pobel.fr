@@ -17,7 +17,7 @@ Second, as you can see if you're not reading this text through an aggregator, th
 are a lot of visible changes, I hope you like it as much I'm proud of it ;-) I
 also removed the comments, I don't know yet if it's definitive or not.
 
-Lastly, it's not based on [eZ Publish](/tag/ez+publish) anymore. It's built with a
+Lastly, it's not based on [eZ Publish](/tag/ez-publish) anymore. It's built with a
 tool called [Lectroid](https://github.com/rgrove/lectroid) which is a *really
 boring blog engine* written in JavaScript by [Ryan Grove](http://wonko.com/). I
 discovered this tool while randomly browsing repositories on Github and I found

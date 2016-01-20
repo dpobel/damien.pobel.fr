@@ -13,7 +13,7 @@ published: 2007-10-07T23:12:00+02:00
 **Warning:***this article explains some hacks I had to do to upgrade quickly to eZ Publish 3.10. These modifications can be dangerous for your data, use them at your own risk and don't forget to make backups !*
 
 
-Waiting for a more stable version of [eZ Publish 4](/post/ez-publish-4-alpha-1-et-beaucoup-d-autres-choses), I've upgraded [my site]() from [eZ Publish](/tag/ez+publish) 3.9.2 to eZ Publish 3.10.0. [My last upgrade was quite long](/post/migration-vers-ez-publish-3-9-2), but this one could have taken ages ! As [I mentioned in the developper forum](http://ez.no/developer/forum/developer/upgrade_to_3_10), the updateniceurls.php script started with this message :
+Waiting for a more stable version of [eZ Publish 4](/post/ez-publish-4-alpha-1-et-beaucoup-d-autres-choses), I've upgraded [my site]() from [eZ Publish](/tag/ez-publish) 3.9.2 to eZ Publish 3.10.0. [My last upgrade was quite long](/post/migration-vers-ez-publish-3-9-2), but this one could have taken ages ! As [I mentioned in the developper forum](http://ez.no/developer/forum/developer/upgrade_to_3_10), the updateniceurls.php script started with this message :
 
 ``` bash
 > tigrou@dedipwet[88.191.30.29]:~/web/pwet.fr/www310$ php4 bin/php/updateniceurls.php -s plain_site_admin

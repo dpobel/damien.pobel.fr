@@ -8,7 +8,7 @@ remoteId: "6d7f0d09f850fcd68a5ec55363b4b533"
 published: 2009-01-25T01:37:27+01:00
 ---
 
-Depuis [près de deux ans et demi](/post/ouverture), j'avais un bug assez énervant qui faisait que tous les liens insérés dans un bloc de texte riche était systématiquement suivi d'un espace lors du rendu ce qui est particulièrement gênant avec la ponctuation qui se retrouve parfois sur la ligne suivante. Depuis quelque temps j'étais persuadé qu'il s'agissait d'un bug d'[eZ Publish](/tag/ez+publish) lié au fait que j'avais fait un *override* du template <code>content/datatype/view/ezxmltags/link.tpl</code>
+Depuis [près de deux ans et demi](/post/ouverture), j'avais un bug assez énervant qui faisait que tous les liens insérés dans un bloc de texte riche était systématiquement suivi d'un espace lors du rendu ce qui est particulièrement gênant avec la ponctuation qui se retrouve parfois sur la ligne suivante. Depuis quelque temps j'étais persuadé qu'il s'agissait d'un bug d'[eZ Publish](/tag/ez-publish) lié au fait que j'avais fait un *override* du template <code>content/datatype/view/ezxmltags/link.tpl</code>
  en le plaçant dans le design de mon site.
 
 

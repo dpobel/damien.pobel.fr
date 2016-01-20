@@ -13,7 +13,7 @@ The blog post is the continuation of [﻿﻿Frontend performance enhancements wi
 ## Current features provided by admin2++ extension
 
 
-admin2++ extension currently provides the following features by using [jQueryUI 1.8](http://blog.jqueryui.com/2010/03/jquery-ui-18/) in the new [eZ Publish](/tag/ez+publish) administration interface :
+admin2++ extension currently provides the following features by using [jQueryUI 1.8](http://blog.jqueryui.com/2010/03/jquery-ui-18/) in the new [eZ Publish](/tag/ez-publish) administration interface :
 
 * it improves the dashboard to be easily configurable by each user (drag'n drop of blocks, ability to remove or add blocks)
 * it adds some new dashboard blocks (System infos, Feed reader, Advanced search form)

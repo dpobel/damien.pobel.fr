@@ -10,7 +10,7 @@ published: 2009-08-26T20:13:34+02:00
 I answered this question today [on IRC](http://ez.no/developer/irc) and a colleague asked me the same thing about two weeks ago... it's time to write down the solution :-)
 
 
-Basically, you just need to tell what *design keys* you want to use and their value to the template engine of [eZ Publish](/tag/ez+publish). The *design keys* are the parameters you will be able to use in [an override condition](http://ez.no/doc/ez_publish/technical_manual/4_0/templates/the_template_override_system). Let's take an example with a simplistic PHP view (it lacks a lots of checkings) :
+Basically, you just need to tell what *design keys* you want to use and their value to the template engine of [eZ Publish](/tag/ez-publish). The *design keys* are the parameters you will be able to use in [an override condition](http://ez.no/doc/ez_publish/technical_manual/4_0/templates/the_template_override_system). Let's take an example with a simplistic PHP view (it lacks a lots of checkings) :
 
 ``` php
 <?php

@@ -7,7 +7,7 @@ remoteId: "34473393e5dd4aa89a9ba7206cc4aad6"
 published: 2007-12-02T19:36:00+01:00
 ---
 
-After [2 alphas](/post/ez-publish-4-alpha-1-et-beaucoup-d-autres-choses) and one beta release, [eZ Publish](/tag/ez+publish) 4 rc1 [has been released last week](http://lists.ez.no/pipermail/sdk-public/2007-November/002696.html). I'm trying to upgrade but [I'm facing an encoding problem](http://ez.no/developer/forum/install_configuration/ez_publish_4_upgrade_3_10_0_site_with_a_latin1_database). In the meantime, I made a benchmark between eZ Publish 4rc1 with PHP 5.2.5 and eZ Publish 3.10.0 with PHP 4.4.7 on a Debian Etch system using [the Dotdeb packages](http://dotdeb.org/). I also tested the performances of [APC](http://pecl.php.net/package/APC), [eAccelerator](http://www.eaccelerator.net/) and [XCache](http://xcache.lighttpd.net/) opcode cache modules in those configurations.
+After [2 alphas](/post/ez-publish-4-alpha-1-et-beaucoup-d-autres-choses) and one beta release, [eZ Publish](/tag/ez-publish) 4 rc1 [has been released last week](http://lists.ez.no/pipermail/sdk-public/2007-November/002696.html). I'm trying to upgrade but [I'm facing an encoding problem](http://ez.no/developer/forum/install_configuration/ez_publish_4_upgrade_3_10_0_site_with_a_latin1_database). In the meantime, I made a benchmark between eZ Publish 4rc1 with PHP 5.2.5 and eZ Publish 3.10.0 with PHP 4.4.7 on a Debian Etch system using [the Dotdeb packages](http://dotdeb.org/). I also tested the performances of [APC](http://pecl.php.net/package/APC), [eAccelerator](http://www.eaccelerator.net/) and [XCache](http://xcache.lighttpd.net/) opcode cache modules in those configurations.
 
 
 ## Protocol

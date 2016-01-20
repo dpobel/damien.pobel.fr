@@ -9,7 +9,7 @@ photos:
     - images/ezvim-0-2.png
 ---
 
-[And eZVim is not dead](/post/ezvim-le-plugin-vim-pour-ez-publish) ! I've just released a new version of [eZVim](http://projects.ez.no/ezvim), the vim plugin for [eZ Publish](/tag/ez+publish). This version brings some new important features :
+[And eZVim is not dead](/post/ezvim-le-plugin-vim-pour-ez-publish) ! I've just released a new version of [eZVim](http://projects.ez.no/ezvim), the vim plugin for [eZ Publish](/tag/ez-publish). This version brings some new important features :
 
 * **Quick documentation search** : ALT-D on any word in a template file will search for this word in [the online documentation](http://ez.no/doc)
 * **Specific syntax highlighting for eZ Publish templates** instead of the [Smarty](http://www.smarty.net/) one used by default (based on it by the way)

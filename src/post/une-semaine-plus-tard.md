@@ -11,5 +11,5 @@ published: 2007-02-09T14:02:20+01:00
 Voila une semaine qui est passée à toute vitesse ! Une semaine [que je suis rentré chez Smile](/post/du-changement-dans-l-air) à Montpellier et j'ai pas vraiment eu le temps de m'ennuyer, ce qui est plutôt normal :) Jusque là tout se passe bien, l'ambiance de travail est excellente et je profite d'une pause de midi &quot; *video ludique*&quot; pour écrire ce billet pendant que d'autres se tirent dessus.
 
  
-J'ai eu l'occasion de faire un peu de maintenance sur deux projets basés sur [eZ Publish](/tag/ez+publish) et le moins que je suis puisse dire c'est que ce sont des projets extrêmement ambitieux techniquement. C'est assez fascinant, comme les limites de ce CMS sont repoussées par des projets de cette envergure.
+J'ai eu l'occasion de faire un peu de maintenance sur deux projets basés sur [eZ Publish](/tag/ez-publish) et le moins que je suis puisse dire c'est que ce sont des projets extrêmement ambitieux techniquement. C'est assez fascinant, comme les limites de ce CMS sont repoussées par des projets de cette envergure.
 

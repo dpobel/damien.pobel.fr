@@ -11,7 +11,7 @@ published: 2008-06-29T18:53:13+02:00
 </a></figure>
 
 
-La semaine dernière se déroulait l'[eZ Conference 2008](http://conference.ez.no) à [Skien en Norvège](http://maps.google.fr/maps?f=q&amp;hl=fr&amp;geocode=&amp;q=skien,+norway&amp;ie=UTF8&amp;t=h&amp;z=9) autour du [CMS](/tag/cms) Open source [eZ Publish](/tag/ez+publish). Cette année, la conférence se déroulait en même temps que l'Open Nordic.
+La semaine dernière se déroulait l'[eZ Conference 2008](http://conference.ez.no) à [Skien en Norvège](http://maps.google.fr/maps?f=q&amp;hl=fr&amp;geocode=&amp;q=skien,+norway&amp;ie=UTF8&amp;t=h&amp;z=9) autour du [CMS](/tag/cms) Open source [eZ Publish](/tag/ez-publish). Cette année, la conférence se déroulait en même temps que l'Open Nordic.
 
 
 Beaucoup de nouveautés et pas mal de retours intéressants sur de gros projets ont été présentés cette année à l'eZ Conférence 2008. D'un point de vue *produit*, eZ Systems dirige ses développements sur 2 axes :

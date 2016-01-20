@@ -8,10 +8,10 @@ remoteId: "2718ae8f7ae1cf6fb603fe66d97228b2"
 published: 2008-04-26T20:38:59+02:00
 ---
 
-Voici un compte rendu du eZ developer day du 17/04/2008 qui s'est déroulé dans les locaux de Sun Microsystems réunissant une cinquantaine de développeurs intéressé par le CMS [eZ Publish](/tag/ez+publish). Nous avons tout d'abord eu droit à une première présentation de la stratégie &quot;Open Source&quot; de Sun. Rien de très intéressant techniquement parlant, si ce n'est quelques fonctionnalités avancées d'[Open Solaris](http://opensolaris.org/os/) comme le système de fichiers [ZFS](http://opensolaris.org/os/community/zfs/) ou la solution de virtualisation et une volonté affichée avec l'ouverture de Solaris de concurrencer les distributions Linux autant au niveau professionnel avec des niveaux de support avancés qu'au niveau communautaire.
+Voici un compte rendu du eZ developer day du 17/04/2008 qui s'est déroulé dans les locaux de Sun Microsystems réunissant une cinquantaine de développeurs intéressé par le CMS [eZ Publish](/tag/ez-publish). Nous avons tout d'abord eu droit à une première présentation de la stratégie &quot;Open Source&quot; de Sun. Rien de très intéressant techniquement parlant, si ce n'est quelques fonctionnalités avancées d'[Open Solaris](http://opensolaris.org/os/) comme le système de fichiers [ZFS](http://opensolaris.org/os/community/zfs/) ou la solution de virtualisation et une volonté affichée avec l'ouverture de Solaris de concurrencer les distributions Linux autant au niveau professionnel avec des niveaux de support avancés qu'au niveau communautaire.
 
 
-La suite était heureusement nettement plus intéressante. Comme en [octobre dernier](/post/ez-publish-developer-day-a-paris-le-31-10-2007) Paul Borgermans nous a présenté la roadmap des différents produits eZ (eZ Publish, [eZ Components](/tag/ez+components), eZ Flow, [eZ Find](/tag/ez+find), ...). Le moins qu'on puisse dire est que de grosses évolutions voire des révolutions sont en marche au moins au niveau d'eZ Publish.
+La suite était heureusement nettement plus intéressante. Comme en [octobre dernier](/post/ez-publish-developer-day-a-paris-le-31-10-2007) Paul Borgermans nous a présenté la roadmap des différents produits eZ (eZ Publish, [eZ Components](/tag/ez-components), eZ Flow, [eZ Find](/tag/ez-find), ...). Le moins qu'on puisse dire est que de grosses évolutions voire des révolutions sont en marche au moins au niveau d'eZ Publish.
 
 
 ## La version 4.1 d'eZ Publish

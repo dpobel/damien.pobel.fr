@@ -11,9 +11,9 @@ published: 2007-10-06T00:42:52+02:00
 ## eZ Publish 4 Alpha 1
 
 
-[eZ Publish](/tag/ez+publish) 4 arrive enfin, une première version alpha est sortie jeudi dernier basée sur [le portage communautaire](http://pubsvn.ez.no/nextgen/unstable/2007-03-21-php5/) débuté par [Kristof Coomans](http://blog.coomanskristof.be/) et [Paul Borgermans](http://walhalla.wordpress.com/). En terme fonctionnel ce ne sera probablement pas une révolution mais le principal atout de cette version est évidemment [le support tant attendu de PHP5](/post/ez-publish-et-php5) (les utilisateurs de distribution Linux ne supportant que PHP5 vont apprécier). En plus de cela, je retiens deux points qui apportent des perspectives intéressantes :
+[eZ Publish](/tag/ez-publish) 4 arrive enfin, une première version alpha est sortie jeudi dernier basée sur [le portage communautaire](http://pubsvn.ez.no/nextgen/unstable/2007-03-21-php5/) débuté par [Kristof Coomans](http://blog.coomanskristof.be/) et [Paul Borgermans](http://walhalla.wordpress.com/). En terme fonctionnel ce ne sera probablement pas une révolution mais le principal atout de cette version est évidemment [le support tant attendu de PHP5](/post/ez-publish-et-php5) (les utilisateurs de distribution Linux ne supportant que PHP5 vont apprécier). En plus de cela, je retiens deux points qui apportent des perspectives intéressantes :
 
-* l'intégration progressive des [eZ Components](/tag/ez+components)
+* l'intégration progressive des [eZ Components](/tag/ez-components)
 * l'utilisation du mécanisme [d'autoload de PHP5](http://fr.php.net/autoload)
 
 

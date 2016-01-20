@@ -19,5 +19,5 @@ photos:
 L'exemple typique d'utilisation est de mettre la fenêtre toujours au dessus des autres dans un coin de l'écran après avoir choisi la zone sur laquelle zoomer. Il est ensuite beaucoup moins fatiguant de vérifier l'alignement correct de zones précises d'une page par un simple rafraîchissement.
 
 
-Mes yeux remercient l'auteur de xzoom mais continuent de maudir [Internet Explorer](/tag/internet+explorer) :-)
+Mes yeux remercient l'auteur de xzoom mais continuent de maudire [Internet Explorer](/tag/internet-explorer) :-)
 

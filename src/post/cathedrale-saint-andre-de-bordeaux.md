@@ -18,5 +18,5 @@ published: 2011-03-06T21:16:19+01:00
 
 </table>
 
-On se sent véritablement tout petit dans la magnifique cathédrale Saint-André de Bordeaux. C'était aussi une parfaite de occasion de tester mon tout nouveau [Nikon D90](/tag/nikon+d90) dans des conditions relativement difficiles de lumière. Avec un objectif à réduction de vibration, c'est un pur bonheur même à main levée.
+On se sent véritablement tout petit dans la magnifique cathédrale Saint-André de Bordeaux. C'était aussi une parfaite de occasion de tester mon tout nouveau [Nikon D90](/tag/nikon-d90) dans des conditions relativement difficiles de lumière. Avec un objectif à réduction de vibration, c'est un pur bonheur même à main levée.
 

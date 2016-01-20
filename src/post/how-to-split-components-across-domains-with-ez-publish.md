@@ -7,7 +7,7 @@ remoteId: "f4c1198bab74a1f833c3f4c7a574e0c4"
 published: 2011-02-23T09:37:17+01:00
 ---
 
-﻿The starting point of this post is [an interesting asking of Marty_Nim](http://twitter.com/MartY_NiM/status/39783968240971776) (aka [Nicolas Martinez](http://www.nicolas-martinez.info/)) on Twitter about the ability to split static components across domains with [eZ Publish](/tag/ez+publish) to improve frontend performances.
+﻿The starting point of this post is [an interesting asking of Marty_Nim](http://twitter.com/MartY_NiM/status/39783968240971776) (aka [Nicolas Martinez](http://www.nicolas-martinez.info/)) on Twitter about the ability to split static components across domains with [eZ Publish](/tag/ez-publish) to improve frontend performances.
 
 
 ## Why split components across domains ?

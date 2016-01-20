@@ -7,7 +7,7 @@ remoteId: "ba523002ccdfe9b3b56492e8ea74f056"
 published: 2008-02-16T15:27:29+01:00
 ---
 
-For me it's probably one of the most waited feature in [eZ Publish](/tag/ez+publish) after [the PHP5 port with eZ Publish 4](/post/ez-publish-4) ! It's only [a beta release](http://ez.no/developer/contribs/applications/ez_oe_mce) but it looks very promising. There's [a document in the SVN repository](http://svn.ez.no/svn/extensions/eztinymce/trunk/eztinymce/doc/oeMCE_intro.odt) or in [the archive](http://ez.no/content/download/224575/1509861/file/eztinymce0_9.zip) explaining new features.
+For me it's probably one of the most waited feature in [eZ Publish](/tag/ez-publish) after [the PHP5 port with eZ Publish 4](/post/ez-publish-4) ! It's only [a beta release](http://ez.no/developer/contribs/applications/ez_oe_mce) but it looks very promising. There's [a document in the SVN repository](http://svn.ez.no/svn/extensions/eztinymce/trunk/eztinymce/doc/oeMCE_intro.odt) or in [the archive](http://ez.no/content/download/224575/1509861/file/eztinymce0_9.zip) explaining new features.
 
 <figure class="object-center"><a href="/images/online-editor-mce.png">![Online Editor MCE](/images/660x/online-editor-mce.png)
 </a></figure>

@@ -7,7 +7,7 @@ remoteId: "c38f247121f6a5a6f348e0d3133945e7"
 published: 2008-08-23T19:45:12+02:00
 ---
 
-[eZWebin](http://ez.no/doc/extensions/website_interface) is an extension providing a toolbar that lets you manage your content directly in the front-end of an [eZ Publish](/tag/ez+publish) site. When [refreshing the design of this site](/post/pwet-2-0), integrating the toolbar was one of my goals. [Łukasz Serwatka](http://serwatka.net/) had already published [a nice article on how to create your own toolbar extension](http://serwatka.net/blog/how_to_create_and_use_an_ez_publish_website_toolbar_extension) by copying files from the ezwebin extension. I don't like this solution because you have to copy again those files when the extension is upgraded (I'm lazy as all developers !). That's why I use the following steps on my blog.
+[eZWebin](http://ez.no/doc/extensions/website_interface) is an extension providing a toolbar that lets you manage your content directly in the front-end of an [eZ Publish](/tag/ez-publish) site. When [refreshing the design of this site](/post/pwet-2-0), integrating the toolbar was one of my goals. [Łukasz Serwatka](http://serwatka.net/) had already published [a nice article on how to create your own toolbar extension](http://serwatka.net/blog/how_to_create_and_use_an_ez_publish_website_toolbar_extension) by copying files from the ezwebin extension. I don't like this solution because you have to copy again those files when the extension is upgraded (I'm lazy as all developers !). That's why I use the following steps on my blog.
 
 
 ## Install and configure the ezwebin extension
