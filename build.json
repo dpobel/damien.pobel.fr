@@ -21,7 +21,8 @@
                 "name": "pages",
                 "path": "pages"
             }
-        }
+        },
+        "css": "style.css"
     },
     "fileToMetadata": {
         "icons": "icons/*.svg"

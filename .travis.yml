@@ -9,6 +9,7 @@ cache:
 
 before_script:
     - cp -r `find web/images -mindepth 1 -type d` src/images/
+    - export ASSET_REV=`git log --pretty=%h -1 assets`
 
 script:
     - npm test
