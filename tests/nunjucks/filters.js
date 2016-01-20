@@ -27,6 +27,12 @@ describe('Nunjucks filters', function () {
 
             assert.equal('http://damien.pobel.fr/blog/', env.filters.url(path, prefix));
         });
+
+        it('should skip the trailing slash for file', function () {
+            var path = 'path/to/file.jpg';
+
+            assert.equal('/path/to/file.jpg', env.filters.url(path, '', true));
+        });
     });
 
     describe('image_variation', function () {

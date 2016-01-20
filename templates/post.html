@@ -35,3 +35,21 @@
     </footer>
 </article>
 {% endblock %}
+
+{% block customMeta %}
+    {% if photos %}
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="{{ photos[0]|image_variation('660x')|url(site.url, true) }}">
+        <meta property="og:image" content="{{ photos[0]|image_variation('660x')|url(site.url, true) }}">
+    {% else %}
+        <meta name="twitter:card" content="summary">
+    {% endif %}
+    <meta name="twitter:site" content="@dpobel">
+    <meta name="twitter:creator" content="@dpobel">
+    <meta name="twitter:title" content="{{ title }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta name="twitter:description" content="{{ contents|striptags|truncate }}">
+    <meta property="og:description" content="{{ contents|striptags|truncate }}">
+    <meta property="og:url" content="{{ path|url(site.url) }}">
+    <meta property="og:type" content="article">
+{% endblock %}
