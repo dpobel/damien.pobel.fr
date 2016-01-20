@@ -111,7 +111,7 @@
             "pattern": "post/*",
             "sortBy": "published",
             "reverse": true,
-            "limit": 10,
+            "limit": 7,
             "refer": false
         },
         "pages": {
