@@ -6,6 +6,8 @@ lang: "fr"
 node: "65062"
 remoteId: "ab273761733b8ff49219a2aee606f6b4"
 published: 2007-04-05T19:38:55+02:00
+photos:
+    - images/pebkac.gif
 ---
  
 ... et ce n'est pas le bureau :)
