@@ -14,7 +14,7 @@ that, I use a tool called [Metalsmith](http://metalsmith.io/). I've already used
 Metalsmith to publish [my mountain bike website](http://vtt.revermont.bike/) and
 I still find it brillant. It is at the same time super simple and powerful
 thanks to its plugins. By the way, [the full source code is on
-Github](https://github/dpobel/damien.pobel.fr/), each and every new version of
+Github](https://github.com/dpobel/damien.pobel.fr/), each and every new version of
 this website is made with less and less code, it seems like I'm getting lazier
 with time. Also, the build process is run by [Travis-CI](https://travis-ci.com/)
 with the great benefit of not having to maintain an up to date environment for
