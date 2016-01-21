@@ -35,6 +35,10 @@ console.log('Adding custom Nunjucks filters');
 consolidate.requires.nunjucks = nunjucks.configure();
 require('./lib/nunjucks/filters')(consolidate.requires.nunjucks);
 
+conf.tags.slug = function (tag) {
+    return tag.replace(/ /g, '-');
+};
+
 if ( assetsRev ) {
     renamedCss = "style-" + assetsRev + ".css";
     console.log('Preparing style.css renaming to ' + renamedCss);
