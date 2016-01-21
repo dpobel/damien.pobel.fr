@@ -33,10 +33,7 @@ associated with me.**
 
 ## this website
 
-This website is built with [a modified
-version](https://github.com/dpobel/lectroid/tree/damien_pobel_fr) of
-[Lectroid](https://github.com/rgrove/lectroid), *a really boring blog engine*
-written by [Ryan Grove](http://www.wonko.com). If you are interested in
-Lectroid, *[Powered by Lectroid, JavaScript and
-Node.js](http://damien.pobel.fr/post/powered-lectroid-javascript-nodejs)*
-shortly explains why I choose this tool and some of the changes I did on it.
+This website is built with [Metalsmith and a few others tools and
+services](/post/powered-by-metalsmith/). The icons were taken from [Simple
+Icons](http://simpleicons.org/) projects. The whole source code is on Github in
+[dpobel/damien.pobel.fr repository](https://github.com/dpobel/damien.pobel.fr).

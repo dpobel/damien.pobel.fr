@@ -6,6 +6,8 @@ lang: "fr"
 node: "65009"
 remoteId: "29d3bdcb011596af982a823ec5a1fd20"
 published: 2007-03-29T23:10:25+02:00
+photos:
+    - images/captcha-or-not-captcha.png
 ---
 
 Aujourd'hui, je suis tombé sur [Blogs &amp; Pages perso référencement par département](http://www.e-monsite.fr/blogsperso/)*via* le [forum Webrankinfo](http://www.webrankinfo.com/forums/index.php), un annuaire du [réseau 1Annuaire](http://1annuaire.com). On remarquera la page d'accueil qui clignote un peu partout (mais j'ai déjà vu bien bien pire), mais le plus marrant, c'est le formulaire d'inscription qui regroupe les champs habituels ainsi qu'un code de vérification à recopier, jusque là rien d'anormal, mais ce code est directement dans la page HTML, point de [captcha](http://fr.wikipedia.org/wiki/Captcha) illisible anti-ocr bariolé, trituré, barbouillé [inefficace avec ça](http://sam.zoy.org/pwntcha/) !

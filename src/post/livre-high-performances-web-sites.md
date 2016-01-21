@@ -6,6 +6,8 @@ lang: "fr"
 node: "66988"
 remoteId: "2dd5b73b59d000b9df0dcc6204cad471"
 published: 2008-08-11T00:29:22+02:00
+photos:
+    - images/couverture-du-livre-high-performances-web-sites.jpg
 ---
 <blockquote>
 Only 10-20% of the end user response time is spent downloading the HTML document. The other 80-90% is spent downloading all the components in the page.
