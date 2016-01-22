@@ -69,10 +69,10 @@
 }
 
 .post-content blockquote {
-    background: #eee;
-    border: 1px solid #888;
+    background: #f0f0f0;
+    border-left: 4px solid #aaa;
     font-style: italic;
-    padding: 0.7em;
+    padding: 0.6em 1em;
     font-family: var(--serif-font);
     font-size: 110%;
     margin: 1em 15px;
