@@ -6,6 +6,8 @@ lang: "fr"
 node: "67148"
 remoteId: "9e4817e7c60b3d4bd9088d5febf74241"
 published: 2008-10-06T23:41:34+02:00
+photos:
+    - images/grip-the-grip.jpg
 ---
 
 Il m'arrive de temps en temps de faire [des déplacements professionnels en région parisienne](/post/en-direct-de-levallois-perret-2) comme c'est le cas en ce début de semaine. Ce n'est définitivement pas ma tasse de thé entre

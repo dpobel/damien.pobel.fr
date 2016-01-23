@@ -1,6 +1,6 @@
 ---
 title: "eZ publish, un vrai CMS ?"
-tags: cms, spip, joomla!, humeurs, ez publish, web
+tags: cms, spip, joomla, humeurs, ez publish, web
 updated: 2007-06-24T09:16:31.000Z
 lang: "fr"
 node: "63798"

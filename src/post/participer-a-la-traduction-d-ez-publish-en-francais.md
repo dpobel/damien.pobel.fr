@@ -1,6 +1,6 @@
 ---
 title: "Participer à la traduction d'eZ Publish en français"
-tags: traduction, ez publish, termplate, git, php, xml
+tags: traduction, ez publish, template, git, php, xml
 updated: 2011-03-14T08:18:02.000Z
 lang: "fr"
 node: "69053"
