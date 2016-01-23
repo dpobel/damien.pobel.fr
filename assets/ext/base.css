@@ -112,6 +112,7 @@ ol ul, ul ol, ol ol {
     fill: #fff;
     display: inline-block;
     height: 1.5em;
+    width: 1.5em;
     vertical-align: middle;
     margin: 0 0.5em 0.2em 0;
 }
