@@ -2,6 +2,7 @@
 title: "The favicon mess"
 tags: html, standards, navigateur
 published: 2013-12-04T08:26:21+01:00
+lang: en
 ---
 
 Yesterday I've discovered [Real Favicon
