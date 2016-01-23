@@ -1,6 +1,6 @@
 ---
 title: "The favicon mess"
-tags: html, standards, browser
+tags: html, standards, navigateur
 published: 2013-12-04T08:26:21+01:00
 ---
 
