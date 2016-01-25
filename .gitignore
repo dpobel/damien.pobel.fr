@@ -3,6 +3,7 @@ web
 src/ext
 src/icons
 src/images/220x
+src/images/200x
 src/images/330x
 src/images/660x
 tests/metalsmith/fixtures/image-variation/build/
