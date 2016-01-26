@@ -52,6 +52,8 @@ if ( assetsRev ) {
     conf.define.css = renamedCss;
 }
 
+conf.feed.postCustomElements = require('./lib/metalsmith/feed-postcustomelements.js');
+
 console.log('Generating the site');
 metalsmith(__dirname)
     .source(source)
