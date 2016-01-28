@@ -7,6 +7,14 @@
     line-height: 1.9;
 }
 
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+    line-height: 1.4;
+}
+
 .post-content pre {
     line-height: 1.2;
     border: 1px solid #bbb;
