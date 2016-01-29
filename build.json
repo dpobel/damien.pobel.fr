@@ -155,6 +155,7 @@
         "lastPhotosNumber": 3
     },
     "imageVariation": {
-        "concurrency": 2
+        "concurrency": 2,
+        "siteUrl": "http://damien.pobel.fr"
     }
 }

@@ -14,7 +14,7 @@ describe('imageVariation metalsmith plugin', function () {
         metalsmith(__dirname)
             .source(fixtureDir + 'src/')
             .destination(fixtureDir + 'build/')
-            .use(imageVariation({concurrency: 2}))
+            .use(imageVariation({concurrency: 2, siteUrl: 'http://damien.pobel.fr'}))
             .build(function (error, result) {
                 buildError = error;
                 buildResult = result;
