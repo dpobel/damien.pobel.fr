@@ -65,4 +65,22 @@ describe('imageVariation metalsmith plugin', function () {
 
         assert(buildResult[normalizedVariation]);
     });
+
+    it('should recognize absolute URI', function () {
+        var absoluteUriVariation = 'images/330x/variation1.gif';
+
+        assert(buildResult[absoluteUriVariation]);
+    });
+
+    it('should recognize meta twitter:image', function () {
+        var absoluteUriVariation = 'images/330x/twitter.gif';
+
+        assert(buildResult[absoluteUriVariation]);
+    });
+
+    it('should recognize meta og:image', function () {
+        var absoluteUriVariation = 'images/220x/twitter.gif';
+
+        assert(buildResult[absoluteUriVariation]);
+    });
 });
