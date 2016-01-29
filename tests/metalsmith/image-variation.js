@@ -14,7 +14,7 @@ describe('imageVariation metalsmith plugin', function () {
         metalsmith(__dirname)
             .source(fixtureDir + 'src/')
             .destination(fixtureDir + 'build/')
-            .use(imageVariation({concurrency: 2}))
+            .use(imageVariation({concurrency: 2, siteUrl: 'http://damien.pobel.fr'}))
             .build(function (error, result) {
                 buildError = error;
                 buildResult = result;
@@ -64,5 +64,23 @@ describe('imageVariation metalsmith plugin', function () {
         var normalizedVariation = 'images/330x/variation4.gif';
 
         assert(buildResult[normalizedVariation]);
+    });
+
+    it('should recognize absolute URI', function () {
+        var absoluteUriVariation = 'images/330x/variation1.gif';
+
+        assert(buildResult[absoluteUriVariation]);
+    });
+
+    it('should recognize meta twitter:image', function () {
+        var absoluteUriVariation = 'images/330x/twitter.gif';
+
+        assert(buildResult[absoluteUriVariation]);
+    });
+
+    it('should recognize meta og:image', function () {
+        var absoluteUriVariation = 'images/220x/twitter.gif';
+
+        assert(buildResult[absoluteUriVariation]);
     });
 });
