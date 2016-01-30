@@ -2,6 +2,7 @@
 title: "Jouer à \"devenir une véritable fée de logis!\""
 tags: jouet, sexisme, stéréotype, humeur
 lang: "fr"
+description: Revue des jouets les plus sexistes et stupides qu'il est possible de trouver dans les rayons des boutiques en ligne
 published: 2013-11-18T22:04:44+01:00
 photos:
     - images/aspirateur-smoby-sexiste.png

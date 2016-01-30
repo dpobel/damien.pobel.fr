@@ -4,6 +4,7 @@ tags: liseuse, livre, livre numérique
 published: 2016-01-28 18:02
 photos:
     - images/liseuse-tea-touch-lux-3.jpg
+description: Rapide bilan après un mois d'utilisation de la liseuse Touch Lux 3 TEA
 ---
 
 <figure class="object-left bordered">

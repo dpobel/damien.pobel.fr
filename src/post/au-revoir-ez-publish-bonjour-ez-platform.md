@@ -3,6 +3,7 @@ title: "Au revoir eZ Publish, bonjour eZ Platform"
 tags: ez publish, ez platform, ez systems, cms, php, symfony, online editor
 lang: "fr"
 published: 2016-01-08T10:36:07+01:00
+description: Une version stable d'eZ Platform est sortie, eZ Publish va progressivement laisser la place à eZ Platform.
 photos:
     - images/ez-platform-rocket-launch.png
 ---

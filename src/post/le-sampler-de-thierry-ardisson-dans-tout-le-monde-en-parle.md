@@ -6,6 +6,7 @@ lang: "fr"
 node: "66771"
 remoteId: "1aad30011d115a54d999c5cce99cf766"
 published: 2008-04-12T13:01:03+02:00
+description: Utilisez Le Sampler de Thierry Ardison dans l'émission Tout le monde en parle, magnéto Serge!
 photos:
     - images/sampler.png
 ---
