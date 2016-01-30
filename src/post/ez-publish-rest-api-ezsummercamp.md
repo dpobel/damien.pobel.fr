@@ -2,6 +2,7 @@
 title: "eZ Publish REST API at the eZ Summer Camp 2013"
 tags: ez publish, php, ezsummercamp, rest, http
 published: 2013-09-09T08:20:03+02:00
+lang: en
 ---
 After [the workshop on the eZ Publish Public
 API](/post/ez-publish-public-api-ezsummercamp), I also animated a workshop on the

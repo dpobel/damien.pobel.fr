@@ -2,6 +2,7 @@
 title: "eZ Publish Public API at the eZ Summer Camp 2013"
 tags: ez publish, php, ezsummercamp
 published: 2013-09-06T09:24:02+02:00
+lang: en
 ---
 Still <a href="/post/bol-croatia">in Bol</a> at the <a href="http://ezsummercamp.com">eZ Summer Camp</a>, the serious business started
 yesterday for me with the <a href="http://ezsummercamp.com/program/using_the_public_api">Using the eZ Publish

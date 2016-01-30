@@ -2,6 +2,7 @@
 title: "URXVT, my new terminal emulator"
 tags: linux, shell, terminal, x11
 published: 2013-03-19T08:12:59+01:00
+lang: en
 photos:
     - images/urxvt.jpg
 ---
