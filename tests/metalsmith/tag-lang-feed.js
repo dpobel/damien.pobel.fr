@@ -11,8 +11,13 @@ describe('tagLangFeed metalsmith plugin', function () {
         ms = metalsmith(__dirname);
         ms.source('fixtures/tag-lang-feed/src')
             .use(function (files, metalsmith, done) {
-                metalsmith.metadata().collections = {};
-                metalsmith.metadata().site = {url: 'http://damien.pobel.fr'};
+                var metadata = metalsmith.metadata();
+
+                metadata.collections = {posts: []};
+                Object.keys(files).forEach(function (path) {
+                    metadata.collections.posts.push(files[path]);
+                });
+                metadata.site = {url: 'http://damien.pobel.fr'};
                 done();
             })
             .use(tags({'handle': 'tags', 'metadataKey': 'tagsList'}))
