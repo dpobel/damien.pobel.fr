@@ -13,6 +13,7 @@ var metalsmith = require('metalsmith'),
     collectPhotos = require('./lib/metalsmith/collect-photos'),
     imageVariation = require('./lib/metalsmith/image-variation'),
     fileToMetadata = require('./lib/metalsmith/file-to-metadata'),
+    tagLangFeed = require('./lib/metalsmith/tag-lang-feed'),
 
     renamer = require('metalsmith-renamer'),
     htmlMinifier = require('metalsmith-html-minifier'),
@@ -73,6 +74,7 @@ metalsmith(__dirname)
     .use(collectPhotos(conf.collectPhotos))
     .use(permalinks(conf.permalinks))
     .use(feed(conf.feed))
+    .use(tagLangFeed(conf.tagLangFeed))
     .use(styleRenamePlugin)
     .use(layouts(conf.layouts))
     .use(imageVariation(conf.imageVariation))

@@ -157,5 +157,8 @@
     "imageVariation": {
         "concurrency": 2,
         "siteUrl": "http://damien.pobel.fr"
+    },
+    "tagLangFeed": {
+        "addFrFilter": ["ez publish", "linux"]
     }
 }
