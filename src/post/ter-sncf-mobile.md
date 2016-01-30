@@ -1,6 +1,7 @@
 ---
 title: "Chouette, SNCF TER Mobile est un lecteur PDF"
 tags: sncf, ter, mobile, ux, android, ergonomie, humeurs
+description: Exemple de problèmes récurrents rencontrés avec l'application SNCF TER Mobile sur Android.
 lang: "fr"
 published: 2015-12-23T22:23:57+01:00
 ---

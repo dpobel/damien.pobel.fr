@@ -1,6 +1,7 @@
 ---
 title: "Cartographie avec les couches Géoportail/IGN et Leaflet"
 tags: ign, cartographie, sig, javascript, performances, vtt
+description: Comment et pourquoi utiliser Leaflet.js au lieu de l'API Géoportail seule pour afficher des cartes avec les fonds fournis par l'IGN.
 lang: "fr"
 published: 2014-11-13T00:06:31+01:00
 photos:

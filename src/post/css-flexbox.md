@@ -2,6 +2,7 @@
 title: Flexbox all the things
 tags: css, flexbox, navigateur, internet explorer, myth
 published: 2016-01-22 18:32
+description: CSS Flexible Box Layout module (flexbox) solves a lot of problem for the web developper and with a few tools, it can be used in current browsers without major issue.
 photos:
     - images/flexbox-all-the-things.jpg
 ---

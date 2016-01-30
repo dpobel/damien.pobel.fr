@@ -1,6 +1,7 @@
 ---
 title: "Using the eZ Publish REST API v2 with cURL"
 tags: ez publish, rest, ez publish 5, http, shell
+description: How to retrieve some informations with cURL using the eZ Publish REST API v2 and how to create Content item with it.
 lang: "en"
 published: 2013-04-18T23:08:38+02:00
 ---
