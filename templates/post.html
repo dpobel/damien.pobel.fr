@@ -1,5 +1,9 @@
 {% extends "templates/layout.html" %}
 
+{% block title %}
+    {{ title }}
+{% endblock %}
+
 {% block content %}
 <article class="post" lang="{{ lang }}">
     <h1>{{ title }}</h1>
