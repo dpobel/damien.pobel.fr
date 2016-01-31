@@ -54,6 +54,7 @@ if ( assetsRev ) {
 }
 
 conf.feed.postCustomElements = require('./lib/metalsmith/feed-postcustomelements.js');
+conf.tagLangFeed.postCustomElements = conf.feed.postCustomElements;
 
 console.log('Generating the site');
 metalsmith(__dirname)
