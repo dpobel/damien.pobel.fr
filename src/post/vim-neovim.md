@@ -30,7 +30,7 @@ système d'alternatives pour lancer Neovim avec les commandes `vim`, `vi` et
 
 ## Configuration
 
-Le fichier de configuration principale `~/.vimrc` est remplacé par
+Le fichier de configuration principal `~/.vimrc` est remplacé par
 `~/.config/nvim/init.vim` et le dossier `~/.vim` est remplacé par
 `~/.config/nvim/`. [La documentation pour passer de Vim à
 Neovim](https://neovim.io/doc/user/nvim_from_vim.html) conseille de faire des
