@@ -1,6 +1,6 @@
 ---
 title: "Colis ouverts pendant la livraison par La Poste, trop c'est trop!"
-tags: humeur, la poste
+tags: humeurs, la poste
 published: 2013-12-28T21:13:16.000Z
 photos:
     - images/coli-amazon-ouvert-par-la-poste_28122013.jpg

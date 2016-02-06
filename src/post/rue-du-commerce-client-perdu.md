@@ -1,6 +1,6 @@
 ---
 title: "Rue du commerce, voici comment vous avez perdu une commande..."
-tags: humeur, ux
+tags: humeurs, ux
 published: 2013-03-24T22:33:25+01:00
 ---
 
