@@ -1,5 +1,5 @@
 ---
-title: "Quelques trucs avec ViM #1"
+title: "Quelques trucs avec Vim #1"
 tags: vim, geek, ssh, truc, dedibox, ubuntu, linux, pense bête, shell
 updated: 2007-04-01T14:25:33.000Z
 lang: "fr"
@@ -8,10 +8,10 @@ remoteId: "237acf3518519cbf41875e997c12ef5e"
 published: 2007-02-20T00:48:22+01:00
 ---
  
-[ViM](http://pwet.fr/man/linux/commandes/vim) est un formidable éditeur de texte. Bien sûr celui-ci demande un peu d'investissement avant d'être productif mais une fois franchi ce cap, il est vraiment très agréable de garder les mains sur le clavier pour toutes les tâches d'édition. Il est aussi très pratique d'utiliser le même éditeur de texte pour éditer un fichier de configuration au coup par coup sur un serveur et pour écrire de manière plus élaborée (programmation, e-mail, ...), on finit même par taper des commandes ViM dans le terminal ce qui oblige [à définir des alias bizarres](/post/etre-a-l-aise-avec-bash-2#eztoc166534_2) :-)
+[Vim](http://pwet.fr/man/linux/commandes/vim) est un formidable éditeur de texte. Bien sûr celui-ci demande un peu d'investissement avant d'être productif mais une fois franchi ce cap, il est vraiment très agréable de garder les mains sur le clavier pour toutes les tâches d'édition. Il est aussi très pratique d'utiliser le même éditeur de texte pour éditer un fichier de configuration au coup par coup sur un serveur et pour écrire de manière plus élaborée (programmation, e-mail, ...), on finit même par taper des commandes Vim dans le terminal ce qui oblige [à définir des alias bizarres](/post/etre-a-l-aise-avec-bash-2#eztoc166534_2) :-)
 
  
-Je ne vais pas faire ici une introduction à l'utilisation de ViM car [cela a déjà été bien fait](http://www.think-underground.com/index.php/2006/08/05/326-introduction-rapide-a-vim) mais plutôt donner quelques recettes de cuisine bien pratiques.
+Je ne vais pas faire ici une introduction à l'utilisation de Vim car [cela a déjà été bien fait](http://www.think-underground.com/index.php/2006/08/05/326-introduction-rapide-a-vim) mais plutôt donner quelques recettes de cuisine bien pratiques.
 
   
 ## Le fichier .vimrc
@@ -49,7 +49,7 @@ set background=dark             " fond noir par défaut
 ```
 
  
-Ce fichier est évidemment à adapter en fonction de votre utilisation, constitue déjà une bonne base pour se faciliter l'édition avec ViM. Comme toujours, en cas de doute sur un paramètre, il ne faut pas hésiter à consulter l'aide très complète en tapant :help le_paramètre pour voir de quoi il retourne.
+Ce fichier est évidemment à adapter en fonction de votre utilisation, constitue déjà une bonne base pour se faciliter l'édition avec Vim. Comme toujours, en cas de doute sur un paramètre, il ne faut pas hésiter à consulter l'aide très complète en tapant :help le_paramètre pour voir de quoi il retourne.
 
    
 ## Quelques trucs rapides
@@ -64,7 +64,7 @@ Il suffit de taper :set nu et :set nu! pour les cacher. Si vous voulez toujours 
 ### Éditer des fichiers distants via SSH
 
  
-Il est bien sûr possible de se connecter en SSH et d'utiliser ViM sur la machine distante, mais il n'est peut être pas configurer voire pas installé du tout... La commande suivante me permet d'éditer mon .bashrc et le fichier /tmp/unfichier sur ma Dedibox :
+Il est bien sûr possible de se connecter en SSH et d'utiliser Vim sur la machine distante, mais il n'est peut être pas configurer voire pas installé du tout... La commande suivante me permet d'éditer mon .bashrc et le fichier /tmp/unfichier sur ma Dedibox :
 
  ``` bash
 $ vim 'scp://tigrou@pwet.fr/.bashrc' 'scp://tigrou@pwet.fr//tmp/unfichier'
@@ -74,7 +74,7 @@ $ vim 'scp://tigrou@pwet.fr/.bashrc' 'scp://tigrou@pwet.fr//tmp/unfichier'
 ### Trier les lignes d'un fichier
 
  
-ViM ne sait pas le faire directement, par contre, on peut utiliser la commande externe [sort](http://pwet.fr/man/linux/commandes/sort) pour le faire. Pour cela, il suffit de taper :%!sort, ce qui aura pour effet de donner le contenu du buffer courant en entrée de la commande sort et de le remplacer par sa sortie.
+Vim ne sait pas le faire directement, par contre, on peut utiliser la commande externe [sort](http://pwet.fr/man/linux/commandes/sort) pour le faire. Pour cela, il suffit de taper :%!sort, ce qui aura pour effet de donner le contenu du buffer courant en entrée de la commande sort et de le remplacer par sa sortie.
 
    
 ### Insèrer le résultat d'une commande

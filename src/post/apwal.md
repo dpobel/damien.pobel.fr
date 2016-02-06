@@ -42,7 +42,7 @@ Comme une image vaut toujours mieux qu'un long discours :
 
 
  
-Comme on peut le voir sur ce GIF animé, [Apwal](http://pwet.fr/man/linux/commandes/apwal) fait apparaître chez moi une barre au dessus de toutes les applications en cours me permettant de lancer facilement et rapidement, un [xterm](http://pwet.fr/man/linux/commandes/xterm), [nautilus](http://pwet.fr/man/linux/commandes/nautilus), [Firefox](http://pwet.fr/man/linux/commandes/firefox), [Thunderbird](http://pwet.fr/man/linux/commandes/mozilla_thunderbird), [ViM](http://pwet.fr/man/linux/commandes/vim) ou encore de contrôler mon lecteur audio préféré ([Listen](http://listengnome.free.fr/) en ce moment).
+Comme on peut le voir sur ce GIF animé, [Apwal](http://pwet.fr/man/linux/commandes/apwal) fait apparaître chez moi une barre au dessus de toutes les applications en cours me permettant de lancer facilement et rapidement, un [xterm](http://pwet.fr/man/linux/commandes/xterm), [nautilus](http://pwet.fr/man/linux/commandes/nautilus), [Firefox](http://pwet.fr/man/linux/commandes/firefox), [Thunderbird](http://pwet.fr/man/linux/commandes/mozilla_thunderbird), [Vim](http://pwet.fr/man/linux/commandes/vim) ou encore de contrôler mon lecteur audio préféré ([Listen](http://listengnome.free.fr/) en ce moment).
 
  
 Apwal est disponible sous Ubuntu dans [le dépôt Universe](http://doc.ubuntu-fr.org/doc/faqubuntu#comment_ajouter_universe_et_multiverse) et s'installe avec le paquet du même nom :

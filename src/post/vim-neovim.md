@@ -6,10 +6,10 @@ photos:
     - images/neovim.png
 ---
 
-[Neovim](https://Neovim.io/) est un *fork* de Vim né il y a [environ 2
+[Neovim](https://neovim.io/) est un *fork* de Vim né il y a [environ 2
 ans](https://linuxfr.org/news/Neovim-une-refonte-de-vim-pour-le-21e-siecle) et
 dont les premières versions publiques ont été mises à disposition [à la fin de
-l'année dernière](https://Neovim.io/news/2015/december/). Je suis [un fervent
+l'année dernière](https://neovim.io/news/2015/december/). Je suis [un fervent
 utilisateur de Vim](/tag/vim/) depuis... pfffiou une quinzaine d'année mais je
 trouve [ce *fork* plutôt appropriée avec de bonnes
 idées](https://neovim.io/charter/). Par exemple Neovim permet d'éxécuter des
@@ -20,7 +20,7 @@ Publish](/tag/ezvim/) il y a quelques années.
 ## Installation
 
 L'installation de Neovim est bien détaillée dans [Installing
-Neovim](https://github.com/Neovim/Neovim/wiki/Installing-Neovim#install-from-package).
+Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim#install-from-package).
 Sur une Ubuntu (postérieure à 12.04 Precise Pangolin), pour l'installer, il
 suffit d'activer le [PPA](https://doc.ubuntu-fr.org/ppa) correspondant et ensuite d'installer le paquet `neovim`.
 En fonction des plugins, il sera peut-être nécessaire d'installer quelques

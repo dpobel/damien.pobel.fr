@@ -17,7 +17,7 @@ hand, Terminator is also quite slow and for a tool you use several hours a day,
 that's annoying. So I was looking for a faster and lighter alternative with at
 least tabs, url detections and not too many dependencies.
 
-Some days ago, while trying different plugins for my vim setup, I (re)discovered
+Some days ago, while trying different plugins for my Vim setup, I (re)discovered
 [URXVT](http://software.schmorp.de/pkg/rxvt-unicode.html) ([man
 urxvt](http://pwet.fr/man/linux/commandes/urxvt)) and I realized that you can
 add plugins to it and through some of them, it supports tabs and URL detection
