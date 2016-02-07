@@ -27,7 +27,7 @@ export CDPATH=".:/home/damien/public_html"
 ```
 
  
-Ainsi à chaque fois que je fais un cd xxxyyyzzz, le shell cherche si xxxyyyzzz existe dans le répertoire courant, et si ce n'est pas le cas, il cherche en suite dans /home/public_html/damien. Il procède de la même manière, si on utilise le [complètement](http://fr.wikipedia.org/wiki/ComplÃƒÂ¨tement) avec la touche &lt;Tab&gt;.
+Ainsi à chaque fois que je fais un cd xxxyyyzzz, le shell cherche si xxxyyyzzz existe dans le répertoire courant, et si ce n'est pas le cas, il cherche en suite dans /home/public_html/damien. Il procède de la même manière, si on utilise le [complètement](https://fr.wikipedia.org/wiki/Compl%C3%A8tement) avec la touche &lt;Tab&gt;.
 
    
 ### Correction automatique

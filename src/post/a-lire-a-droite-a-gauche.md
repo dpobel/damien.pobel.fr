@@ -7,7 +7,7 @@ node: "63976"
 remoteId: "ad7b9eef0a6360cb63377ecd79098c7b"
 published: 2007-01-09T20:08:14+01:00
 ---
- * [Où sont passés les tuyaux ?](http://fredericdevillamil.com/articles/2007/01/07/ou-sont-passÃƒÂ©s-les-tuyaux) sur le blog de Frederic de Villamil, un billet un peu long mais très intéressant sur les problèmes des FAI face à l'augmentation exponentielle du traffic réseau, vraiment très intéressant !
+ * [Où sont passés les tuyaux ?](https://t37.net/ou-sont-passes-les-tuyaux.html) sur le blog de Frederic de Villamil, un billet un peu long mais très intéressant sur les problèmes des FAI face à l'augmentation exponentielle du traffic réseau, vraiment très intéressant !
  * [Free réclame 500 millions d'euros à France Telecom](http://www.freenews.fr/index.php?itemid=4245) pour pratiques anti-concurrentielles, eh beh ça rigole pas dans les telecoms.
  * [PHP vs. X programming langage](http://devzone.zend.com/node/view/id/1408) ou 5 idées reçues sur PHP qui persistent depuis des années voire des lustres !
  * [Planet Libre](http://libre.tux-planet.fr/index.html) un planet consacré au libre et à Linux lancé par [Sébastien Bilbeau](http://www.tux-planet.fr/) sur lequel sont repris mes articles consacrés à Linux.
