@@ -9,7 +9,7 @@ published: 2007-01-28T19:43:28+01:00
 ---
  * Se lever à midi
  * Finir de regarder les 4 derniers épisodes de Dragon Ball Z
- * S'amuser avec les *keybinds* de son [Window Manager préféré](http://pwet.fr/man/linux/commande/openbox)
+ * S'amuser avec les *keybinds* de son [Window Manager préféré](http://pwet.fr/man/linux/commandes/openbox)
  * Compiler [fbpanel](http://pwet.fr/man/linux/commandes/fbpanel) pour le voir planter toutes les 2 heures...
  * Installer [pure-ftpd](http://pwet.fr/man/linux/administration_systeme/pure_ftpd) sur [ma dedibox](/post/migration-sur-dedipwet), ne rien avoir à configurer et se dire que Linux c'est bien ;-)
  * Écouter de la [bonne zik](http://www.lastfm.fr/user/TiGr0u/)

@@ -6,19 +6,47 @@ lang: "fr"
 node: "67159"
 remoteId: "2a9805115bb7c4282da6446b9d63722f"
 published: 2008-10-15T22:02:38+02:00
+updated: 2016-02-08 18:16
 ---
 
-L'optimisation des images est une manière simple et peu coûteuse [d'améliorer les performances d'affichage d'un site](/post/livre-high-performances-web-sites) au premier chargement (avec le cache navigateur vide) sans trop de problèmes. [Smush it!](http://www.smushit.com/) a remis [ce sujet à la mode](http://blog.alsacreations.com/2008/10/03/434-optimisez-vos-images-avec-smushit) et permet de voir facilement les images à optimiser pour une page donnée. Le problème est qu'avec ce service, on peut récupérer une archive zip avec les images optimisées mais en perdant l'arborescence des images ce qui peut être un peu fastidieux, il est aussi fastidieux d'utiliser l'extension Firefox sur toutes les pages d'une application web pour passer en revue toutes les images et si en plus les images ne sont pas publiquement accessibles son utilisation ne sera tout simplement pas possible.
+L'optimisation des images est une manière simple et peu coûteuse [d'améliorer
+les performances d'affichage d'un site](/post/livre-high-performances-web-sites)
+au premier chargement (avec le cache navigateur vide) sans trop de problèmes.
+Smush it! (service hébergé qui semble mort maintenant) a remis ce sujet à la
+mode et permet de voir facilement les images à optimiser pour une page donnée.
+Le problème est qu'avec ce service, on peut récupérer une archive zip avec les
+images optimisées mais en perdant l'arborescence des images ce qui peut être un
+peu fastidieux, il est aussi fastidieux d'utiliser l'extension Firefox sur
+toutes les pages d'une application web pour passer en revue toutes les images et
+si en plus les images ne sont pas publiquement accessibles son utilisation ne
+sera tout simplement pas possible.
 
 
-Pour pallier à cela, j'ai écrit le script shell suivant pour l'optimisation des fichiers GIF et PNG qui :
+Pour pallier à cela, j'ai écrit le script shell suivant pour l'optimisation des
+fichiers GIF et PNG qui :
 
-* optimise tous les fichiers PNG avec [pngcrush](http://pwet.fr/man/linux/commandes/pngcrush)
-* identifie les PNG 24 bits avec [identify](http://pwet.fr/man/linux/commandes/identify) (qu'il est peut être possible de transformer en PNG 8 bits mais cela nécessite une vérification visuelle)
-* convertit les fichiers GIF en PNG 8 bits avec [convert](http://pwet.fr/man/linux/commandes/convert) si le fichier résultant est plus petit.
+* optimise tous les fichiers PNG avec
+  [pngcrush](http://pwet.fr/man/linux/commandes/pngcrush)
+* identifie les PNG 24 bits avec
+  [identify](http://pwet.fr/man/linux/commandes/identify) (qu'il est peut être
+  possible de transformer en PNG 8 bits mais cela nécessite une vérification
+  visuelle)
+* convertit les fichiers GIF en PNG 8 bits avec
+  [convert](http://pwet.fr/man/linux/commandes/convert) si le fichier résultant
+  est plus petit.
 
 
-Il s'agit juste d'automatiser ces opérations. Selon les applications, le gain peut être sensible. [La semaine dernière quand j'étais en déplacement](/post/traverser-la-gare-saint-lazare-c-est-bon-pour-le-moral) avec une connectivité aléatoire j'aurai bien aimé que tous les sites aient fait cette opération et [je ne suis pas le seul](http://performance.survol.fr/2008/10/une-version-mobile-pour-les-pc-classiques/)... Je l'ai d'ailleurs lancé sur [le nouvel Online Editor](/post/the-new-online-editor-for-ez-publish-beta) de [eZ Publish](/tag/ez-publish) pour optimiser au maximum le futur éditeur <abbr title="What You See Is What You Get">WYSIWYG</abbr>  de ce <abbr title="Content Management System">CMS</abbr>  ce qui donne [le bug #13751](http://issues.ez.no/13751).
+Il s'agit juste d'automatiser ces opérations. Selon les applications, le gain
+peut être sensible. [La semaine dernière quand j'étais en
+déplacement](/post/traverser-la-gare-saint-lazare-c-est-bon-pour-le-moral) avec
+une connectivité aléatoire j'aurai bien aimé que tous les sites aient fait cette
+opération...
+Je l'ai d'ailleurs lancé sur [le nouvel Online
+Editor](/post/the-new-online-editor-for-ez-publish-beta) de [eZ
+Publish](/tag/ez-publish) pour optimiser au maximum le futur éditeur <abbr
+title="What You See Is What You Get">WYSIWYG</abbr>  de ce <abbr title="Content
+Management System">CMS</abbr>  ce qui donne [le bug
+#13751](http://issues.ez.no/13751).
 
 ``` bash
 #! /bin/bash

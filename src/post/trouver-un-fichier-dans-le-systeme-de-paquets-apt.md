@@ -8,7 +8,7 @@ remoteId: "f5cb2638f5edd8a7831dcc81b423f6c8"
 published: 2006-09-20T22:57:04+02:00
 ---
  
-[apt-file](http://pwet.fr/man/linux/commande/apt-file) est une [commande](http://pwet.fr/man/linux/commandes) assez méconnue du système [APT](http://pwet.fr/man/linux/administration_systeme/apt) (Advanced Package Tool), [le système de paquet de Debian](http://www.debian.org/doc/manuals/apt-howto/index.fr.html) et de [ses dérivés dont Ubuntu](http://doc.ubuntu-fr.org/applications/apt), Cette commande permet de rechercher un fichier ou des fichiers dans tous les paquets disponibles (ie pas seulement les paquets installés). Cette commande s'installe comme suit :
+[apt-file](http://pwet.fr/man/linux/commandes/apt-file) est une [commande](http://pwet.fr/man/linux/commandes) assez méconnue du système [APT](http://pwet.fr/man/linux/administration_systeme/apt) (Advanced Package Tool), [le système de paquet de Debian](http://www.debian.org/doc/manuals/apt-howto/index.fr.html) et de [ses dérivés dont Ubuntu](http://doc.ubuntu-fr.org/applications/apt), Cette commande permet de rechercher un fichier ou des fichiers dans tous les paquets disponibles (ie pas seulement les paquets installés). Cette commande s'installe comme suit :
 
  ``` bash
 > tigrou@Lorien[192.168.0.243]:~$ sudo apt-get install apt-file

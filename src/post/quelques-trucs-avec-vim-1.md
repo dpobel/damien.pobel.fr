@@ -8,10 +8,19 @@ remoteId: "237acf3518519cbf41875e997c12ef5e"
 published: 2007-02-20T00:48:22+01:00
 ---
  
-[Vim](http://pwet.fr/man/linux/commandes/vim) est un formidable éditeur de texte. Bien sûr celui-ci demande un peu d'investissement avant d'être productif mais une fois franchi ce cap, il est vraiment très agréable de garder les mains sur le clavier pour toutes les tâches d'édition. Il est aussi très pratique d'utiliser le même éditeur de texte pour éditer un fichier de configuration au coup par coup sur un serveur et pour écrire de manière plus élaborée (programmation, e-mail, ...), on finit même par taper des commandes Vim dans le terminal ce qui oblige [à définir des alias bizarres](/post/etre-a-l-aise-avec-bash-2#eztoc166534_2) :-)
+[Vim](http://pwet.fr/man/linux/commandes/vim) est un formidable éditeur de
+texte. Bien sûr celui-ci demande un peu d'investissement avant d'être productif
+mais une fois franchi ce cap, il est vraiment très agréable de garder les mains
+sur le clavier pour toutes les tâches d'édition. Il est aussi très pratique
+d'utiliser le même éditeur de texte pour éditer un fichier de configuration au
+coup par coup sur un serveur et pour écrire de manière plus élaborée
+(programmation, e-mail, ...), on finit même par taper des commandes Vim dans le
+terminal ce qui oblige [à définir des alias
+bizarres](/post/etre-a-l-aise-avec-bash-2) :-)
 
  
-Je ne vais pas faire ici une introduction à l'utilisation de Vim car [cela a déjà été bien fait](http://www.think-underground.com/index.php/2006/08/05/326-introduction-rapide-a-vim) mais plutôt donner quelques recettes de cuisine bien pratiques.
+Je ne vais pas faire ici une introduction à l'utilisation de Vim mais plutôt
+donner quelques recettes de cuisine bien pratiques.
 
   
 ## Le fichier .vimrc

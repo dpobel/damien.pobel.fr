@@ -16,5 +16,5 @@ published: 2007-02-03T01:18:26+01:00
 </div>
 
  
-[**It's not too late**](http://www.its-not-too-late.com/) enfin espérons...
+**It's not too late** enfin espérons...
 

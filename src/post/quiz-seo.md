@@ -8,7 +8,7 @@ remoteId: "1a5dc83a90b5beb7faae5f99b99e1872"
 published: 2008-09-09T13:42:16+02:00
 ---
 
-Vu sur [le blog Indexweb](http://blog.indexweb.info/offre-emploi-referenceur-364.html), une agence de *Web marketing* propose un [Quiz SEO](http://www.resoneo.net/quiz-seo/) pour tester ses connaissances en terme de référencement. J'ai eu 3 étoiles, plutôt pas mal même si une ou deux petites statistiques à la fin du quiz aurait été sympa (genre niveau moyen, ...). Mais surtout, voici un bel exemple sur la manière d'obtenir de bons liens entrants, la preuve je viens d'en faire un et quelques blogs plutôt populaires complètement axés sur le sujet aussi... Une fois de plus, ce qui prime c'est le contenu ! (une réponse au questionnaire se cache dans cette phrase ;-))
+Vu sur le blog Indexweb, une agence de *Web marketing* propose un [Quiz SEO](http://www.resoneo.net/quiz-seo/) pour tester ses connaissances en terme de référencement. J'ai eu 3 étoiles, plutôt pas mal même si une ou deux petites statistiques à la fin du quiz aurait été sympa (genre niveau moyen, ...). Mais surtout, voici un bel exemple sur la manière d'obtenir de bons liens entrants, la preuve je viens d'en faire un et quelques blogs plutôt populaires complètement axés sur le sujet aussi... Une fois de plus, ce qui prime c'est le contenu ! (une réponse au questionnaire se cache dans cette phrase ;-))
 
 
 En revanche, il faudrait dire à leur développeur web, que poster les résultats d'un bête formulaire en Javascript sur un script qui redirige sur celui d'où on vient avec une balise meta refresh, c'est plutôt très moyen en terme de qualité, et ça minimise les chances que l'utilisateur termine le questionnaire...

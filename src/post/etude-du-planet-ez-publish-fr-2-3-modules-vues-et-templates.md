@@ -49,7 +49,7 @@ Les templates pour ce site sont assez classiques et plutôt simples compte tenu 
 Le seul opérateur spécifique est [l'opérateur <code>clean_rewrite_xhtml</code>](https://github.com/dpobel/planet-ezpublish.fr/blob/master/legacy/extensions/planete/autoloads/planeteutils.php) utilisé à la place de [l'opérateur](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_operators/strings/wash)<code>[wash](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_operators/strings/wash)</code>
  pour afficher [les attributs Text block](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/datatypes/text_block) contenant le texte issu des flux RSS. Cet opérateur a plusieurs fonctions :
 
-* rendre valide le code XHTML avec [le module PHP Tidy](http://fr3.php.net/tidy)
+* rendre valide le code XHTML avec [le module PHP Tidy](http://fr.php.net/tidy)
 * réécrire les éventuels URLs relatives à site (images et liens)
 * supprimer toute trace de Javascript grâce à quelques expressions XPath.
 
