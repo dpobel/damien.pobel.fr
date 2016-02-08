@@ -53,6 +53,10 @@
     display: block;
 }
 
+.post-content figure.object-center img {
+    margin: 0 auto;
+}
+
 .post-content figcaption {
     background: #f0f0f0;
     border: 1px solid #ccc;
