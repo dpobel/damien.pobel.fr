@@ -1,7 +1,6 @@
 ---
 title: "Script pour optimiser les images d'un site"
 tags: performances, shell, linux, web, online editor, ez publish
-updated: 2008-10-15T20:06:25.000Z
 lang: "fr"
 node: "67159"
 remoteId: "2a9805115bb7c4282da6446b9d63722f"

@@ -1,7 +1,6 @@
 ---
 title: "Mise à jour noyau sur une dedibox"
 tags: hébergement, dedibox, ubuntu, linux, sécurité
-updated: 2008-10-22T15:26:04.000Z
 lang: "fr"
 node: "66656"
 remoteId: "b3a23e23ebb67a765405090ff791f737"

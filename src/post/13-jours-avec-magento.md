@@ -1,7 +1,6 @@
 ---
 title: "13 jours avec Magento"
 tags: php, magento, javascript, performances, template
-updated: 2010-06-13T21:08:52.000Z
 lang: "fr"
 node: "67963"
 remoteId: "cce0d052c86fd44166e0de6498d983c4"

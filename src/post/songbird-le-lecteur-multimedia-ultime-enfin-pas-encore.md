@@ -1,7 +1,6 @@
 ---
 title: "Songbird, le lecteur multimédia ultime ? (enfin pas encore...)"
 tags: humeurs, xul, mozilla, linux
-updated: 2007-07-31T07:17:38.000Z
 lang: "fr"
 node: "64253"
 remoteId: "421d0833ac26ddb4fac98bc2b509eb48"

@@ -1,7 +1,6 @@
 ---
 title: "À lire #1"
 tags: ogm, environnement, référencement
-updated: 2006-11-14T22:02:57.000Z
 lang: "fr"
 node: "61140"
 remoteId: "d8abd220873baf88e2ee360fcd833dfe"

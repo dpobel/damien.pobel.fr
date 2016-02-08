@@ -1,7 +1,6 @@
 ---
 title: "Changer de fond d'écran comme de chemise"
 tags: photo, gnome, openbox, ubuntu, linux, shell
-updated: 2007-04-04T12:22:57.000Z
 lang: "fr"
 node: "64691"
 remoteId: "c769d493cebf159088b1bf2073d40581"

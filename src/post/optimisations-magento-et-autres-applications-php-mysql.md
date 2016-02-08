@@ -1,7 +1,6 @@
 ---
 title: "Optimisations Magento (et autres applications PHP/MySQL)"
 tags: magento, stupides, web, php, mysql, performances
-updated: 2009-01-08T12:21:39.000Z
 lang: "fr"
 node: "67413"
 remoteId: "69ac6166cd53cd7f97d5a31134fbe249"

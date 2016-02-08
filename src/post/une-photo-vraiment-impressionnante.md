@@ -1,7 +1,6 @@
 ---
 title: "Une photo vraiment impressionnante"
 tags: photo
-updated: 2007-01-27T14:28:33.000Z
 lang: "fr"
 node: "63672"
 remoteId: "31cbd00d128a783fd23324c7b1120d36"

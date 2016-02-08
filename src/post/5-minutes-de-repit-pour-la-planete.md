@@ -1,7 +1,6 @@
 ---
 title: "5 minutes de répit pour la planète"
 tags: humeurs, consommation, climat, réchauffement, environnement, politique
-updated: 2007-02-08T12:30:35.000Z
 lang: "fr"
 node: "64064"
 remoteId: "2b2f8a80b3fcd90b5074c6a614c0bf22"

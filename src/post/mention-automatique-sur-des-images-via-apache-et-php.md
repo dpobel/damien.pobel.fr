@@ -1,7 +1,6 @@
 ---
 title: "Mention automatique sur des images via Apache et PHP"
 tags: humeurs, photo, apache, dedibox, licence, php
-updated: 2007-07-31T07:17:34.000Z
 lang: "fr"
 node: "64744"
 remoteId: "3379fca1e1df71801e38319d8f7f81ba"
