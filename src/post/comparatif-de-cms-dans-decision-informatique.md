@@ -1,7 +1,6 @@
 ---
 title: "Comparatif de CMS dans Décision Informatique"
 tags: ez publish, hébergement, cms, spip, joomla, dedibox, interface, blog
-updated: 2012-01-18T14:15:05.000Z
 lang: "fr"
 node: "65561"
 remoteId: "b369a39c28cb099d1807255f26413672"
