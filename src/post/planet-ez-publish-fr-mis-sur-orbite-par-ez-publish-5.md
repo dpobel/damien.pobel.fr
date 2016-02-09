@@ -35,7 +35,7 @@ Au final, il reste 3 fonctionnalités basées sur la partie *legacy* :
 Sans surprise, il y a quelques bugs dans cette nouvelle version; pour une version majeure en point 0, le contraire aurait été très étonnant, mais il y a aussi des manques plus globaux.
 
 
-D'une manière générale, [l'API publique](http://ezsystems.github.com/ezpublish-kernel/) est très verbeuse. J'ai publié [un gist](https://gist.github.com/3983418) qui compare le code nécessaire pour récupérer une liste de nœuds triée par priorité dans l'ancienne et la nouvelle API. Je crois que le constat est assez clair. Pour éviter de répéter encore et encore, les mêmes bouts de code, j'ai [2 méthodes utilitaires dans une surcharge du Location service](https://github.com/dpobel/planet-ezpublish.fr/blob/master/planet/src/Planet/PlanetBundle/Repository/LocationService.php#L36). Avec le recul, ce n'est probablement pas la meilleure manière de faire, mais en tout cas, cette petite addition m'évite de me répéter.
+D'une manière générale, [l'API publique](http://apidoc.ez.no/) est très verbeuse. J'ai publié [un gist](https://gist.github.com/3983418) qui compare le code nécessaire pour récupérer une liste de nœuds triée par priorité dans l'ancienne et la nouvelle API. Je crois que le constat est assez clair. Pour éviter de répéter encore et encore, les mêmes bouts de code, j'ai [2 méthodes utilitaires dans une surcharge du Location service](https://github.com/dpobel/planet-ezpublish.fr/blob/master/planet/src/Planet/PlanetBundle/Repository/LocationService.php#L36). Avec le recul, ce n'est probablement pas la meilleure manière de faire, mais en tout cas, cette petite addition m'évite de me répéter.
 
  
 

@@ -3,6 +3,7 @@ title: "Punaise!"
 tags: macro, photo, dombes, ain, nikon d90, insecte
 lang: "fr"
 published: 2015-09-16T09:26:32+02:00
+updated: 2016-02-09 13:43
 ---
 
 <figure class="object-center">
@@ -15,8 +16,6 @@ published: 2015-09-16T09:26:32+02:00
 </figure>
 
 Je ne suis pas entomologiste, mais j'aime bien identifier ce que je prends en
-photo. Alors après un peu de recherche, et d'après [cette
-page](http://fauneflore06.voila.net/pages/insecte/punaise_pentato.htm) et
-[Wikipédia](https://fr.wikipedia.org/wiki/Dolycoris_baccarum) je pense qu'il
+photo. Alors après un peu de recherche, [Wikipédia](https://fr.wikipedia.org/wiki/Dolycoris_baccarum) je pense qu'il
 s'agit d'une *punaise des baies* ou *pentatome des baies* ou encore *Dolycoris
 baccarum*.
