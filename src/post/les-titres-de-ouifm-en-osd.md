@@ -1,21 +1,40 @@
 ---
 title: "Les titres de OuiFM en OSD"
 tags: musique, openbox, bash, ubuntu, linux, php, debian, shell, ouïfm
-updated: 2009-01-12T17:28:30.000Z
 lang: "fr"
 node: "65454"
 remoteId: "80a245475f8533256bbc56b01fc4d08d"
 published: 2007-05-13T16:56:11+02:00
+updated: 2016-02-09 08:30
 ---
 
-J'aime beaucoup écouter [la radio parisienne OuiFM](http://www.ouirock.com/). Pour les provinciaux, il est possible de l'écouter directement sur le site *via* une animation flash qui affiche le titre en cours ou avec son lecteur préféré *via*[le flux MP3](http://broadcast.infomaniak.net:80/ouifm-high.mp3) qui est probablement capable d'en faire de même, mais il n'est pas très pratique devoir remettre au premier plan le lecteur (et/ou de changer de bureau virtuel). Je trouve aussi pénible que le lecteur affiche systématiquement le titre comme le font certains, je préfère avoir le titre *à la demande*. J'ai donc écrit un petit script shell qui va récupèrer le titre sur le site de OuiFM comme le fait l'animation flash et l'affiche en <abbr title="On Screen Display">OSD</abbr> . Pour l'utiliser sous Ubuntu (et probablement Debian), il faut installer le paquet xosd-bin et php (4 ou 5) en mode ligne de commande avec la commande suivante :
+J'aime beaucoup écouter [la radio parisienne OuiFM](http://www.ouifm.fr/). Pour
+les provinciaux, il est possible de l'écouter directement sur le site *via* une
+animation flash qui affiche le titre en cours ou avec son lecteur préféré
+*via* le flux MP3 qui est
+probablement capable d'en faire de même, mais il n'est pas très pratique devoir
+remettre au premier plan le lecteur (et/ou de changer de bureau virtuel). Je
+trouve aussi pénible que le lecteur affiche systématiquement le titre comme le
+font certains, je préfère avoir le titre *à la demande*. J'ai donc écrit un
+petit script shell qui va récupèrer le titre sur le site de OuiFM comme le fait
+l'animation flash et l'affiche en <abbr title="On Screen Display">OSD</abbr> .
+Pour l'utiliser sous Ubuntu (et probablement Debian), il faut installer le
+paquet xosd-bin et php (4 ou 5) en mode ligne de commande avec la commande
+suivante :
 
 ``` bash
 $ sudo apt-get install xosd-bin php5-cli
 ```
 
 
-Le paquet xosd-bin fournit le programme [osd_cat](http://pwet.fr/man/linux/commandes/osd_cat) qui permet de lire un fichier à la manière de [cat](http://pwet.fr/man/linux/commandes/cat) en affichant le résultat en OSD selon différents paramètres (couleur, police, position, ...). J'ai associé l'exécution de ce script à la touche F9 dans [Openbox](http://pwet.fr/man/linux/commandes/openbox), ainsi si un titre passe et je ne connais pas l'artiste, je peux connaître rapidement le titre en pressant cette touche.
+Le paquet xosd-bin fournit le programme
+[osd_cat](http://pwet.fr/man/linux/commandes/osd_cat) qui permet de lire un
+fichier à la manière de [cat](http://pwet.fr/man/linux/commandes/cat) en
+affichant le résultat en OSD selon différents paramètres (couleur, police,
+position, ...). J'ai associé l'exécution de ce script à la touche F9 dans
+[Openbox](http://pwet.fr/man/linux/commandes/openbox), ainsi si un titre passe
+et je ne connais pas l'artiste, je peux connaître rapidement le titre en
+pressant cette touche.
 
 ``` bash
 #! /bin/sh

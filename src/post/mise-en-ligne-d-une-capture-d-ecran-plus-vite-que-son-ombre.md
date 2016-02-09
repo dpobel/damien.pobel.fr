@@ -1,14 +1,18 @@
 ---
 title: "Mise en ligne d'une capture d'écran plus vite que son ombre"
 tags: free, x11, openbox, bash, ubuntu, linux, debian, shell
-updated: 2007-01-30T13:06:09.000Z
 lang: "fr"
 node: "61611"
 remoteId: "5ed1be7cf5da93cab16d234711511c41"
 published: 2006-09-25T00:37:38+02:00
+updated: 2016-02-09 08:49
 ---
  
-Dans la lignée du script de [Racoon](http://blog.racoon97.net/) permettant [de prendre une capture d'écran optimisé pour ImageShack(tm)](http://blog.racoon97.net/?2006/09/10/2-une-capture-optimisee-pour-imageshack), j'ai écrit un script permettant de prendre une capture d'écran et de l'envoyer sur un serveur FTP en une seule manipulation. Ce script, associé à un raccourcis clavier ou à un lanceur bien placé, permet :
+Dans la lignée du script de Racoon permettant de prendre une capture d'écran
+optimisé pour ImageShack(tm) (site disparu...) j'ai écrit un script permettant
+de prendre une capture d'écran et de l'envoyer sur un serveur FTP en une seule
+manipulation. Ce script, associé à un raccourcis clavier ou à un lanceur bien
+placé, permet :
 
 * de faire une capture d'écran (de l'écran ou d'une fenêtre)
 * de l'uploader sur un serveur FTP
@@ -16,7 +20,6 @@ Dans la lignée du script de [Racoon](http://blog.racoon97.net/) permettant [de 
  
   
 ## Mise en place du script
-
  
 Ce script utilise [ImageMagick](http://pwet.fr/man/linux/commandes/imagemagick), [lftp](http://pwet.fr/man/linux/commandes/lftp) et xclip, il faut donc les installer à l'aide du système de paquet de votre distribution, sous Ubuntu la commande est la suivante :
 
@@ -98,7 +101,7 @@ Pour un minimum de sécurité, ce fichier doit être en lecture/écriture unique
 ```
 
  
-Tout ceci fonctionne très bien avec [les pages perso chez Free](http://dpobel.free.fr/tmp/) d'autant plus [qu'avec 10Go de disponibles](http://www.freenews.fr/index.php?itemid=3533), y'a de quoi faire quelques *screenshots* !
+Tout ceci fonctionne très bien avec les pages perso chez Free d'autant plus [qu'avec 10Go de disponibles](http://www.freenews.fr/index.php?itemid=3533), y'a de quoi faire quelques *screenshots* !
 
    
 ## Utilisation
