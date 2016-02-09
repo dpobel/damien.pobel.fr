@@ -14,13 +14,13 @@ Albert Einstein
 </blockquote>
 
 
-On le vérifie tous les jours, par exemple aujourd'hui dans deux domaines très différents :
+* [Abruti d'artiste](http://inature.canalblog.com/archives/2008/03/17/8361107.htm://en.wikipedia.org/wiki/Guillermo_Vargas)
+* [L'avenir des blogs dans les mains de la justice
+  française](http://www.presse-citron.net/fuzz-et-assignation-en-justice-et-le-plaignant-est/)
 
-* [Abruti d'artiste](http://inature.canalblog.com/archives/2008/03/17/8361107.html)
-* [L'avenir des blogs dans les mains de la justice française](http://tf1.lci.fr/infos/high-tech/0,,3782184,00-avenir-blogs-dans-mains-justice-francaise-.html)
+Pour le premier, les mots me manquent, mais je me demande quelle aurait été la
+réaction des gens si c'était l'arti... euh *Guillermo truc chose* qu'on avait
+laissé comme ça...
 
-Pour le premier, les mots me manquent, mais je me demande quelle aurait été la réaction des gens si c'était l'arti... euh *Guillermo truc chose* qu'on avait laissé comme ça...
-
-
-Pour le second, si votre site parle d'Olivier Marti...., bah va falloir passez par le tiroir caisse, enfin peut être.
-
+Pour le second, si votre site parle d'Olivier Marti...., bah va falloir passez
+par le tiroir caisse, enfin peut être.

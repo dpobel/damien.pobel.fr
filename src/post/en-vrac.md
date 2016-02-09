@@ -7,8 +7,8 @@ node: "67778"
 remoteId: "94a94f68212573f3c4ce588b04062504"
 published: 2009-05-08T22:05:48+02:00
 ---
-* [Ferme la Zemmour](http://www.fermelazemmour.com/) lancé par l'animateur Yassine Belattar. À quand la même pour Éric &quot;c'est nul&quot; Naulleau ?
-* [Je veux être riche !](http://je-veux-etre-riche.com/) 165 euros en mendiant sur Internet en quelques jours, plutôt un bon score !
-* [Twishitter](http://twishitter.com), il paraît que 25% des tweets sont écrits depuis les toilettes :-)
+* Ferme la Zemmour (fermelazemmour.com site hors ligne depuis) lancé par l'animateur Yassine Belattar. À quand la même pour Éric &quot;c'est nul&quot; Naulleau ?
+* Je veux être riche ! (je-veux-etre-riche.com site hors ligne depuis) 165 euros en mendiant sur Internet en quelques jours, plutôt un bon score !
+* Twishitter (twishitter.com site hors ligne depuis), il paraît que 25% des tweets sont écrits depuis les toilettes :-)
 * [How to write a GNOME application ?](http://linuxhaters.blogspot.com/2008/06/how-to-write-gnome-application.html) et [How to write a KDE application ?](http://linuxhaters.blogspot.com/2008/06/how-to-write-kde-application.html) drôles et pas si éloignés de la vérité
 * [Le Best-Of de Frédéric Lefebvre](http://www.dailymotion.com/relevance/search/lefebvre/video/x91i4c_le-best-of-de-frederic-lefebvre_news) avec évidemment [l'épisode Web 2.0](/post/et-pan)

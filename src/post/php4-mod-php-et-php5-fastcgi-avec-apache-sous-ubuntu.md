@@ -39,7 +39,7 @@ NameVirtualHost __IP__:80
 ```
 
  
-En remplaçant évidemment __IP__, __EMAIL__ et votresite.fr par les valeurs nécessaires ;) Il suffit alors de créer un fichier info.php et d'y placer un appel à la fonction PHP phpinfo et de l'appeler dans votre navigateur via http://votresite.fr/info.php pour obtenir le fameux PHPInfo.
+En remplaçant évidemment __IP__, __EMAIL__ et votresite.fr par les valeurs nécessaires ;) Il suffit alors de créer un fichier info.php et d'y placer un appel à la fonction PHP phpinfo et de l'appeler dans votre navigateur via votresite.fr/info.php pour obtenir le fameux PHPInfo.
 
  
 Reste maintenant à configurer Apache pour interprèter les fichiers .php5 avec la version CGI de php5 via le module FastCGI. Pour cela, il faut modifier le fichier /etc/apache/conf.d/fastcgi.conf comme suit :
@@ -67,5 +67,5 @@ exec /usr/bin/php5-cgi
 ```
 
  
-Il reste plus qu'à tester en copiant le fichier info.php en info.php5 et en l'appelant http://votresite.fr/info.php5, qui affichera normalement les informations sur l'installation de PHP5.
+Il reste plus qu'à tester en copiant le fichier info.php en info.php5 et en l'appelant votresite.fr/info.php5, qui affichera normalement les informations sur l'installation de PHP5.
 

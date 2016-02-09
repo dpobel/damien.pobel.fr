@@ -8,13 +8,35 @@ remoteId: "1ec19d903b7ad0368a47169ba34aa526"
 published: 2006-09-02T00:11:47+02:00
 ---
  
-Comme je l'ai écrit [dans mon premier billet](/post/ouverture), ce site me sert de laboratoire de tests. Mon premier test va être d'observer comment Google (et les autres) indexe ce site. Pour cela, il suffit d'écrire un script qui sera lancé tous les jours à l'aide d'un [crontab](http://pwet.fr/man/linux/formats/crontab) sur un serveur.
+Comme je l'ai écrit [dans mon premier billet](/post/ouverture), ce site me sert
+de laboratoire de tests. Mon premier test va être d'observer comment Google (et
+les autres) indexe ce site. Pour cela, il suffit d'écrire un script qui sera
+lancé tous les jours à l'aide d'un
+[crontab](http://pwet.fr/man/linux/formats/crontab) sur un serveur.
 
  
-Ma première idée pour atteindre ce but était d'écrire un simple script shell qui utiliserait [wget](http://pwet.fr/man/linux/commandes/wget) pour récupèrer la première page de résultats et n'en prendre que la partie qui m'intéresse à l'aide [sed](http://pwet.fr/man/linux/commandes/sed__1) et d'une [expression rationnelle](http://pwet.fr/man/linux/conventions/regex) adéquate. Mais après une petite réflexion et la lecture des [conditions d'utilisation de Google](http://www.google.fr/accounts/TOS), il est interdit d'utiliser Google de manière automatique. Petite note en passant, Google interdit l'accès à ses pages à wget lorsque celui-ci utilise son user agent par défaut...
+Ma première idée pour atteindre ce but était d'écrire un simple script shell qui
+utiliserait [wget](http://pwet.fr/man/linux/commandes/wget) pour récupèrer la
+première page de résultats et n'en prendre que la partie qui m'intéresse à
+l'aide [sed](http://pwet.fr/man/linux/commandes/sed__1) et d'une [expression
+rationnelle](http://pwet.fr/man/linux/conventions/regex) adéquate. Mais après
+une petite réflexion et la lecture des [conditions d'utilisation de
+Google](http://www.google.fr/accounts/TOS), il est interdit d'utiliser Google de
+manière automatique. Petite note en passant, Google interdit l'accès à ses pages
+à wget lorsque celui-ci utilise son user agent par défaut...
 
  
-Finalement, la solution est d'utiliser la fameuse [API SOAP de Google](http://www.google.com/apis/) avec un clef valide (c'est gratuit et mais limité à 1000 requêtes/jour). Cette solution est légèrement plus complexe que la précédente, il faut juste trouver le moyen d'envoyer une requête HTTP POST contenant une requête SOAP bien formée et ensuite analyser le document XML retourné pour en extraire le nombre de résultats. Le requête est effectuée à l'aide [curl](http://pwet.fr/man/linux/commandes/curl) qui est un outil capable de transfèrer des données sur plusieurs protocoles dont le protocole HTTP. Ensuite les données du XML sont analysées à l'aide d'une feuille XSLT et de [xsltproc](http://pwet.fr/man/linux/commandes/xsltproc). Le but final étant de tracer une courbe à l'aide de plot, il reste à dater l'enregistrement.
+Finalement, la solution est d'utiliser la fameuse API SOAP de Google avec un
+clef valide (c'est gratuit et mais limité à 1000 requêtes/jour). Cette solution
+est légèrement plus complexe que la précédente, il faut juste trouver le moyen
+d'envoyer une requête HTTP POST contenant une requête SOAP bien formée et
+ensuite analyser le document XML retourné pour en extraire le nombre de
+résultats. Le requête est effectuée à l'aide
+[curl](http://pwet.fr/man/linux/commandes/curl) qui est un outil capable de
+transfèrer des données sur plusieurs protocoles dont le protocole HTTP. Ensuite
+les données du XML sont analysées à l'aide d'une feuille XSLT et de
+[xsltproc](http://pwet.fr/man/linux/commandes/xsltproc). Le but final étant de
+tracer une courbe à l'aide de plot, il reste à dater l'enregistrement.
 
  
 Ce qui donne le script suivant :
@@ -76,12 +98,15 @@ rm -f "$TMP_XSL" "$TMP_XML"
 ```
 
  
-Il ne reste plus qu'à configurer la tâche planifier et à atteindre quelques jours pour pouvoir tracer un joli graphique. Ce script a été testé sur Debian Sarge et Ubuntu Dapper Drake, mais devrait fonctionner sans aucun problème avec toute version relativement récente de curl et xsltproc, pour les installer il suffit de taper :
+Il ne reste plus qu'à configurer la tâche planifier et à atteindre quelques
+jours pour pouvoir tracer un joli graphique. Ce script a été testé sur Debian
+Sarge et Ubuntu Dapper Drake, mais devrait fonctionner sans aucun problème avec
+toute version relativement récente de curl et xsltproc, pour les installer il
+suffit de taper :
 
  ``` bash
 sudo apt-get install xsltproc curl
 ```
-
  
 Pour le moment, ce script donne le résultat suivant :
 
@@ -89,4 +114,3 @@ Pour le moment, ce script donne le résultat suivant :
 > tigrou@Lorien[192.168.0.243]:~$ ./google_count.sh pwet.fr
 2006-09-02 30
 ```
-

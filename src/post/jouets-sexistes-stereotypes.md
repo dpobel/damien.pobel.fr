@@ -10,7 +10,7 @@ photos:
 
 Dernièrement, j'ai partagé sur Twitter et Google+ plusieurs articles sur le
 sexisme, les stéréotypes sexuels, [la *théorie du
-genre*](http://insolente0veggie.over-blog.com/article-la-theorie-du-genre-djendeure-120623797.html)
+genre*](http://www.insolente-veggie.com/la-theorie-du-genre-djendeure/)
 et quelques autres stupidités du style. Pour être tout à fait honnête, il y a
 quelques temps je n'aurais pas été aussi vindicatif mais le fait d'être le père
 d'une petite fille de bientôt 2 ans change quelque peu l'angle de vue sur ce
