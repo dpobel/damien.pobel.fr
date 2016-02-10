@@ -13,7 +13,6 @@ Martin Electrolux pour les curieux. A priori c'est une bonne cuisiène, classée
 énergie A, donc économique en terme d'énergie, prix de base 600 euros environ
 réduit à 450 euros en promotion chez Conforama.
 
- 
 Livré mardi, un pote vient la brancher hier, on teste et zut le four fonctionne
 mais pas les plaques... Bon bon, j'appelle au magasin ce matin, passé l'accueil,
 j'ai un mec du service après vente qui m'indique que c'est un problème (courant)
@@ -23,7 +22,7 @@ de branchement et qui me donne le numéro du SAV, un numéro en 0820\*.
 Très bien, j'appelle ce numéro, déjà première surprise, aucun avertissement sur
 le prix de la communication, comme l'attente est un peu longue, environ 15
 minutes, je regarde sur [le site de Free pour connaître le
-tarif](http://adsl.free.fr/tel/tarifs/france.html)&nbsp;: &quot;0.11 € pour 56sec,
+tarif](http://www.free.fr/freebox/telephone.html)&nbsp;: &quot;0.11 € pour 56sec,
 puis 0,12 € / mn&quot;. Gloups. Bref, je finis par un avoir quelqu'un qui
 m'indique le bon numéro du SAV pour l'Hérault car les appels sont mal routés
 depuis une Freebox&nbsp;!

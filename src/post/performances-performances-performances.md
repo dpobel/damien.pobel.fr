@@ -46,7 +46,7 @@ apporte son lot de nouveautés au niveau du langage plus ou moins intéressantes
 (beurk le goto et le séparateur de namespace) mais aussi des améliorations de
 performances. Dans le forum sur eZ.no, [Björn Dieding rapporte un gain de 90%
 sur
-Windows](http://ez.no/developer/forum/developer/performance_php_5_2_vs_php_5_3_huge_gain)
+Windows](http://share.ez.no/forums/developer/performance-php-5.2-vs-php-5.3-huge-gain)
 avec [eZ Publish](/tag/ez-publish) + PHP 5.3 par rapport au même site tournant
 avec PHP 5.2 ! Łukasz Serwatka a réalisé le même benchmark sous
 Linux (article disparu depuis...) observant
