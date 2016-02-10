@@ -15,7 +15,7 @@ Celle-ci est un peu particulière puisqu'elle annonce le lancement du
 développement de la version 4.0 d'eZ Publish et sa sortie pour la fin de l'année
 ou plus probablement (soyons réaliste ;-)) le début de l'année prochaine. Cette
 version utilisera PHP5 et sera basée sur les [eZ
-components](http://ez.no/ezcomponents). Serait ce la fin de [l'histoire &quot;
+components](http://zetacomponents.org/). Serait ce la fin de [l'histoire &quot;
 *tumultueuse*&quot; eZ Publish/PHP5](/post/ez-publish-et-php5)&nbsp;? En tout cas, si
 eZ Publish 4.0 est aussi bien pensé, réalisé, et documenté qu'eZ components, ce
 sera un très bon cru&nbsp;! J'espère deux choses de cette nouvelle version&nbsp;:
