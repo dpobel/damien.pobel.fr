@@ -5,7 +5,7 @@ lang: "fr"
 node: "67829"
 remoteId: "51ceaf32c66cf0a061d55fb2938b5b46"
 published: 2009-06-14T01:47:21+02:00
-updated: 2016-02-08 18:13
+updated: 2016-02-10 23:42
 ---
 
 [Google Page Speed](http://code.google.com/speed/page-speed/) est sorti il y a
@@ -26,11 +26,10 @@ se pose pas).
 Pour remédier à cela, il est possible de configurer un filtre spécifique (par exemple nommé <code>optimize</code>
 ) qui va rajouter l'option <code>-strip</code>
  à <code>[convert](http://pwet.fr/man/linux/commandes/convert)</code>
- lors de [la création des
-variations](http://ez.no/download/ez_publish/changelogs/ez_publish_3_3/new_image_system)
-pour supprimer un maximum de choses dans l'image puis à rajouter ce filtre dans
-les filtres utilisés pour créer une variation donnée. Cette opération est
-faisable en écrivant les lignes suivantes dans
+ lors de la création des variations d'image pour supprimer un maximum de choses
+dans l'image puis à rajouter ce filtre dans les filtres utilisés pour créer une
+variation donnée. Cette opération est faisable en écrivant les lignes suivantes
+dans
 <code>settings/override/image.ini.append.php</code>&nbsp;:
 
 ``` ini
@@ -48,7 +47,6 @@ Filters[]=optimize
 
 ```
 
-
 Dans cet exemple, seules les images générées en format <code>mini</code>
  seront optimisées. Une autre solution plus globale consiste à ajouter l'option <code>-strip</code>
  pour toutes les variations en utilisant le paramètre <code>PreParameters</code>
@@ -63,4 +61,3 @@ $ php bin/php/ezcache.php --clear-tag=image
 ```
 
 Attention, sur un site avec beaucoup d'images et un peu d'audience, la régénération des variations peut être extrêmement gourmande en ressources.
-
