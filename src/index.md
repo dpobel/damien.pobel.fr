@@ -11,9 +11,11 @@ I'm also spread all over the Internets under variations of the  nicknames
   rambling, grumbling, moaning and sometimes sharing interesting things
 * [dpobel on Github](https://github.com/dpobel/) because that's a professional
   tool and because I'm a geek (maybe not in this order)
-* [tigrou on 500px](https://500px.com/tigrou) trying to take *Photos*
+* [tigrou on 500px](https://500px.com/tigrou) trying [to take
+  *Photos*](/tag/photo/)
   but at the moment I'm unsure of the success in that quest
-* [TiGr0u on Last.fm](http://www.last.fm/user/TiGr0u) for Rock'n Roll!
+* [TiGr0u on Last.fm](http://www.last.fm/user/TiGr0u) for [Rock'n
+  Roll](/tag/rock/)!
 * [dpobel on instagram](https://www.instagram.com/dpobel/) well because it's fun
   ;-)
 * [dpobel on Linkedin](http://fr.linkedin.com/in/dpobel) to receive news from
