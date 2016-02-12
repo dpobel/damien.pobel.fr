@@ -4,6 +4,7 @@ tags: jouet, sexisme, stéréotype, humeurs
 lang: "fr"
 description: Revue des jouets les plus sexistes et stupides qu'il est possible de trouver dans les rayons des boutiques en ligne
 published: 2013-11-18T22:04:44+01:00
+updated: 2016-02-12 12:42
 photos:
     - images/aspirateur-smoby-sexiste.png
 ---
@@ -106,7 +107,7 @@ hublot*](http://www.auchan.fr/rik-et-rok-ma-machine-a-laver--/achat4/C384543).
 Mais la meilleure description reste celle de [ce kit de
 nettoyage](http://www.auchan.fr/jeux--jouets/comme-les-grands/rik-et-rok-rik-rok-mon-kit-nettoyage--/achat4/6856160/C381472/Liste)
 pour **Fille** (la mise en gras vient de la fiche, il ne faudrait pas se
-tromper!) qui débute par:
+tromper!) qui débute par&nbsp;:
 
 > Avec mon kit de nettoyage Rik & Rok, deviens une véritable fée du logis!
 
