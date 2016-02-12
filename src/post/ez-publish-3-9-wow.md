@@ -8,14 +8,13 @@ published: 2006-10-06T23:07:21+02:00
 updated: 2016-02-10 07:53
 ---
  
-Je viens de lire la dernière community
-newletter(lettre
-hebdomadaire sur [eZ publish](/tag/ez-publish/), page hors ligne depuis) sur le site [ez.no](http://ez.no) qui annonce un
-léger retard dans la sortie d'eZ publish version 3.9. Initialement prévue pour
-la toute fin octobre, sa sortie est décalée à courant novembre, bref rien de
-très grave. Par contre depuis cette annonce, on peut consulter la roadmap de
-cette version (ez.no/community/developer/roadmap/ez_publish_3_9, page hors ligne
-depuis) qui
+Je viens de lire la dernière community newletter(lettre hebdomadaire sur [eZ
+publish](/tag/ez-publish/), page hors ligne depuis) sur le site
+[ez.no](http://ez.no) qui annonce un léger retard dans la sortie d'eZ publish
+version 3.9. Initialement prévue pour la toute fin octobre, sa sortie est
+décalée à courant novembre, bref rien de très grave. Par contre depuis cette
+annonce, on peut consulter la roadmap de cette version
+(ez.no/community/developer/roadmap/ez_publish_3_9, page hors ligne depuis) qui
 inclut un court descriptif de l'ensemble des nouvelles fonctionnalités majeures
 et c'est tout bonnement impressionnant ! En vrac, je retiens surtout :
 
@@ -30,9 +29,8 @@ et c'est tout bonnement impressionnant ! En vrac, je retiens surtout :
   pour l'import/export de document au format Open Document
 * La possibilité de faire une recherche lors du parcours de l'arborescence.
 
-J'avais proposé cette dernière amélioration lors de [l'appel à
-commentaires](http://ez.no/community/developer/specs/feature_request_list_for_ez_publish_3_9)
-avant le lancement du développement de cette nouvelle version. Je suis donc
+J'avais proposé cette dernière amélioration lors de l'appel à commentaires avant
+le lancement du développement de cette nouvelle version. Je suis donc
 particulièrement content de la voir apparaître. Bien d'autres fonctionnalités
 sont listées (comme [l'amélioration de la fonctionnalité
 SmartViewCache](https://github.com/ezsystems/ezpublish-legacy/blob/master/doc/features/3.9/smartviewcache_improvement.txt)
