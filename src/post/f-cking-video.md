@@ -1,14 +1,17 @@
 ---
 title: "F*cking video"
 tags: stupides, amusant, vidéo
-updated: 2008-10-31T08:45:23.000Z
 lang: "fr"
 node: "65605"
 remoteId: "9a90974a934fd5b3c4b71017ed075869"
 published: 2007-06-01T19:33:57+02:00
+updated: 2016-02-12 13:54
 ---
 
-Éloignez les enfants (qui parlent anglais) et les membres de [Famille de France qui découvrent Internet en ce moment](http://www.liberation.fr/actualite/ecrans/257559.FR.php) de cette *p*tin de vidéo* :
+Éloignez les enfants (qui parlent anglais) et les membres de Famille de France
+qui découvrent Internet en ce
+moment de cette *p*tin
+de vidéo*&nbsp;:
 
 
 <div class="video">
@@ -23,7 +26,3 @@ http://www.youtube.com/v/gU2ZgaQ_H-Y
 		<param name="allowfullscreen" value="true"></param>
 	</object>
 </div>
-
-
-La même en version francisée serait assez amusante aussi.
-

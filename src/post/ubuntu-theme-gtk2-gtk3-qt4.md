@@ -3,6 +3,7 @@ title: "Theme Gtk2, Gtk3 et Qt4 unifié"
 tags: ubuntu, gtk, gnome, openbox, linux
 lang: "fr"
 published: 2013-04-07T18:43:30+02:00
+updated: 2016-02-12 13:33
 ---
 
 Après [le changement de disque dur](/post/rue-du-commerce-client-perdu) de mon PC
@@ -20,7 +21,7 @@ Gtk2, Gtk3 et Qt4.
 
 Pour Gtk2, le fichier <code>~/.gtkrc-2.0</code> permet de configurer le thème à
 utiliser. L'application gtk-theme-switch2 disponible dans le paquet
-[gtk-theme-switch](http://packages.ubuntu.com/quantal/gtk-theme-switch) permet
+`gtk-theme-switch` permet
 de générer une version de base. Le fichier généré inclut le fichier
 <code>~/.gtkrc-2.0.mine</code> dans lequel il est possible faire [des
 ajustements](https://developer.gnome.org/gtk2/stable/GtkSettings.html#GtkSettings.properties)
@@ -35,8 +36,8 @@ Github](https://github.com/dpobel/config/blob/master/config/gtk-3.0/settings.ini
 
 Enfin pour Qt4, le fichier de configuration est
 <code>~/.config/Trolltech.conf</code> mais celui-ci assez compliqué... Le plus
-simple est d'installer [le paquet
-qt4-qtconfig](http://packages.ubuntu.com/quantal/qt4-qtconfig) qui fournit
+simple est d'installer le paquet
+`qt4-qtconfig` qui fournit
 l'application qtconfig-qt4. Celle-ci permet notamment de choisir Gtk+ comme
 style d'interface graphique. Les applications Qt prennent alors le même style
 que les applications Gtk.

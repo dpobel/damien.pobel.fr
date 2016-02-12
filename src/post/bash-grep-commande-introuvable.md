@@ -18,7 +18,7 @@ Hoary](http://doc.ubuntu-fr.org//hoary), voila ce qui peut se
 produire sur un exemple tout simple :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ ls ~/Desktop | grep 'JPG'
+$ ls ~/Desktop | grep 'JPG'
 bash:  grep : commande introuvable
 ```
 

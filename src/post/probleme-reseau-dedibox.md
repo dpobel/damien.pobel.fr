@@ -11,7 +11,7 @@ published: 2007-05-05T19:21:56+02:00
 Le réseau Dédibox n'était visiblement pas en grande forme cet après midi... Le paquet numéro 1 arrive en 6ième position après le paquet 24, inutile de dire que ce n'est pas très normal...
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ ping pwet.fr
+$ ping pwet.fr
 PING pwet.fr (88.191.30.29) 56(84) bytes of data.
 64 bytes from dedibox.pwet.fr (88.191.30.29): icmp_seq=20 ttl=54 time=43.5 ms
 64 bytes from dedibox.pwet.fr (88.191.30.29): icmp_seq=21 ttl=54 time=41.2 ms
@@ -22,7 +22,7 @@ PING pwet.fr (88.191.30.29) 56(84) bytes of data.
 ```
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ tracepath pwet.fr
+$ tracepath pwet.fr
  1:  Lorien (192.168.0.243)                                 0.230ms pmtu 1500
  1:  192.168.0.1 (192.168.0.1)                              1.629ms 
  2:  82.225.188.254 (82.225.188.254)                       41.563ms 

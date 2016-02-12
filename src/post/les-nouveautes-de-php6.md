@@ -1,14 +1,14 @@
 ---
 title: "Les nouveautés de PHP6"
 tags: xml, php, web
-updated: 2008-11-01T12:38:22.000Z
 lang: "fr"
 node: "66846"
 remoteId: "4186ca60385a96ba0d684aefcd796d3e"
 published: 2008-05-10T22:27:41+02:00
+updated: 2016-02-12 13:33
 ---
 
-Vu sur l'IBM Developer Works un court et synthétique article sur [les nouveautés attendues dans PHP6](http://www.ibm.com/developerworks/library/os-php-future/index.html), encore plus en bref :
+Vu sur l'IBM Developer Works un court et synthétique article sur les nouveautés attendues dans PHP6] (ibm.com/developerworks/library/os-php-future/ page hors ligne depuis), encore plus en bref :
 
 * Support de l'[Unicode](http://fr.wikipedia.org/wiki/Unicode)
 * Ajout des [Namespaces](http://fr.wikipedia.org/wiki/Namespace)
@@ -17,4 +17,3 @@ Vu sur l'IBM Developer Works un court et synthétique article sur [les nouveaut�
 * Suppression du support de Freetype1, GD1 et [des fonctions liées aux expressions rationnelles POSIX](http://fr.php.net/manual/fr/book.regex.php)
 
 Il est dommage que ce passage ne soit pas l'occasion de refondre l'API pour y apporter [une cohérence regrettée](http://www.phpindex.com/index.php/2007/02/28/3067-et-si-php-etait-audite-demain)...
-

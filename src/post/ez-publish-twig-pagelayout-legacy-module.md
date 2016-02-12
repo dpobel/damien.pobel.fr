@@ -3,6 +3,7 @@ title: "Twig pagelayout pour les modules legacy dans eZ Publish 5"
 tags: twig, ez publish, ez publish 5, template, symfony 2
 lang: "fr"
 published: 2013-05-01T12:59:44+02:00
+updated: 2016-02-12 12:50
 ---
 
 ([English version available on share.ez.no](http://share.ez.no/blogs/damien-pobel/twig-pagelayout-for-legacy-modules-in-ez-publish-5))
@@ -32,7 +33,7 @@ grand bravo pour ça :-)
 
 Ensuite, en travaillant [sur une amélioration](https://jira.ez.no/browse/EZP-20518), j'ai ajouté la possibilité [de
 définir ce pagelayout par siteaccess ou groupe de
-siteaccess](https://github.com/ezsystems/ezpublish-kernel/pull/277). Il n'y a pas [de configuration sémantique](http://symfony.com/fr/doc/current/cookbook/bundles/extension.html), donc pour configurer le
+siteaccess](https://github.com/ezsystems/ezpublish-kernel/pull/277). Il n'y a pas [de configuration sémantique](http://symfony.com/doc/current/cookbook/bundles/extension.html), donc pour configurer le
 pagelayout à utiliser avec les modules legacy, il faut écrire la configuration
 suivante dans `ezpublish.yml`&nbsp;:
 

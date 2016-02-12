@@ -10,7 +10,7 @@ updated: 2016-02-09 09:26
 
 *Via* [un billet sur
 Wordpress-fr](http://www.wordpress-fr.net/2007/05/21/comparatif-de-cms-dans-decision-informatique/),
-j'ai découvert que [Décision Informatique](http://www.01net.com/decisionmicro/)
+j'ai découvert que Décision Informatique
 publie un &quot;comparatif&quot; de plusieurs <abbr title="Content Management
 System">CMS</abbr>  (Système de gestion de contenu) dans lequel on retrouve [eZ
 Publish](http://ez.no/fr), [Drupal](http://drupal.org/),

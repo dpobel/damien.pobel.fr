@@ -23,7 +23,7 @@ published: 2006-12-12T23:25:23+01:00
 Au minimum, il vaut mieux aussi avoir déposé son nom de domaine...
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ whois 2007lesvraissujets.com | head -10
+$ whois 2007lesvraissujets.com | head -10
 Whois Server Version 2.0
 
 Domain names in the .com and .net domains can now be registered

@@ -1,14 +1,14 @@
 ---
 title: "Sortie aux Marais du Vigueirat"
 tags: photo, nikon d50, nature
-updated: 2008-10-30T08:37:32.000Z
 lang: "fr"
 node: "66734"
 remoteId: "7530d1c92ab720ee7c07c995610112b5"
 published: 2008-03-30T22:08:19+02:00
+updated: 2016-02-12 13:33
 ---
-
-Quelques photos [d'une sortie nature](http://www.marais-vigueirat.reserves-naturelles.org/pages/page3.htm#DF9702) dans [la réserve naturelle des Marais du Vigueirat](http://www.marais-vigueirat.reserves-naturelles.org/)
+Quelques photos d'une *sortie nature* dans [la réserve naturelle des Marais du
+Vigueirat](http://www.marais-vigueirat.reserves-naturelles.org/)
 
 <table class="table-centre"><tr><td><figure class="object-center"><a href="/images/paysage-des-marais-du-vigueirat.jpg">![Paysage des Marais du Vigueirat](/images/330x/paysage-des-marais-du-vigueirat.jpg)
 </a></figure></td>

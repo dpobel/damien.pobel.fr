@@ -16,7 +16,7 @@ En lisant [une question sur le forum Ubuntu-fr à propos de la possibilité de l
 Oui c'est complètement, inutile donc c'est indispensable :) En tout cas c'est assez bluffant et marrant à voir, et ça marche plutôt bien avec les films d'animation. C'est très simple à utiliser, il suffit d'indiquer à mplayer le backend de sortie et c'est tout.
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~/Films$ mplayer -vo caca Le\ monde\ de\ Nemo.avi
+$ mplayer -vo caca Le\ monde\ de\ Nemo.avi
 ```
 
  

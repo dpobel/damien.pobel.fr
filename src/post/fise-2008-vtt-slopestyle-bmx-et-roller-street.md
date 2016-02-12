@@ -8,7 +8,15 @@ remoteId: "503094f66790e22c670f126b30beeee8"
 published: 2008-05-01T23:28:52+02:00
 ---
 
-Plein de nouveautés au [FISE](http://www.fise-events.com/) cette année à commencer par l'apparition d'une nouvelle discipline : le [VTT Slopestyle](http://www.fise-events.com/vtt.php) avec un parcours à base de module en bois exploitant à merveille les dénivelés des bords du Lez. Par contre, on a perdu [la méga rampe Red Bull](/images/bmx-rampe.jpg)[de l'année dernière](/post/nokia-fise-2007-roller-street-bmx-rampe-wakeboard-and-bmx-street), l'aire de dirt est à l'autre bout de la zone après le pont Zuccarelli et l'espace aux abords de l'aire de street ont été réduit, ce qui est un peu dommage surtout avec l'affluence incroyable aujourd'hui !
+Plein de nouveautés au [FISE](http://www.fise-events.com/) cette année à
+commencer par l'apparition d'une nouvelle discipline : le VTT
+Slopestyle avec un parcours à base de
+module en bois exploitant à merveille les dénivelés des bords du Lez. Par
+contre, on a perdu [la méga rampe Red Bull](/images/bmx-rampe.jpg)[de l'année
+dernière](/post/nokia-fise-2007-roller-street-bmx-rampe-wakeboard-and-bmx-street),
+l'aire de dirt est à l'autre bout de la zone après le pont Zuccarelli et
+l'espace aux abords de l'aire de street ont été réduit, ce qui est un peu
+dommage surtout avec l'affluence incroyable aujourd'hui !
 
 <table class="table-centre"><tr><td><figure class="object-center"><a href="/images/table-top-en-vtt.jpg">![Table top en VTT](/images/330x/table-top-en-vtt.jpg)
 </a></figure></td>
@@ -29,4 +37,3 @@ Plein de nouveautés au [FISE](http://www.fise-events.com/) cette année à comm
 </table>
 
 Et ça continue demain et ce week end, à suivre...
-

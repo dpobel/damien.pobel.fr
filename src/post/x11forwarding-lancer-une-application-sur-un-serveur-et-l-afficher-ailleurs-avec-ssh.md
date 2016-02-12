@@ -56,7 +56,7 @@ positionnant l'option *X11Forwarding* à *yes* dans le fichier de configuration
 faut évidemment par oublier de redémarrer le daemon ssh par&nbsp;:
 
  ``` bash
-tigrou@mon-server:~ $ sudo /etc/init.d/ssh restart
+$ sudo /etc/init.d/ssh restart
 ```
 
  
@@ -65,7 +65,7 @@ machine distante et les afficher sur votre machine locale (ou sur une autre
 machine distante d'ailleurs) avec la ligne de commande suivante&nbsp;:
 
  ``` bash
-tigrou@machine-locale:~ $ ssh -c blowfish -X -C -f login@adresse ton_application
+$ ssh -c blowfish -X -C -f login@adresse ton_application
 ```
 
 Explications : cette ligne indique à ssh de se connecter sur le serveur adresse

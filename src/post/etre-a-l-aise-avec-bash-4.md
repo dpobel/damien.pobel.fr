@@ -32,7 +32,7 @@ Après ces trois billets plutôt sur la configuration de [bash](http://pwet.fr/m
 L'article sur [les flux standards sur Wikipedia](http://fr.wikipedia.org/wiki/Flux_standard) est une très bonne et courte introduction au concept d'entrée/sorties standards. Pour faire simple, lorsqu'un shell est lancé en mode interactif (ie le shell attend qu'on lui tape des commandes typiquement dans un terminal), l'entrée standard est le clavier et la sortie standard et la sortie d'erreur sont reliées au terminal. Par défaut, lorsque le shell lance une commande, cette commande hérite (entre autre) des entrées/sorties standards du shell parent. Ces flux sont manipulables dans le shell, quelques exemples pratiques à l'aide de la commande [find](http://pwet.fr/man/linux/commandes/find) permettant de rechercher tous les répertoires dans le dossier de l'utilisateur root sur lequel mon utilisateur n'a évidemment pas tous les droits, cette commande renvoie donc des informations sur la sortie d'erreur et la sortie standard :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:/tmp$ find ~root -type d
+$ find ~root -type d
 /root
 /root/.gnome2
 find: /root/.gnome2: Permission non accordée
@@ -47,10 +47,10 @@ find: /root/.gconf: Permission non accordée
 Cette opération se fait avec l'opérateur &gt;, qui créa le fichier si il n'existe pas ou l'écrasera avec la sortie standard en l'utilisant de la manière suivante :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:/tmp$ find ~root -type d > sortie_standard
+$ find ~root -type d > sortie_standard
 find: /root/.gnome2: Permission non accordée
 find: /root/.gconf: Permission non accordée
-> tigrou@Lorien[192.168.0.243]:/tmp$ cat sortie_standard 
+$ cat sortie_standard 
 /root
 /root/.gnome2
 /root/.gconf
@@ -66,11 +66,11 @@ Plutôt que d'écraser le fichier, il est aussi possible d'ajouter la sortie au 
 Cette opération se fait également avec &gt; mais en spécifiant le descripteur de la sortie d'erreur (par défaut 2) :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:/tmp$ find ~root -type d 2> sortie_erreur
+$ find ~root -type d 2> sortie_erreur
 /root
 /root/.gnome2
 /root/.gconf
-> tigrou@Lorien[192.168.0.243]:/tmp$ cat sortie_erreur 
+$ cat sortie_erreur 
 find: /root/.gnome2: Permission non accordée
 find: /root/.gconf: Permission non accordée
 ```
@@ -85,8 +85,8 @@ Cette séquence est fréquemment utilisée pour n'afficher que la sortie standar
 Ici, on souhaite tout avoir sur la même sortie pour un traitement ultérieur, pour cela il faut indiquer au shell de rediriger les données écrites sur le descripteur 2 sur le descripteur 1.
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:/tmp$ find ~root -type d > sortie_1_et_2 2>&1
-> tigrou@Lorien[192.168.0.243]:/tmp$ cat sortie_1_et_2 
+$ find ~root -type d > sortie_1_et_2 2>&1
+$ cat sortie_1_et_2 
 /root
 /root/.gnome2
 find: /root/.gnome2: Permission non accordée
@@ -101,7 +101,7 @@ find: /root/.gconf: Permission non accordée
 Il est possible d'enchâiner les commandes en redirigeant les sorties d'une commande sur l'entrée standard à l'aide du *pipe* (| ou tube), par exemple si je souhaite n'avoir que les messages concernant les dossier de GNOME à la suite de find, je peux utiliser l'utilitaire [grep](http://pwet.fr/man/linux/commandes/grep) pour filtrer la sortie comme suit :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:/tmp$ find ~root -type d 2>&1 | grep gnome
+$ find ~root -type d 2>&1 | grep gnome
 /root/.gnome2
 find: /root/.gnome2: Permission non accordée
 ```
@@ -110,8 +110,8 @@ find: /root/.gnome2: Permission non accordée
 Comme vue précédemment, les sorties standard et d'erreur de find sont redirigés sur la sortie standard qui est elle même redirigées sur l'entrée standard de grep. Cette ligne est équivalente aux deux lignes suivantes utilisant le symbole &lt; permettant de rediriger le contenu d'un fichier sur l'entrée standard :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:/tmp$ find ~root -type d > sortie_1_et_2 2>&1
-> tigrou@Lorien[192.168.0.243]:/tmp$ grep gnome < sortie_1_et_2 
+$ find ~root -type d > sortie_1_et_2 2>&1
+$ grep gnome < sortie_1_et_2 
 /root/.gnome2
 find: /root/.gnome2: Permission non accordée
 ```
@@ -120,8 +120,8 @@ find: /root/.gnome2: Permission non accordée
 elle même équivalente à
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:/tmp$ find ~root -type d > sortie_1_et_2 2>&1
-> tigrou@Lorien[192.168.0.243]:/tmp$ cat sortie_1_et_2 | grep gnome
+$ find ~root -type d > sortie_1_et_2 2>&1
+$ cat sortie_1_et_2 | grep gnome
 /root/.gnome2
 find: /root/.gnome2: Permission non accordée
 ```
@@ -130,7 +130,7 @@ find: /root/.gnome2: Permission non accordée
 Ce sont des exemples très simples, mais il est possible ainsi de faire des choses assez complexe en une ligne en enchaînant quelques commandes (qui feront l'objet d'un prochaine billet) :
 
  ``` bash
-tigrou@Lorien[192.168.0.243]:/tmp$ cat access.log | egrep -v '(/var|/design|/share|/stats| 404 )' | cut -d ' ' -f 7 | sort | uniq | wc -l
+$ cat access.log | egrep -v '(/var|/design|/share|/stats| 404 )' | cut -d ' ' -f 7 | sort | uniq | wc -l
 2911
 ```
 
@@ -153,23 +153,23 @@ Les motifs sont des caractères spécifiques qui permettent, une fois développ�
 À la suite des commandes tapées ci-dessus, j'ai plusieurs fichiers dans le répertoire temporaire qui peuvent servir d'exemple :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:/tmp$ ls
+$ ls
 gconfd-tigrou  mapping-tigrou  sortie_1_et_2  sortie_standard
 listen         orbit-tigrou    sortie_erreur  ssh-jDyKBu4304
 # tout ce qui commençe par un s
-> tigrou@Lorien[192.168.0.243]:/tmp$ echo s*
+$ echo s*
 sortie_1_et_2 sortie_erreur sortie_standard ssh-jDyKBu4304
 # tout ce qui termine par un u
-> tigrou@Lorien[192.168.0.243]:/tmp$ echo *u
+$ echo *u
 gconfd-tigrou mapping-tigrou orbit-tigrou
 # tout ce qui termine par un chiffre
-> tigrou@Lorien[192.168.0.243]:/tmp$ echo *[0-9]
+$ echo *[0-9]
 sortie_1_et_2 ssh-jDyKBu4304
 # tout ce qui ne se termine PAS par un chiffre
-> tigrou@Lorien[192.168.0.243]:/tmp$ echo *[!0-9]
+$ echo *[!0-9]
 gconfd-tigrou listen mapping-tigrou orbit-tigrou sortie_erreur sortie_standard
 # tout ce qui commence par sortie suivi d'un caractère suivi de standard
-> tigrou@Lorien[192.168.0.243]:/tmp$ echo sortie?standard
+$ echo sortie?standard
 sortie_standard
 ```
 

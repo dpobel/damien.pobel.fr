@@ -62,7 +62,7 @@ audio préféré (Listen en ce moment).
 Apwal est disponible sous Ubuntu dans le dépôt Universe et s'installe avec le paquet du même nom :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ sudo apt-get install apwal
+$ sudo apt-get install apwal
 ```
 
  

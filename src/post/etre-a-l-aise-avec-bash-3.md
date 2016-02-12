@@ -36,10 +36,10 @@ Il est possible de rechercher dans l'historique avec le raccourcis Control+R. Ce
 Les touches flèche haut et flèche bas permettent de recherche les commandes précédemment tapées dans l'historique, mais il est possible de faire en sorte que cette recherche prenne en compte les caractères déjà tapés, un exemple sera plus parlant :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ tar -cf mes_script.tar bin
-> tigrou@Lorien[192.168.0.243]:~$ du -sh mes_script.tar
+$ tar -cf mes_script.tar bin
+$ du -sh mes_script.tar
 340K    mes_script.tar.bz2
-> tigrou@Lorien[192.168.0.243]:~$ t
+$ t
 ```
 
  

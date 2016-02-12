@@ -11,17 +11,17 @@ published: 2007-01-10T22:33:38+01:00
 J'ai finalement choisi Ubuntu comme système sur [ma dedibox fraîchement livrée](/post/une-dedibox-en-moins-de-temps-qu-il-en-faut-pour-le-dire). Du coup, j'ai un système à configurer car j'ai plusieurs projets pour cette machine. Le premier étant d'héberger [pwet.fr]() et de pouvoir à côté tester / développer des applications en PHP5. J'ai donc besoin de faire cohabiter ces deux versions. Sachant que ce site utilise [eZ publish](), je préfère avoir PHP4 en module (a priori plus performant), PHP5 en FastCGI (plus rapide qu'en CGI) le tout avec Apache 1.3 pour la stabilité. La première chose à faire est évidemment d'installer tout le nécessaire (il faut activer [le dépôt Universe](http://doc.ubuntu-fr.org/depots)) :
 
  ``` bash
-tigrou@dedipwet:~$ sudo apt-get install apache libapache-mod-php4 php4-domxml php4-pear php4-pear-log php5-cgi php5-mysqli php5-xsl php5-gd php5-pear libapache-mod-fastcgi libapache-mod-actions
+$ sudo apt-get install apache libapache-mod-php4 php4-domxml php4-pear php4-pear-log php5-cgi php5-mysqli php5-xsl php5-gd php5-pear libapache-mod-fastcgi libapache-mod-actions
 ```
 
  
 Une fois tout cela installé, il faut activer les modules nécessaires, le plus simple étant d'utiliser [apache-modconf](http://pwet.fr/man/linux/administration_systeme/apache_modconf) puis de redémarrer [apache](http://pwet.fr/man/linux/administration_systeme/apache) :
 
  ``` bash
-tigrou@dedipwet:~$ sudo apache-modconf apache enable mod_php4
-tigrou@dedipwet:~$ sudo apache-modconf apache enable mod_fastcgi
-tigrou@dedipwet:~$ sudo apache-modconf apache enable mod_actions
-tigrou@dedipwet:~$ sudo /etc/init.d/apache restart
+$ sudo apache-modconf apache enable mod_php4
+$ sudo apache-modconf apache enable mod_fastcgi
+$ sudo apache-modconf apache enable mod_actions
+$ sudo /etc/init.d/apache restart
 ```
 
  

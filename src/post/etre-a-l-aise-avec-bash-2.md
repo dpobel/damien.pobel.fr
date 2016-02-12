@@ -43,15 +43,15 @@ shopt -s cdspell
 Avec cette option certaines fautes sont corrigées :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~/tmp/test$ mkdir Documents
-> tigrou@Lorien[192.168.0.243]:~/tmp/test$ cd Documen
+$ mkdir Documents
+$ cd Documen
 bash: cd: Documen: Aucun fichier ou répertoire de ce type
-> tigrou@Lorien[192.168.0.243]:~/tmp/test$ cd Document
+$ cd Document
 Documents
-> tigrou@Lorien[192.168.0.243]:~/tmp/test/Documents$ cd ..
-> tigrou@Lorien[192.168.0.243]:~/tmp/test$ cd Documents-
+$ cd ..
+$ cd Documents-
 Documents
-> tigrou@Lorien[192.168.0.243]:~/tmp/test/Documents$
+$
 ```
 
    

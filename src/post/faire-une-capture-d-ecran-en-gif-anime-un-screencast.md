@@ -39,7 +39,7 @@ Universe d'Ubuntu ce qui simplifie grandement son installation avec la ligne de
 commande suivante (ou en cherchant dans synaptic ou équivalent) :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ sudo apt-get install byzanz
+$ sudo apt-get install byzanz
 ```
 
 Une fois installé, ce logiciel se manipule soit via une applet dans un panneau
@@ -48,7 +48,7 @@ détaillés dans sa courte page du manuel, comme je n'utilise pas GNOME, la lign
 de commande ressemble à la suivante&nbsp;:
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ byzanz-record -l -d 15 -x 249 -y 196 -w 460 -h 300 -c --delay=2 edition_dans_ez_publish.gif
+$ byzanz-record -l -d 15 -x 249 -y 196 -w 460 -h 300 -c --delay=2 edition_dans_ez_publish.gif
 ```
 
 Cette ligne va enregistrer deux secondes après son lancement un GIF animé nommé

@@ -26,7 +26,6 @@ n'hésitez pas à commenter la photo où à [m'envoyer un
 e-mail](mailto:dpobel@free.fr), je serai ravi de mettre à jour la légende et de
 vous faire un lien vers votre site si vous en avez un...
 
- 
 Sinon, en cherchant des infos sur le FISE 2006, j'ai découvert que le [FISE
 2007](http://www.nokiafise.com/) se déroulera cette année pour le week end de
 l'Ascension du 16 au 20 mai 2007 à Montpellier [sur les rives du
