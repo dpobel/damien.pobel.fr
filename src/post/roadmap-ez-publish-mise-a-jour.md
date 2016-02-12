@@ -8,9 +8,9 @@ published: 2009-06-18T21:35:13+02:00
 updated: 2016-02-08 18:31
 ---
 
-Je viens de voir un peu par hasard *via*[un post sur le
+Je viens de voir un peu par hasard *via* [un post sur le
 forum](http://ez.no/developer/forum/suggestions/ez_components_templating_engine)
-que [la roadmap d'eZ Publish](http://ez.no/ezpublish/roadmap) a été mise à jour
+que la roadmap d'eZ Publish a été mise à jour
 (le 12 juin apparemment) avec les nouveautés pour les deux prochaines versions
 majeures (4.2 et 4.3). Deux grosses tendances se dessinent dans cette roadmap :
 [les performances](/post/les-performances-d-ez-publish) (mode classique comme en
@@ -18,8 +18,7 @@ cluster, ou avec [un nouveau mode cluster mixant base de données et
 NFS](https://github.com/ezsystems/ezpublish-legacy/blob/master/doc/specifications/4.2/db_nfs_cluster_handler/dbnfsclusterhandler.txt)
 qui est déjà dans le SVN) et les interfaces utilisateurs avec surtout un
 *redesign* de l'interface d'administration pour la version 4.3 prévue pour tout
-début 2010 !
-
+début 2010&nbsp;!
 
 Avec cette dernière nouveauté, Gandbox peut espérer rayer une partie de sa
 whishlist (page hors ligne depuis)
