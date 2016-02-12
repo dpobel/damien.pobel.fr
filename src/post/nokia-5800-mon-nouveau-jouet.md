@@ -44,7 +44,7 @@ Bon il y a quand même quelques trucs bêtes/idiots :
   l'écran tactile, quand on a le stylet en main, ce serait tellement plus
   pratique.
 * J'ai pu configurer [mon compte SIP
-  Free](http://www.free.fr/assistance/268-freebox-le-service-sip-activer-le-service-sip.html)
+  Free](http://www.free.fr/assistance/89.html#step-268)
   mais j'ai pas encore trouvé comment passer un appel avec&nbsp;!? Et les clients SIP
   compatibles ne semblent pas courir les rues...
 * Le téléphone dispose d'un presse papier qui marche presque partout

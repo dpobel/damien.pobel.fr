@@ -1,11 +1,11 @@
 ---
 title: "Un script shell pour compter le nombre de pages indexées dans Google"
 tags: geek, xml, xslt, debian, bash, ubuntu, google, référencement, shell
-updated: 2006-12-01T13:07:20.000Z
 lang: "fr"
 node: "60935"
 remoteId: "1ec19d903b7ad0368a47169ba34aa526"
 published: 2006-09-02T00:11:47+02:00
+updated: 2016-02-12 13:33
 ---
  
 Comme je l'ai écrit [dans mon premier billet](/post/ouverture), ce site me sert
@@ -18,7 +18,7 @@ lancé tous les jours à l'aide d'un
 Ma première idée pour atteindre ce but était d'écrire un simple script shell qui
 utiliserait [wget](http://pwet.fr/man/linux/commandes/wget) pour récupèrer la
 première page de résultats et n'en prendre que la partie qui m'intéresse à
-l'aide [sed](http://pwet.fr/man/linux/commandes/sed__1) et d'une [expression
+l'aide [sed](http://pwet.fr/man/linux/commandes/sed) et d'une [expression
 rationnelle](http://pwet.fr/man/linux/conventions/regex) adéquate. Mais après
 une petite réflexion et la lecture des [conditions d'utilisation de
 Google](http://www.google.fr/accounts/TOS), il est interdit d'utiliser Google de

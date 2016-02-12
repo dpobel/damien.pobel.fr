@@ -28,7 +28,7 @@ trouve pour le moment sont une interface plus que minimale à l'ergonomie parfoi
 perfectible et le choix de [la syntaxe wiki
 Markdown](http://daringfireball.net/projects/markdown/syntax). Après c'est aussi
 une question d'habitude, pour le wiki il est vrai que, entre la syntaxe de
-[Mediawiki](http://meta.wikimedia.org/wiki/Aide:Syntaxe_wiki),
+[Mediawiki](https://meta.wikimedia.org/wiki/File:Cheatsheet-fr.pdf)
 [TWiki](http://twiki.org/cgi-bin/view/TWiki/WikiSyntax) (que j'utilise [au
 travail](/page/cv)), [Trac](http://trac.edgewall.org/wiki/WikiFormatting) et
 celle-ci, je m'embrouille un peu...

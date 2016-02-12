@@ -10,15 +10,15 @@ updated: 2016-02-12 12:13
  
 Même [s'il est nié par
 certains](http://www.lemonde.fr/web/article/0,1-0@2-3228,36-819374,0.html),
-[avec des arguments
-bidons](http://www-lgge.ujf-grenoble.fr/actu/actualites.shtml), n'ayons pas peur
+avec des arguments
+bidons, n'ayons pas peur
 des mots, [le réchauffement
 climatique](https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique) n'est
 plus une hypothèse mais un réel problème dont l'Homme est (au moins en partie)
 responsable et qu'il est urgent d'enrayer. Et je dirais même que c'est **un
 problème de société** puisqu'on a tous notre part de responsabilité ; mais
 surtout on peut tous agir à notre niveau avec [des gestes
-simples](http://www.wwf.fr/campagnes/cyberactions/adoptons_la_planete_attitude)
+simples](http://adoptons-la-planete-attitude.wwf.fr/)
 ou en changeant légèrement nos habitudes.
 
  
