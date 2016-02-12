@@ -24,7 +24,7 @@ placé, permet :
 Ce script utilise [ImageMagick](http://pwet.fr/man/linux/commandes/imagemagick), [lftp](http://pwet.fr/man/linux/commandes/lftp) et xclip, il faut donc les installer à l'aide du système de paquet de votre distribution, sous Ubuntu la commande est la suivante :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ sudo apt-get install imagemagick lftp xclip
+$ sudo apt-get install imagemagick lftp xclip
 ```
 
  
@@ -97,7 +97,7 @@ password votremotdepasse
 Pour un minimum de sécurité, ce fichier doit être en lecture/écriture uniquement pour votre utilisateur. Si vous avez créé ce fichier, la commande suivante est suffisante :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ chmod 600 ~/.netrc
+$ chmod 600 ~/.netrc
 ```
 
  

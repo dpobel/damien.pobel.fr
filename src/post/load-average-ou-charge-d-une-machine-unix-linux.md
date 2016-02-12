@@ -11,7 +11,7 @@ published: 2007-04-20T00:13:09+02:00
 Qu'est ce que le *Load Average* ou la charge d'une machine ? C'est une question qui revient fréquemment après quelques temps d'utilisation d'un système Unix comme Linux. Il est vrai que sous Windows ce concept est *caché*, on parle plutôt d'utilisation CPU et on l'exprime en pourcentage, alors que la charge s'exprime habituellement sans unité apparente. Pour faire simple, c'est le nombre de processus en train d'utiliser le(s) processeur(s) ou en train d'attendre de pouvoir les utiliser. On obtient la charge grâce à différents programmes comme [uptime](http://pwet.fr/man/linux/commandes/uptime) ou [top](http://pwet.fr/man/linux/commandes/top) ou en lisant le fichier virtuel /proc/loadavg sous Linux. Ces deux utilitaires renvoient 3 nombres, par exemple :
 
  ``` bash
-> tigrou@dedipwet[88.191.30.29]:~$ uptime
+$ uptime
  00:08:35 up 1 day, 14:45,  1 user,  load average: 0.19, 0.18, 0.16
 ```
 

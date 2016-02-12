@@ -18,7 +18,7 @@ rechercher un fichier ou des fichiers dans tous les paquets disponibles (ie pas
 seulement les paquets installés). Cette commande s'installe comme suit :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ sudo apt-get install apt-file
+$ sudo apt-get install apt-file
 ```
  
 Une fois cette commande installée, il faut mettre à jour la base de données des
@@ -29,9 +29,9 @@ topic sur le forum Ubuntu-fr](http://forum.ubuntu-fr.org/viewtopic.php?id=63551)
 :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ sudo apt-file update
+$ sudo apt-file update
 # .... affichage des informations ...
-> tigrou@Lorien[192.168.0.243]:~$ apt-file search bin/ps2
+$ apt-file search bin/ps2
 c2050: usr/bin/ps2lexmark
 gs-common: usr/bin/ps2ascii
 gs-common: usr/bin/ps2epsi
@@ -58,7 +58,7 @@ commençant par apt mais n'étant ni apt-get, ni
 apt-file, on peut faire :
 
  ``` bash
-> tigrou@Lorien[192.168.0.243]:~$ apt-file --regex search 'bin/apt-[^(get|cache|file)]'
+$ apt-file --regex search 'bin/apt-[^(get|cache|file)]'
 apt: usr/bin/apt-key
 apt-build: usr/bin/apt-build
 apt-move: usr/bin/apt-move

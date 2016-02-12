@@ -47,9 +47,9 @@ rm -f "$TMP_XML" "$TMP_XSL"
 Ce script me permettra de comparer la vitesse à laquelle ces moteurs indexent mon site. Actuellement ces scripts donnent le résultat suivant :
 
  ``` 
-> tigrou@Lorien[192.168.0.243]:~$ ./google_count.sh pwet.fr
+$ ./google_count.sh pwet.fr
 2006-09-05 662
-> tigrou@Lorien[192.168.0.243]:~$ ./yahoo_count.sh pwet.fr
+$ ./yahoo_count.sh pwet.fr
 2006-09-05 621
 ```
 

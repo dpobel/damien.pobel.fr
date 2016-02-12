@@ -111,6 +111,6 @@ sudo apt-get install xsltproc curl
 Pour le moment, ce script donne le résultat suivant :
 
  ``` 
-> tigrou@Lorien[192.168.0.243]:~$ ./google_count.sh pwet.fr
+$ ./google_count.sh pwet.fr
 2006-09-02 30
 ```

@@ -63,7 +63,7 @@ Attention à bien restreindre les permission sur ce fichier pour que personne ne
 puisse le lire, sauf l'utilisateur en question avec la commande suivante :
 
  ``` bash
-> tigrou@dedipwet[88.191.30.29]:~$ chmod 600 .my.cnf
+$ chmod 600 .my.cnf
 ```
 
    

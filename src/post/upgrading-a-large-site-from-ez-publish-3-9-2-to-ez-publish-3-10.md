@@ -22,7 +22,7 @@ forum](http://share.ez.no/forums/developer/upgrade-to-3.10), the
 updateniceurls.php script started with this message :
 
 ``` bash
-> tigrou@dedipwet[88.191.30.29]:~/web/pwet.fr/www310$ php4 bin/php/updateniceurls.php -s plain_site_admin
+$ php4 bin/php/updateniceurls.php -s plain_site_admin
 Using siteaccess plain_site_admin for nice url update
 Importing old url aliases
 Importing 62638 standard urls

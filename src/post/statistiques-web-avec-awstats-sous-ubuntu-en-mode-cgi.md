@@ -36,13 +36,13 @@ suffit donc de l'installer avec
 équivalent) ou de taper dans un terminal :
 
  ``` bash
-> tigrou@dedipwet[88.191.30.29]:~$ sudo apt-get install awstats
+$ sudo apt-get install awstats
 ```
 
 AWStats se configure à l'aide d'un fichier texte stocké dans /etc/awstats. Le plus simple pour commencer la configuration est de partir du fichier /etc/awstats/awstats.conf en le copiant :
 
  ``` bash
-> tigrou@dedipwet[88.191.30.29]:~$ sudo cp /etc/awstats/awstats.conf /etc/awstats/awstats.DOMAINECONSULTATION.TLD.conf
+$ sudo cp /etc/awstats/awstats.conf /etc/awstats/awstats.DOMAINECONSULTATION.TLD.conf
 ```
 
  
