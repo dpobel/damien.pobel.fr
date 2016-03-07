@@ -1,5 +1,5 @@
 ---
-title: Quickly test eZ Platform
+title: Quickly test eZ Platform with the PHP internal server
 tags:  ez platform, composer, php, cms, online editor
 published: 2016-03-06 17:08
 lang: en
