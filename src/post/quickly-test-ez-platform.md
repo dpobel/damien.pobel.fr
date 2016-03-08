@@ -13,7 +13,7 @@ photos:
     </a>
 </figure>
 [eZ Platform 16.02 was
-released](http://ez.no/Resources/Blog/Discover-eZ-Platform-and-eZ-Studio-16.02) last week.
+released](http://ez.no/Blog/Discover-eZ-Platform-and-eZ-Studio-16.02) last week.
 As far as I'm concerned, I did quite some changes mostly in Online Editor (the
 rich text editor) to improve the handling of *embeds* and images in RichText
 fields. And I'm happy to see my *I can haz aligned image* cat (generated with
