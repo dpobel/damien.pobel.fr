@@ -10,14 +10,14 @@ photos:
 <figure class="object-left bordered">
     <img src="/images/220x/polymer.png" alt="Polymer project logo">
 </figure>
-[Polymer](https://www.polymer-project.org/1.0/) is a library (developped by
+[Polymer](https://www.polymer-project.org/1.0/) is a library (developed by
 Google) to ease the creation of *components* or more precisely of [Web
 Components](http://webcomponents.org/). I really like the idea of being able to
 build my own element in **a standard way** and to use it in a web page like any
 other HTML element. Unfortunately, at the moment, Chrome is the only browser to
 really implement [the 4 specifications behind the term Web
 Components](https://github.com/w3c/webcomponents/#web-components). In others
-browsers, [the support varies from inexistant to
+browsers, [the support varies from inexistent to
 experimental](http://caniuse.com/#search=web%20components) and then [Web
 Components polyfills](http://webcomponents.org/polyfills/) are the only way to
 have a better support in current browsers. [Polymer version 1.0 was released in
