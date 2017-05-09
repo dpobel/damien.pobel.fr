@@ -11,10 +11,10 @@ I'm a software engineer interested in the web and open technologies. If you want
 to learn more about my professional skills and background, please have a look on
 [my curriculum vitæ](/page/cv) (or [its french version](/page/cv-fr)).
 
-In the real life, I like sports ([mountain bike](http://vtt.revermont.bike/), table tennis, ...), I try to
-take [photos](/tag/photo) and I'm also the happy dad of a cute little girl called
-Charline. I live in a small french village called [St Paul de
-Varax](http://mairie-saintpauldevarax.fr/).
+In the real life, I like sports ([mountain bike](http://vtt.revermont.bike/),
+table tennis, ...), I try to take [photos](/tag/photo) and I'm also the happy
+dad of two cute little girls called Charline and Clémentine. I live in a small
+french village called [St Paul de Varax](http://mairie-saintpauldevarax.fr/).
 
 ## the content
 
