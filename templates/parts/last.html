@@ -1,5 +1,5 @@
 <div class="side-block last">
-    <h2>Last posts</h2>
+    <h2>Latest posts</h2>
     <ul>
         {% for post in collections.lastPosts %}
         <li><a href="{{ post.path|url }}" lang="{{ post.lang|default('fr', true) }}">{{ post.title }}</a></li>
