@@ -122,3 +122,7 @@
 .cv .keywords li:last-of-type:after {
     content: "";
 }
+
+.cv .logo {
+    margin-top: 2em;
+}
