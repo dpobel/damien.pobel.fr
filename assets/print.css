@@ -18,3 +18,8 @@ acronym, abrr {
 .page-content {
     box-shadow: none;
 }
+
+.cv h2 {
+    color: #085075;
+    border-bottom: 1px solid #085075;
+}
