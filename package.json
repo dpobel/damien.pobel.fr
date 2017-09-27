@@ -38,6 +38,7 @@
     "metalsmith-moment": "^1.0.0",
     "metalsmith-myth": "0.0.0",
     "metalsmith-pagination": "^1.4.0",
+    "metalsmith-pdfize": "^0.1.0",
     "metalsmith-permalinks": "^0.4.0",
     "metalsmith-renamer": "^0.2.2",
     "metalsmith-tags": "^1.1.0",

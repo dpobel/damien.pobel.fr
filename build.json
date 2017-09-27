@@ -160,5 +160,30 @@
     },
     "tagLangFeed": {
         "addFrFilter": ["ez publish", "linux"]
+    },
+    "cv-pdf": {
+        "pdfize": {
+            "pattern": ["page/cv/*.html", "page/cv-fr/*.html"],
+            "printOptions": {
+                "printBackground": true,
+                "format": "A4",
+                "margin": {
+                    "top": "1cm",
+                    "bottom": "1cm",
+                    "left": "1cm",
+                    "right": "1cm"
+                }
+            }
+        },
+        "rename": {
+            "cv-fr": {
+                "pattern": "page/cv-fr/index.html.pdf",
+                "rename": "cv-fr-damien-pobel.pdf"
+            },
+            "cv": {
+                "pattern": "page/cv/index.html.pdf",
+                "rename": "cv-damien-pobel.pdf"
+            }
+        }
     }
 }

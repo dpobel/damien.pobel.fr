@@ -30,7 +30,8 @@ var metalsmith = require('metalsmith'),
     markdown = require('metalsmith-markdown'),
     collections = require('metalsmith-collections'),
     pagination = require('metalsmith-pagination'),
-    permalinks = require('metalsmith-permalinks');
+    permalinks = require('metalsmith-permalinks'),
+    pdfize = require('metalsmith-pdfize');
 
 console.log('Adding custom Nunjucks filters');
 consolidate.requires.nunjucks = nunjucks.configure();
@@ -80,6 +81,8 @@ metalsmith(__dirname)
     .use(layouts(conf.layouts))
     .use(imageVariation(conf.imageVariation))
     .use(htmlMinifier())
+    .use(pdfize(conf['cv-pdf'].pdfize))
+    .use(renamer(conf['cv-pdf'].rename))
     .build(function (error, res) {
         if ( error ) {
             console.error("Build failed: " + error.message);
