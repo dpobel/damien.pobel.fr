@@ -7,7 +7,7 @@ a, a:visited {
     text-decoration: none;
 }
 
-acronym, abrr {
+acronym, abbr[title] {
     text-decoration: none;
 }
 
@@ -17,9 +17,14 @@ acronym, abrr {
 
 .page-content {
     box-shadow: none;
+    max-width: auto;
 }
 
 .cv h2 {
     color: #085075;
     border-bottom: 1px solid #085075;
+}
+
+.cv abbr {
+    border-bottom: 0;
 }
