@@ -19,7 +19,7 @@
   "author": "Damien Pobel",
   "license": "MIT",
   "devDependencies": {
-    "async": "^1.5.2",
+    "async": "^2.5.0",
     "cheerio": "^0.19.0",
     "consolidate": "^0.13.1",
     "gm": "^1.21.1",
