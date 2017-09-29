@@ -4,7 +4,7 @@ var postCustomElements = require('../../lib/metalsmith/feed-postcustomelements.j
     assert = require('assert');
 
 describe('postCustomElements metalsmith-feed function', function () {
-    var tags = ['tag1', 'tag2'],
+    var tags = [{name: 'tag1', slug: 'slug1'}, {name: 'tag2', slug: 'slug2'}],
         published = moment(),
         file = {tags: tags, published: published};
         
@@ -22,7 +22,7 @@ describe('postCustomElements metalsmith-feed function', function () {
         res.forEach(function (element) {
             if ( !element.pubDate ) {
                 assert(element.category);
-                assert.equal(tags[i], element.category);
+                assert.equal(tags[i].name, element.category);
                 i++;
             }
         });
