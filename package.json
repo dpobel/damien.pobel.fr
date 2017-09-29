@@ -20,7 +20,7 @@
   "license": "MIT",
   "devDependencies": {
     "async": "^2.5.0",
-    "cheerio": "^0.19.0",
+    "cheerio": "^1.0.0-rc.2",
     "consolidate": "^0.13.1",
     "gm": "^1.21.1",
     "imagemin": "^4.0.0",
