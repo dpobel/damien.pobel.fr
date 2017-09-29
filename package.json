@@ -41,7 +41,7 @@
     "metalsmith-pdfize": "^0.1.0",
     "metalsmith-permalinks": "^0.4.0",
     "metalsmith-renamer": "https://github.com/dpobel/metalsmith-renamer/tarball/dot_slash",
-    "metalsmith-tags": "^1.1.0",
+    "metalsmith-tags": "^2.0.0",
     "minimatch": "^3.0.0",
     "mocha": "^3.5.3",
     "moment": "^2.11.1",
