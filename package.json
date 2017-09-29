@@ -21,7 +21,7 @@
   "devDependencies": {
     "async": "^2.5.0",
     "cheerio": "^1.0.0-rc.2",
-    "consolidate": "^0.13.1",
+    "consolidate": "^0.14.5",
     "gm": "^1.21.1",
     "imagemin": "^4.0.0",
     "metalsmith": "^2.1.0",
