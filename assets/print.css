@@ -28,3 +28,7 @@ acronym, abbr[title] {
 .cv abbr {
     border-bottom: 0;
 }
+
+.cv .bio {
+    margin: 0;
+}
