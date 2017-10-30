@@ -20,3 +20,8 @@ published: 2017-10-30T16:37:50+02:00
     ([500px](https://500px.com/photo/162756553/hoverfly-on-borage-pikes-by-damien-pobel))
     </figcaption>
 </figure>
+
+Le syrphe est un petit insecte parfois pris à tort pour une guêpe alors qu'il
+est totalement inoffensif. Mieux, c'est un auxiliaire apprécié au jardin, les
+larves sont de grandes dévoreuses de pucerons et les adultes sont de bons
+pollinisateurs.
