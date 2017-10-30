@@ -61,8 +61,7 @@ describe('collectPhotos metalsmith plugin', function () {
             files = ms.metadata().posts;
 
         assert(Array.isArray(last));
-        assert.equal(lastPhotosNumber, last.length);
+        assert.equal(last.length, 1);
         assert.equal(files[0].title, last[0].title);
-        assert.equal(files[0].title, last[1].title);
     });
 });
