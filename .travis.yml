@@ -25,6 +25,3 @@ addons:
 before_install:
     - openssl aes-256-cbc -K $encrypted_71d3c97bf145_key -iv $encrypted_71d3c97bf145_iv -in ssh/id_dsa.enc -out ssh/id_dsa -d
     - chmod 600 ssh/id_dsa
-env:
-    global:
-        secure: aKYf8fUjhOyTXY/26CHcnCES3QZK6tal5VoFfQCFt+xPgO0R2GFxMSJiYHes9erfwaIiFLVsi7Zq8VJGJc3ZkFWtfSrC1HdchUSufxxIdPvYIUghidD8wmJ/JecTMxw/wMfQNekQwouppvzEgWn4hY+k7ucMB3OGiRL8VwMow+o=
