@@ -8,7 +8,7 @@ lang: en
 Still <a href="/post/bol-croatia">in Bol</a> at the <a
 href="http://20123.ezsummercamp.com">eZ Summer Camp</a>, the serious business
 started yesterday for me with the <a
-href="http://2013.ezsummercamp.com/program/using_the_public_api<Paste>">Using
+href="http://2013.ezsummercamp.com/program/using_the_public_api">Using
 the eZ Publish Public API workshop</a>. <a
 href="http://dpobel.github.io/slides-ez/public-api.html">The slides are
 available online</a> on my github pages and the <a
