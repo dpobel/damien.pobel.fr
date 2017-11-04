@@ -17,16 +17,7 @@ Days](https://ezdays.ez.no/) et
 à [la démo improvisée lors du
 PHPTour](https://twitter.com/afup/status/481386967238971393).
 
-J'ai aussi, tant bien que mal, enregistré un *screencast* (commenté en anglais
-avec mon *French accent*) que je vous invite à regarder pour voir ce vers quoi
-nous tendons et ce qui est effectivement implémenté:
-
-<div class="object-center">
-<iframe width="560" height="360" src="//www.youtube.com/embed/veSJaUJV61Y?rel=0"
-frameborder="0" allowfullscreen></iframe>
-</div>
-
-Les plus aventureux peuvent aussi tenter d'installer le bundle [même si je
+Les plus aventureux peuvent tenter d'installer le bundle [même si je
 reconnais que l'opération est un peu
 *chaotique*](https://github.com/ezsystems/PlatformUIBundle/blob/master/README.md#installation)
 à l'heure actuelle; ce n'est pas [une
