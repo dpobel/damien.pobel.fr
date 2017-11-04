@@ -14,7 +14,7 @@ updated: 2016-02-12 12:13
 Comme annoncé via
 [Twitter](https://twitter.com/dpobel/status/276627335921414144) et
 [Google+](https://plus.google.com/102664237253121682993/posts/8hm2tSo9NUC) il y
-a une semaine, [le Planet eZ Publish.fr](http://www.planet-ezpublish.fr/) est
+a une semaine, le Planet eZ Publish.fr est
 dorénavant mis sur orbite par [eZ Publish
 5](http://ez.no/fr/Produits/eZ-Publish-5-Platform) (en réalité des *clones*
 github du 04/12/2012 soit quelque part entre la version 5.0 et [les futures

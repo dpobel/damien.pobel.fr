@@ -42,7 +42,7 @@ attirer des contributions de toute part ou plus exactement ne pas poser une
 barrière à un employé de la société S qui souhaite contribuer à une initiative
 trop marquée de la société N ou H sans se mettre en défaut vis à vis de son
 employeur. Dans ce cadre, l'idée d'une convergence d'eZ France, eZ Publish
-France et [Planet eZ Publish.fr](http://www.planet-ezpublish.fr) sous l'égide
+France et Planet eZ Publish.fr sous l'égide
 d'une association francophone d'utilisateur d'eZ Publish est intéressante. Une
 association a l'avantage de donner ce cadre &quot;neutre&quot;. Je ne me fais
 pas de soucis pour nos employeurs respectifs, il trouveront bien un moyen de

@@ -9,11 +9,11 @@ updated: 2016-02-10 22:24
 photos:
     - images/bandeau-planet-ez-publish-fr.png
 ---
-<figure class="object-center"><a href="http://www.planet-ezpublish.fr">![Bandeau planet eZ Publish.fr](/images//bandeau-planet-ez-publish-fr.png)
-</a></figure>
+<figure class="object-center">![Bandeau planet eZ Publish.fr](/images//bandeau-planet-ez-publish-fr.png)
+</figure>
 
 
-Je viens de migrer le [Planet eZ Publish.fr](http://www.planet-ezpublish.fr/)
+Je viens de migrer le Planet eZ Publish.fr
 vers [eZ Publish](/tag/ez-publish) 4.2. Probablement l'une des mises à jour eZ
 Publish les plus simples et les plus rapides (moins de 2 heures) que j'ai faite.
 Il faut dire que [la procédure de mise à jour de la version 4.1 à la version

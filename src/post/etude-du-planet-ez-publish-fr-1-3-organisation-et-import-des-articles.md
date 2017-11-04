@@ -8,7 +8,7 @@ remoteId: "abbb81fea764983a17e9db6fed2d7307"
 published: 2009-01-27T13:55:00+01:00
 ---
 
-Cette série de 3 billets présente les principaux points de la conception et de la réalisation du [Planet eZ Publish.fr](http://www.planet-ezpublish.fr) avec [eZ Publish](/tag/ez-publish).Il s'agit d'un site simple à tous les niveaux, mais il concentre tout de même quelques astuces que j'espère intéressantes !
+Cette série de 3 billets présente les principaux points de la conception et de la réalisation du Planet eZ Publish.fr avec [eZ Publish](/tag/ez-publish).Il s'agit d'un site simple à tous les niveaux, mais il concentre tout de même quelques astuces que j'espère intéressantes !
 
 
 I. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles)
@@ -37,7 +37,7 @@ J'ai aussi créé une classe *Planete* qui sert de page d'accueil au Planet actu
 * La définition d'une classe spécifique permet également de faciliter l'écriture des règles de vidage de cache dans le fichier <code>viewcache.ini</code>
 .
 
-À cela, il faut ajouter les inévitables pages [À propos](http://www.planet-ezpublish.fr/a-propos) (classe *Page*) et [formulaire de contact](http://www.planet-ezpublish.fr/contact) (classe *Formulaire de contact*) ainsi que la classe *Folder* existante pour des questions d'organisation du contenu et de gestion de cache.
+À cela, il faut ajouter les inévitables pages À propos (classe *Page*) et formulaire de contact (classe *Formulaire de contact*) ainsi que la classe *Folder* existante pour des questions d'organisation du contenu et de gestion de cache.
 
 
 ### Arborescence
@@ -50,7 +50,7 @@ J'ai aussi créé une classe *Planete* qui sert de page d'accueil au Planet actu
 ## Import des articles et nettoyage
 
 
-Contrairement à un site classique, le contenu sur un Planet provient d'autres sites via leur flux RSS. Ma première idée était d'utiliser le mécanisme d'import RSS d'eZ Publish. J'avais commencé par écrire un [Content Edit Handler](http://serwatka.net/index.php/blog/ez_publish_3_8_new_custom_edit_handler) qui, pour chaque objet Site, créait un import RSS utilisé ensuite par le script de cronjob rssimport.php. Mais la fonctionnalité d'import RSS souffre de plusieurs limitations / bugs gênants :
+Contrairement à un site classique, le contenu sur un Planet provient d'autres sites via leur flux RSS. Ma première idée était d'utiliser le mécanisme d'import RSS d'eZ Publish. J'avais commencé par écrire un Content Edit Handler qui, pour chaque objet Site, créait un import RSS utilisé ensuite par le script de cronjob rssimport.php. Mais la fonctionnalité d'import RSS souffre de plusieurs limitations / bugs gênants :
 
 * [mauvaise utilisation du guid/link pour générer le remote id](http://issues.ez.no/14296)
 * [le script rssimport.php ne met pas à jour les articles importés](http://issues.ez.no/2318)

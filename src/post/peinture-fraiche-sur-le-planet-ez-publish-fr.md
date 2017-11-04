@@ -19,5 +19,5 @@ Attention, la peinture est toute fraîche sur le [Planet eZ Publish.fr](http://w
 J'en ai aussi profité pour intégrer eZ Find et Solr ce qui m'a donné l'occasion de mettre en place [le nouveau mécanisme de plugin lors de l'indexation](http://doc.ez.no/Extensions/eZ-Publish-extensions/eZ-Find/eZ-Find-2.7/Customization/General-Index-Time-Plugin-Mechanism) permettant notamment d'ajouter des champs spécifique dans l'index Solr ce qui est utile dans mon cas pour générer les *facets* par auteur (qui ne sont pas des auteurs au sens eZ Publish du terme).
 
 
-Comme d'habitude, les commentaires, [inscriptions](http://www.planet-ezpublish.fr/contact), [rapports de bug](https://github.com/dpobel/planet-ezpublish.fr/issues) ou même [les pull requests](https://github.com/dpobel/planet-ezpublish.fr/pulls) sont les bienvenues !
+Comme d'habitude, les commentaires, inscriptions, [rapports de bug](https://github.com/dpobel/planet-ezpublish.fr/issues) ou même [les pull requests](https://github.com/dpobel/planet-ezpublish.fr/pulls) sont les bienvenues !
 

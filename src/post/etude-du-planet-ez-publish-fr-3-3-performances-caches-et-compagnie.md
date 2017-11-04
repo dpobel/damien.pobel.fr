@@ -8,7 +8,7 @@ remoteId: "c31f9208fde0d24818a826b83d37953e"
 published: 2009-01-27T23:09:00+01:00
 ---
 
-Suite et fin de la série d'articles sur la réalisation du [Planet eZ Publish.fr](http://www.planet-ezpublish.fr/) avec les questions de performances et de caches.
+Suite et fin de la série d'articles sur la réalisation du Planet eZ Publish.fr avec les questions de performances et de caches.
 
 
 I. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles)

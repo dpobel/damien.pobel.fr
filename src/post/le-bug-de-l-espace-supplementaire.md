@@ -12,7 +12,7 @@ Depuis [près de deux ans et demi](/post/ouverture), j'avais un bug assez énerv
  en le plaçant dans le design de mon site.
 
 
-Aujourd'hui, j'ai refait quelques tests sur le code [Planet eZ Publish.fr](http://www.planet-ezpublish.fr) qui souffrait du même problème. J'ai découvert que le problème ne venait pas de la surcharge directement, mais de l'édition du template avec [Vim](/tag/vim/) qui, par défaut, insère systématiquement un caractère fin de ligne (<abbr title="End Of Line">EOL</abbr> ) sur la dernière ligne d'un fichier et ce caractère qui apparaissait comme un espace. Ceci explique aussi les messages de [diff](http://pwet.fr/man/linux/commandes/posix/diff)/[svn](http://pwet.fr/man/linux/commandes/svn) diff indiquant qu'un caractère fin de ligne a été ajouté ou supprimé selon les cas.
+Aujourd'hui, j'ai refait quelques tests sur le code Planet eZ Publish.fr qui souffrait du même problème. J'ai découvert que le problème ne venait pas de la surcharge directement, mais de l'édition du template avec [Vim](/tag/vim/) qui, par défaut, insère systématiquement un caractère fin de ligne (<abbr title="End Of Line">EOL</abbr> ) sur la dernière ligne d'un fichier et ce caractère qui apparaissait comme un espace. Ceci explique aussi les messages de [diff](http://pwet.fr/man/linux/commandes/posix/diff)/[svn](http://pwet.fr/man/linux/commandes/svn) diff indiquant qu'un caractère fin de ligne a été ajouté ou supprimé selon les cas.
 
 
 Il est heureusement possible de désactiver ce comportement en ajoutant les lignes suivantes dans sa configuration de Vim :

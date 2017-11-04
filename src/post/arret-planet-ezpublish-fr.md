@@ -13,8 +13,8 @@ Publish.fr">
 </figure>
 
 [Il y a 6 ans(!) presque jour pour jour](/post/planet-ez-publish-fr/), j'avais
-lancé le [Planet eZ Publish~~.org~~.fr, *ze French
-corner*](http://www.planet-ezpublish.fr/) avec [eZ Publish 4.0.1
+lancé le Planet eZ Publish~~.org~~.fr, *ze French
+corner* avec [eZ Publish 4.0.1
 apparemment](https://github.com/dpobel/planet-ezpublish.fr/blob/47613bc5f91f44b572630ee8a8ed7dd6a88f3323/www/lib/version.php#L33)&nbsp;!
 J'avoue que je ne me souviens plus trop des détails mais je vois en relisant les
 différents posts que j'ai expérimenté pas mal de trucs avec ce site.

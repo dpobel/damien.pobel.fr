@@ -8,8 +8,8 @@ published: 2009-01-27T17:59:00+01:00
 updated: 2016-02-11 13:45
 ---
 
-Suite de la série de billets sur la réalisation du [Planet eZ
-Publish.fr](http://www.planet-ezpublish.fr/) avec dans celui ci quelques notes
+Suite de la série de billets sur la réalisation du Planet eZ
+Publish.fr avec dans celui ci quelques notes
 sur les modules/vues spécifiques ainsi que sur la réalisation des templates.
 
 
@@ -75,6 +75,6 @@ block](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/datatypes/text
 contenant le texte issu des flux RSS. Cet opérateur a plusieurs fonctions :
 
 * rendre valide le code XHTML avec [le module PHP Tidy](http://fr.php.net/tidy)
-* réécrire les éventuels URLs relatives à site (images et liens)
-* supprimer toute trace de Javascript grâce à quelques expressions XPath.
+* réécrire les éventuelles URLs relatives au site (images et liens)
+* supprimer toute trace de JavaScript grâce à quelques expressions XPath.
 

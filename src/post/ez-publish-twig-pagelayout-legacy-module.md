@@ -8,15 +8,15 @@ updated: 2016-02-12 12:50
 
 ([English version available on share.ez.no](http://share.ez.no/blogs/damien-pobel/twig-pagelayout-for-legacy-modules-in-ez-publish-5))
 
-Je suis en train de mettre à jour [le Planète eZ
-Publish.fr](http://www.planet-ezpublish.fr) à la dernière version d'eZ Publish 5.
+Je suis en train de mettre à jour le Planète eZ
+Publish.fr à la dernière version d'eZ Publish 5.
 J'en profite pour passer en revue les problèmes ou les fonctionnalités
 manquantes que j'avais recontrés lors de [la mise en place de la version avec eZ
 Publish 5 en décembre
 dernier](/post/planet-ez-publish-fr-mis-sur-orbite-par-ez-publish-5). [L'un de
 ces problèmes](https://github.com/dpobel/planet-ezpublish.fr/issues/20)
 concernait les différences entre les pages générées par les modules legacy
-([ezinfo/about](http://www.planet-ezpublish.fr/ezinfo/about), planet/search, ...) et le reste du site. En effet, en 5.0, [il
+(ezinfo/about, planet/search, ...) et le reste du site. En effet, en 5.0, [il
 n'était pas possible d'utiliser un pagelayout Twig avec un module
 legacy](https://jira.ez.no/browse/EZP-20576), et donc le résultat de ces modules
 étaient toujours injectés dans le bon vieux `pagealyout.tpl`. À partir des n
@@ -69,7 +69,7 @@ compte de l'éxécution d'un module legacy. Une simple condition sur la variable
 
 Rien de compliqué, non&nbsp;? Il s'agit là d'un des nombreux ponts entre eZ
 Publish legacy et la nouvelle stack eZ Publish 5. Vous voulez en apprendre
-plus&nbsp;? Si j'étais vous, je m'inscrirais à la prochaine [eZ UnConference #2](http://ezuncon.ez.no/).
+plus&nbsp;? Si j'étais vous, je m'inscrirais à la prochaine eZ UnConference #2.
 Sans conteste, le moyen le plus rapide de tout apprendre ou presque sur eZ
 Publish 5!
 

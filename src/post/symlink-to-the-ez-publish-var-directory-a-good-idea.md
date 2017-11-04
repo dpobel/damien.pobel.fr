@@ -30,7 +30,7 @@ As you can see, <code>www</code>
 ## Cache issues
 
 
-I know that some others are using a quite similar setup but [Nicolas](https://twitter.com/#!/npanau) and [Arnaud](http://www.arnaudlafon.com/) seem [to encounter caching issues with it](https://twitter.com/arnaudlafon/status/215755953675567104). At first, [I answered that this is working as expected for me](https://twitter.com/dpobel/status/215774405547147264), but a while after, I discovered that I also have some cache issues on [Planet eZ Publish.fr](http://www.planet-ezpublish.fr) (mainly <code>cache-block</code>
+I know that some others are using a quite similar setup but [Nicolas](https://twitter.com/#!/npanau) and [Arnaud](http://www.arnaudlafon.com/) seem [to encounter caching issues with it](https://twitter.com/arnaudlafon/status/215755953675567104). At first, [I answered that this is working as expected for me](https://twitter.com/dpobel/status/215774405547147264), but a while after, I discovered that I also have some cache issues on Planet eZ Publish.fr (mainly <code>cache-block</code>
  not being expired) while the same setup on [pwet.fr](http://pwet.fr)/[t-ka.net](http://t-ka.net) does not seem to be affected.
 
 

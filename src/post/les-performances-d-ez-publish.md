@@ -12,7 +12,7 @@ published: 2009-03-21T15:22:08+01:00
 ?](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie#c67673)*
 voila le sujet d'un commentaire de abhunguru [sur un des
 billets](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
-consacrés au [Planet eZ Publish.fr](http://www.planet-ezpublish.fr/) ;
+consacrés au Planet eZ Publish.fr ;
 commentaire qui fait référence à deux billets de sur media-business.biz (hors ligne depuis) à propos de l'expérience [eZ
 Publish](/tag/ez-publish) chez Edipresse et du passage à Drupal pour résoudre
 plusieurs problèmes.

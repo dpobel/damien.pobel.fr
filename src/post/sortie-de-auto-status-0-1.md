@@ -28,7 +28,7 @@ projet](http://projects.ez.no/autostatus/team/members).
 
 J'ai installé cette extension sur [pwet.fr](http://pwet.fr), normalement [mon
 statut sur Twitter](http://twitter.com/dpobel) devrait être mis à jour avec le
-titre et l'URL de ce billet :-) J'ai également créé [un compte Twitter pour le
-Planet eZ Publish.fr](http://twitter.com/pl_ezpublish_fr) et installé cette
-extension sur [le planet](http://www.planet-ezpublish.fr), il s'agit donc d'un
+titre et l'URL de ce billet :-) J'ai également créé un compte Twitter pour le
+Planet eZ Publish.fr et installé cette
+extension sur le planet, il s'agit donc d'un
 nouveau moyen de suivre les mises à jour du Planet *via* Twitter.
