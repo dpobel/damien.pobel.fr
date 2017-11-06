@@ -66,36 +66,46 @@ conf.feed.postCustomElements = require('./lib/metalsmith/feed-postcustomelements
 conf.tagLangFeed.postCustomElements = conf.feed.postCustomElements;
 
 pluginsConfList = [
-    [define, conf.define],
-    [assets, conf.assets],
-    [fileToMetadata, conf.fileToMetadata],
-    [myth, conf.myth],
-    [ignore, conf.ignore],
-    [msMoment, conf.moment],
-    [tags, conf.tags],
-    [collections, conf.collections],
-    [pagination, conf.pagination],
-    [fileMetadata, conf.fileMetadata],
-    [metallic],
-    [markdown],
-    [collectPhotos, conf.collectPhotos],
-    [permalinks, conf.permalinks],
-    [feed, conf.feed],
-    [tagLangFeed, conf.tagLangFeed],
-    [styleRenamePlugin, conf.styleRenamePlugin],
-    [layouts, conf.layouts],
-    [imageVariation, conf.imageVariation],
-    [htmlMinifier],
-    [pdfize, conf['cv-pdf'].pdfize],
-    [renamer, conf['cv-pdf'].rename],
+    [define, conf.define, 'define'],
+    [assets, conf.assets, 'assets'],
+    [fileToMetadata, conf.fileToMetadata, 'fileToMetadata'],
+    [myth, conf.myth, 'myth'],
+    [ignore, conf.ignore, 'ignore'],
+    [msMoment, conf.moment, 'moment'],
+    [tags, conf.tags, 'tags'],
+    [collections, conf.collections, 'collections'],
+    [pagination, conf.pagination, 'pagination'],
+    [fileMetadata, conf.fileMetadata, 'fileMetadata'],
+    [metallic, undefined, 'metallic'],
+    [markdown, undefined, 'markdown'],
+    [collectPhotos, conf.collectPhotos, 'collectPhotos'],
+    [permalinks, conf.permalinks, 'permalinks'],
+    [feed, conf.feed, 'feed'],
+    [tagLangFeed, conf.tagLangFeed, 'tagLangFeed'],
+    [styleRenamePlugin, conf.styleRenamePlugin, 'styleRenamePlugin'],
+    [layouts, conf.layouts, 'layouts'],
+    [imageVariation, conf.imageVariation, 'imageVariation'],
+    [htmlMinifier, undefined, 'htmlMinifier'],
+    [pdfize, conf['cv-pdf'].pdfize, 'pdfize'],
+    [renamer, conf['cv-pdf'].rename, 'renamer'],
 ];
+
+function timedPlugin(plugin, name) {
+    return function (files, metalsmith, done) {
+        console.time(name);
+        plugin(files, metalsmith, function () {
+            console.timeEnd(name);
+            done.apply(this, arguments);
+        });
+    };
+}
 
 console.log('Generating the site');
 ms = metalsmith(__dirname)
     .source(source);
 
 pluginsConfList.forEach(function (pluginConf) {
-    ms.use(pluginConf[0](pluginConf[1]));
+    ms.use(timedPlugin(pluginConf[0](pluginConf[1]), pluginConf[2]));
 });
 
 ms.destination(destination)
