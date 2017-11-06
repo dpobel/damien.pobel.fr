@@ -2,13 +2,18 @@
 
 var metalsmith = require('metalsmith'),
     conf = require('./build.json'),
+    ms,
     source = conf.source,
     destination = conf.destination,
     consolidate = require('consolidate'),
     nunjucks = require('nunjucks'),
     assetsRev = process.env.ASSET_REV,
     renamedCss,
-    styleRenamePlugin = function () {},
+    styleRenamePlugin = function () {
+        return function (files, metalsmith, done) {
+            done();
+        };
+    },
 
     collectPhotos = require('./lib/metalsmith/collect-photos'),
     imageVariation = require('./lib/metalsmith/image-variation'),
@@ -31,7 +36,9 @@ var metalsmith = require('metalsmith'),
     collections = require('metalsmith-collections'),
     pagination = require('metalsmith-pagination'),
     permalinks = require('metalsmith-permalinks'),
-    pdfize = require('metalsmith-pdfize');
+    pdfize = require('metalsmith-pdfize'),
+
+    pluginsConfList;
 
 console.log('Adding custom Nunjucks filters');
 consolidate.requires.nunjucks = nunjucks.configure();
@@ -45,44 +52,53 @@ if ( assetsRev ) {
     renamedCss = "style-" + assetsRev + ".css";
     console.log('Preparing style.css renaming to ' + renamedCss);
 
-    styleRenamePlugin = renamer({
+    styleRenamePlugin = renamer;
+    conf.styleRenamePlugin = {
         'style.css': {
             "pattern": conf.define.css,
             "rename": renamedCss,
         }
-    });
+    };
     conf.define.css = renamedCss;
 }
 
 conf.feed.postCustomElements = require('./lib/metalsmith/feed-postcustomelements.js');
 conf.tagLangFeed.postCustomElements = conf.feed.postCustomElements;
 
+pluginsConfList = [
+    [define, conf.define],
+    [assets, conf.assets],
+    [fileToMetadata, conf.fileToMetadata],
+    [myth, conf.myth],
+    [ignore, conf.ignore],
+    [msMoment, conf.moment],
+    [tags, conf.tags],
+    [collections, conf.collections],
+    [pagination, conf.pagination],
+    [fileMetadata, conf.fileMetadata],
+    [metallic],
+    [markdown],
+    [collectPhotos, conf.collectPhotos],
+    [permalinks, conf.permalinks],
+    [feed, conf.feed],
+    [tagLangFeed, conf.tagLangFeed],
+    [styleRenamePlugin, conf.styleRenamePlugin],
+    [layouts, conf.layouts],
+    [imageVariation, conf.imageVariation],
+    [htmlMinifier],
+    [pdfize, conf['cv-pdf'].pdfize],
+    [renamer, conf['cv-pdf'].rename],
+];
+
 console.log('Generating the site');
-metalsmith(__dirname)
-    .source(source)
-    .destination(destination)
-    .use(define(conf.define))
-    .use(assets(conf.assets))
-    .use(fileToMetadata(conf.fileToMetadata))
-    .use(myth(conf.myth))
-    .use(ignore(conf.ignore))
-    .use(msMoment(conf.moment))
-    .use(tags(conf.tags))
-    .use(collections(conf.collections))
-    .use(pagination(conf.pagination))
-    .use(fileMetadata(conf.fileMetadata))
-    .use(metallic())
-    .use(markdown())
-    .use(collectPhotos(conf.collectPhotos))
-    .use(permalinks(conf.permalinks))
-    .use(feed(conf.feed))
-    .use(tagLangFeed(conf.tagLangFeed))
-    .use(styleRenamePlugin)
-    .use(layouts(conf.layouts))
-    .use(imageVariation(conf.imageVariation))
-    .use(htmlMinifier())
-    .use(pdfize(conf['cv-pdf'].pdfize))
-    .use(renamer(conf['cv-pdf'].rename))
+ms = metalsmith(__dirname)
+    .source(source);
+
+pluginsConfList.forEach(function (pluginConf) {
+    ms.use(pluginConf[0](pluginConf[1]));
+});
+
+ms.destination(destination)
     .build(function (error, res) {
         if ( error ) {
             console.error("Build failed: " + error.message);
@@ -93,5 +109,4 @@ metalsmith(__dirname)
         Object.keys(res).forEach(function (key) {
             console.log('- ' + key);
         });
-
     });
