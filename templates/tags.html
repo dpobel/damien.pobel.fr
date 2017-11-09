@@ -12,3 +12,12 @@
         {% endfor %}
     </ul>
 {% endblock %}
+
+{% block sideMenu %}
+    {% set noSocialNetwork = true %}
+    <aside>
+        {% include "templates/parts/share.html" %}
+        {% include "templates/parts/last_photos.html" %}
+        {% include "templates/parts/last.html" %}
+    </aside>
+{% endblock %}

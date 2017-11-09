@@ -1,6 +1,9 @@
 .rss {
     background: #FF7400;
-    margin-bottom: 2em;
+}
+
+.share h2 {
+    margin-top: 1em;
 }
 
 .share-networks {
