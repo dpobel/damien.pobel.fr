@@ -85,7 +85,7 @@ pluginsConfList = [
     [styleRenamePlugin, conf.styleRenamePlugin, 'styleRenamePlugin'],
     [layouts, conf.layouts, 'layouts'],
     [imageVariation, conf.imageVariation, 'imageVariation'],
-    [htmlMinifier, undefined, 'htmlMinifier'],
+    [htmlMinifier, conf.htmlMinifier, 'htmlMinifier'],
     [pdfize, conf['cv-pdf'].pdfize, 'pdfize'],
     [renamer, conf['cv-pdf'].rename, 'renamer'],
 ];

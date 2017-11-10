@@ -161,6 +161,12 @@
     "tagLangFeed": {
         "addFrFilter": ["ez publish", "linux"]
     },
+    "htmlMinifier": {
+        "pattern": "*.html",
+        "ignoreCustomFragments": [],
+        "ignoreCustomComments": [],
+        "customEventAttributes": []
+    },
     "cv-pdf": {
         "pdfize": {
             "pattern": ["page/cv/*.html", "page/cv-fr/*.html"],
