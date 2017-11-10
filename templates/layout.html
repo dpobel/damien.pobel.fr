@@ -26,8 +26,10 @@
 {% block pageHeader %}
 <header class="page-header">
     <h1>
-        <a href="/"><img src="/img/avatar.png" alt="avatar" width="74" height="74"></a>
-        <a href="/">{{ site.name }}</a>
+        <a href="/">
+            <img src="/img/avatar.png" alt="avatar" width="74" height="74">
+            {{ site.name }}
+        </a>
         {% if section %}<a href="{{ sections[section].path|url }}" class="page-section">{{ sections[section].name }}</a>{% endif %}
     </h1>
     <p>{{ site.baseline }}</p>
