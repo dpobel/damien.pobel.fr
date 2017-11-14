@@ -20,7 +20,6 @@
     {% block customMeta %}{% endblock %}
 </head>
 <body>
-{% block pageHeader %}
 <header class="page-header">
     <h1>
         <a href="/">
@@ -38,7 +37,6 @@
         {% endfor %}
     </ul>
 </nav>
-{% endblock %}
 
 <div class="page-content type-{{ type }}">
     <main role="main">
@@ -53,7 +51,6 @@
     {% endblock %}
 </div>
 
-{% block pageFooter %}
 <footer class="page-footer">
     <p>
         Copyright &copy; 2006-2017 Damien Pobel
@@ -64,6 +61,5 @@
     Powered by <a href="/post/powered-by-metalsmith/">Metalsmith and a few others tools</a> &mdash; Icons from <a href="https://simpleicons.org/">Simple icons</a>.
     </p>
 </footer>
-{% endblock %}
 </body>
 </html>
