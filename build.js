@@ -84,8 +84,8 @@ pluginsConfList = [
     [tagLangFeed, conf.tagLangFeed, 'tagLangFeed'],
     [styleRenamePlugin, conf.styleRenamePlugin, 'styleRenamePlugin'],
     [layouts, conf.layouts, 'layouts'],
-    [imageVariation, conf.imageVariation, 'imageVariation'],
     [htmlMinifier, conf.htmlMinifier, 'htmlMinifier'],
+    [imageVariation, conf.imageVariation, 'imageVariation'],
     [pdfize, conf['cv-pdf'].pdfize, 'pdfize'],
     [renamer, conf['cv-pdf'].rename, 'renamer'],
 ];
