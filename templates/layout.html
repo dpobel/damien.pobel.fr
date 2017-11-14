@@ -17,17 +17,15 @@
     <link rel="apple-touch-icon" sizes="72x72" href="/img/touch-icon-ipad.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/img/touch-icon-iphone-retina.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/img/touch-icon-ipad-retina.png">
-    <!--[if lt IE 9]>
-    <script>(function(){var tags=['header','article','footer','nav', 'time', 'section', 'figure', 'abbr'];for(var i=0;i!=tags.length;i++) document.createElement(tags[i]);})();</script>
-    <![endif]-->
     {% block customMeta %}{% endblock %}
 </head>
 <body>
-{% block pageHeader %}
 <header class="page-header">
     <h1>
-        <a href="/"><img src="/img/avatar.png" alt="avatar" width="74" height="74"></a>
-        <a href="/">{{ site.name }}</a>
+        <a href="/">
+            <img src="/img/avatar.png" alt="avatar" width="74" height="74">
+            {{ site.name }}
+        </a>
         {% if section %}<a href="{{ sections[section].path|url }}" class="page-section">{{ sections[section].name }}</a>{% endif %}
     </h1>
     <p>{{ site.baseline }}</p>
@@ -39,7 +37,6 @@
         {% endfor %}
     </ul>
 </nav>
-{% endblock %}
 
 <div class="page-content type-{{ type }}">
     <main role="main">
@@ -54,7 +51,6 @@
     {% endblock %}
 </div>
 
-{% block pageFooter %}
 <footer class="page-footer">
     <p>
         Copyright &copy; 2006-2017 Damien Pobel
@@ -65,6 +61,5 @@
     Powered by <a href="/post/powered-by-metalsmith/">Metalsmith and a few others tools</a> &mdash; Icons from <a href="https://simpleicons.org/">Simple icons</a>.
     </p>
 </footer>
-{% endblock %}
 </body>
 </html>

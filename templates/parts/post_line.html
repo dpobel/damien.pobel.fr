@@ -1,11 +1,9 @@
 <article lang="{{ post.lang|default('fr', true) }}">
     <h2><a href="{{ post.path|url }}">{{ post.title }}</a></h2>
     {% if post.photos %}
-    <ul class="post-thumbnails">
         {% for photo in post.photos %}
-        <li><a href="{{ post.path|url }}"><img src="/{{ photo|image_variation('200x') }}" alt="Miniature de {{ post.title }}"></a></li>
+            <a href="{{ post.path|url }}"><img src="/{{ photo|image_variation('200x') }}" alt="Miniature de {{ post.title }}"></a>
         {% endfor %}
-    </ul>
     {% endif %}
     <div class="post-meta">
         {% set tags = post.tags %}

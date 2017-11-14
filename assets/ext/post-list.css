@@ -24,12 +24,3 @@
 .post-list .post-meta {
     padding: 0;
 }
-
-.post-list .post-thumbnails {
-    list-style-type: none;
-    padding: 0;
-}
-
-.post-list .post-thumbnails li {
-    display: inline;
-}
