@@ -17,7 +17,7 @@ septembre](https://lists.ubuntu.com/archives/ubuntu-fr/2006-September/thread.htm
 Hoary](http://doc.ubuntu-fr.org//hoary), voila ce qui peut se
 produire sur un exemple tout simple :
 
- ``` bash
+```bash
 $ ls ~/Desktop | grep 'JPG'
 bash:  grep : commande introuvable
 ```
@@ -48,7 +48,7 @@ respecter la typographie de la langue française me paraît plutôt une bonne
 chose. Ici le problème est plus la combinaison malheureuse ajoutée au fait que
 visuellement il n'y ait pas de différence entre l'espace et l'espace insécable.
 Comme souvent sous Linux, il est possible de changer ce comportement à l'aide de
-[xmodmap](http://pwet.fr/man/linux/commandes/x/xmodmap). Pour cela il suffit de
+[xmodmap](http://pwet.fr/man/linux/commandes/x2/xmodmap). Pour cela il suffit de
 créer un fichier .Xmodmap dans votre répertoire utilisateur (attention à la
 casse sinon le fichier ne sera pas chargé automatiquement) avec le contenu
 suivant :
