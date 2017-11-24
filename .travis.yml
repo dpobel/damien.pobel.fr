@@ -8,15 +8,15 @@ cache:
         - web/images
 
 before_script:
-    - npm run restorecache
+    - yarn run restorecache
     - export ASSET_REV=`git log --pretty=%h -1 assets`
 
 script:
-    - npm test
-    - npm run build
+    - yarn test
+    - yarn run build
 
 after_success:
-    - npm run deploy
+    - yarn run deploy
 
 addons:
     apt_packages:
