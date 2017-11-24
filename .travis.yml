@@ -25,3 +25,4 @@ addons:
 before_install:
     - openssl aes-256-cbc -K $encrypted_71d3c97bf145_key -iv $encrypted_71d3c97bf145_iv -in ssh/id_dsa.enc -out ssh/id_dsa -d
     - chmod 600 ssh/id_dsa
+    - npm install -g npm@latest
