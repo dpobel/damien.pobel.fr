@@ -4,6 +4,7 @@ branches:
         - master
 
 cache:
+    yarn: true
     directories:
         - web/images
 
