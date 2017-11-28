@@ -1,20 +1,20 @@
 <div class="side-block share">
-    <a href="/rss.xml" class="rss side-block-icon">{{ icons['rss.svg'].contents|safe }}RSS Feed</a>
+    <a href="/rss.xml" class="rss side-block-icon">{{ icons['rss.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}RSS Feed</a>
 
     {% if not noSocialNetwork %}
         <h2>Share this page</h2>
         <ul class="share-networks">
             <li>
-                <a href="https://twitter.com/share?url={{ path|url(site.url)|urlencode }}&amp;text={{ title|urlencode }}&amp;via=dpobel" class="share-twitter side-block-icon" target="_blank">{{ icons['twitter.svg'].contents|safe }}Twitter</a>
+                <a href="https://twitter.com/share?url={{ path|url(site.url)|urlencode }}&amp;text={{ title|urlencode }}&amp;via=dpobel" class="share-twitter side-block-icon" target="_blank">{{ icons['twitter.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}Twitter</a>
             </li>
             <li>
-                <a href="https://plus.google.com/share?url={{ path|url(site.url)|urlencode }}&amp;hl=fr" class="share-googleplus side-block-icon" target="_blank">{{ icons['googleplus.svg'].contents|safe }}Google+</a>
+                <a href="https://plus.google.com/share?url={{ path|url(site.url)|urlencode }}&amp;hl=fr" class="share-googleplus side-block-icon" target="_blank">{{ icons['googleplus.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}Google+</a>
             </li>
             <li>
-                <a href="https://www.facebook.com/sharer.php?u={{ path|url(site.url)|urlencode }}&amp;t={{ title|urlencode }}" class="share-facebook side-block-icon" target="_blank">{{ icons['facebook.svg'].contents|safe }}Facebook</a>
+                <a href="https://www.facebook.com/sharer.php?u={{ path|url(site.url)|urlencode }}&amp;t={{ title|urlencode }}" class="share-facebook side-block-icon" target="_blank">{{ icons['facebook.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}Facebook</a>
             </li>
             <li>
-                <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ path|url(site.url)|urlencode }}&amp;title={{ title|urlencode }}" class="share-linkedin side-block-icon" target="_blank">{{ icons['linkedin.svg'].contents|safe }}Linkedin</a>
+                <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ path|url(site.url)|urlencode }}&amp;title={{ title|urlencode }}" class="share-linkedin side-block-icon" target="_blank">{{ icons['linkedin.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}Linkedin</a>
             </li>
         </ul>
     {% endif %}
