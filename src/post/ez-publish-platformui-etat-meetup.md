@@ -15,7 +15,7 @@ l'indique, ce billet détaille l'état actuel du
 [PlatformUIBundle](https://github.com/ezsystems/PlatformUIBundle) ainsi que les
 plans à plus ou moins court terme concernant le développement de ce bundle qui,
 je le rappelle, fournira [l'interface éditoriale et
-d'administration](http://damien.pobel.fr/post/future-ez-publish-platform-ui) des
+d'administration](/post/future-ez-publish-platform-ui) des
 prochaines versions d'eZ Publish Platform. À cette occasion, j'ai enregistré un
 *screencast* de ce qu'il est possible de faire actuellement&nbsp;:
 
