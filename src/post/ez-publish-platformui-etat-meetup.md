@@ -19,7 +19,7 @@ d'administration](/post/future-ez-publish-platform-ui) des
 prochaines versions d'eZ Publish Platform. À cette occasion, j'ai enregistré un
 *screencast* de ce qu'il est possible de faire actuellement&nbsp;:
 
-<iframe width="660" height="371" src="//www.youtube.com/embed/jY-vCR7HPuo"
+<iframe width="660" height="371" src="https://www.youtube.com/embed/jY-vCR7HPuo"
 frameborder="0" allowfullscreen></iframe>
 
 ## Meetups autour d'eZ Publish PlatformUI

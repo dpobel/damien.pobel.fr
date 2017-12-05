@@ -13,16 +13,6 @@ qui découvrent Internet en ce
 moment de cette *p*tin
 de vidéo*&nbsp;:
 
-
-<div class="video">
-	<object width="425" height="350" type="application/x-shockwave-flash" data="
-http://www.youtube.com/v/gU2ZgaQ_H-Y
-
-">
-		<param name="movie" value="
-http://www.youtube.com/v/gU2ZgaQ_H-Y
-
-"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/gU2ZgaQ_H-Y"
+    frameborder="0" allowfullscreen></iframe>

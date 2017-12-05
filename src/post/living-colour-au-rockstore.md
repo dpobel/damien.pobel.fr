@@ -16,8 +16,3 @@ Colour](http://www.lastfm.fr/music/Living+Colour) s'est formé en 1984, séparé
 reformés en 2005 et qu'ils seront [en concert au Rockstore à
 Montpellier](http://www.rockstore.fr), le 29 septembre 2008...  j'aurais jamais
 cru les voir un jour en live, ouééééé&nbsp;!
-
-<object width="220" height="70" type="application/x-shockwave-flash" data="http://www.deezer.com/embedded/small-widget-v2.swf?idSong=625609&amp;colorBackground=0x555552&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0">
-    <param name="movie" value="http://www.deezer.com/embedded/small-widget-v2.swf?idSong=625609&amp;colorBackground=0x555552&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0"></param>
-    <param name="allowfullscreen" value="true"></param>
-</object>

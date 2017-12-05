@@ -30,7 +30,7 @@ prendre une photo avec la webcam de votre ordinateur et de créer un objet Image
 l'application en action:
 
 <div class="object-center">
-<iframe width="640" height="480" src="http://www.youtube.com/embed/4bTClN_4HYg"
+<iframe width="640" height="480" src="https://www.youtube.com/embed/4bTClN_4HYg"
 frameborder="0" allowfullscreen></iframe>
 </div>
 

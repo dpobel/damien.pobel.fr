@@ -14,7 +14,7 @@ are now online [on Smile website
 (fr)](http://www.smile.fr/actualites/nos-actualites/front-end-performances) and
 on slideshare.net:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/qj6xKHqjxD78DV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/qj6xKHqjxD78DV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
 
 This talk gives some details on the application of [some of the Yahoo! best
 practices for speeding up your web

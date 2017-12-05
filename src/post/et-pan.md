@@ -7,12 +7,9 @@ remoteId: "b884aadc5e3d35c2141c1d82dbc67b6c"
 published: 2009-01-07T00:46:17+01:00
 ---
 
-<div class="video">
-	<object width="425" height="344" type="application/x-shockwave-flash" data="http://www.youtube.com/v/xQF5BJMRQkw&amp;hl=fr&amp;fs=1">
-		<param name="movie" value="http://www.youtube.com/v/xQF5BJMRQkw&amp;hl=fr&amp;fs=1"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/xQF5BJMRQkw"
+    frameborder="0" allowfullscreen></iframe>
 
 
 Autant le dire tout de suite, pour moi [Frédéric Lefebvre](http://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Lefebvre) est l'archétype du politicard qui croit tout savoir, insupportable par son arrogance et son maniement quasi permanent de la langue de bois et sans parler de [ses propos édifiants à l'assemblée nationale à propos du Web](http://www.pcinpact.com/actu/news/47913-frederic-lefebvre-internet-mafia-drogue.htm)...

@@ -58,8 +58,8 @@ Et au final, on obtient :
 
  
 <div class="video">
-	<object width="400" height="342" type="application/x-shockwave-flash" data="http://www.dailymotion.com/swf/2v5NoyiC68nSC4tMV">
-		<param name="movie" value="http://www.dailymotion.com/swf/2v5NoyiC68nSC4tMV"></param>
+	<object width="400" height="342" type="application/x-shockwave-flash" data="https://www.dailymotion.com/swf/2v5NoyiC68nSC4tMV">
+		<param name="movie" value="https://www.dailymotion.com/swf/2v5NoyiC68nSC4tMV"></param>
 		<param name="allowfullscreen" value="true"></param>
 	</object>
 </div>

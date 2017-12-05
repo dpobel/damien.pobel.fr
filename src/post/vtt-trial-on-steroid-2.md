@@ -11,11 +11,4 @@ updated: 2016-02-09 21:43
 Non seulement le gars fait des tricks de folie mais en plus c'est beau et bien
 filmé
 
-
-<div class="video">
-	<object width="520" height="317" type="application/x-shockwave-flash" data="http://www.youtube.com/v/Cj6ho1-G6tw?fs=1&amp;hl=fr_FR">
-		<param name="movie" value="http://www.youtube.com/v/Cj6ho1-G6tw?fs=1&amp;hl=fr_FR"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cj6ho1-G6tw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

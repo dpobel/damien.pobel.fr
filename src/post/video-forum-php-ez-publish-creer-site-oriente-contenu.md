@@ -20,7 +20,7 @@ taille réduite des écrans dans cette salle et les quelques problèmes de son a
 le micro de Patrick :(
 
 <iframe width="640" height="360"
-src="//www.youtube.com/embed/cxBUanbJCn0?vq=hd720"
+src="https://www.youtube.com/embed/cxBUanbJCn0?vq=hd720"
 frameborder="0" allowfullscreen></iframe>
 
 Si vous étiez présent ou même à partir de cette vidéo, il est encore temps [de

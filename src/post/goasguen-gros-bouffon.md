@@ -10,14 +10,9 @@ updated: 2016-02-09 22:23
  
 En visionnant cette vidéo, y'a pas d'autres mots.
 
- 
-<div class="video">
-	<object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/S8h6QuAjrpk">
-		<param name="movie" value="http://www.youtube.com/v/S8h6QuAjrpk"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
-
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/S8h6QuAjrpk"
+    frameborder="0" allowfullscreen></iframe>
  
 Piégé par [The Yes Men](http://fr.wikipedia.org/wiki/The_Yes_Men), on peut
 entendre l'un des porte-parole de Nicolas Sarkozy et candidat à la candidature à
