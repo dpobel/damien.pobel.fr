@@ -10,13 +10,7 @@ updated: 2016-02-12 13:48
  
 Voila une perle hilarante trouvée parmi les 1500 articles non lus dans mon agrégateur...
  
-<div class="video">
-	<object width="450" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/TaIUkwPybtM">
-		<param name="movie" value="http://www.youtube.com/v/TaIUkwPybtM"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CW0DUg63lqU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
  
 via [Laurent
 Richard](http://www.linux-eco.org/blog/index.php?post/2007/01/31/153-windows-vista-n-a-pas-vole-les-idees-de-mac-os-x)

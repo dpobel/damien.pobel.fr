@@ -8,13 +8,7 @@ published: 2009-01-28T14:43:02+01:00
 updated: 2016-02-10 08:24
 ---
 
-<div class="video">
-	<object width="425" height="344" type="application/x-shockwave-flash" data="http://www.youtube.com/v/_cqJMo50zQc&amp;hl=fr&amp;fs=1">
-		<param name="movie" value="http://www.youtube.com/v/_cqJMo50zQc&amp;hl=fr&amp;fs=1"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_cqJMo50zQc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Je viens de voir cette publicité sur la chaîne MTV2.
 Mais pourquoi n'a t on pas ce genre de publicité en France ? En plus c'est non

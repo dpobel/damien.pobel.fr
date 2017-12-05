@@ -39,11 +39,11 @@ compétition que du plaisir, comme ici Pierre qui prépare sa mise en orbite :
 
 <div class="video">
 	<object width="425" height="335" type="application/x-shockwave-flash" data="
-http://www.dailymotion.com/swf/Q9NpmzDtzHLmjkmoS
+https://www.dailymotion.com/swf/Q9NpmzDtzHLmjkmoS
 
 ">
 		<param name="movie" value="
-http://www.dailymotion.com/swf/Q9NpmzDtzHLmjkmoS
+https://www.dailymotion.com/swf/Q9NpmzDtzHLmjkmoS
 
 "></param>
 		<param name="allowfullscreen" value="true"></param>

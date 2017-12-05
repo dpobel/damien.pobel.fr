@@ -6,9 +6,9 @@ Status](https://travis-ci.org/dpobel/damien.pobel.fr.svg?branch=master)](https:/
 [![Dependency
 Status](https://gemnasium.com/dpobel/damien.pobel.fr.svg)](https://gemnasium.com/dpobel/damien.pobel.fr)
 
-Source code of [damien.pobel.fr](http://damien.pobel.fr/), see [Powered by
+Source code of [damien.pobel.fr](https://damien.pobel.fr/), see [Powered by
 Metalsmith (and Github, TravisCI, Myth,
-npm...)](http://damien.pobel.fr/post/powered-by-metalsmith/) for some details.
+npm...)](https://damien.pobel.fr/post/powered-by-metalsmith/) for some details.
 
 ## Requirements
 

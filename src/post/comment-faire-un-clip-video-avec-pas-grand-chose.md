@@ -10,17 +10,6 @@ published: 2008-02-17T00:52:12+01:00
 
 Le groupe new-yorkais [Vampire Weekend](http://en.wikipedia.org/wiki/Vampire_Weekend) est plutôt fort à ce jeu là. La chanson est pas mal, mais surtout le clip est très réussi.
 
-
-<div class="video">
-	<object width="425" height="355" type="application/x-shockwave-flash" data="
-http://www.youtube.com/v/_XC2mqcMMGQ&amp;rel=1
-
-">
-		<param name="movie" value="
-http://www.youtube.com/v/_XC2mqcMMGQ&amp;rel=1
-
-"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
-
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/_XC2mqcMMGQ"
+    frameborder="0" allowfullscreen></iframe>

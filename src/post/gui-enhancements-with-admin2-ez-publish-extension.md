@@ -7,7 +7,7 @@ remoteId: "13c17827eb870c4bc0d40b3cdbd73c21"
 published: 2010-03-28T23:10:01+02:00
 ---
 
-The blog post is the continuation of [﻿﻿Frontend performance enhancements with admin2++ eZ Publish extension](/post/frontend-performance-enhancements-with-admin2-ez-publish-extension) published a few days ago. This one is about the additions of the [admin2++ eZ Publish extension](http://projects.ez.no/admin2pp) in terms of <abbr title="Graphical User Interface">GUI</abbr>  and new features.
+The blog post is the continuation of [Frontend performance enhancements with admin2++ eZ Publish extension](/post/frontend-performance-enhancements-with-admin2-ez-publish-extension) published a few days ago. This one is about the additions of the [admin2++ eZ Publish extension](http://projects.ez.no/admin2pp) in terms of <abbr title="Graphical User Interface">GUI</abbr>  and new features.
 
 
 ## Current features provided by admin2++ extension
@@ -26,13 +26,7 @@ admin2++ extension currently provides the following features by using [jQueryUI 
 All those new features are visible in this screencast :
 
 
-<div class="video">
-	<object width="530" height="417" type="application/x-shockwave-flash" data="http://www.youtube.com/v/5QbXiNeSP9Y&amp;hl=fr_FR&amp;fs=1">
-		<param name="movie" value="http://www.youtube.com/v/5QbXiNeSP9Y&amp;hl=fr_FR&amp;fs=1"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5QbXiNeSP9Y" frameborder="0" allowfullscreen></iframe>
 
 ## Future developments
 

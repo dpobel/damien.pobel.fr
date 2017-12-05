@@ -8,6 +8,6 @@ published: 2007-10-06T23:51:21+02:00
 updated: 2016-02-09 14:07
 ---
  
-Une vidéo dingue initialement de VTT Trial&nbsp;
+Une vidéo dingue initialement de VTT Trial
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pAkonSzXTwc" frameborder="0" allowfullscreen></iframe>

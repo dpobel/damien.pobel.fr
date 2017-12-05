@@ -9,8 +9,8 @@ published: 2007-05-10T23:51:00+02:00
 ---
  
 <div class="video">
-	<object width="425" height="335" type="application/x-shockwave-flash" data="http://www.dailymotion.com/swf/1vgtW8c3O3xwxdm4A">
-		<param name="movie" value="http://www.dailymotion.com/swf/1vgtW8c3O3xwxdm4A"></param>
+	<object width="425" height="335" type="application/x-shockwave-flash" data="https://www.dailymotion.com/swf/1vgtW8c3O3xwxdm4A">
+		<param name="movie" value="https://www.dailymotion.com/swf/1vgtW8c3O3xwxdm4A"></param>
 		<param name="allowfullscreen" value="true"></param>
 	</object>
 </div>

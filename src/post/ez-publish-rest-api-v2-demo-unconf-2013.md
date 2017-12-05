@@ -9,7 +9,7 @@ published: 2013-06-13T14:50:02+02:00
 share.ez.no](http://share.ez.no/blogs/damien-pobel/rest-api-demo-application-at-the-ez-unconf-2))
 
 [Comme je l'écrivais
-dernièrement](http://damien.pobel.fr/post/ez-community-unconference-2), j'étais
+dernièrement](/post/ez-community-unconference-2), j'étais
 à la [eZ Unconference
 2013](http://share.ez.no/blogs/ez/ez-unconference-2-look-back-at-the-event-slides-and-pics)
 à proximité de Montpellier. Pendant l'atelier API publique et API REST, j'ai
@@ -30,7 +30,7 @@ prendre une photo avec la webcam de votre ordinateur et de créer un objet Image
 l'application en action:
 
 <div class="object-center">
-<iframe width="640" height="480" src="http://www.youtube.com/embed/4bTClN_4HYg"
+<iframe width="640" height="480" src="https://www.youtube.com/embed/4bTClN_4HYg"
 frameborder="0" allowfullscreen></iframe>
 </div>
 

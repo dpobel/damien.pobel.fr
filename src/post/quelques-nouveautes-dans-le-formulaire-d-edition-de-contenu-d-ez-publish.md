@@ -24,14 +24,6 @@ En plus de cela, plusieurs améliorations du formulaire d'édition dans l'interf
 
 Une image vaut mille mots, qu'en est il d'une vidéo ? ;-)
 
-
-<div class="video">
-	<object width="520px" height="294px" type="application/x-shockwave-flash" data="http://www.youtube.com/v/By7-YbYTGLA?version=3&amp;amp;hl=fr_FR&amp;amp;hd=1">
-		<param name="movie" value="http://www.youtube.com/v/By7-YbYTGLA?version=3&amp;amp;hl=fr_FR&amp;amp;hd=1"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/By7-YbYTGLA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 (Visualisation en HD fortement conseillée)
-

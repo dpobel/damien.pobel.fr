@@ -20,7 +20,7 @@ extend PlatformUI (the editorial and admin interface for [eZ
 Platform](http://ezplatform.com)). To do that, I created a sample bundle and
 explained step by steps how to add a new *page* in the application. This example
 basically replicates [the good old ezclasslist eZ Publish legacy
-extension](http://damien.pobel.fr/tag/ez-class-lists).
+extension](/tag/ez-class-lists).
 
 The example bundle called
 [ExtendingPlatformUIConferenceBundle](https://github.com/ezsystems/ExtendingPlatformUIConferenceBundle)
