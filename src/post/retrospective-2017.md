@@ -3,6 +3,8 @@ title: En 2017, j'ai fait...
 lang: fr
 published: 2018-01-01 16:04
 tags: livre, travail, blog, metalsmith, environnement, potager
+images:
+    - images/new-year-resolutions.jpg
 ---
 
 Aller c'est la saison [des
@@ -84,7 +86,7 @@ qui se tourne...
 ## Et en 2018&nbsp;?
 
 <figure class="object-left bordered">
-    <a href="/images/new-year-resolutions.jpg.jpg"><img src="/images/330x/new-year-resolutions.jpg" alt=""></a>
+    <a href="/images/new-year-resolutions.jpg"><img src="/images/330x/new-year-resolutions.jpg" alt=""></a>
 </figure>
 
 2018 va donc commencer avec un nouveau travail chez [IWD](https://iwd.io)&nbsp;!
@@ -106,5 +108,5 @@ aboutis voire n'ont pas débutés en 2017&nbsp;:
 * et sans doute plein d'autres trucs... :)
 
 Bref, le programme est déjà bien chargé pour 2018 et sera sans doute même pas
-réalisé à moitié :) Il me reste à souhaiter une bonne année à toi lecteur qui
-est arrivé jusqu'à ce point.
+réalisé à moitié :) Il me reste à souhaiter une bonne année à toi chère/cher
+lectrice/lecteur qui est arrivé(e) jusqu'à ce point.
