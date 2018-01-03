@@ -12,5 +12,6 @@ git checkout -b $BRANCH_NAME
 date +%s > $LAST_DATE_FILE
 git add $LAST_DATE_FILE
 git add $POST_FILENAME
+git commit -m "Veille `date +%V-%Y`"
 git push origin $BRANCH_NAME
 git checkout master
