@@ -4,6 +4,11 @@ tags: veille, performances, accessibilité, javascript, ux, css, web components,
 lang: fr
 published: 2018-01-05T12:44:49Z
 ---
+Entre 2 doses de paracétamol pour cause de grippe, j'essaie de commencer une
+veille techno régulière notamment sur JavaScript, PHP, CSS, l'accessibilité ou
+les performances. Cette veille commence donc avec des publications qui pour la
+plupart datent de 2017&nbsp;:
+
 * [Essential Image Optimization](https://images.guide/) (en)&nbsp;: Un guide complet sur l'automatisation de l'optimisation des images
 * [HTML 5.2: Changes](https://www.w3.org/TR/html52/changes.html#new-features) (en)&nbsp;: Les changements de HTML 5.2 par rapport à HTML 5.1
 * [La genèse de la Progressive Web App à L’Équipe](https://medium.com/lequipe-tech/la-gen%C3%A8se-de-la-progressive-web-app-%C3%A0-l%C3%A9quipe-45bf9e35981a) (fr)&nbsp;: Comment le site web du journal l'Équipe est devenu une PWA (Progressive Web Application) avec quelques chiffres vraiment impressionnant en terme de performances web. Il faut quand même dire qu'ils partaient d'assez loin (évènement load à 54s avant!)
