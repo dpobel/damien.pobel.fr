@@ -28,7 +28,7 @@ function getTags(category, lang) {
 
 function help() {
     console.log(`${__filename} --from-date <date>`);
-    console.log(` --from-date <timestamp>`);
+    console.log(` --from-date <timestamp> (timestamp in second)`);
 }
 
 let postContent = '';
@@ -39,6 +39,8 @@ if ( argv.h || argv.help || isNaN(fromDate) ) {
     help();
     process.exit(isNaN(fromDate) ? 1 : 0);
 }
+
+fromDate = fromDate * 1000;
 
 https.get(feedUrl, (res) => {
     const parser = new FeedMe();
