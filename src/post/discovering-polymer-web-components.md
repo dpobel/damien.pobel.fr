@@ -1,6 +1,6 @@
 ---
 title: Discovering Polymer (and Web Components)
-tags: standards, web, polymer, javascript, github, travis ci, unit test
+tags: standards, web, polymer, javascript, github, travis ci, unit test, web components
 published: 2016-03-01 08:49
 lang: en
 photos:
