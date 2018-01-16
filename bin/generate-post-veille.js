@@ -7,6 +7,8 @@ const https = require('https');
 const dateFormat = require('dateformat');
 const striptags = require('striptags');
 
+const offTopicTag = "offtopic";
+
 const argv = require('minimist')(process.argv.slice(2), {
     "string": ['from-date'],
     "boolean": ['help', 'h'],
@@ -22,8 +24,12 @@ function getLang(category) {
     return category.some((element) => element.text === 'fr') ? 'fr' : 'en';
 }
 
+function isOffTopic(category) {
+    return category.find((element) => element.text === offTopicTag);
+}
+
 function getTags(category, lang) {
-    return category.map((element) => element.text.replace('-', ' ')).filter((element) => (element !== lang));
+    return category.map((element) => element.text.replace('-', ' ')).filter((element) => (element !== lang && element !== offTopicTag));
 }
 
 function help() {
@@ -44,6 +50,7 @@ fromDate = fromDate * 1000;
 
 https.get(feedUrl, (res) => {
     const parser = new FeedMe();
+    const off = [];
 
     parser.on('item', (item) => {
         const date = Date.parse(item.pubdate);
@@ -57,6 +64,10 @@ https.get(feedUrl, (res) => {
         const lang = getLang(item.category);
         const tags = getTags(item.category, lang);
 
+        if ( isOffTopic(item.category) ) {
+            off.push({title, url, description, lang});
+            return;
+        }
         postContent = `* [${title}](${url}) (${lang})&nbsp;: ${description}\n${postContent}`;
         postTags = [...new Set([...postTags,...tags])];
     });
@@ -68,6 +79,12 @@ https.get(feedUrl, (res) => {
         console.log(`published: ${dateFormat(new Date(), 'isoUtcDateTime')}`);
         console.log('---');
         console.log(postContent);
+        if ( off.length ) {
+            console.log("Et un peu hors-sujet&nbsp;:\n");
+            off.map((item) => {
+                console.log(`* [${item.title}](${item.url}) (${item.lang})&nbsp;: ${item.description}\n`);
+            });
+        }
     });
     res.pipe(parser);
 }).on('error', () => {
