@@ -19,3 +19,5 @@ plupart datent de 2017&nbsp;:
 * [Concilier design et accessibilité, c’est possible !](https://access42.net/concilier-design-accessibilite) (fr)&nbsp;: *[...] cet article a pour objectif de déconstruire quelques mythes tenaces à propos de l’accessibilité et du web design, et de prouver qu’on peut tout à fait concevoir un site moderne, engageant, séduisant et accessible.*
 * [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/) (en)&nbsp;: Une **énorme** liste de mesures à prendre pour améliorer les performances d'une application web. En fait, plus qu'une liste, c'est quasiment l'état de l'art !
 
+(En plus du [flux RSS global](/rss.xml), les billets *veille*
+et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))

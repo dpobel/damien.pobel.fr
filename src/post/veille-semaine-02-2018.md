@@ -13,3 +13,5 @@ published: 2018-01-11T11:12:09Z
 * [This is not the DRY you are looking for](https://medium.com/@nicolopigna/this-is-not-the-dry-you-are-looking-for-a316ed3f445f) (en)&nbsp;: Le principe DRY (Do not Repeat Yourself) est souvent mal interprété et surtout appliqué de manière dogmatique ce qui pousse à grouper/coupler plusieurs bouts de code qui n'ont rien à voir. Cet article parle de code en PHP mais s'applique en fait à n'importe quel langage.
 * [Le Programme du PHP Tour 2018 à Montpellier](https://event.afup.org/phptourmontpellier2018/programme/) (fr)&nbsp;: vraiment un chouette programme!
 
+(En plus du [flux RSS global](/rss.xml), les billets *veille*
+et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))
