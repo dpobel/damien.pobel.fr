@@ -2,7 +2,7 @@
 title: En 2017, j'ai fait...
 lang: fr
 published: 2018-01-01 16:04
-tags: livre, travail, blog, metalsmith, environnement, potager
+tags: livre, travail, blog, metalsmith, environnement, potager, dégooglisation
 photos:
     - images/new-year-resolutions.jpg
 ---
