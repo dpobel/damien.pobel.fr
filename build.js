@@ -38,7 +38,13 @@ var metalsmith = require('metalsmith'),
     permalinks = require('metalsmith-permalinks'),
     pdfize = require('metalsmith-pdfize'),
 
+    opn = require('opn'),
+    detect = require('detect-port'),
+    spawn = require('child_process').spawn,
     pluginsConfList;
+
+const DEV_ENV = process.argv.includes('--dev');
+const DEV_PORT = 50112;
 
 console.log('Adding custom Nunjucks filters');
 consolidate.requires.nunjucks = nunjucks.configure();
@@ -66,28 +72,28 @@ conf.feed.postCustomElements = require('./lib/metalsmith/feed-postcustomelements
 conf.tagLangFeed.postCustomElements = conf.feed.postCustomElements;
 
 pluginsConfList = [
-    [define, conf.define, 'define'],
-    [assets, conf.assets, 'assets'],
-    [fileToMetadata, conf.fileToMetadata, 'fileToMetadata'],
-    [myth, conf.myth, 'myth'],
-    [ignore, conf.ignore, 'ignore'],
-    [msMoment, conf.moment, 'moment'],
-    [tags, conf.tags, 'tags'],
-    [collections, conf.collections, 'collections'],
-    [pagination, conf.pagination, 'pagination'],
-    [fileMetadata, conf.fileMetadata, 'fileMetadata'],
-    [metallic, undefined, 'metallic'],
-    [markdown, undefined, 'markdown'],
-    [collectPhotos, conf.collectPhotos, 'collectPhotos'],
-    [permalinks, conf.permalinks, 'permalinks'],
-    [feed, conf.feed, 'feed'],
-    [tagLangFeed, conf.tagLangFeed, 'tagLangFeed'],
-    [styleRenamePlugin, conf.styleRenamePlugin, 'styleRenamePlugin'],
-    [layouts, conf.layouts, 'layouts'],
-    [htmlMinifier, conf.htmlMinifier, 'htmlMinifier'],
-    [imageVariation, conf.imageVariation, 'imageVariation'],
-    [pdfize, conf['cv-pdf'].pdfize, 'pdfize'],
-    [renamer, conf['cv-pdf'].rename, 'renamer'],
+    {plugin: define, conf: conf.define, name: 'define', indev: true},
+    {plugin: assets, conf: conf.assets, name: 'assets', indev: true},
+    {plugin: fileToMetadata, conf: conf.fileToMetadata, name: 'fileToMetadata', indev: true},
+    {plugin: myth, conf: conf.myth, name: 'myth', indev: true},
+    {plugin: ignore, conf: conf.ignore, name: 'ignore', indev: true},
+    {plugin: msMoment, conf: conf.moment, name: 'moment', indev: true},
+    {plugin: tags, conf: conf.tags, name: 'tags', indev: true},
+    {plugin: collections, conf: conf.collections, name: 'collections', indev: true},
+    {plugin: pagination, conf: conf.pagination, name: 'pagination', indev: true},
+    {plugin: fileMetadata, conf: conf.fileMetadata, name: 'fileMetadata', indev: true},
+    {plugin: metallic, conf: undefined, name: 'metallic', indev: true},
+    {plugin: markdown, conf: undefined, name: 'markdown', indev: true},
+    {plugin: collectPhotos, conf: conf.collectPhotos, name: 'collectPhotos', indev: true},
+    {plugin: permalinks, conf: conf.permalinks, name: 'permalinks', indev: true},
+    {plugin: feed, conf: conf.feed, name: 'feed', indev: true},
+    {plugin: tagLangFeed, conf: conf.tagLangFeed, name: 'tagLangFeed', indev: true},
+    {plugin: styleRenamePlugin, conf: conf.styleRenamePlugin, name: 'styleRenamePlugin', indev: true},
+    {plugin: layouts, conf: conf.layouts, name: 'layouts', indev: true},
+    {plugin: htmlMinifier, conf: conf.htmlMinifier, name: 'htmlMinifier', indev: false},
+    {plugin: imageVariation, conf: conf.imageVariation, name: 'imageVariation', indev: true},
+    {plugin: pdfize, conf: conf['cv-pdf'].pdfize, name: 'pdfize', indev: true},
+    {plugin: renamer, conf: conf['cv-pdf'].rename, name: 'renamer', indev: true},
 ];
 
 function timedPlugin(plugin, name) {
@@ -105,7 +111,9 @@ ms = metalsmith(__dirname)
     .source(source);
 
 pluginsConfList.forEach(function (pluginConf) {
-    ms.use(timedPlugin(pluginConf[0](pluginConf[1]), pluginConf[2]));
+    if ( DEV_ENV && pluginConf.indev || !DEV_ENV ) {
+        ms.use(timedPlugin(pluginConf.plugin(pluginConf.conf), pluginConf.name));
+    }
 });
 
 ms.destination(destination)
@@ -114,6 +122,18 @@ ms.destination(destination)
             console.error("Build failed: " + error.message);
             console.log(error.stack);
             process.exit(1);
+        }
+        if ( DEV_ENV ) {
+            detect(DEV_PORT, (err, port) => {
+                if ( port === DEV_PORT ) {
+                    spawn('npx', ['static-server', '-p', DEV_PORT], {
+                        cwd: destination,
+                        detached: true,
+                        stdio: 'ignore',
+                    }).unref();
+                }
+                opn(`http://localhost:${DEV_PORT}`, {wait: false});
+            });
         }
         console.log('Build successful in ' + destination + ', wrote:');
         Object.keys(res).forEach(function (key) {
