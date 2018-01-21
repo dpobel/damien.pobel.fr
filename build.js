@@ -38,7 +38,13 @@ var metalsmith = require('metalsmith'),
     permalinks = require('metalsmith-permalinks'),
     pdfize = require('metalsmith-pdfize'),
 
+    opn = require('opn'),
+    detect = require('detect-port'),
+    spawn = require('child_process').spawn,
     pluginsConfList;
+
+const DEV_ENV = process.argv.includes('--dev');
+const DEV_PORT = 50112;
 
 console.log('Adding custom Nunjucks filters');
 consolidate.requires.nunjucks = nunjucks.configure();
@@ -114,6 +120,18 @@ ms.destination(destination)
             console.error("Build failed: " + error.message);
             console.log(error.stack);
             process.exit(1);
+        }
+        if ( DEV_ENV ) {
+            detect(DEV_PORT, (err, port) => {
+                if ( port === DEV_PORT ) {
+                    spawn('npx', ['static-server', '-p', DEV_PORT], {
+                        cwd: destination,
+                        detached: true,
+                        stdio: 'ignore',
+                    }).unref();
+                }
+                opn(`http://localhost:${DEV_PORT}`, {wait: false});
+            });
         }
         console.log('Build successful in ' + destination + ', wrote:');
         Object.keys(res).forEach(function (key) {
