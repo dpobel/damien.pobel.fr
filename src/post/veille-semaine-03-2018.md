@@ -1,6 +1,6 @@
 ---
 title: "Veille semaine #3 2018"
-tags: veille, sécurité, composer, php, architecture, microservice, cqrs, javascript, performances, react, redux, dns, symfony, conférence, code, bash, shell, csp, npm, chrome, web
+tags: veille, composer, php, architecture, microservice, cqrs, javascript, performances, react, redux, dns
 lang: fr
 published: 2018-01-18T11:12:10Z
 ---
