@@ -35,16 +35,16 @@ Depending, on your stack and in my case depending on Webpack configuration,
 case, the first one could mean:
 
 * `path/to/dependency.js`
-* `path/to/dependency/index.js`
+* `path/to/dependency.jsx`
 * `src/path/to/dependency.js`
-* `src/path/to/dependency/index.js`
+* `src/path/to/dependency.jsx`
+* `node_modules/path/to/dependency.jsx`
 * `node_modules/path/to/dependency.js`
-* `node_modules/path/to/dependency/index.js`
 
 While the second one potentially means:
 
 * `src/common/relative/path/to/dependency.js`
-* `src/common/relation/path/to/dependency/index.js`
+* `src/common/relative/path/to/dependency.jsx`
 
 The path can also reference a CSS file (`path/to/file.css`) or a SVG file
 (`path/to/file.svg`) with the same resolution directories or even a node module
@@ -66,7 +66,7 @@ almost solve the issue:
 
 ```vim
 set path=.,src,node_nodules
-set suffixesadd=.js,/index.js
+set suffixesadd=.js,.jsx
 ```
 
 With that configuration, when hitting `gf`, neovim (or vim) will try to load the
@@ -85,7 +85,7 @@ entry, this results in the following configuration:
 
 ```vim
 set path=.,src
-set suffixesadd=.js,/index.js
+set suffixesadd=.js,.jsx
 
 function! LoadMainNodeModule(fname)
     let nodeModules = "./node_modules/"
