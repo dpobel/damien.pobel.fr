@@ -2,6 +2,7 @@
 title: "Configuring neovim (vim) gf command to resolve JavaScript import"
 tags: neovim, vim, javascript
 published: 2018-01-30 18:34
+lang: en
 photos:
     - images/neovim-logo.png
 ---
