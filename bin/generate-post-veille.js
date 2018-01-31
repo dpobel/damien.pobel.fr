@@ -82,10 +82,10 @@ https.get(feedUrl, (res) => {
         if ( off.length ) {
             console.log("Et un peu hors-sujet&nbsp;:\n");
             off.map((item) => {
-                console.log(`* [${item.title}](${item.url}) (${item.lang})&nbsp;: ${item.description}\n`);
+                console.log(`* [${item.title}](${item.url}) (${item.lang})&nbsp;: ${item.description}`);
             });
         }
-        console.log("(En plus du [flux RSS global](/rss.xml), les billets *veille*");
+        console.log("\n(En plus du [flux RSS global](/rss.xml), les billets *veille*");
         console.log("et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))");
     });
     res.pipe(parser);
