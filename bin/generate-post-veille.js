@@ -72,11 +72,13 @@ https.get(feedUrl, (res) => {
         postTags = [...new Set([...postTags,...tags])];
     });
     parser.on('end', () => {
+        const date = new Date();
+
         console.log('---');
-        console.log(`title: "Veille semaine #${dateFormat(new Date(), 'W yyyy')}"`);
+        console.log(`title: "Veille de la semaine #${dateFormat(date, 'W')} de ${dateFormat(date, 'yyyy')}"`);
         console.log(`tags: ${postTags.join(', ')}`);
         console.log('lang: fr');
-        console.log(`published: ${dateFormat(new Date(), 'isoUtcDateTime')}`);
+        console.log(`published: ${dateFormat(date, 'isoUtcDateTime')}`);
         console.log('---');
         console.log(postContent);
         if ( off.length ) {

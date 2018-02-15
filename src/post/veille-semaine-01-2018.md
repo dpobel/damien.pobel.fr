@@ -1,5 +1,5 @@
 ---
-title: "Veille semaine #1 2018"
+title: "Veille de la semaine #1 de 2018"
 tags: veille, performances, accessibilité, javascript, ux, css, web components, pwa, react, html5
 lang: fr
 published: 2018-01-05T12:44:49Z

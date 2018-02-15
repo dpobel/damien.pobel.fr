@@ -1,5 +1,5 @@
 ---
-title: "Veille semaine #7 2018"
+title: "Veille de la semaine #7 de 2018"
 tags: veille, sécurité, http, bonnes pratiques, code, javascript, react, unit test, performances, webpack
 lang: fr
 published: 2018-02-15T12:13:13

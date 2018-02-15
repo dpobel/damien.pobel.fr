@@ -1,5 +1,5 @@
 ---
-title: "Veille semaine #2 2018"
+title: "Veille de la semaine #2 de 2018"
 tags: veille, conférence, php, code, bash, shell, csp, npm, sécurité, performances, react, chrome, web, javascript
 lang: fr
 published: 2018-01-11T11:12:09Z
