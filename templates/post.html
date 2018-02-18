@@ -16,24 +16,28 @@
         {% include "templates/parts/tags.html" %}
         <time datetime="{{ published.format() }}">{{ published.format('YYYY-MM-DD HH:mm') }}</time>
         <ul class="navigation">
-            <li class="navigation-prev">
             {% if previous %}
+            <li class="navigation-prev">
                 <a href="{{ previous.path|url }}">
                     &laquo;&nbsp;Previous post
                     <br>
                     {{ previous.title }}
                 </a>
-            {% endif %}
             </li>
-            <li class="navigation-next">
+            {% else %}
+            <li class="navigation-prev" aria-hidden="true"></li>
+            {% endif %}
             {% if next %}
+            <li class="navigation-next">
                 <a href="{{ next.path|url }}">
                     Next post&nbsp;&raquo;
                     <br>
                     {{ next.title }}
                 </a>
-            {% endif %}
             </li>
+            {% else %}
+            <li class="navigation-next" aria-hidden="true"></li>
+            {% endif %}
         </ul>
 
     </footer>
