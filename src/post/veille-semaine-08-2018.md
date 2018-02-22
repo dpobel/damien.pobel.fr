@@ -18,7 +18,7 @@ published: 2018-02-22T11:16:28Z
 Et un peu hors-sujet&nbsp;:
 
 * [Comparateur : mieux comprendre les labels bios](http://www.lemonde.fr/les-decodeurs/visuel/2017/01/18/comparateur-mieux-comprendre-les-labels-bios_5064859_4355770.html) (fr)&nbsp;: Quelles sont les différences entre les labels *Bios*&nbsp;? Un outil instructif pour éventuellement choisir en connaissance de cause.
-* [Si vous êtes terrien… vous avez besoin de la nature !](https://theconversation.com/si-vous-etes-terrien-vous-avez-besoin-de-la-nature-85728) (fr)&nbsp;: **Après un séjour de trois jours dans un parc naturel des environs, ses étudiants améliorent de moitié leur créativité. Ils deviennent plus performants pour résoudre des problèmes.** Vivement le printemps que je travaille depuis mon jardin ;-)
+* [Si vous êtes terrien… vous avez besoin de la nature !](https://theconversation.com/si-vous-etes-terrien-vous-avez-besoin-de-la-nature-85728) (fr)&nbsp;: *Après un séjour de trois jours dans un parc naturel des environs, ses étudiants améliorent de moitié leur créativité. Ils deviennent plus performants pour résoudre des problèmes.* Vivement le printemps que je travaille depuis mon jardin ;-)
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))
