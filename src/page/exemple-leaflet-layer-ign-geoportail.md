@@ -13,8 +13,8 @@ Leaflet](/post/cartographie-api-geoportail-ign-leaflet).
 
 <div id="map"></div>
 
-<link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
-<script src="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.3/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@0.7.3/dist/leaflet.js"></script>
 <style>
 #map {
     width: 100%;
