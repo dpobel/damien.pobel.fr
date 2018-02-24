@@ -13,8 +13,8 @@ Leaflet](/post/cartographie-api-geoportail-ign-leaflet).
 
 <div id="map"></div>
 
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
-<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
+<script src="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 <style>
 #map {
     width: 100%;
@@ -27,7 +27,7 @@ Leaflet](/post/cartographie-api-geoportail-ign-leaflet).
     var layer;
 
     function layerUrl(key, layer) {
-        return "http://wxs.ign.fr/" + key
+        return "https://wxs.ign.fr/" + key
             + "/geoportail/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&"
             + "LAYER=" + layer + "&STYLE=normal&TILEMATRIXSET=PM&"
             + "TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fjpeg";
