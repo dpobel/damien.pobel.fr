@@ -37,6 +37,7 @@ var metalsmith = require('metalsmith'),
     pagination = require('metalsmith-pagination'),
     permalinks = require('metalsmith-permalinks'),
     pdfize = require('metalsmith-pdfize'),
+    brotli = require('metalsmith-brotli'),
 
     opn = require('opn'),
     detect = require('detect-port'),
@@ -94,6 +95,7 @@ pluginsConfList = [
     {plugin: imageVariation, conf: conf.imageVariation, name: 'imageVariation', indev: true},
     {plugin: pdfize, conf: conf['cv-pdf'].pdfize, name: 'pdfize', indev: true},
     {plugin: renamer, conf: conf['cv-pdf'].rename, name: 'renamer', indev: true},
+    {plugin: brotli, conf: undefined, name: 'brotli', indev: false},
 ];
 
 function timedPlugin(plugin, name) {
