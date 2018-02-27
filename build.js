@@ -38,6 +38,7 @@ var metalsmith = require('metalsmith'),
     permalinks = require('metalsmith-permalinks'),
     pdfize = require('metalsmith-pdfize'),
     brotli = require('metalsmith-brotli'),
+    gzip = require('metalsmith-gzip'),
 
     opn = require('opn'),
     detect = require('detect-port'),
@@ -96,6 +97,7 @@ pluginsConfList = [
     {plugin: pdfize, conf: conf['cv-pdf'].pdfize, name: 'pdfize', indev: true},
     {plugin: renamer, conf: conf['cv-pdf'].rename, name: 'renamer', indev: true},
     {plugin: brotli, conf: undefined, name: 'brotli', indev: false},
+    {plugin: gzip, conf: conf.gzip, name: 'gzip', indev: false},
 ];
 
 function timedPlugin(plugin, name) {

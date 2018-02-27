@@ -167,6 +167,11 @@
         "ignoreCustomComments": [],
         "customEventAttributes": []
     },
+    "gzip": {
+        "gzip": {
+            "level": 9
+        }
+    },
     "cv-pdf": {
         "pdfize": {
             "pattern": ["page/cv/*.html", "page/cv-fr/*.html"],

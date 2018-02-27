@@ -39,6 +39,7 @@
     "metalsmith-define": "^2.0.1",
     "metalsmith-feed": "^0.5.0",
     "metalsmith-filemetadata": "^1.0.0",
+    "metalsmith-gzip": "^1.1.0",
     "metalsmith-html-minifier": "^2.2.0",
     "metalsmith-ignore": "^0.1.2",
     "metalsmith-layouts": "^1.4.2",
