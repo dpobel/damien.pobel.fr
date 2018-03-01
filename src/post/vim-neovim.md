@@ -11,7 +11,7 @@ ans](https://linuxfr.org/news/Neovim-une-refonte-de-vim-pour-le-21e-siecle) et
 dont les premières versions publiques ont été mises à disposition [à la fin de
 l'année dernière](https://neovim.io/news/2015/december/). Je suis [un fervent
 utilisateur de Vim](/tag/vim/) depuis... pfffiou une quinzaine d'année mais je
-trouve [ce *fork* plutôt appropriée avec de bonnes
+trouve [ce *fork* plutôt approprié avec de bonnes
 idées](https://neovim.io/charter/). Par exemple Neovim permet d'éxécuter des
 tâches de manière asynchrone dans les plugins, j'aurais adoré avoir cette
 fonctionnalités quand je développais [le plugin eZVim pour eZ
