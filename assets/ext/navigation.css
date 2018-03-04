@@ -18,11 +18,11 @@
 }
 
 .navigation .navigation-prev {
-    text-align: right;
+    text-align: left;
 }
 
 .navigation .navigation-next {
-    text-align: left;
+    text-align: right;
 }
 
 
