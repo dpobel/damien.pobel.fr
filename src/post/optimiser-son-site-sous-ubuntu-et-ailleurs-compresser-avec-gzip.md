@@ -1,6 +1,6 @@
 ---
 title: "Optimiser son site (sous Ubuntu et ailleurs...) : Compresser avec gzip"
-tags: ubuntu, linux, apache, performances, yahoo, dedibox, hébergement
+tags: ubuntu, linux, apache, performances, yahoo, dedibox, hébergement, gzip
 updated: 2008-10-31T08:42:41.000Z
 lang: "fr"
 node: "67022"
@@ -17,7 +17,6 @@ La première étape consiste à activer ce module ainsi que [le module headers](
 $ sudo a2enmod deflate
 $ sudo a2enmod headers
 $ sudo /etc/init.d/apache2 reload
-
 ```
 
 
