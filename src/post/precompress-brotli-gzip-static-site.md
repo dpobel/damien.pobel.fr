@@ -1,7 +1,7 @@
 ---
 title: "Precompress a static website with Brotli and Gzip"
 lang: en
-tags: performances, brotli, gzip, apache, metalsmith
+tags: performances, brotli, gzip, apache, metalsmith, jamstack
 published: 2018-03-05 08:10
 photos:
     - images/brotli-encoding-header.png

@@ -1,6 +1,6 @@
 ---
 title: Hello metalsmith-pdfize
-tags:  metalsmith, plugin, pdf, chrome, puppeteer, travis ci, javascript
+tags:  metalsmith, plugin, pdf, chrome, puppeteer, travis ci, javascript, jamstack
 published: 2017-09-29 10:07
 lang: en
 photos:

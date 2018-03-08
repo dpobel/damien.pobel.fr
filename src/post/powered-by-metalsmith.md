@@ -1,7 +1,7 @@
 ---
 title: Powered by Metalsmith (and Github, TravisCI, Myth, npm...)
 lang: en
-tags: javascript, metalsmith, blog, node.js, travis ci, github, git, myth, flexbox
+tags: javascript, metalsmith, blog, node.js, travis ci, github, git, myth, flexbox, jamstack
 published: 2016-01-21 16:38
 ---
 
