@@ -1,6 +1,6 @@
 ---
 title: "Solaris et les Outils GNU"
-tags: hébergement, ez publish, linux, shell
+tags: hébergement, ez publish, linux, shell, unix
 updated: 2008-08-12T15:52:44.000Z
 lang: "fr"
 node: "61155"
