@@ -2,7 +2,7 @@
 title: "Au fait, c'est quoi un bon test unitaire, d'intégration ou fonctionnel ?"
 tags: bonnes pratiques, unit test, travis ci, métier, travail
 lang: fr
-published: 2018-03-23 20:19
+published: 2018-03-27 23:20
 photos:
     - images/testing.jpg
 ---
