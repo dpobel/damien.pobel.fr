@@ -17,11 +17,12 @@ photos:
 
 Dans mon nouveau travail, un de mes sujets du moment concerne l'amélioration de
 la stratégie de tests. C'est un sujet qui me tient à cœur, en particulier parce
-qu'avec les années j'ai appris qu'une bonne stratégie de tests rend le travail
-plus efficient (à plusieurs niveaux) tout en apportant une certaine sérénité
-dans la durée. On s'habitue vite à son petit confort 😀 mais pour un confort
-maximal, il faut non seulement écrire des tests mais aussi écrire de bons de
-tests. Mais au fait, qu'est ce qui caractérise un *bon* test&nbsp;?
+qu'[avec les années j'ai appris](/post/apprendre-a-l-ecole/) qu'une bonne
+stratégie de tests rend le travail plus efficient (à plusieurs niveaux) tout en
+apportant une certaine sérénité dans la durée. On s'habitue vite à son petit
+confort 😀 mais pour un confort maximal, il faut non seulement écrire des tests
+mais aussi écrire de bons de tests. Mais au fait, qu'est ce qui caractérise un
+*bon* test&nbsp;?
 
 ## Automatisé
 
