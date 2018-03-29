@@ -113,9 +113,8 @@ lui aussi besoin qu'un test C passe, le moindre problème faisant échouer C fer
 échouer les 2 autres. En multipliant ce type de dépendance, on obtient
 rapidement un joyeux bazar coloré au moindre bug et surtout des échecs très
 vaguement liés au bug en question, au lieu d'être une aide, les tests ajoutent de
-la confusion. Ce type de situation se produit parfois en appliquant le principe
-<acronym title="Do not Repeat Yourself">DRY</acronym> avec [un peu trop de
-zèle](https://hackernoon.com/this-is-not-the-dry-you-are-looking-for-a316ed3f445f)
+la confusion. Ce type de situation se produit parfois en appliquant le principe <acronym title="Do not Repeat Yourself">DRY</acronym>
+avec [un peu trop de zèle](https://hackernoon.com/this-is-not-the-dry-you-are-looking-for-a316ed3f445f)
 et parfois, ce type de dépendance est plus subtile. Dans ce cas, je crois que le
 meilleur remède est une bonne nuit de sommeil et un peu de patience.
 
