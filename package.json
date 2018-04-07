@@ -35,7 +35,7 @@
     "metalsmith": "^2.1.0",
     "metalsmith-assets": "^0.1.0",
     "metalsmith-brotli": "^1.1.0",
-    "metalsmith-collections": "^0.9.0",
+    "metalsmith-collections": "https://github.com/cgatno/metalsmith-collections/tarball/filter",
     "metalsmith-define": "^2.0.1",
     "metalsmith-feed": "^0.5.0",
     "metalsmith-filemetadata": "^1.0.0",
