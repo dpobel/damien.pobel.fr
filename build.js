@@ -73,6 +73,8 @@ if ( assetsRev ) {
 conf.feed.postCustomElements = require('./lib/metalsmith/feed-postcustomelements.js');
 conf.tagLangFeed.postCustomElements = conf.feed.postCustomElements;
 
+conf.collections.lastPosts.filterBy = require('./lib/metalsmith/filter-collection.js').excludeWithTagFn('veille');
+
 pluginsConfList = [
     {plugin: define, conf: conf.define, name: 'define', indev: true},
     {plugin: assets, conf: conf.assets, name: 'assets', indev: true},
