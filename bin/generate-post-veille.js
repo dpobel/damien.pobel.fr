@@ -29,7 +29,7 @@ function isOffTopic(category) {
 }
 
 function getTags(category, lang) {
-    return category.map((element) => element.text.replace('-', ' ')).filter((element) => (element !== lang && element !== offTopicTag));
+    return category.map((element) => element.text.replace(/-/g, ' ')).filter((element) => (element !== lang && element !== offTopicTag));
 }
 
 function help() {
