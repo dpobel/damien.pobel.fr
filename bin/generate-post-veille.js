@@ -79,6 +79,8 @@ https.get(feedUrl, (res) => {
         console.log(`tags: ${postTags.join(', ')}`);
         console.log('lang: fr');
         console.log(`published: ${dateFormat(date, 'isoUtcDateTime')}`);
+        console.log('photos:');
+        console.log('    - images/veille_1.jpg');
         console.log('---');
         console.log(postContent);
         if ( off.length ) {
