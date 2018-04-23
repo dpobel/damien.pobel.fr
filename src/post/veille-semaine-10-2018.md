@@ -3,6 +3,8 @@ title: "Veille de la semaine #10 de 2018"
 tags: veille, php, unit test, sécurité, vie privée, css, humour, rest, pwa, bonnes pratiques, linux, shell, performances, sourceforge, hébergement, mail, spam, unix
 lang: fr
 published: 2018-03-08T11:12:12Z
+photos:
+    - images/veille_4.jpg
 ---
 * [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/) (en)&nbsp;: Et pourtant ce bon vieux `make` est capable de résoudre plein de problème de manière super élégante.
 * [Faire du mail en 2018, c’est une tannée…](https://blog.seboss666.info/2018/03/faire-du-mail-en-2018-cest-une-tannee/) (fr)&nbsp;: ça me rappelle quelques (mauvais) souvenirs :)

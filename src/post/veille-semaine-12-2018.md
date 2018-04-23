@@ -3,6 +3,8 @@ title: "Veille de la semaine #12 de 2018"
 tags: veille, php, agile, performances, javascript, bonnes pratiques, dependency injection, architecture
 lang: fr
 published: 2018-03-22T11:12:12Z
+photos:
+    - images/veille_1.jpg
 ---
 * [La dette technique tue les grenouilles](http://blog.ippon.fr/2018/03/15/la-dette-technique-tue-les-grenouilles/) (fr)&nbsp;: Excellent article sur la dette technique et sur divers effets de celle-ci notamment sur les développeurs (ou les grenouilles :))
 * [Que se passe-t-il quand vous appuyez sur lecture dans Netflix ?](https://www.macg.co/ailleurs/2018/03/que-se-passe-t-il-quand-vous-appuyez-sur-lecture-dans-netflix-101639) (fr)&nbsp;: Pas mal d'informations intéressantes sur comment fonctionne Netflix en particulier en terme d'architecture.

@@ -3,6 +3,8 @@ title: "Veille de la semaine #15 de 2018"
 tags: veille, bonnes pratiques, code, javascript, outil, php, histoire, informatique, métier, symfony, dependency injection, node.js, domain driven design, java, sécurité, react
 lang: fr
 published: 2018-04-12T10:12:12Z
+photos:
+    - images/veille_4.jpg
 ---
 * [React lifecycle methods diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) (en)&nbsp;: Un diagramme interactif du cycle de vie des composants React (à partir de la version 16.3)
 * [The dots do matter: how to scam a Gmail user](https://jameshfisher.com/2018/04/07/the-dots-do-matter-how-to-scam-a-gmail-user.html) (en)&nbsp;: Les points font plus que compter, ils ouvrent quelques brèches de sécurité ou au moins des possibilités de détournements.

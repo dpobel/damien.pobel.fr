@@ -3,6 +3,8 @@ title: "Veille de la semaine #7 de 2018"
 tags: veille, sécurité, http, bonnes pratiques, code, javascript, react, unit test, performances, webpack
 lang: fr
 published: 2018-02-15T12:13:13
+photos:
+    - images/veille_2.jpg
 ---
 * [Déployer cache-control: immutable avec du cache-busting](https://www.nicolas-hoffmann.net/source/1710-Deployer-cache-control-immutable-avec-du-cache-busting.html) (fr)&nbsp;: Mise en place de l'entête HTTP `Cache-Control: immutable` et du *cache-busting* qui permet d'aller encore plus loin en terme de performance que [la simple expiration](/post/optimiser-son-site-sous-ubuntu-configurer-l-en-tete-expires/).
 * [Web Performance Optimisation with Webpack](https://developers.google.com/web/fundamentals/performance/webpack/) (en)&nbsp;: Un guide pour configurer Webpack pour optimiser les performances de l'application générée en travaillant sur la taille des fichiers, la mise en cache et en surveillant/analysant le résultat.

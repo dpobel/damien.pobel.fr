@@ -3,6 +3,8 @@ title: "Veille de la semaine #2 de 2018"
 tags: veille, conférence, php, code, bash, shell, csp, npm, sécurité, performances, react, chrome, web, javascript
 lang: fr
 published: 2018-01-11T11:12:09Z
+photos:
+    - images/veille_2.jpg
 ---
 * [Comment différer l'exécution d'un script ?](https://borisschapira.com/2017/12/comment-differer-l-execution-d-un-script/) (fr)&nbsp;: Plusieurs techniques complémentaires pour éviter qu'une balise `<script>` ne bloque le rendu d'une page.
 * [Chrome is turning into the new Internet Explorer 6](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards) (en)&nbsp;: avec une différence majeure quand même: profitant de sa position dominante, Microsoft ne faisait que (lentement) corrigé les bugs de sécurité

@@ -3,6 +3,8 @@ title: "Veille de la semaine #11 de 2018"
 tags: veille, make, shell, unix, humour, bonnes pratiques, git, github, unit test, php, bug
 lang: fr
 published: 2018-03-15T11:12:12Z
+photos:
+    - images/veille_1.jpg
 ---
 * [En finir avec les bugs](https://blog.crafting-labs.fr/2015/04/08/en-finir-avec-les-bugs/) (fr)&nbsp;: non pas de recette magique dans ce billet, plutôt un plaidoyer pour regarder la vérité en face :)
 * [Being in control of time in PHP](https://blog.frankdejonge.nl/being-in-control-of-time-in-php/) (en)&nbsp;: Une manière élégante de rendre explicite et *testable* du code qui utilise une date.

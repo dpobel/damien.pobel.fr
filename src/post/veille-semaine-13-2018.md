@@ -3,6 +3,8 @@ title: "Veille de la semaine #13 de 2018"
 tags: veille, bonnes pratiques, code, métier, csp, sécurité, php, symfony, javascript, firefox, humour, performances
 lang: fr
 published: 2018-03-29T10:12:12Z
+photos:
+    - images/veille_2.jpg
 ---
 * [LinkedIn Lite: A Lightweight Mobile Web Experience](https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience) (en)&nbsp;: Pourquoi et comment LinkedIn a créé LinkedIn Lite. Il est amusant de constater que pour optimiser cette application pour mobile notamment en Indes, ils finissent avec une application web assez traditionnelle où le serveur distribue du HTML.
 * [Le nouveau IE6](http://www.commitstrip.com/fr/2018/03/23/the-new-ie6/) (fr)&nbsp;: **Rien n'y personne ne pourra jamais nous traumatiser autant que ce foutu IE6 !**

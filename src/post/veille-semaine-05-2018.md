@@ -3,6 +3,8 @@ title: "Veille de la semaine #5 de 2018"
 tags: veille, html, javascript, react, rest, chrome, puppeteer, sécurité, pwa
 lang: fr
 published: 2018-02-01T11:28:17Z
+photos:
+    - images/veille_5.jpg
 ---
 * [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/) (en)&nbsp;: Comment dupliquer un objet en JavaScript ? La question est simple, la réponse l'est beaucoup moins! Utiliser les API du navigateur comme `History`, il fallait déjà y penser. 
 * [How to write a HOC (in 3 easy steps)](https://paulgray.net/how-to-write-a-hoc/) (en)&nbsp;: Un explication sur comment écrire un *High Order Component* (une fonction qui génère des composants ici pour React). Un introduction intéressante à une technique vraiment puissante mais attention à ne pas tomber dans [le DRY à tout prix](https://hackernoon.com/this-is-not-the-dry-you-are-looking-for-a316ed3f445f) au risque de coupler des composants qui n'ont pas grand chose en commun.

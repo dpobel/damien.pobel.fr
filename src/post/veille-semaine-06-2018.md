@@ -3,6 +3,8 @@ title: "Veille de la semaine #6 de 2018"
 tags: veille, accessibilité, lecteur d'écran, microsoft, pwa, debian, linux, php, web, chrome, git, javascript, bonnes pratiques, sécurité, silex, webpack, react
 lang: fr
 published: 2018-02-08T11:25:09Z
+photos:
+    - images/veille_1.jpg
 ---
 * [8 Key React Component Decisions](https://www.codementor.io/coryhouse/8-key-react-component-decisions-fsh8332ow) (en)&nbsp;: Au delà des 8 choix techniques, cet article donne un panorama de comment les projets React sont généralement organisés avec en plus quelques rappels historiques sur l'évolution de React lui-même.
 * [How we improved webpack build performance by 95%](https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/) (en)&nbsp;: *At the worst time, the entire build would take as long as 3 hours and 21 minutes*!

@@ -3,6 +3,8 @@ title: "Veille de la semaine #1 de 2018"
 tags: veille, performances, accessibilité, javascript, ux, css, web components, pwa, react, html5
 lang: fr
 published: 2018-01-05T12:44:49Z
+photos:
+    - images/veille_1.jpg
 ---
 Entre 2 doses de paracétamol pour cause de grippe, j'essaie de commencer une
 veille techno régulière notamment sur JavaScript, PHP, CSS, l'accessibilité ou

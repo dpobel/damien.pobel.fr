@@ -3,6 +3,8 @@ title: "Veille de la semaine #9 de 2018"
 tags: veille, javascript, react, redux, unit test, css, sécurité, php, agile, kanban, neovim, vim
 lang: fr
 published: 2018-03-01T12:57:35Z
+photos:
+    - images/veille_5.jpg
 ---
 * [5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d) (en)&nbsp;: Une synthèse intéressante tant il est facile se *perdre* pendant l'écriture de tests unitaires.
 * [Mutation testing with infection in big PHP projects](https://blog.alejandrocelaya.com/2018/02/17/mutation-testing-with-infection-in-big-php-projects/) (en)&nbsp;: où finalement on peut se mettre à tester les tests :-) Blague à part, il est surtout intéressant de comprendre qu'un code couvert 100% par des tests ne veut pas dire que le code est bien testé. Et dans ce cadre, ce type d'outil permet d'approcher la couverture réelle du code par les tests.

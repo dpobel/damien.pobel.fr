@@ -3,6 +3,8 @@ title: "Veille de la semaine #3 de 2018"
 tags: veille, composer, php, architecture, microservice, cqrs, javascript, performances, react, redux, dns
 lang: fr
 published: 2018-01-18T11:12:10Z
+photos:
+    - images/veille_3.jpg
 ---
 * [17 Tips for Using Composer Efficiently](https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/) (en)&nbsp;: En fait 20 trucs intéressants avec composer. La parallèlisation des installations avec [le plugin prestissimo](https://github.com/hirak/prestissimo) mérite d'être testé.
 * [The end of Silex](http://symfony.com/blog/the-end-of-silex) (en)&nbsp;: la fin de vie (maintenance) de Silex est prévu pour juin 2018.

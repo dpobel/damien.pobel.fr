@@ -3,6 +3,8 @@ title: "Veille de la semaine #14 de 2018"
 tags: veille, css, chrome, firefox, bonnes pratiques, dependency injection, php, solid, javascript, node.js, npm, react, redux
 lang: fr
 published: 2018-04-05T10:12:13Z
+photos:
+    - images/veille_3.jpg
 ---
 * [System Fonts in CSS](https://furbo.org/2018/03/28/system-fonts-in-css/) (en)&nbsp;: Un court historique du nom de police générique `system-ui` dont [le support par les navigateurs est grandissant](https://caniuse.com/#search=system-ui).
 * [React v16.3.0: New lifecycles and context API](https://reactjs.org/blog/2018/03/29/react-v-16-3.html) (en)&nbsp;: Impossible de passer à côté de la nouvelle version de React cette semaine. La grosse nouveauté déjà annoncée depuis quelques semaines est l'API Context. [Cette vidéo](http://wesbos.com/react-context/) (en) explique plutôt bien le concept. Vu de loin, ça ressemble un peu à la Singleton sauce React mais l'approche est intéressante pour éviter passer des propriétés sur toute une partie de l'arborescence des composants. De ce point de vue, l'API Context est une alternative à Redux mais Redux fait bien plus que ça.

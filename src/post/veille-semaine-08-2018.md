@@ -3,6 +3,8 @@ title: "Veille de la semaine #8 de 2018"
 tags: veille, php, android, vie privée, unit test, javascript, performances, web components, webpack, symfony, serverless
 lang: fr
 published: 2018-02-22T11:16:28Z
+photos:
+    - images/veille_3.jpg
 ---
 * [How To Build A Notification That You Won’t Hate](https://hackernoon.com/how-to-build-a-notification-that-you-wont-hate-62bfaec722f1) (en)&nbsp;: Ampoule à LED &quot;connectée&quot; + Azure Logic Apps + quelques lignes de JavaScript + Azure Logic Apps = des notifications Twitter avec une lampe :-)
 * [New in Symfony 4.1: Fastest PHP Router](http://symfony.com/blog/new-in-symfony-4-1-fastest-php-router) (en)&nbsp;: Le *Router* de Symfony devient encore plus rapide. Encore plus intéressant, Nicolas Grekas (l'auteur de cette amélioration) publie les détails dans [Making Symfony’s Router 77.7x faster — 1/2](https://medium.com/@nicolas.grekas/making-symfonys-router-77-7x-faster-1-2-958e3754f0e1) et [Making Symfony router lightning fast — 2/2](https://medium.com/@nicolas.grekas/making-symfony-router-lightning-fast-2-2-19281dcd245b)

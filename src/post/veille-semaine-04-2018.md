@@ -3,6 +3,8 @@ title: "Veille de la semaine #4 de 2018"
 tags: veille, javascript, react, php, sécurité, graphql, rest, rpc, polymer, web components
 lang: fr
 published: 2018-01-25T12:58:49Z
+photos:
+    - images/veille_4.jpg
 ---
 * [Polymer 3.0: New Year, New Preview](https://www.polymer-project.org/blog/2018-01-18-polymer-3-new-preview) (en)&nbsp;: Polymer 3.0 approche à grand pas. Le principal changement sera l'abandon des HTML imports et de bower au profit des modules JavaScript et de npm.
 * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) (en)&nbsp;: Qui ne s'est jamais plaint de la lenteur d'un *build* avec Webpack ? Bon moi jusqu'à la semaine dernière :) En tout cas, voici quelques pistes pour améliorer ou garder un temps de *build* raisonnable.
