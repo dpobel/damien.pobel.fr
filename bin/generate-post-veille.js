@@ -8,6 +8,7 @@ const dateFormat = require('dateformat');
 const striptags = require('striptags');
 
 const offTopicTag = "offtopic";
+const veillePhotoNumber = 5;
 
 const argv = require('minimist')(process.argv.slice(2), {
     "string": ['from-date'],
@@ -73,6 +74,7 @@ https.get(feedUrl, (res) => {
     });
     parser.on('end', () => {
         const date = new Date();
+        const photoNr = (Math.floor(Math.random() * Math.floor(veillePhotoNumber + 1)));
 
         console.log('---');
         console.log(`title: "Veille de la semaine #${dateFormat(date, 'W')} de ${dateFormat(date, 'yyyy')}"`);
@@ -80,7 +82,7 @@ https.get(feedUrl, (res) => {
         console.log('lang: fr');
         console.log(`published: ${dateFormat(date, 'isoUtcDateTime')}`);
         console.log('photos:');
-        console.log('    - images/veille_1.jpg');
+        console.log(`    - images/veille_${photoNr}.jpg`);
         console.log('---');
         console.log(postContent);
         if ( off.length ) {
