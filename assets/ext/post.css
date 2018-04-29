@@ -95,9 +95,17 @@
     margin: 0.4em 0;
 }
 
+.post-content hr {
+    width: 80%;
+    border: 0;
+    height: 2px;
+    background: #ddd;
+    margin: 2em auto;
+}
+
 .post-content .note {
     background: #f5f5f5;
-    border: 1px solid #aaa;
+    border-left: 4px solid #aaa;
     font-style: italic;
     padding: 0.6em 1em;
 }
