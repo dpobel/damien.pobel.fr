@@ -1,5 +1,5 @@
 ---
-title: Les vertues de la revue de code
+title: Les vertus de la revue de code
 tags: bonnes pratiques, métier, outil, code, git
 published: 2018-05-06 23:21
 photos:
