@@ -13,7 +13,7 @@ photos:
 * [PHP Versions Stats - 2018.1 Edition](https://seld.be/notes/php-versions-stats-2018-1-edition) (en)&nbsp;: *It's stats o'clock!* 😀
 * [Workaround](http://www.monkeyuser.com/2018/workaround/) (en)&nbsp;: une représentation particulièrement pertinente d'un *workaround*
 * [The headers we don't want](https://www.fastly.com/blog/headers-we-dont-want) (en)&nbsp;: et il y en a pas mal et même certains qui sont utilisés sur ce site…
-* [Responsive tables, revisited](http://lea.verou.me/2018/05/responsive-tables-revisited/) (en)&nbsp;: deux stratégies plutôt astucieuses (mais avec quelques inconvénients) d'avoir des `table` HTML *responsives* basées sur [la règle CSS `text-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow) ou sur [la fonction CSS `element()`](https://developer.mozilla.org/en-US/docs/Web/CSS/element) (uniquement dans Firefox pour cette dernière)
+* [Responsive tables, revisited](http://lea.verou.me/2018/05/responsive-tables-revisited/) (en)&nbsp;: deux stratégies plutôt astucieuses (mais avec quelques inconvénients) pour avoir des `table` HTML *responsives* basées sur [la règle CSS `text-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow) ou sur [la fonction CSS `element()`](https://developer.mozilla.org/en-US/docs/Web/CSS/element) (uniquement dans Firefox pour cette dernière)
 
 Et un peu hors-sujet&nbsp;:
 
