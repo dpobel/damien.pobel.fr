@@ -8,7 +8,7 @@ const dateFormat = require('dateformat');
 const striptags = require('striptags');
 
 const offTopicTag = "offtopic";
-const veillePhotoNumber = 5;
+const veillePhotoNumber = 8;
 
 const argv = require('minimist')(process.argv.slice(2), {
     "string": ['from-date'],
