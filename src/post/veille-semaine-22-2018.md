@@ -17,7 +17,7 @@ photos:
 
 Et un peu hors-sujet&nbsp;:
 
-* [Playlist Youtube Leo covers](https://www.youtube.com/playlist?list=PLEEX8g2XtzsGv61U11HpoWt5JP18NHeve) (en)&nbsp;: Leo Moracchioli ([il est aussi sur Spotify](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy?si=DlkAsFNOTU2depy2Xap9tQ)) fait des reprises façon métal ou acoustiques de titres plus ou moins connus; il est un peu fou ce monsieur 🤪 je crois mais c'est souvent génial. Les parents et les enfants (ma fille aime bien 🤘) apprécieront peut-être [Let it go (tiré de la Reine des Neiges en anglais) version métal](https://www.youtube.com/watch?v=so49WpSj9bo) ou [Girls Just Want To Have Fun](https://www.youtube.com/watch?v=s8vvtxeT6d8). Dans un autre registre [la reprise acoustique de Fast Car](https://www.youtube.com/watch?v=-c79K8USmWY) est juste géniale.
+* [Playlist Youtube Leo covers](https://www.youtube.com/playlist?list=PLEEX8g2XtzsGv61U11HpoWt5JP18NHeve) (en)&nbsp;: Leo Moracchioli ([il est aussi sur Spotify](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy?si=DlkAsFNOTU2depy2Xap9tQ)) fait des reprises façon métal ou acoustiques de titres plus ou moins connus; ce monsieur est un peu fou 🤪 je crois mais c'est souvent génial. Les parents et les enfants (ma fille aime bien 🤘) apprécieront peut-être [Let it go (tiré de la Reine des Neiges en anglais) version métal](https://www.youtube.com/watch?v=so49WpSj9bo) ou [Girls Just Want To Have Fun](https://www.youtube.com/watch?v=s8vvtxeT6d8). Dans un autre registre [la reprise acoustique de Fast Car](https://www.youtube.com/watch?v=-c79K8USmWY) est juste géniale.
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))
