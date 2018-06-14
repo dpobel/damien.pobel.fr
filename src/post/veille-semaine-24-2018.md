@@ -4,7 +4,7 @@ tags: veille, code, php, humour, performances, métier, api, web, css, standard,
 lang: fr
 published: 2018-06-14T10:12:14Z
 photos:
-    - images/veille_4.jpg
+    - images/veille_7.jpg
 ---
 * [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/) (en)&nbsp;: Vue.js et sa CLI permettent de créer des Web Components et ça a l'air plutôt sympa
 * [The art of the error message](https://thestyleofelements.org/the-art-of-the-error-message-9f878d0bff80) (en)&nbsp;: écrire des bons messages d'erreur est tout un art
