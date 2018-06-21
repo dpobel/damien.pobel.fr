@@ -14,7 +14,7 @@ photos:
 * [My 8 favorite color schemes for modern vim](https://blog.pabuisson.com/2018/06/favorite-color-schemes-modern-vim-neovim/) (en)&nbsp;: de jolis *color schemes* pour vim
 * [Using JavaScript modules on the web](https://developers.google.com/web/fundamentals/primers/modules) (en)&nbsp;: les ES6 modules sont disponibles partout! Mais un *bundler* est toujours requis pour des performances maximales :(
 * [Code Less, Think More… Incrementally!](https://levelup.gitconnected.com/code-less-think-more-incrementally-98adee22df9b) (en)&nbsp;: 😀 le divorce au milieu de projet explique donc pourquoi on finit le projet avec une décapotable (oui cette phrase n'a aucun sens dans ce billet 😋)
-* [Image Inconsistencies: How and When Browsers Download Images](https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/) (en)&nbsp;: comment et surtout quand est-ce que les navigateurs téléchargent les images référencées dans une directive `background-image` par rapport à une image dans une balise `&lt;img&gt;`
+* [Image Inconsistencies: How and When Browsers Download Images](https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/) (en)&nbsp;: comment et surtout quand est-ce que les navigateurs téléchargent les images référencées dans une directive `background-image` par rapport à une image dans une balise `<img>`
 
 Et un peu hors-sujet&nbsp;:
 
