@@ -69,7 +69,11 @@ https.get(feedUrl, (res) => {
             off.push({title, url, description, lang});
             return;
         }
-        postContent = `* [${title}](${url}) (${lang})&nbsp;: ${description}\n${postContent}`;
+        if (description) {
+            postContent = `* [${title}](${url}) (${lang})&nbsp;: ${description}\n${postContent}`;
+        } else {
+            postContent = `* [${title}](${url}) (${lang})\n${postContent}`;
+        }
         postTags = [...new Set([...postTags,...tags])];
     });
     parser.on('end', () => {
@@ -88,7 +92,12 @@ https.get(feedUrl, (res) => {
         if ( off.length ) {
             console.log("Et un peu hors-sujet&nbsp;:\n");
             off.map((item) => {
-                console.log(`* [${item.title}](${item.url}) (${item.lang})&nbsp;: ${item.description}`);
+                let desc = '';
+
+                if (item.description) {
+                    desc = `&nbsp;: ${item.description}`;
+                }
+                console.log(`* [${item.title}](${item.url}) (${item.lang})${desc}`);
             });
         }
         console.log("\n(En plus du [flux RSS global](/rss.xml), les billets *veille*");
