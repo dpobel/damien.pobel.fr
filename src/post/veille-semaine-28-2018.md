@@ -4,7 +4,7 @@ tags: veille, html, standard, web components, architecture, accessibilité, bonn
 lang: fr
 published: 2018-07-12T10:49:01Z
 photos:
-    - images/veille_5.jpg
+    - images/veille_7.jpg
 ---
 * [Quand refactorer et pourquoi ?](http://www.arolla.fr/blog/2018/06/quand-refactorer-et-pourquoi/) (fr)
 * [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html) (en)&nbsp;: à la découverte de ES2018 et ES2019
