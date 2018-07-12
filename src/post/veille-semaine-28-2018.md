@@ -12,7 +12,7 @@ photos:
 * [Avoiding LGTM PR Cultures](https://watirmelon.blog/2018/07/11/avoiding-lgtm-pr-cultures/) (en)&nbsp;: faire des revues c'est bien, faire de bonnes revues c'est [encore mieux](/post/vertus-revue-de-code/)!
 * [Software Architecture: The 5 Patterns You Need to Know](https://www.petermorlion.com/software-architecture-the-5-patterns-you-need-to-know/) (en)
 * [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) (en)&nbsp;: En tout cas, avec relativement peu d'effort, il est possible de notablement améliorer l'accessibilité.
-* [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/) (en)&nbsp;: retour d'expérience plutôt intéressant. À travers ce billet, on voit que l'augmentation du nombre de microservices est pas simples et finalement le bon vieux monolithe a du bon :)
+* [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/) (en)&nbsp;: retour d'expérience plutôt intéressant. À travers ce billet, on voit que l'augmentation du nombre de microservices est pas simple et finalement le bon vieux monolithe a du bon :)
 * [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/) (en)&nbsp;: une bonne description de l'état de l'art des Web Components
 
 Et un peu hors-sujet&nbsp;:
