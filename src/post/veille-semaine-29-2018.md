@@ -6,7 +6,7 @@ published: 2018-07-19T11:22:38Z
 photos:
     - images/veille_1.jpg
 ---
-* [Objects should be constructed in one go](https://matthiasnoback.nl/2018/07/objects-should-be-constructed-in-one-go/) (en)&nbsp;: réflexions intéressantes sur l’instanciation des objets et surtout sur comment garantir la cohérence de ceux à tout moment dans une application.
+* [Objects should be constructed in one go](https://matthiasnoback.nl/2018/07/objects-should-be-constructed-in-one-go/) (en)&nbsp;: réflexions intéressantes sur l’instanciation des objets et surtout sur comment garantir la cohérence de ceux-ci à tout moment dans une application.
 * [Programming Sucks](http://www.stilldrinking.org/programming-sucks) (en)&nbsp;: bon peut-être pas à ce point là mais on s'en approche parfois :-)
 * [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/) (en)&nbsp;: des bons conseils et en y regardant de plus près, en changeant quelques mots, ce sont pour la plupart des déclinaisons façon React de conseils de programmation qui s'appliquent partout ou presque.
 * [What's So Great About OOP?](https://kevinsmith.io/whats-so-great-about-oop) (en)&nbsp;: *Remember, OOP is about more than just a single object here or there. The benefits of OOP emerge in a community of objects, when objects begin collaborating with each other.*
