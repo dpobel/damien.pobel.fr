@@ -6,6 +6,8 @@ published: 2018-09-06T10:20:57Z
 photos:
     - images/veille_6.jpg
 ---
+C'est la rentrée alors c'est reparti pour la veille hebdomadaire&nbsp;!
+
 * [Securing Web Sites Made Them Less Accessible](https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/) (en)&nbsp;: HTTPs est sans doute autant à blamer que le fait que la plupart des sites sont construits en dépit du bon sens d'un point de vue performances.
 * [When to add an interface to a class](https://matthiasnoback.nl/2018/08/when-to-add-an-interface-to-a-class/) (en)&nbsp;: article super intéressant comme d'habitude avec Matthias Noback
 * [Génération télétravail](https://www.synbioz.com/blog/generation_teletravail) (fr)&nbsp;: on pourrait même écrire *Génération télétravailS*, mais l'article résume bien les nombreux avantages à ouvrir cette possibilité même partiellement
@@ -20,4 +22,4 @@ Et un peu hors-sujet&nbsp;:
 * [Retrouver le goût du beau et la patience de l'obtenir](https://lachouetteechoppe.fr/retrouver-gout-beau-patience-obtenir/) (fr)&nbsp;: je me suis récemment mis à rénover quelques meubles anciens récupérés ça et là; cet article exprime bien la satisfaction que j'y trouve
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
-et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))
+et uniquement ceux là sont listés dans le [flux RSS correspondant](/rss/veille.xml))
