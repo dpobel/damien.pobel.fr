@@ -101,7 +101,7 @@ https.get(feedUrl, (res) => {
             });
         }
         console.log("\n(En plus du [flux RSS global](/rss.xml), les billets *veille*");
-        console.log("et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))");
+        console.log("et uniquement ceux là sont listés dans le [flux RSS correspondant](/rss/veille.xml))");
     });
     res.pipe(parser);
 }).on('error', () => {
