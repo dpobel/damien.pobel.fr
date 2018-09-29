@@ -22,7 +22,9 @@ reach two goals with this extension:
 
 The following screencast shows most of the available features of the admin2++ extension version 0.2:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oobs5j3Jckw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Oobs5j3Jckw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 As you can see, the biggest new feature of this release is the preview available
 in the popup menu. Instead of loading a new page with the preview, admin2++

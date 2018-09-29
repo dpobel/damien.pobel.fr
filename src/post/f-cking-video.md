@@ -13,6 +13,6 @@ qui découvrent Internet en ce
 moment de cette *p*tin
 de vidéo*&nbsp;:
 
-<iframe width="560" height="315"
-    src="https://www.youtube.com/embed/gU2ZgaQ_H-Y"
-    frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gU2ZgaQ_H-Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

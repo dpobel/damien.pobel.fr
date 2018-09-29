@@ -10,7 +10,9 @@ updated: 2016-02-10 23:12
 
 Une vidéo hilarante reçue aujourd'hui au travail :
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7pdB3rLi3QQ" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7pdB3rLi3QQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 sinon pour moi le rock, c'est [Over the Hills and Far
 Away](https://fr.wikipedia.org/wiki/Over_the_Hills_and_Far_Away_(chanson_de_Led_Zeppelin)) par [Led

@@ -19,9 +19,9 @@ disponibles en ligne, ce qui facilitera aussi le suivi de la conférence vue la
 taille réduite des écrans dans cette salle et les quelques problèmes de son avec
 le micro de Patrick :(
 
-<iframe width="640" height="360"
-src="https://www.youtube.com/embed/cxBUanbJCn0?vq=hd720"
-frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cxBUanbJCn0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Si vous étiez présent ou même à partir de cette vidéo, il est encore temps [de
 noter et commenter notre présentation sur
