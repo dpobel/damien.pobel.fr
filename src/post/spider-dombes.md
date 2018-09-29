@@ -8,8 +8,7 @@ published: 2014-08-31T22:42:26+02:00
     <a href="/images/spider-dombes.jpg"><img src="/images/660x/spider-dombes.jpg" alt="Araignée de la Dombes"></a>
     <figcaption>
     Araignée de la Dombes
-    ([Flickr](https://www.flickr.com/photos/tigr0u/14911083029/) /
-     [500px](http://500px.com/photo/81656305/araign%C3%A9e-de-la-dombes-by-damien-pobel))
+    ([Flickr](https://www.flickr.com/photos/tigr0u/14911083029/))
     </figcaption>
 </figure>
 

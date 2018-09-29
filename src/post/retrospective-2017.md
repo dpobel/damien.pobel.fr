@@ -29,9 +29,6 @@ et aussi 3 photos (de Syrphes)&nbsp;:
 * [Syrphe sur une fleur de phacélie](/post/syrphe-phacelie/)
 * et 2 [Syrphes de mon jardin](/post/syrphes-jardin/)
 
-La première a même eu son petit succès sur
-[500px](https://500px.com/photo/234958943/hoverfly-on-a-phacelia-flower-by-damien-pobel) :)
-
 Sur ce blog les billets les plus lus de l'année ont été dans l'ordre&nbsp;:
 
 1. [Embed a Youtube video in Github markdown](/post/youtube-video-github/)

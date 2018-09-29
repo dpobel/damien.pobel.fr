@@ -9,8 +9,7 @@ published: 2015-10-01T11:05:50+02:00
     <a href="/images/mante-religieuse.jpg"><img src="/images/660x/mante-religieuse.jpg" alt="Mante religieuse"></a>
     <figcaption>
     Mante religieuse
-    ([Flickr](https://www.flickr.com/photos/tigr0u/21867511931) /
-    [500px](https://500px.com/photo/123612529/mantis-religiosa-by-damien-pobel))
+    ([Flickr](https://www.flickr.com/photos/tigr0u/21867511931))
     </figcaption>
 </figure>
 

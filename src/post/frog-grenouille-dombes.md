@@ -8,8 +8,7 @@ published: 2013-09-15T16:43:41+02:00
     <a href="/images/frog-dombes.jpg"><img src="/images/660x/frog-dombes.jpg" alt="Grenouille de la Dombes"></a>
     <figcaption>
     Grenouille de la Dombes
-    ([Flickr](http://www.flickr.com/photos/tigr0u/9759651795/) /
-     [500px](http://500px.com/photo/46493160))
+    ([Flickr](http://www.flickr.com/photos/tigr0u/9759651795/))
     </figcaption>
 </figure>
 

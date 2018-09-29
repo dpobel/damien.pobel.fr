@@ -10,8 +10,7 @@ updated: 2016-02-09 13:43
     <a href="/images/punaise-des-baies.jpg"><img src="/images/660x/punaise-des-baies.jpg" alt="Punaise des baies"></a>
     <figcaption>
     Punaise des baies
-    ([Flickr](https://www.flickr.com/photos/tigr0u/21458826675) /
-    [500px](https://500px.com/photo/121890349/sloe-bug-by-damien-pobel))
+    ([Flickr](https://www.flickr.com/photos/tigr0u/21458826675))
     </figcaption>
 </figure>
 

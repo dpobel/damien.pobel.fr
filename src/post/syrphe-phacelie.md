@@ -9,7 +9,6 @@ published: 2017-11-09 15:15
     <a href="/images/syrphe-phacelie.jpg"><img src="/images/660x/syrphe-phacelie.jpg" alt="Syrphe sur une fleur de phacélie"></a>
     <figcaption>
     Syrphe sur une fleur de phacélie
-    ([500px](https://500px.com/photo/234958943/hoverfly-on-a-phacelia-flower-by-damien-pobel))
     </figcaption>
 </figure>
 
