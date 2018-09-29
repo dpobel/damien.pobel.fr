@@ -7,13 +7,14 @@ updated: 2016-02-06 16:44
 <h2>Page introuvable</h2>
 
 La page que vous cherchez est introuvable... Si elle a existé, j'ai probablement
-considéré qu'elle était complétèment cassée ou fournissait des informations
-erronnées ou simplement je voulais la supprimer pour de *bonnes* raisons... Je
-suis désolé pour la gêne occasionnée.
+considéré qu'elle était complètement cassée ou fournissait des informations
+erronées ou simplement je voulais la supprimer pour de *bonnes* raisons... Je
+suis désolé pour la gêne occasionnée et [croyez bien que je ne fais pas ça à la
+légère](/post/cool-uris-dont-change/).
 
 Avec un peu de chance, elle est peut être disponible dans [les archives
 d'Internet](http://web.archive.org/web/*/http://pwet.fr) mais vous pouvez aussi
-visiter [mon blog](/blog/), [le nuage de tag](/tags/) ou [les simples
+visiter [mon blog](/blog/), [le nuage de tags](/tags/) ou [les simples
 pages](/pages/) pour trouver du contenu intéressant :-)
 </div>
 <div lang="en">
