@@ -8,7 +8,9 @@ published: 2009-01-28T14:43:02+01:00
 updated: 2016-02-10 08:24
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_cqJMo50zQc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_cqJMo50zQc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Je viens de voir cette publicité sur la chaîne MTV2.
 Mais pourquoi n'a t on pas ce genre de publicité en France ? En plus c'est non

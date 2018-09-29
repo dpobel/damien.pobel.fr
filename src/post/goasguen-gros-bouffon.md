@@ -10,10 +10,10 @@ updated: 2016-02-09 22:23
  
 En visionnant cette vidéo, y'a pas d'autres mots.
 
-<iframe width="560" height="315"
-    src="https://www.youtube.com/embed/S8h6QuAjrpk"
-    frameborder="0" allowfullscreen></iframe>
- 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S8h6QuAjrpk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 Piégé par [The Yes Men](http://fr.wikipedia.org/wiki/The_Yes_Men), on peut
 entendre l'un des porte-parole de Nicolas Sarkozy et candidat à la candidature à
 la mairie de Paris pour 2008 à propos de *l'idée d'emmener par avion des glaçons

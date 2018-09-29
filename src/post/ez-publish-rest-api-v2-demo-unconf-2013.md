@@ -29,9 +29,9 @@ prendre une photo avec la webcam de votre ordinateur et de créer un objet Image
 à partir de celle-ci dans eZ Publish&nbsp;! Voici un rapide screencast de
 l'application en action:
 
-<div class="object-center">
-<iframe width="640" height="480" src="https://www.youtube.com/embed/4bTClN_4HYg"
-frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/4bTClN_4HYg?rel=0"
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Ce genre de fonctionnalité aurait typiquement sa place sur n'importe quel site

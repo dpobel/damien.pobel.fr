@@ -24,6 +24,8 @@ En plus de cela, plusieurs améliorations du formulaire d'édition dans l'interf
 
 Une image vaut mille mots, qu'en est il d'une vidéo ? ;-)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/By7-YbYTGLA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/By7-YbYTGLA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 (Visualisation en HD fortement conseillée)

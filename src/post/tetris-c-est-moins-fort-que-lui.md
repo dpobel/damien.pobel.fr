@@ -10,4 +10,6 @@ updated: 2016-02-08 22:45
 
 Une vidéo réellement hallucinante d'une partie de Tetris Grand Master. Je n'ose imaginer le nombre d'heures d'entraînement pour arriver à un tel niveau...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pViOYaBe3mM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pViOYaBe3mM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

@@ -35,4 +35,6 @@ playlist Foo Fighters&nbsp;!
 
 <a name="clip_the_pretenders" id="clip_the_pretenders"></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SBjQ9tuuTJQ" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SBjQ9tuuTJQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

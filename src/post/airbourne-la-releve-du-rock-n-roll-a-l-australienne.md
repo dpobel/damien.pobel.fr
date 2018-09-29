@@ -33,4 +33,6 @@ Blackjack.
 Aller juste pour le plaisir, voici le clip de Too much, too young, too fast
 délicieusement hard rock années 90&nbsp;!
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/uANVBPVaf-g" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uANVBPVaf-g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
