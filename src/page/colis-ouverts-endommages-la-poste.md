@@ -89,6 +89,6 @@ constat](https://twitter.com/GroupeLaPoste/status/411171334396583936)...
 * **Enseigne&nbsp;:** Zalando
 * **Date&nbsp;:** 03/07/2013
 * **Problème&nbsp;:** Coli complètement éventré!
-* **Liens&nbsp;:** [Tweet](https://twitter.com/dpobel/status/352446676117618691) et [post sur Google+](https://plus.google.com/+DamienPobel/posts/WgMevCNP2ms)
+* **Liens&nbsp;:** [Tweet](https://twitter.com/dpobel/status/352446676117618691)
 
 <br style="clear: left;">
