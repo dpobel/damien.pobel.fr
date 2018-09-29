@@ -7,7 +7,7 @@ remoteId: "7f961cba7f55a8db49a38a605894266f"
 published: 2007-04-02T23:06:46+02:00
 updated: 2016-02-09 22:23
 ---
- 
+
 En visionnant cette vidéo, y'a pas d'autres mots.
 
 <div class="video-container">
@@ -19,11 +19,11 @@ entendre l'un des porte-parole de Nicolas Sarkozy et candidat à la candidature 
 la mairie de Paris pour 2008 à propos de *l'idée d'emmener par avion des glaçons
 au pôle nord pour refroidir la planète*&nbsp;:
 
- <blockquote>
+<blockquote>
 &lt;Claude Goasguen&gt; c'est une idée qui ne me choque pas du tout !
 </blockquote>
 
- 
+
 Non mais quel c\*\*. Même pas un tic devant une idée aussi absurde. C'est pas
 croyable pour un politique avec [*une longue expérience
 universitaire*](http://claudegoasguen.typepad.com/about.html) (sic!). Et puis
