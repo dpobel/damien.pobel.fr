@@ -16,7 +16,7 @@ photos:
 
 Et un peu hors-sujet&nbsp;:
 
-* [La société s’empare de la sobriété numérique](https://www.greenit.fr/2018/10/02/societe-sempare-de-sobriete-numerique/) (fr)&nbsp;: mouais… ça reste timide, à peine un frémissement cantonné à milieu déjà sensibilisé.
+* [La société s’empare de la sobriété numérique](https://www.greenit.fr/2018/10/02/societe-sempare-de-sobriete-numerique/) (fr)&nbsp;: mouais… ça reste timide, à peine un frémissement cantonné à un milieu déjà sensibilisé.
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS correspondant](/rss/veille.xml))
