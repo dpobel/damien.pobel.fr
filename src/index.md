@@ -17,4 +17,7 @@ I'm also spread all over the Internets under variations of the  nicknames
   ;-)
 * [dpobel on Linkedin](http://fr.linkedin.com/in/dpobel) to receive news from
   people I've never met, I don't know or I don't remember ;-)
-* and a few others...
+* and a few others…
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM5MTQyMzM5M119
+-->
