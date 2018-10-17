@@ -33,6 +33,10 @@ la nécessité de prévoir l'avenir pour le réaliser convenablement.
     Vision, present, past, future. Tarots Cards">
 </figure>
 
+Je parle ici de ce qui est dans les mains des développeur·ses, il arrive aussi
+de devoir réaliser des fonctionnalités *au cas où* mais c'est une autre
+histoire…
+
 ## L'obsession de la généricité&nbsp;?
 
 L'une des formes les plus courantes (celle abordée dans le tweet cité plus haut)
