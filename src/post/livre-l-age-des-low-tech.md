@@ -1,6 +1,6 @@
 ---
 title: L'âge des low tech
-tags: livre, humeurs, environnement, réchauffement, climat, consommation
+tags: livre, humeurs, environnement, réchauffement, climat, consommation, low tech
 lang: fr
 published: 2017-11-30 14:46
 photos:
