@@ -1,9 +1,16 @@
 .last-photos ul {
     padding: 0;
     list-style-type: none;
+    margin-bottom: 0;
 }
 
 .last-photos li {
     margin-bottom: 2px;
     text-align: center;
+}
+
+.last-photos .more {
+    max-width: 200px;
+    text-align: right;
+    margin: 0.5em auto;
 }

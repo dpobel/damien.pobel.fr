@@ -12,6 +12,9 @@
             {"path": "page/cv", "name": "cv"},
             {"path": "page/about", "name": "about"}
         ],
+        "more": {
+            "photo": {"path": "tag/photo", "name": "More photos"}
+        },
         "sections": {
             "blog": {
                 "name": "blog",
