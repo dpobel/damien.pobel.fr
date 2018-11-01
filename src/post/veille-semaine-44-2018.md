@@ -11,7 +11,7 @@ photos:
 * [PSR-18: HTTP Client](https://www.php-fig.org/psr/psr-18/) (en)&nbsp;: chouette une PSR (PHP Standard Recommandation) pour des clients HTTP _standardisés_.
 * [Design with Difficult Data](https://alistapart.com/article/design-with-difficult-data) (en)&nbsp;: ça paraît relativement évident après avoir lu l'article mais finalement rarement fait…
 * [Guarding Your Value Objects](http://lebenplusplus.de/2018/10/25/guarding-your-value-objects/) (en)&nbsp;: différentes méthodes pour s'assurer de la validité (d'un point de vue du domaine) des Value Objects en PHP
-* [Web components: from zero to hero](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m#-browser-support-and-polyfills) (en)&nbsp;: comment écrire des Web Components sans framework. Les API liés aux Web Components étant de relativement bas niveau, c'est sans doute pas la meilleure option mais utiliser cette approche permet de bien comprendre les concepts sous-jacents.
+* [Web components: from zero to hero](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m#-browser-support-and-polyfills) (en)&nbsp;: comment écrire des Web Components sans framework. Les API liées aux Web Components étant de relativement bas niveau, c'est sans doute pas la meilleure option mais utiliser cette approche permet de bien comprendre les concepts sous-jacents.
 * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) (en)&nbsp;: super intéressant et effectivement la documentation répond à plusieurs besoins, il est donc plutôt logique d'avoir des types de documentation pour répondre à différents besoins.
 * [You're using <em> wrong](https://logrocket.com/blog/youre-using-em-wrong) (en)&nbsp;: raaah pas facile tout ça avec du Markdown :(
 
