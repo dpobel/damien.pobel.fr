@@ -13,7 +13,7 @@ photos:
 * [Guarding Your Value Objects](http://lebenplusplus.de/2018/10/25/guarding-your-value-objects/) (en)&nbsp;: différentes méthodes pour s'assurer de la validité (d'un point de vue du domaine) des Value Objects en PHP
 * [Web components: from zero to hero](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m#-browser-support-and-polyfills) (en)&nbsp;: comment écrire des Web Components sans framework. Les API liées aux Web Components étant de relativement bas niveau, c'est sans doute pas la meilleure option mais utiliser cette approche permet de bien comprendre les concepts sous-jacents.
 * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) (en)&nbsp;: super intéressant et effectivement la documentation répond à plusieurs besoins, il est donc plutôt logique d'avoir des types de documentation pour répondre à différents besoins.
-* [You're using <em> wrong](https://logrocket.com/blog/youre-using-em-wrong) (en)&nbsp;: raaah pas facile tout ça avec du Markdown :(
+* [You're using &lt;em&gt; wrong](https://logrocket.com/blog/youre-using-em-wrong) (en)&nbsp;: raaah pas facile tout ça avec du Markdown :(
 
 Et un peu hors-sujet&nbsp;:
 
