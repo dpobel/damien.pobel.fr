@@ -210,5 +210,3 @@ mon conseil, voici comme j'essaie d'aborder les optimisations&nbsp;:
 2. **Mesurer.**
 3. **Optimiser les parties qui explosent le budget.**
 4. **Prendre une décision _en tenant compte_ du contexte.**
-
-<small> *) Cela dit, n'animez jamias la largeur ou la hauteur sur le web. JAMAIS.</small>
