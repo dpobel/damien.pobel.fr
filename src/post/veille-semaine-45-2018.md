@@ -6,7 +6,7 @@ published: 2018-11-08T11:14:57Z
 photos:
     - images/veille_1.jpg
 ---
-* [Less Snake Oil, More Context](https://dassur.ma/things/less-snakeoil/) (en)&nbsp;: un article plein de bon sens, c'est toujours un question de contexte et de compromis.
+* [Less Snake Oil, More Context](https://dassur.ma/things/less-snakeoil/) (en)&nbsp;: un article plein de bon sens, c'est toujours un question de contexte et de compromis. [Moins de poudre de perlimpinpin, plus de contexte](/post/moins-de-poudre-de-perlimpinpin) est une traduction de cet article.
 * [Suspense](https://blog.hadrien.eu/2018/11/05/suspense/) (fr)&nbsp;: un résumé de l'utilité de `Suspense`, une fonctionnalité apparue dans React 16.6
 * [Appel à conférences pour l'AFUP Day 2019](https://afup.org/news/1013-repondez-au-cfp-afupday2019) (fr)&nbsp;: _L'appel à conférences_ pour l'AFUP Day 2019 est ouvert pour [Lyon](https://afup.org/event/afupday2019lyon) mais aussi pour [Rennes](https://afup.org/event/afupday2019rennes) et [Lille](https://afup.org/event/afupday2019lille).
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) (en)&nbsp;: comment Netflix a amélioré les performances de sa page d'inscription
