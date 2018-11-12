@@ -13,7 +13,7 @@ Context](https://dassur.ma/things/less-snakeoil/) par
 [Surma](https://twitter.com/DasSurma).
 </p>
 
-Les performances sur le web sont souvent un problème. Les développeur·ses
+Obtenir de bonnes performances sur le web est un défi permanent. Les développeur·ses
 essaient et essaieront encore d'en repousser les limites et c'est une bonne
 chose. Je ne veux pas changer cela.
 
@@ -28,8 +28,8 @@ peuvent être contre-productifs.
 
 ou autrement dit «&nbsp;Des règles pas des outils&nbsp;». [Alex
 Russell](https://twitter.com/slightlylate) a utilisé «&nbsp;Poudre de
-perlimpinpin&nbsp;» (<abbr title="Note de traduction">NDT</abbr>: Alex Russel
-étant anglophone, il a utilisé <i>Snake oil</i>) dans un tweet et je pense que
+perlimpinpin&nbsp;» dans un tweet (<abbr title="Note de traduction">NDT</abbr>:
+Alex Russel étant anglophone, il a utilisé <i>Snake oil</i>) et je pense que
 cette expression transmet parfaitement à la fois l'opacité et le manque de
 fiabilité de ce type de traitement.
 
@@ -42,13 +42,13 @@ Quelques exemples&nbsp;:
 
 Tout ceci est vrai _dans un contexte particulier_. Il faut bien comprendre une
 chose&nbsp;: la lenteur ou une animation saccadée n'est qu'_un symptôme, pas une
-maladie_. Ce qui est donc nécessaire ici, c'est une procédure de diagnostique différentiel. La
-fluidité d'une animation peut être gâchée pour de nombreuses raisons mais il est
-probable qu'_une_ soit réellement en cause. Par exemple, si l'effet saccadé est
-causé par le ramasse miette traitant de gros morceaux de données à chaque
-<i>frame</i>, `will-change: transform` n'aura aucun effet positif. Au contraire,
-cela augmentera la pression sur la mémoire et pourrait même empirer le
-phénomène.
+maladie_. Ce qui est donc nécessaire ici, c'est une procédure de diagnostique
+différentiel. La fluidité d'une animation peut être gâchée pour de nombreuses
+raisons mais il est probable qu'_une_ soit réellement en cause. Par exemple, si
+l'effet saccadé est causé par le ramasse miette traitant de gros morceaux de
+données à chaque <i>frame</i>, `will-change: transform` n'aura aucun effet
+positif. Au contraire, cette déclaration augmentera la pression sur la mémoire
+et pourrait même empirer le phénomène.
 
 Je ne me souviens pas qui a énoncé **«&nbsp;Si vous ne l'avez pas mesuré, ce
 n'est pas lent&nbsp;»** mais cette phrase résonne en moi même si se concentrer
@@ -68,8 +68,8 @@ approches en les exécutant plusieurs milliers de fois en isolation pour déterm
 quelle solution est la plus rapide.
 
 Comprenez-moi bien, les microbenchmarks ont une utilité, [j'en ai même
-écrit](https://dassur.ma/things/deep-copy/#performance-extravaganza) et beaucoup
-d'autres aussi. Ce sont des outils intéressants en particulier avec des
+écrit](https://dassur.ma/things/deep-copy/#performance-extravaganza) et comme
+beaucoup d'autres avant moi. Ce sont des outils intéressants en particulier avec des
 <i>frameworks</i> comme [BenchmarkJS](https://benchmarkjs.com/) qui permet
 d'obtenir des nombres statistiquement signifiants. En revanche, **les
 <i>frameworks</i> de benchmark ne sont d'aucune aide pour s'assurer que votre
@@ -92,8 +92,8 @@ est important de comprendre que passer de B à A ne va pas uniquement rendre le
 code plus rapide. **Quasiment toutes les optimisations de performance sont un
 compromis entre la vitesse et _autre chose_**. Dans la plupart des cas, vous
 abandonnez un peu de lisibilité, d'expressivité et/ou d'idiomatisme. Ces
-propriétés ne se verront pas dans vos mesures mais cela ne signifie pas pour
-autant qu'il faille les ignorer. Le code devrait être écrit pour les humain·es
+propriétés ne se verront pas dans vos mesures pour
+autant il ne faut pas les ignorer. Le code devrait être écrit pour les humain·es
 (ce qui inclut le/la futur·e vous) mais pas l'ordinateur.
 
 C'est là où les microbenchmarks nous abusent. Être capable de réaliser une
@@ -116,7 +116,7 @@ généré. Certaines fonctionnalités ne peuvent être transformées qu'avec une
 importante augmentation de la taille du code ce qui détériore les temps de
 téléchargement et de compilation. [La transformation des générateurs](https://babeljs.io/docs/en/babel-plugin-transform-regenerator)
 est un exemple extrême de ce phénomène. Un exécuteur de générateur doit être
-chargé tout en rendant les fonctions génératrices significativement plus
+ajouté tout en rendant les fonctions génératrices significativement plus
 lourdes. Une fois encore, ce n'est pas une raison pour ne pas utiliser les
 générateurs ou pour ne pas les transformer. En revanche, c'est une information
 importante pour prendre une décision. **Il s'agit encore et toujours de faire
@@ -175,16 +175,16 @@ boucle `for of` pour parcourir un tableau était 17 fois plus lent qu'une boucle
 changements ont été apportés à V8 et Babel). À cause de ces résultats, certaines
 personnes évitent toujours les boucles `for of`.
 
-Penchons nous sur des chiffres concrets&nbsp;: je boucle sur un tableau de 100
+Penchons nous sur des chiffres concrets&nbsp;: en parcourant un tableau de 100
 éléments dans Chrome 55 (sorti en décembre 2016, avant le lancement de
-<i>six-speed</i>) avec un boucle for of puis un boucle for classique&nbsp;:
+<i>six-speed</i>) avec un boucle for of puis un boucle for classique, j'obtiens&nbsp;:
 
 * boucle `for of`&nbsp;: 134µs
 * boucle `for` classique&nbsp;: 65µs
 
 Sans conteste, la boucle `for` classique est plus rapide (dans Chrome 55) mais la
 boucle `for of` donne une vérification implicite des limites et rend le corps de
-la boucle plus lisibe en évitant l'utilisation d'index. Y'a t il un intérêt à
+la boucle plus lisibe en évitant l'utilisation d'un index. Y'a t il un intérêt à
 gagner ~60µs&nbsp;? _ça dépend_ mais la plupart du temps la réponse est non. Si
 vous utilisez des boucles `for of` dans un chemin critique (comme du code qui
 construit chaque <i>frame</i> dans une application WebGL), c'est peut-être le
@@ -202,11 +202,11 @@ performances. Un grand merci à l'équipe travaillant sur V8&nbsp;!
 
 Bref, il n'existe aucune optimisation de performance qui soit _toujours_ bonne.
 En fait, il n'y a pratiquement aucune optimisation de performance qui soit
-_généralement_ bonne. Les pré-requis techniques, les audiences, les
-appareils et les priorités sont trop différentes. _Ça dépend_. Si vous voulez
-mon conseil, voici comme j'essaie d'aborder les optimisations&nbsp;:
+_généralement_ bonne. Les pré-requis techniques, les audiences, les appareils et
+les priorités sont trop différentes d'un contexte à un autre. _Ça dépend_. Si
+vous voulez mon conseil, voici comme j'essaie d'aborder les optimisations&nbsp;:
 
 1. **Définir un budget**
-2. **Mesurer.**
-3. **Optimiser les parties qui explosent le budget.**
-4. **Prendre une décision _en tenant compte_ du contexte.**
+2. **Mesurer**
+3. **Optimiser les parties qui explosent le budget**
+4. **Prendre une décision _en tenant compte_ du contexte**
