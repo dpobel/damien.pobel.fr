@@ -75,6 +75,31 @@ describe('Nunjucks filters', function () {
                 func(obj)
             );
         });
+    });
 
+    describe('tag_info', () => {
+        const tags = {
+            'tag.html': {},
+        };
+
+        beforeEach(function () {
+            filters(env);
+            func = env.filters.tag_info;
+        });
+
+        it('should return the tag info', () => {
+            assert.deepEqual(
+                tags['tag.html'],
+                func(tags, 'tag')
+            );
+        });
+
+        it('should return the default tag info', () => {
+            const tagName = 'whatever';
+            const info = func(tags, tagName);
+
+            assert.equal(tagName, info.title);
+            assert.equal("", info.contents);
+        });
     });
 });

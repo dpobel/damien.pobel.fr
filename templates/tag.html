@@ -5,7 +5,11 @@
 {% endblock %}
 
 {% block content %}
-    <h1>{{ tag }}</h1>
+    {% set tagInfo = tags|tag_info(tag) %}
+    <h1>{{ tagInfo.title }}</h1>
+    <div class="post-content">
+        {{ tagInfo.contents|safe }}
+    </div>
 
     <ul class="post-list">
     {% for post in pagination.files  %}

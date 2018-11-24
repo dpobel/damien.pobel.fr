@@ -29,7 +29,8 @@
         "css": "style.css"
     },
     "fileToMetadata": {
-        "icons": "icons/*.svg"
+        "icons": "icons/*.svg",
+        "tags": "tags/*"
     },
     "ignore": [
         "ext/*"
