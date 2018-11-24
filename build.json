@@ -9,6 +9,7 @@
         },
         "menu": [
             {"path": "posts", "name": "blog"},
+            {"path": "tag/veille", "name": "veille techno"},
             {"path": "page/cv", "name": "cv"},
             {"path": "page/about", "name": "about"}
         ],
@@ -28,7 +29,8 @@
         "css": "style.css"
     },
     "fileToMetadata": {
-        "icons": "icons/*.svg"
+        "icons": "icons/*.svg",
+        "tags": "tags/*"
     },
     "ignore": [
         "ext/*"
@@ -110,6 +112,11 @@
             "sortBy": "published",
             "reverse": true
         },
+        "blog": {
+            "pattern": "post/*",
+            "sortBy": "published",
+            "reverse": true
+        },
         "lastPosts": {
             "pattern": "post/*",
             "sortBy": "published",
@@ -125,7 +132,7 @@
         }
     },
     "pagination": {
-        "collections.posts": {
+        "collections.blog": {
             "perPage": 5,
             "layout": "blog.html",
             "first": "posts.md",

@@ -73,12 +73,14 @@ if ( assetsRev ) {
 conf.feed.postCustomElements = require('./lib/metalsmith/feed-postcustomelements.js');
 conf.tagLangFeed.postCustomElements = conf.feed.postCustomElements;
 
-conf.collections.lastPosts.filterBy = require('./lib/metalsmith/filter-collection.js').excludeWithTagFn('veille');
+const filterOutVeilleFn = require('./lib/metalsmith/filter-collection.js').excludeWithTagFn('veille');
+
+conf.collections.lastPosts.filterBy = filterOutVeilleFn;
+conf.collections.blog.filterBy = filterOutVeilleFn;
 
 pluginsConfList = [
     {plugin: define, conf: conf.define, name: 'define', indev: true},
     {plugin: assets, conf: conf.assets, name: 'assets', indev: true},
-    {plugin: fileToMetadata, conf: conf.fileToMetadata, name: 'fileToMetadata', indev: true},
     {plugin: myth, conf: conf.myth, name: 'myth', indev: true},
     {plugin: ignore, conf: conf.ignore, name: 'ignore', indev: true},
     {plugin: msMoment, conf: conf.moment, name: 'moment', indev: true},
@@ -88,6 +90,7 @@ pluginsConfList = [
     {plugin: fileMetadata, conf: conf.fileMetadata, name: 'fileMetadata', indev: true},
     {plugin: metallic, conf: undefined, name: 'metallic', indev: true},
     {plugin: markdown, conf: undefined, name: 'markdown', indev: true},
+    {plugin: fileToMetadata, conf: conf.fileToMetadata, name: 'fileToMetadata', indev: true},
     {plugin: collectPhotos, conf: conf.collectPhotos, name: 'collectPhotos', indev: true},
     {plugin: permalinks, conf: conf.permalinks, name: 'permalinks', indev: true},
     {plugin: feed, conf: conf.feed, name: 'feed', indev: true},
