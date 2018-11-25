@@ -1,7 +1,8 @@
 {% extends "templates/layout.html" %}
 
 {% block title %}
-    {{ tag }} - Billets à propos de "{{ tag }}"
+    {% set tagInfo = tags|tag_info(tag) %}
+    {{ tagInfo.title }} - Billets à propos de "{{ tag }}"
 {% endblock %}
 
 {% block content %}
