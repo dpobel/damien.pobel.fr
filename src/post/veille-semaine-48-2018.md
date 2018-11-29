@@ -4,7 +4,7 @@ tags: veille, bonnes pratiques, code, php, standard, symfony, web, métier, qual
 lang: fr
 published: 2018-11-29T11:12:14Z
 photos:
-    - images/veille_0.jpg
+    - images/veille_1.jpg
 ---
 * [Flutter: the good, the bad and the ugly](https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9) (en)&nbsp;: des retours sur l'utilisation de Flutter (framework de développement d'application mobile multi-plateforme)
 * [You need neither PWA nor AMP to make your website load fast](http://tonsky.me/blog/pwa/) (en)&nbsp;: il faut surtout comprendre le besoin, les problèmes et mettre en face les solutions qui correspondent
