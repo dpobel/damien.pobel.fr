@@ -78,7 +78,7 @@ https.get(feedUrl, (res) => {
     });
     parser.on('end', () => {
         const date = new Date();
-        const photoNr = (Math.floor(Math.random() * Math.floor(veillePhotoNumber + 1)));
+        const photoNr = Math.floor(Math.random() * veillePhotoNumber);
 
         console.log('---');
         console.log(`title: "Veille de la semaine #${dateFormat(date, 'W')} de ${dateFormat(date, 'yyyy')}"`);
