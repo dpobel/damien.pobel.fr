@@ -17,7 +17,7 @@ photos:
 
 Et un peu hors-sujet&nbsp;:
 
-* [L'Affaire du Siècle](https://laffairedusiecle.net/parler-de-laffaire-autour-de-vous/) (fr)&nbsp;: Puisque rien ne semble vraiment faire bouger les lignes, pourquoi ne pas essayer *via* la justice?
+* [L'Affaire du Siècle](https://laffairedusiecle.net/) (fr)&nbsp;: Puisque rien ne semble vraiment faire bouger les lignes, pourquoi ne pas essayer *via* la justice?
 * [Conférence de Pablo Servigne: Un avenir sans pétrole ?](https://www.youtube.com/watch?v=kSVA5Q79Urc&t=137s) (fr)&nbsp;: une conférence passionnante sur un futur probablement pas si lointain.
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
