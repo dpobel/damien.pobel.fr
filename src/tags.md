@@ -1,3 +1,3 @@
 ---
-title: The good old tag cloud ;-)
+title: Le bon vieux nuage de tags ;-)
 ---

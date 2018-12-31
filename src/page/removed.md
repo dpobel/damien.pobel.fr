@@ -1,6 +1,7 @@
 ---
 title: "Removed page"
 updated: 2016-02-06 16:44
+lang: en
 ---
 
 <div lang="fr">

@@ -1,6 +1,7 @@
 ---
 title: "eZ Publish REST v2 calls and outputs"
 updated: 2013-05-08 22:23
+lang: en
 ---
 
 # eZ Publish REST v2 calls and outputs
@@ -85,7 +86,7 @@ Transfer-Encoding: chunked
 Content-Type: application/vnd.ez.api.ContentInfo+json
 
 {"Content":{"_media-type":"application\/vnd.ez.api.ContentInfo+json","_href":"\/api\/ezp\/v2\/content\/objects\/41","_remoteId":"a6e35cbcb7cd6ae4b691f3eee30cd262","_id":41,"ContentType":{"_media-type":"application\/vnd.ez.api.ContentType+json","_href":"\/api\/ezp\/v2\/content\/types\/1"},"Name":"Media","Versions":{"_media-type":"application\/vnd.ez.api.VersionList+json","_href":"\/api\/ezp\/v2\/content\/objects\/41\/versions"},"CurrentVersion":{"_media-type":"application\/vnd.ez.api.Version+json","_href":"\/api\/ezp\/v2\/content\/objects\/41\/currentversion"},"Section":{"_media-type":"application\/vnd.ez.api.Section+json","_href":"\/api\/ezp\/v2\/content\/sections\/3"},"MainLocation":{"_media-type":"application\/vnd.ez.api.Location+json","_href":"\/api\/ezp\/v2\/content\/locations\/1\/43"},"Locations":{"_media-type":"application\/vnd.ez.api.LocationList+json","_href":"\/api\/ezp\/v2\/content\/objects\/41\/locations"},"Owner":{"_media-type":"application\/vnd.ez.api.User+json","_href":"\/api\/ezp\/v2\/user\/users\/14"},"lastModificationDate":"2003-08-12T15:37:37+02:00","publishedDate":"2003-08-12T15:37:37+02:00","mainLanguageCode":"eng-GB","alwaysAvailable":"true"}}
-``` 
+```
 
 ### <span id="load">Load content</span>
 

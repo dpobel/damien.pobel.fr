@@ -1,4 +1,4 @@
-<article>
+<article lang="{{ post.lang|default('fr', true) }}">
     <h2><a href="{{ page.path|url }}">{{ page.title }}</a></h2>
     <div class="post-meta">
         {% set date = page.updated if page.updated else page.published %}

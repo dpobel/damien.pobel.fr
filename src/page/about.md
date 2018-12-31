@@ -1,39 +1,41 @@
 ---
-title: "About"
-updated: 2016-01-11 16:30
+title: "À propos"
+updated: 2018-12-31 16:30
+lang: en
 ---
 
-# About...
+# À propos…
 
-## the author
+## de l'auteur
 
-I'm a software engineer interested in the web and open technologies. If you want
-to learn more about my professional skills and background, please have a look on
-[my curriculum vitæ](/page/cv) (or [its french version](/page/cv-fr)).
+Je suis un ingénieur logiciel intéressé par le web et les technologies ouvertes.
+[Mon CV](/page/cv-fr/) vous permettra de vous faire une idée de mes compétences
+et de mes expériences passées et présentes.
 
-In the real life, I like sports ([mountain bike](http://vtt.revermont.bike/),
-table tennis, ...), I try to take [photos](/tag/photo) and I'm also the happy
-dad of two cute little girls called Charline and Clémentine. I live in a small
-french village called [St Paul de Varax](http://mairie-saintpauldevarax.fr/).
+Dans la vraie vie, je suis l'heureux papa de deux petites filles nommées
+Charlinet et Clémentine.  J'aime le sport ([vtt](http://vtt.revermont.bike/),
+tennis de table,&nbsp;…), la nature et j'essaie de prendre [des
+photos](/tag/photo/).  J'habite dans un petit village en France appelé [St Paul
+de Varax](http://mairie-saintpauldevarax.fr/).
 
-## the content
+## du contenu
 
-Unless otherwise noted, the content is published under the license [Creative
-Commons by-sa 3.0](http://creativecommons.org/licenses/by-sa/3.0/). For any
-usage beyond this license, feel free to [contact me by
+À moins que le contraire soit précisé, le contenu est publié sous la license
+[Creative Commons by-sa 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
+Pour tout usage ne cadrant pas avec celle-ci merci de [me contacter par
 email](mailto:damien+blog@pobel.fr).
 
-I write things online [since 2006](/post/ouverture) on a lots of different
-topics, sometimes in French, sometimes in English. You can have a quick overview
-of the different topics by looking at [the good old tag cloud](/tags).
+J'écris des trucs en ligne [depuis 2006](/post/ouverture) sur plein de sujets
+différents parfois en français, parfois en anglais. Le [bon vieux nuage de
+tags](/tags/) donne un aperçu rapide des sujets traités.
 
-**Disclaimer: any viewpoints and opinions expressed in this website are
-purely PERSONAL, and thus do NOT reflect those of my employer or any entity
-associated with me.**
+**Avertissements&nbsp;: les opinions et points de vue exprimés sur ce site sont
+totalement PERSONNELS et donc ne reflètent pas ceux de mes employeurs présents
+ou passé ni d'aucune entité à laquelle je suis associé.**
 
-## this website
+## ce site
 
-This website is built with [Metalsmith and a few others tools and
-services](/post/powered-by-metalsmith/). The icons were taken from [Simple
-Icons](http://simpleicons.org/) projects. The whole source code is on Github in
-[dpobel/damien.pobel.fr repository](https://github.com/dpobel/damien.pobel.fr).
+Ce site est construit avec [Metalsmith et quelques autres outils et
+services](/post/powered-by-metalsmith/). Les icônes proviennent du projet
+[Simple Icons](http://simpleicons.org/). Tout le code source est sur Github dans
+[le dépôt dpobel/damien.pobel.fr](https://github.com/dpobel/damien.pobel.fr).
