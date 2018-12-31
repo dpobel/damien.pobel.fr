@@ -1,6 +1,7 @@
 ---
 title: "Moved projects"
 updated: 2013-05-08 22:23
+lang: en
 ---
 
 # Moved projects

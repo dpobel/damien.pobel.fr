@@ -10,8 +10,8 @@
         "menu": [
             {"path": "posts", "name": "blog"},
             {"path": "tag/veille", "name": "veille techno"},
-            {"path": "page/cv", "name": "cv"},
-            {"path": "page/about", "name": "about"}
+            {"path": "page/cv-fr", "name": "cv"},
+            {"path": "page/about", "name": "à propos"}
         ],
         "more": {
             "photo": {"path": "tag/photo", "name": "More photos"}
