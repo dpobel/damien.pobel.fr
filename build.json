@@ -5,7 +5,7 @@
         "site": {
             "url": "https://damien.pobel.fr",
             "name": "Damien Pobel",
-            "baseline": "Curious geek and (sometimes grumpy) software engineer ;-)"
+            "baseline": "Geek curieux et ingénieur logiciel (parfois) un peu râleur ;-)"
         },
         "menu": [
             {"path": "posts", "name": "blog"},
