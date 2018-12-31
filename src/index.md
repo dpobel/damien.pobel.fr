@@ -1,20 +1,16 @@
-## Welcome!
+## Bienvenue&nbsp;!
 
-I'm Damien Pobel and welcome to *my personal homepage*. Yeah, I know this sounds
-very like the 90s, but this page is really *my* space mostly with [my
-blog](/posts/) and [my résumé](/page/cv/).
+Bienvenue sur *ma page personnelle*, oui je sais ça fait très années 90 mais
+cette page est vraiment *mon* espace principalement composé de [mon
+blog](/posts/) et de [mon CV](/page/cv-fr/).
 
-I'm also spread all over the Internets under variations of the  nicknames
-`dpobel` and `tigrou` (that's a long and uninteresting story...):
+Je suis aussi un peu partout sur les Internets notamment&nbsp;:
 
-* [@dpobel](https://twitter.com/dpobel) for a lots of things, like ranting,
-  rambling, grumbling, moaning and sometimes sharing interesting things
-* [dpobel on Github](https://github.com/dpobel/) because that's a professional
-  tool and because I'm a geek (maybe not in this order)
-* [TiGr0u on Last.fm](http://www.last.fm/user/TiGr0u) for [Rock'n
-  Roll](/tag/rock/)!
-* [dpobel on instagram](https://www.instagram.com/dpobel/) well because it's fun
-  ;-)
-* [dpobel on Linkedin](http://fr.linkedin.com/in/dpobel) to receive news from
-  people I've never met, I don't know or I don't remember ;-)
-* and a few others…
+* [@dpobel](https://twitter.com/dpobel) pour divaguer, râler, me plaindre,
+  geindre et parfois partager des trucs potentiellement intéressants.
+* [dpobel sur Github](https://github.com/dpobel/) pour écrire un peu de code
+* [dpobel on instagram](https://www.instagram.com/dpobel/) parce c'est fun
+* [dpobel on Linkedin](http://fr.linkedin.com/in/dpobel) pour recevoir des
+  nouvelles de gens que je n'ai jamais rencontrés ou que je ne connais pas ou
+  dont je ne me souviens pas ;-)
+* et quelques autres…
