@@ -1,10 +1,10 @@
 ---
-title: "Rue du commerce, voici comment vous avez perdu une commande..."
+title: "Rue du commerce, voici comment vous avez perdu une commande…"
 tags: humeurs, ux
 published: 2013-03-24T22:33:25+01:00
 ---
 
-Et peut être même un client... Récit de la tentative d'achat d'un disque dur
+Et peut être même un client… Récit de la tentative d'achat d'un disque dur
 pour mon portable.
 
 Juste après l'ajout du disque dur au panier, voici le panier en question&nbsp;:
@@ -13,7 +13,7 @@ Juste après l'ajout du disque dur au panier, voici le panier en question&nbsp;:
 src="/images/660x/rue-du-commerce-panier.png" alt="Panier sur Rue du
 commerce"></a></figure>
 
-Suprise, une assurance *conseillée* mais ajoutée par défaut... J'ai déjà du
+Suprise, une assurance *conseillée* mais ajoutée par défaut… J'ai déjà du
 décliner des offres juste après l'ajout au panier, ça commence à être un peu
 lourd. Bref, je décoche la case, et je continue dans le tunnel de vente, les
 étapes *Adresse* puis *Livraison* sont sans surprises, arrive le paiement&nbsp;:
@@ -24,7 +24,7 @@ commerce"></a></figure>
 
 Aller hop, **encore** un truc ajouté, cette fois c'est leur fameuse "garantie
 contrat Or" dont la réelle plus value par rapport à la garantie standard
-m'échappe un peu... En fait, si je comprend bien, la plupart des gens ne
+m'échappe un peu… En fait, si je comprend bien, la plupart des gens ne
 s'attendent pas à une quelconque manipulation du panier à cette étape, et si on
 est un peu pressé il est facile de pas remarquer cet ajout. En plus le style de
 la page n'aide pas&nbsp;:
@@ -43,4 +43,4 @@ client puis attendre encore pour pouvoir accéder aux détails où il est possib
 enfin, d'annuler la commande *via* un espèce de formulaire de contact vraiment
 pas clair.
 
-Bref, je vais aller acheter mon disque dur ailleurs...
+Bref, je vais aller acheter mon disque dur ailleurs…

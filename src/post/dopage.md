@@ -1,5 +1,5 @@
 ---
-title: "Dopage..."
+title: "Dopage…"
 tags: tour de france, cyclisme, dopage, humeurs, sport
 lang: "fr"
 node: "66070"
@@ -47,4 +47,4 @@ la suite d'expériences positivo-négatives antérieures ?
 En tout cas, certaines choses commencent peut être à changer mais quand je vois
 cette publicité Adsense sur [Xtremstar.com](http://xtremstar.com) qui ne semble
 pas pour un produit dopant au sens propre du terme, mais qui est révélatrice
-d'un certain état d'esprit pas très sain...
+d'un certain état d'esprit pas très sain…

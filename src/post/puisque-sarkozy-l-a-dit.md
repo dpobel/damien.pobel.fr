@@ -1,5 +1,5 @@
 ---
-title: "Puisque Sarkozy l'a dit..."
+title: "Puisque Sarkozy l'a dit…"
 tags: spam, web, amusant, politique, mail
 lang: "fr"
 node: "67518"
@@ -9,7 +9,7 @@ published: 2009-02-06T23:33:35+01:00
 
 Reçu à l'instant :
 
-``` 
+```
 From: spammeur@domaine.fr
 Subject: discours de Sarkozy
 To: spamme@domaine.fr

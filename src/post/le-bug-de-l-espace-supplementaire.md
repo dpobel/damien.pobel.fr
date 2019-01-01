@@ -1,5 +1,5 @@
 ---
-title: "Le bug de l'espace supplémentaire..."
+title: "Le bug de l'espace supplémentaire…"
 tags: ez publish, vim, template
 updated: 2009-01-25T00:40:49.000Z
 lang: "fr"
@@ -17,7 +17,7 @@ Aujourd'hui, j'ai refait quelques tests sur le code Planet eZ Publish.fr qui sou
 
 Il est heureusement possible de désactiver ce comportement en ajoutant les lignes suivantes dans sa configuration de Vim :
 
-``` 
+```
 au BufWritePre * :set binary | set noeol
 au BufWritePost * :set nobinary | set eol
 ```

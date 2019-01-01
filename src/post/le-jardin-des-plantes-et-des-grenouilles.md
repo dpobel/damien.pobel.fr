@@ -1,5 +1,5 @@
 ---
-title: "Le jardin des plantes... et des grenouilles !"
+title: "Le jardin des plantes… et des grenouilles !"
 tags: photo, montpellier, nikon d50, nature
 lang: "fr"
 node: "66751"
@@ -26,4 +26,4 @@ beaucoup plus facile :)
 </a></figure>
 
 
-D'autres photos des plantes cette fois sont à venir...
+D'autres photos des plantes cette fois sont à venir…

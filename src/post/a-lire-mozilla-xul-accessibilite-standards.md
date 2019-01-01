@@ -1,5 +1,5 @@
 ---
-title: "À lire Mozilla, XUL, accessibilité, standards..."
+title: "À lire Mozilla, XUL, accessibilité, standards…"
 tags: accessibilité, mail, xul, mozilla, standards
 lang: "fr"
 node: "64271"
@@ -16,10 +16,10 @@ updated: 2016-02-09 08:15
   Voila une belle et prometteuse technologie qui prend de l'ampleur du moins en
   France. Je m'étais amusé un peu avec XUL avec un mini prototype de lecteur RSS
   en ligne avec XUL avec PHP côté serveur. Faudrait que je trouve le temps de
-  ressortir ça des cartons...
+  ressortir ça des cartons…
 * [Sébastien
   Delorme](http://tentatives-accessibles.eu/60-lancement-de-planete-accessibilite)
-  lance Planète Accessibilité (planete-accessibilite.com, hors ligne depuis...)
+  lance Planète Accessibilité (planete-accessibilite.com, hors ligne depuis…)
   une belle initiative visant à regrouper les articles publiés plus ou moins
   régulièrement au sujet de l'accessibilité.
 * Le W3C lance [une liste de diffusion publique dédiée à la discussion autour du

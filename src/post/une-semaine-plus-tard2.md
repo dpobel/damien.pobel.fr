@@ -1,5 +1,5 @@
 ---
-title: "Une semaine plus tard..."
+title: "Une semaine plus tard…"
 tags: php, ez publish, travail, humeurs, cms
 lang: "fr"
 node: "69117"
@@ -8,7 +8,7 @@ published: 2011-04-18T21:13:46+02:00
 updated: 2016-02-11 13:41
 ---
 
-([Ce billet a comme un air de déjà vu](/post/une-semaine-plus-tard)... ;-))
+([Ce billet a comme un air de déjà vu](/post/une-semaine-plus-tard)… ;-))
 
 
 [Je voulais du changement](/post/bye-bye-smile), je suis servi&nbsp;! Il est
@@ -20,7 +20,7 @@ j'arrive chez un éditeur où c'est quasiment l'inverse avec
 [Github](https://github.com/), Scrumpad,
 [Campfire](http://campfirenow.com/), [Google
 Apps](http://www.google.com/apps/intl/fr/business/index.html#utm_campaign=fr&amp;utm_source=fr-ha-emea-fr-bk&amp;utm_medium=ha&amp;utm_term=google%20apps)
-(Documents, Mail, gTalk, ...)... et j'en oublie probablement pas mal ! Je ne
+(Documents, Mail, gTalk, …)… et j'en oublie probablement pas mal ! Je ne
 doute pas que je vais découvrir au fur et à mesure d'autres surprises.
 
 
@@ -35,7 +35,7 @@ passe](http://doc.ez.no/Extensions/eZ-Publish-extensions/eZ-MB-Password-Expiry)
 ([#15391](http://issues.ez.no/15391)[#15404](http://issues.ez.no/15404) patch en
 cours de review). D'ailleurs, l'extension eZ Image Editor gagnerait à être plus
 connue car cette extension est plutôt sympatique d'un point de vue éditeur
-backoffice, peut être le sujet d'un prochain billet...
+backoffice, peut être le sujet d'un prochain billet…
 
 
 Pour revenir à mon nouveau travail, assez symboliquement, [mon premier

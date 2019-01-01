@@ -1,5 +1,5 @@
 ---
-title: "L'île de la tentation, un programme cul..."
+title: "L'île de la tentation, un programme cul…"
 tags: stupides, télévision, amusant
 updated: 2010-07-16T08:04:04.000Z
 lang: "fr"

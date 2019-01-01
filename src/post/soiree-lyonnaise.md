@@ -1,5 +1,5 @@
 ---
-title: "Soirée Lyonnaise..."
+title: "Soirée Lyonnaise…"
 tags: lyon, photo, nikon d50
 lang: "fr"
 node: "67312"
