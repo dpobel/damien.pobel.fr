@@ -1,5 +1,5 @@
 ---
-title: "Bye bye Smile..."
+title: "Bye bye Smile…"
 tags: ez systems, humeurs, travail, smile, ez publish
 updated: 2011-03-20T11:05:14.000Z
 lang: "fr"
@@ -8,8 +8,8 @@ remoteId: "0c401763d790f990b7a583d1fc5902ec"
 published: 2011-03-19T18:00:00+01:00
 ---
 
-Après un peu plus de [quatre années passées chez Smile](/page/cv-fr), lundi sera mon dernier jour en tant que *Smilien*. Je relis avec amusement mon billet suite [au départ de Kaliop](/post/du-changement-dans-l-air) et surtout celui après [une semaine chez Smile à Montpellier](/post/une-semaine-plus-tard). Quand je pense que j'ai écrit ce billet un vendredi midi pendant *la pause vidéo ludique*... quelle drôle d'idée :-) Plus sérieusement, le moins que je puisse dire c'est que ces années ont été plutôt intenses et riches en expériences aussi bien d'un point de vue technique que d'un point de vue humain avec un bilan largement positif dans tous les cas ! Encore une fois merci à tous ceux avec qui j'ai eu le plaisir de travailler.
+Après un peu plus de [quatre années passées chez Smile](/page/cv-fr), lundi sera mon dernier jour en tant que *Smilien*. Je relis avec amusement mon billet suite [au départ de Kaliop](/post/du-changement-dans-l-air) et surtout celui après [une semaine chez Smile à Montpellier](/post/une-semaine-plus-tard). Quand je pense que j'ai écrit ce billet un vendredi midi pendant *la pause vidéo ludique*… quelle drôle d'idée :-) Plus sérieusement, le moins que je puisse dire c'est que ces années ont été plutôt intenses et riches en expériences aussi bien d'un point de vue technique que d'un point de vue humain avec un bilan largement positif dans tous les cas ! Encore une fois merci à tous ceux avec qui j'ai eu le plaisir de travailler.
 
 
-Mais toutes les bonnes choses ont une fin... pour en commencer d'autres. La suite, justement, se passera d'ici quelques semaines chez [eZ Systems](http://ez.no/About-us) l'éditeur d'eZ Publish pour travailler au développement du CMS lui-même ainsi que sur les extensions associées. En bref, au revoir SSII et bonjour l'édition de logiciels, assurément c'est un vrai changement et un nouveau challenge dans un environnement radicalement différent, j'ai hâte d'y être&nbsp;!
+Mais toutes les bonnes choses ont une fin… pour en commencer d'autres. La suite, justement, se passera d'ici quelques semaines chez [eZ Systems](http://ez.no/About-us) l'éditeur d'eZ Publish pour travailler au développement du CMS lui-même ainsi que sur les extensions associées. En bref, au revoir SSII et bonjour l'édition de logiciels, assurément c'est un vrai changement et un nouveau challenge dans un environnement radicalement différent, j'ai hâte d'y être&nbsp;!
 

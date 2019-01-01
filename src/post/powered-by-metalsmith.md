@@ -1,5 +1,5 @@
 ---
-title: Powered by Metalsmith (and Github, TravisCI, Myth, npm...)
+title: Powered by Metalsmith (and Github, TravisCI, Myth, npm…)
 lang: en
 tags: javascript, metalsmith, blog, node.js, travis ci, github, git, myth, flexbox, jamstack
 published: 2016-01-21 16:38
@@ -23,11 +23,11 @@ that on the hosting server :-)
 As a matter of fact, I also did various choices at different levels when
 rebuilding this website:
 
-* no external dependencies in the pages like custom fonts, social widgets and so on... Even
+* no external dependencies in the pages like custom fonts, social widgets and so on… Even
   no Google Analytics. I've came to the conclusion that the price for the reader
   does not worth it. So the main font is the good old Arial and to share a post on
   the main social networks (feel free to do it ;-)) you have good old hypertext
-  links. And as a result, you won't see here the stupid cookie warning...
+  links. And as a result, you won't see here the stupid cookie warning…
 * it seems like [font icons are not that
   good](http://blog.cloudfour.com/seriously-dont-use-icon-fonts/) so this
   website is font icons free, the few icons were replaced by inline SVG coming
@@ -42,7 +42,7 @@ rebuilding this website:
   [Myth](http://www.myth.io/) has been there for a while, it is much
   more simple and there's already [a plugin for
   Metalsmith](https://github.com/kasperisager/metalsmith-myth), so for now the
-  winner is... Myth :-)
+  winner is… Myth :-)
 * on the CSS side: *flexbox all the things* and *CSS custom properties
   (variables) for the win*. Those 2 *new* CSS features change everything when it
   comes to write the stylesheets. And again given the simplicity of this

@@ -1,10 +1,10 @@
 ---
-title: "Lori, Amazone, Échasse blanche, Martin-Chasseur et..."
+title: "Lori, Amazone, Échasse blanche, Martin-Chasseur et…"
 tags: photo, dombes, ain, nikon d90, oiseau
 published: 2013-09-01T21:48:09+02:00
 ---
 
-... un invité inconnu, si vous avez une idée de son nom je suis preneur! Bien
+… un invité inconnu, si vous avez une idée de son nom je suis preneur! Bien
 évidemment, comme <a href="/post/parc-des-oiseaux">les précédents</a>, ils sont
 pensionnaires du parc des oiseaux de Villars-les-Dombes. Comme d'habitude les
 photos sont aussi visible dans [le *set* Flickr

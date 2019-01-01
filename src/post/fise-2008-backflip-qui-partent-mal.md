@@ -1,5 +1,5 @@
 ---
-title: "FISE 2008 : backflip qui partent mal..."
+title: "FISE 2008 : backflip qui partent mal…"
 tags: sport, bmx, photo, montpellier, nikon d50, fise
 updated: 2009-05-22T15:41:10.000Z
 lang: "fr"
@@ -14,5 +14,5 @@ published: 2008-05-04T14:59:47+02:00
 </a></figure>
 
 
-Le [backflip](http://photos.pwet.fr/villes-et-departements/herault-34/montpellier/alessandro-barbero-en-plein-back-flip/) c'est un peu LA figure qui impressionne tout le monde, mais parfois ça part mal... Heureusement dans les deux cas, pas de casse, juste une bonne frayeur et un spectacle très impressionnant.
+Le [backflip](http://photos.pwet.fr/villes-et-departements/herault-34/montpellier/alessandro-barbero-en-plein-back-flip/) c'est un peu LA figure qui impressionne tout le monde, mais parfois ça part mal… Heureusement dans les deux cas, pas de casse, juste une bonne frayeur et un spectacle très impressionnant.
 

@@ -1,5 +1,5 @@
 ---
-title: "Soirée burgienne..."
+title: "Soirée burgienne…"
 tags: photo, nikon d50
 lang: "fr"
 node: "67316"
@@ -10,5 +10,5 @@ published: 2008-11-09T22:26:43+01:00
 </a></figure>
 
 
-... derrière [L'église de Brou](http://photos.pwet.fr/galeries/le-monastere-royal-de-brou/) à [Bourg-en-Bresse](http://photos.pwet.fr/villes-et-departements/ain-01/bourg-en-bresse/), le seul angle où on ne voit pas l'échafaudage nécessaire à sa rénovation...
+… derrière [L'église de Brou](http://photos.pwet.fr/galeries/le-monastere-royal-de-brou/) à [Bourg-en-Bresse](http://photos.pwet.fr/villes-et-departements/ain-01/bourg-en-bresse/), le seul angle où on ne voit pas l'échafaudage nécessaire à sa rénovation…
 

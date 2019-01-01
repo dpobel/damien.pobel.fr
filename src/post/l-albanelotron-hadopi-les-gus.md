@@ -1,5 +1,5 @@
 ---
-title: "L'albanelotron, HADOPI, les gus ..."
+title: "L'albanelotron, HADOPI, les gus …"
 tags: amusant, citation, web, politique
 lang: "fr"
 node: "67742"
@@ -11,13 +11,13 @@ updated: 2016-02-09 07:56
 Bon la loi <abbr title="Haute Autorité pour la Diffusion des Œuvres et la
 Protection des droits sur Internet">HADOPI</abbr>  (Création et Internet) a été
 adoptée, pas très drôle mais pas sûr qu'elle soit réellement appliquée entre la
-débilité intrinsèque du texte, l'opposition de l'Europe... Bref, en attendant,
+débilité intrinsèque du texte, l'opposition de l'Europe… Bref, en attendant,
 on trouve des trucs marrants comme
 l'Albanelotron (site indisponible depuis :-()&nbsp;! Je ne résiste pas à la
 tentation de citer mes 3 préférées&nbsp;:
 
 <blockquote>
-Guy Bono, chanteur de U2...
+Guy Bono, chanteur de U2…
 </blockquote>
 
 <blockquote>

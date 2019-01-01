@@ -1,5 +1,5 @@
 ---
-title: En 2017, j'ai fait...
+title: En 2017, j'ai fait…
 lang: fr
 published: 2018-01-01 16:04
 tags: livre, travail, blog, metalsmith, environnement, potager, dégooglisation
@@ -78,7 +78,7 @@ en particulier les melons.
 Mais surtout 2017 restera l'année de mon *départ* d'eZ Systems. C'était il y'a
 plusieurs mois mais je suis toujours pas revenu du déroulement de toute cette
 affaire et du comportement de certaines personnes. Bref, c'est une grosse page
-qui se tourne...
+qui se tourne…
 
 ## Et en 2018&nbsp;?
 

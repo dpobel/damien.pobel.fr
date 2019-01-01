@@ -1,5 +1,5 @@
 ---
-title: "Votre option expire..."
+title: "Votre option expire…"
 tags: bug, web, amusant
 updated: 2009-08-13T21:52:48.000Z
 lang: "fr"
@@ -13,5 +13,5 @@ photos:
 </a></figure>
 
 
-... mais ils savent pas laquelle, mais bizarrement mon mail, ils s'en souviennent parfaitement. A très bientôt (vu qu'on a pas le choix).
+… mais ils savent pas laquelle, mais bizarrement mon mail, ils s'en souviennent parfaitement. A très bientôt (vu qu'on a pas le choix).
 
