@@ -9,6 +9,7 @@
       <outline type="rss" text="Stories by Heydon on Medium" title="Stories by Heydon on Medium" xmlUrl="https://medium.com/feed/@Heydon" htmlUrl="https://medium.com/@Heydon?source=rss-fbee25a1f240------2"/>
       <outline type="rss" text="ariya.io" title="ariya.io" xmlUrl="https://ariya.io/index.xml" htmlUrl="https://ariya.io/"/>
       <outline type="rss" text="IEBlog" title="IEBlog" xmlUrl="http://blogs.msdn.com/ie/rss.xml" htmlUrl="https://blogs.windows.com/msedgedev"/>
+      <outline type="rss" text="justmarkup" title="justmarkup" xmlUrl="https://justmarkup.com/log/feed/" htmlUrl="https://justmarkup.com/log"/>
       <outline type="rss" text="Princesse RH" title="Princesse RH" xmlUrl="https://libelilou.github.io/feed.xml" htmlUrl="https://libelilou.github.io/"/>
       <outline type="rss" text="William Durand" title="William Durand" xmlUrl="http://williamdurand.fr/atom.xml" htmlUrl="https://williamdurand.fr"/>
       <outline type="rss" text="The Strangebuzz PHP/Symfony blog." title="The Strangebuzz PHP/Symfony blog." xmlUrl="https://feeds.feedburner.com/strangebuzz/fr"/>
@@ -246,6 +247,7 @@
       <outline type="rss" text="ASCII Thoughts" title="ASCII Thoughts" xmlUrl="http://feeds.feedburner.com/asciithoughts" htmlUrl="http://asciithoughts.com"/>
       <outline type="rss" text="putaindecode.io" title="putaindecode.io" xmlUrl="http://putaindecode.io/feed.xml" htmlUrl="http://putaindecode.io"/>
       <outline type="rss" text="Jérémy DECOOL (@jdecool), Ingénieur Etudes et Développement à Lyon" title="Jérémy DECOOL (@jdecool), Ingénieur Etudes et Développement à Lyon" xmlUrl="https://www.jdecool.fr/feed.xml" htmlUrl="https://www.jdecool.fr"/>
+      <outline type="rss" text="Christian Heilmann" title="Christian Heilmann" xmlUrl="https://christianheilmann.com/feed/" htmlUrl="https://christianheilmann.com"/>
       <outline type="rss" text="Lifehacks for Developers" title="Lifehacks for Developers" xmlUrl="https://sizovs.net/feed.xml" htmlUrl="http://sizovs.net/"/>
       <outline type="rss" text="Le blog de llaumgui" title="Le blog de llaumgui" xmlUrl="http://www.llaumgui.com/index.php/feed/rss2" htmlUrl="https://blog.kulakowski.fr"/>
       <outline type="rss" text="Jean-Pierre Lambert's blog" title="Jean-Pierre Lambert's blog" xmlUrl="https://jp-lambert.me/feed" htmlUrl="https://jp-lambert.me?source=rss----512c1871b25c---4"/>
