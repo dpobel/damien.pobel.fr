@@ -12,7 +12,7 @@ photos:
 * [Overly defensive programming](https://blog.vcarl.com/overly-defensive-programming/) (en)&nbsp;: cet article montre quelques exemples en JavaScript mais le même raisonnement s'applique à beaucoup de langages.
 * [Résultats de la campagne 2018](https://barometre.afup.org/report/2018/) (fr)&nbsp;: le résultat du baromètre annuel de l'AFUP notamment sur les salaires dans le monde PHP
 * [Naming things](https://en.rmcreative.ru/blog/naming-things/) (en)&nbsp;: des conseils pour mieux nommer les variables, fonctions, méthodes,…
-* [Please stop building inaccessible forms (and how to fix them)](https://blog.kentcdodds.com/please-stop-building-inaccessible-forms-and-how-to-fix-them-72c59e2729c6) (en)&nbsp;: de l'importance de bien utiliser `&lt;label&gt;`
+* [Please stop building inaccessible forms (and how to fix them)](https://blog.kentcdodds.com/please-stop-building-inaccessible-forms-and-how-to-fix-them-72c59e2729c6) (en)&nbsp;: de l'importance de bien utiliser `<label>`
 
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
