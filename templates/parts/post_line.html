@@ -8,8 +8,8 @@
     <div class="post-meta">
         {% set tags = post.tags %}
         {% include "templates/parts/tags.html" %}
-        <time datetime="{{ post.published.format() }}">
-            <a href="{{ post.path|url }}">{{ post.published.format('YYYY-MM-DD HH:mm') }}</a>
+        <time datetime="{{ post.published.format('YYYY-MM-DD') }}">
+            <a href="{{ post.path|url }}">{{ post.published.format('DD/MM/YYYY') }}</a>
         </time>
     </div>
 </article>
