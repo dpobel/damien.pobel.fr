@@ -6,7 +6,7 @@ published: 2019-02-14T11:12:22Z
 photos:
     - images/veille_0.jpg
 ---
-* [Links that don’t go anywhere should be buttons](https://christianheilmann.com/2019/02/05/links-that-dont-go-anywhere-should-be-buttons/) (en)&nbsp;: `&lt;a&gt;` vs. `&lt;button&gt;`
+* [Links that don’t go anywhere should be buttons](https://christianheilmann.com/2019/02/05/links-that-dont-go-anywhere-should-be-buttons/) (en)&nbsp;: `<a>` vs. `<button>`
 * [Responsive Strategy](http://bradfrost.com/blog/post/responsive-strategy/) (en)&nbsp;: l'article date de 2014 mais il résume plutôt bien les stratégies possibles pour produire des sites/applications utilisables sur des appareils avec des contraintes différentes.
 * [Everything you need to know about React Hooks](https://blog.vcarl.com/everything-need-to-know-hooks/) (en)&nbsp;: un bon résumé des React Hooks, la grosse nouveauté de [React 16.8](https://reactjs.org/blog/2019/02/06/react-v16.8.0.html)
 * [An introduction to npx, the npm package runner](https://hackernoon.com/npx-npm-package-runner-7f6683e4304a) (en)&nbsp;: une introduction au trop méconnu `npx`
