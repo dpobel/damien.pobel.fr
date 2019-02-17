@@ -3,6 +3,8 @@ title: "Il était une fois 2 pièces: comprendre la navigation avec un lecteur d
 tags: accessibilité, lecteur d'écran, traduction
 lang: fr
 published: 2018-02-08 22:59
+photos:
+    - images/lampe.jpg
 ---
 
 <p class="note">
@@ -10,6 +12,10 @@ Ce texte est une traduction de l'excellent [A Tale of Two Rooms: Understanding
 screen reader
 navigation](https://developer.paciellogroup.com/blog/2018/01/a-tale-of-two-rooms-understanding-screen-reader-navigation/).
 </p>
+
+<figure class="object-center bordered">
+    <img src="/images/660x/lampe.jpg" alt="Une lampe posée sur des pavés dans la pénombre">
+</figure>
 
 Pour ceux d'entre nous qui utilisent un lecteur d'écran comme JAWS, NVDA or
 VoiceOver pour accéder au Web, l'expérience utilisateur peut être très
