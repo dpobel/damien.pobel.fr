@@ -3,7 +3,13 @@ title: Powered by Metalsmith (and Github, TravisCI, Myth, npm…)
 lang: en
 tags: javascript, metalsmith, blog, node.js, travis ci, github, git, myth, flexbox, jamstack
 published: 2016-01-21 16:38
+photos:
+    - images/outils-cles.jpg
 ---
+
+<figure class="object-center bordered">
+    <img src="/images/660x/outils-cles.jpg" alt="A set of tools on a blue wall">
+</figure>
 
 And here is another version of this blog! As usual, it's a good opportunity to
 experiment recent or interesting technologies and to apply new *good practices*
