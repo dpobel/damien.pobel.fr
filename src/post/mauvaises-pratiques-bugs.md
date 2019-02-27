@@ -175,7 +175,7 @@ l'absence de rôle. Plutôt que d'appliquer les patchs précédents, la classe
 
 Au passage c'est l'occasion de définir un constructeur pour contrôler la manière
 dont les instances sont créées et s'assurer de la cohérence de ces instances.
-(oui bon ok les attributs sont publiques…) Le constructeur communique également
+(oui bon ok les attributs sont publics…) Le constructeur communique également
 les informations nécessaires ou non à la création d'une instance valide ainsi
 que la valeur par défaut pour les rôles, en d'autres termes il suit les
 contraintes du métier. La possibilité d'erreur est réduite et surtout la notion
