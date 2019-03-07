@@ -158,8 +158,13 @@
         "collection": "posts",
         "limit": 10,
         "destination": "rss.xml",
-        "title": "Derniers posts",
-        "description": "Damien Pobel / Blog"
+        "title": "Derniers posts du blog de Damien Pobel"
+    },
+    "feed-no-veille": {
+        "collection": "blog",
+        "limit": 10,
+        "destination": "rss-no-veille.xml",
+        "title": "Billets sans la veille"
     },
     "collectPhotos": {
         "lastPhotosNumber": 3
