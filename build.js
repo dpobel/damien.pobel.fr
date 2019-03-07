@@ -70,8 +70,8 @@ if ( assetsRev ) {
     conf.define.css = renamedCss;
 }
 
-conf.feed.postCustomElements = require('./lib/metalsmith/feed-postcustomelements.js');
-conf.tagLangFeed.postCustomElements = conf.feed.postCustomElements;
+conf.feed.preprocess = require('./lib/metalsmith/feed-postcustomelements.js');
+conf.tagLangFeed.preprocess = conf.feed.preprocess;
 
 const filterOutVeilleFn = require('./lib/metalsmith/filter-collection.js').excludeWithTagFn('veille');
 

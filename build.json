@@ -158,8 +158,7 @@
         "collection": "posts",
         "limit": 10,
         "destination": "rss.xml",
-        "title": "Derniers posts",
-        "description": "Damien Pobel / Blog"
+        "title": "Derniers posts du blog de Damien Pobel"
     },
     "collectPhotos": {
         "lastPhotosNumber": 3

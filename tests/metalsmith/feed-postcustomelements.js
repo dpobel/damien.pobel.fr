@@ -6,39 +6,24 @@ var postCustomElements = require('../../lib/metalsmith/feed-postcustomelements.j
 describe('postCustomElements metalsmith-feed function', function () {
     var tags = [{name: 'tag1', slug: 'slug1'}, {name: 'tag2', slug: 'slug2'}],
         published = moment(),
-        file = {tags: tags, published: published};
-        
-    it('should return an array', function () {
-        var res = postCustomElements(file);
+        file = {title: "test", tags: tags, published: published};
 
-        assert(Array.isArray(res));
-        assert.equal(1 + tags.length, res.length); // 1 for pubDate element
+    it('should return an augmented file', function () {
+        const res = postCustomElements(file);
+
+        assert.equal(file.title, res.title);
+        assert.equal(Object.keys(file).length + 2, Object.keys(res).length);
     });
 
     it('should add a category element per tag', function () {
-        var res = postCustomElements(file),
-            i = 0;
+        const res = postCustomElements(file);
 
-        res.forEach(function (element) {
-            if ( !element.pubDate ) {
-                assert(element.category);
-                assert.equal(tags[i].name, element.category);
-                i++;
-            }
-        });
-        assert(i);
+        assert.equal(['tag1', 'tag2'].join(','), res.categories.join(','));
     });
 
-    it('should add a pubDate element with the published date', function () {
-        var res = postCustomElements(file),
-            pubDateFound = false;
+    it('should add a date element with the formated published date', function () {
+        const res = postCustomElements(file);
 
-        res.forEach(function (element) {
-            if ( element.pubDate ) {
-                pubDateFound = true;
-                assert.equal(published.format('ddd, DD MMM YYYY HH:mm:ss [GMT]'), element.pubDate);
-            }
-        });
-        assert(pubDateFound);
+        assert.equal(file.published.format('ddd, DD MMM YYYY HH:mm:ss [GMT]'), res.date);
     });
 });
