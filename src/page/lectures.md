@@ -9,7 +9,7 @@ updated: 2019-03-04
 
 * [La Maison du Guet](https://www.albin-michel.fr/ouvrages/la-maison-du-guet-9782226020444) (Mary
     Higgins Clark)
-* [Sortons de l'âge des fossiles !](http://www.seuil.com/ouvrage/sortons-de-l-age-des-fossiles-maxime-combes/9782021160765) (Maxime Combes)
+* [Sortons de l'âge des fossiles !](http://www.seuil.com/ouvrage/sortons-de-l-age-des-fossiles-maxime-combes/9782021160765) (Maxime Combes) ([résumé](/post/livre-sortons-de-l-age-des-fossiles/))
 * [Comment les économistes réchauffent la planète](http://www.seuil.com/ouvrage/comment-les-economistes-rechauffent-la-planete-antonin-pottier/9782021302417) (Antonin Pottier)
 
 ## 2018
