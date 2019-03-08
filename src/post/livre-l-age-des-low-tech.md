@@ -11,7 +11,7 @@ photos:
     <a href="/images/couverture-l-age-des-low-tech.jpg"><img src="/images/220x/couverture-l-age-des-low-tech.jpg" alt="Couverture du livre L'âge des low tech"></a>
 </figure>
 
-Je viens de terminer le lire [**L'âge des low
+Je viens de terminer de lire [**L'âge des low
 tech**](https://www.chez-mon-libraire.fr/livre/9782021160727-l-age-des-low-tech-vers-une-civilisation-techniquement-soutenable-philippe-bihouix/)
 de Philippe Bihouix et le moins que je puisse dire est que cet ouvrage fait et
 m'a fait vraiment réfléchir. Comme le suggèrent son titre et son sous-titre
