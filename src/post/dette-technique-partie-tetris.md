@@ -8,8 +8,7 @@ photos:
 ---
 
 <p class="note">
-Ce texte est une traduction de [Technical Debt is like Tetris
-](https://medium.com/@erichiggins/technical-debt-is-like-tetris-168f64d8b700) par
+Ce texte est une traduction de [Technical Debt is like Tetris](https://medium.com/@erichiggins/technical-debt-is-like-tetris-168f64d8b700) par
 [Eric Higgins](https://twitter.com/rlyerichiggins).
 </p>
 
@@ -32,7 +31,7 @@ bug coûtant 1 million de dollars par an**.
     </figcaption>
 </figure>
 
-Chez les éditeurs de logiciels, les chefs de produit ou les chefs de projet
+Chez les éditeurs de logiciels, les chef·fes de produit ou les chef·fes de projet
 travaillent avec les développeur·ses pour prioriser les fonctionnalités qui
 seront développées et livrées aux clients. **Terminer une ligne à Tetris est
 comme livrer une fonctionnalité**.
@@ -49,7 +48,7 @@ Développer et livrer une fonctionnalité **complexes** nécessite **plus de
 lignes**.
 
 Souvent, des fonctionnalités nécessitent des compromis dans le code (des *hacks*
-ou des raccourcis) pour être livrés à temps. Parfois, les changements de
+ou des raccourcis) pour être livrées à temps. Parfois, les changements de
 stratégie produit sont incompatibles avec des choix techniques précédents ce qui
 implique un effort supplémentaire pour soit migrer les clients existants soit
 être capable de gérer à la fois la "nouvelle" et "l'ancienne" logique.
@@ -107,20 +106,20 @@ facturation dans le code de notre produit pour mettre en place un nouveau plan d
 tarification, une nouvelle gestion de paiement et pour améliorer les étapes de
 facturation. Pendant que l'équipe produit terminait de définir les détails, nous
 avons commencé à nous plonger dans le code existant pour améliorer notre
-compréhension de cette partie et être capable de fournir de meilleurs
+compréhension de cette partie et être capable de fournir de meilleures
 estimations pour les changements à venir.
 
 Le but principal de ce code était pour chaque client de calculer leur facture et
 de l'envoyer à une API. Ce code avait été écrit relativement proprement même si
-il manque de flexibilité. Il s'agit d'un fonction d'un seul bloc sans test,
+il manquait de flexibilité. Il s'agissait d'un fonction d'un seul bloc sans test,
 quasiment sans journaux et sans documentation. Il semblait responsable de rares
 problèmes apparaissant de manière aléatoire.  Ce morceau de code avait été écrit
-5 ans plus tôt par l'un des cofondateurs et n'a été changé que rarement par un
+5 ans plus tôt par l'un des cofondateurs et n'avait été changé que rarement par un
 des premiers employés qui a depuis quitté la société.
 
 Était-ce _réellement_ un problème&nbsp;? Les factures partaient. La société
 gagnait de l'argent. Il n'y avait a priori aucun problème. Tout cela, aurait pu
-nous dissuader de toucher cette partie, mais en même temps nous savions que de
+nous dissuader de toucher à cette partie, mais en même temps nous savions que de
 gros changements étaient en préparation et qu'en simplifiant cette fonction,
 nous allions gagner du temps.
 
@@ -153,7 +152,7 @@ propre et le mieux testé du monde sans aucun client prêt à payer pour. À
 l'inverse, votre entreprise peut ravir ses clients et avoir des affaires
 fleurissantes en mettant en œuvre du code de mauvaise qualité.
 
-En guise de conseil, il me semble que les chefs de produit et les développeurs
+En guise de conseil, il me semble que les chef·fes de produit et les développeur·ses
 devraient connaître et comprendre ce qu'est la dette technique et le fait qu'on
 ne peut l'éviter pour toujours. Après tout, comme dans une partie de Tetris, on
 ne peut jamais gagner dans le logiciel.
