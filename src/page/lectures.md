@@ -7,6 +7,9 @@ updated: 2019-03-15
 
 ## 2019
 
+* [Ce pays que tu ne connais pas](http://www.arenes.fr/livre/ce-pays-que-tu-ne-connais-pas/) (François Ruffin)
+* [La Permaculture au jardin mois par mois](https://www.terran.fr/permaculture-jardin-mois-par-mois-dekarz-livre-editions-terran.html) (Damien Dekarz)
+* [Histoire de ta bêtise](https://www.fayard.fr/pauvert/histoire-de-ta-betise-9782720215629) (François Bégaudaud)
 * [Recherche jeune femme aimant danser](https://www.albin-michel.fr/ouvrages/recherche-jeune-femme-aimant-danser-9782226053886) (Mary Higgins Clark)
 * [La Maison du Guet](https://www.albin-michel.fr/ouvrages/la-maison-du-guet-9782226020444) (Mary
     Higgins Clark)
