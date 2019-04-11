@@ -17,7 +17,7 @@ photos:
 Et un peu hors-sujet&nbsp;:
 
 * [« Aller chez le coiffeur » mais « aller aux putes » : ce que révèle l’usage des prépositions](https://theconversation.com/aller-chez-le-coiffeur-mais-aller-aux-putes-ce-que-revele-lusage-des-prepositions-114557#Echobox=1554754844) (fr)&nbsp;: le livre [Le français est à nous !](https://editionsladecouverte.fr/catalogue/index-Le_fran__ais_est____nous__-9782348041877.html) a l'air super intéressant
-* [Tous les journalistes de «Libération» sont-ils des enfants de CSP+ ?](https://www.liberation.fr/checknews/2019/04/08/tous-les-journalistes-de-liberation-sont-ils-des-enfants-de-csp_1717920) (fr)&nbsp;: je crois que c'est première fois que je vois des journalistes d'un grand media (_mainstream_ comme on dit de nos jours) reconnaître (au moins en partie) certains de leurs biais, enfin un timide début d'auto-critique…
+* [Tous les journalistes de «Libération» sont-ils des enfants de CSP+ ?](https://www.liberation.fr/checknews/2019/04/08/tous-les-journalistes-de-liberation-sont-ils-des-enfants-de-csp_1717920) (fr)&nbsp;: je crois que c'est la première fois que je vois des journalistes d'un grand media (_mainstream_ comme on dit de nos jours) reconnaître (au moins en partie) certains de leurs biais, enfin un timide début d'auto-critique…
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS correspondant](/rss/veille.xml))
