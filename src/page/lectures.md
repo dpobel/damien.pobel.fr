@@ -7,6 +7,11 @@ updated: 2019-04-07
 
 ## 2019
 
+* [Le bonheur était pour demain - Rêveries d'un ingénieur solitaire](http://www.seuil.com/ouvrage/le-bonheur-etait-pour-demain-philippe-bihouix/9782021388619) (Philippe Bihouix)
+* [Paysan résistant&nbsp;!](https://www.fayard.fr/documents-temoignages/paysan-resistant-9782213706092) (Benoît Biteau)
+* [Le Scarabée d'or](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-classique/Prescriptions/Le-Scarabee-d-or) (Edgar Allan Poe / Charles Baudelaire)
+* [Crépuscule](https://audiable.com/boutique/cat_document/crepuscule/) (Juan Branco)
+* [Où en sommes-nous ? une esquisse de l'histoire humaine](http://www.seuil.com/ouvrage/ou-en-sommes-nous-emmanuel-todd/9782021319002) (Emmanuel Todd)
 * [Ce pays que tu ne connais pas](http://www.arenes.fr/livre/ce-pays-que-tu-ne-connais-pas/) (François Ruffin)
 * [La Permaculture au jardin mois par mois](https://www.terran.fr/permaculture-jardin-mois-par-mois-dekarz-livre-editions-terran.html) (Damien Dekarz) ([résumé](/post/livre-la-permaculture-au-jardin-mois-par-mois/))
 * [Histoire de ta bêtise](https://www.fayard.fr/pauvert/histoire-de-ta-betise-9782720215629) (François Bégaudaud)
