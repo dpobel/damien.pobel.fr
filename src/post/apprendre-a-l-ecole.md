@@ -56,7 +56,7 @@ avis, un·e néo-diplômé·e en informatique aurait tout intérêt à avoir app
   un laboratoire de recherche d'Orange ou ailleurs… En lien avec ce point, je me
   souviens de cours où on a travaillé notre CV et où on a simulé des entretiens
   d'embauche c'était plutôt pas mal mais apparemment, ça ne se fait pas
-  partout !?! Et en complément, de nos jours, on pourrait ajouter l'utilité (et
+  partout&nbsp;!?! Et en complément, de nos jours, on pourrait ajouter l'utilité (et
   les potentiels problèmes) des réseaux sociaux dans ce cadre.
 * **droit du travail :** ça va bien au delà de la formation des informaticiens
   mais je ne comprends pas pourquoi on apprend pas quelques rudiments dans ce
