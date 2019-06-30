@@ -36,8 +36,8 @@ programme informatique au sens strict, de la documentation ou n'importe quel
 document texte comme un document de conception peuvent parfaitement être revus
 de cette manière. Au delà de cet objectif relativement évident, dans la pratique
 les revues de code créent une suite d'étapes où chacune est l'occasion
-d'améliorer le code, de s'améliorer soi-même et même de faire progresser toute
-une équipe. Voyons ce qu'il se passe à chaque étape.
+d'améliorer le code, de s'améliorer soi-même et même de faire progresser [toute
+une équipe](/post/travail-d-equipe/). Voyons ce qu'il se passe à chaque étape.
 
 ## Auto critique
 

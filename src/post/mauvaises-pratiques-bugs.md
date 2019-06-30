@@ -10,7 +10,7 @@ photos:
 On parle souvent de bonnes ou mauvaises pratiques dans l'écriture du code mais
 plus rarement de leurs conséquences concrètes. Pourtant, pour le dire très
 clairement, certaines mauvaises pratiques sont une cause profonde de bugs ou à
-l'inverse, certaines bonnes pratiques rendent ces problèmes impossibles. Ici, il
+l'inverse, certaines [bonnes pratiques](https://damien.pobel.fr/tag/bonnes-pratiques/) rendent ces problèmes impossibles. Ici, il
 s'agit de l'utilisation de `null` pour représenter une donnée *métier* et de
 l'absence de constructeur qui rend le code et les contraintes plus difficiles à
 comprendre.
