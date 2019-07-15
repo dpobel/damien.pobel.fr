@@ -7,6 +7,8 @@ updated: 2019-04-07
 
 ## 2019
 
+* [Entre les murs](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio/Entre-les-murs) (François Bégaudeau)
+* [Singe toi-même](https://www.odilejacob.fr/catalogue/sciences/genetique/singe-toi-meme_9782738146991.php) (Alain Prochiantz)
 * [Le bonheur était pour demain - Rêveries d'un ingénieur solitaire](http://www.seuil.com/ouvrage/le-bonheur-etait-pour-demain-philippe-bihouix/9782021388619) (Philippe Bihouix)
 * [Paysan résistant&nbsp;!](https://www.fayard.fr/documents-temoignages/paysan-resistant-9782213706092) (Benoît Biteau)
 * [Le Scarabée d'or](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-classique/Prescriptions/Le-Scarabee-d-or) (Edgar Allan Poe / Charles Baudelaire)
