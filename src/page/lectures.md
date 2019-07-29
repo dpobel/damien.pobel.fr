@@ -1,12 +1,15 @@
 ---
 title: Lectures
-updated: 2019-04-07
+updated: 2019-07-29
 ---
 
 # Lectures
 
 ## 2019
 
+* [Le Double Assassinat de la rue Morgue, suivi de La Lettre volée](https://www.livredepoche.com/livre/le-double-assassinat-de-la-rue-morgue-suivi-de-la-lettre-volee-9782253082699) (Edgar Allan Poe / Charles Baudelaire)
+* [Leurre et malheur du transhumanisme](https://www.editionsddb.fr/livre/fiche/leurre-et-malheur-du-transhumanisme-9782220095516) (Olivier Rey)
+* [L'éloge de l'abeille](https://editions.flammarion.com/Catalogue/hors-collection/documents-temoignages-et-essais-d-actualite/eloge-de-labeille) (Christophe Gatineau)
 * [Entre les murs](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio/Entre-les-murs) (François Bégaudeau)
 * [Singe toi-même](https://www.odilejacob.fr/catalogue/sciences/genetique/singe-toi-meme_9782738146991.php) (Alain Prochiantz)
 * [Le bonheur était pour demain - Rêveries d'un ingénieur solitaire](http://www.seuil.com/ouvrage/le-bonheur-etait-pour-demain-philippe-bihouix/9782021388619) (Philippe Bihouix)
