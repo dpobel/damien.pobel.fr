@@ -1,6 +1,6 @@
 ---
 title: Lectures
-updated: 2019-07-29
+updated: 2019-08-05
 ---
 
 # Lectures
@@ -13,6 +13,7 @@ updated: 2019-07-29
 * [Entre les murs](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio/Entre-les-murs) (François Bégaudeau)
 * [Singe toi-même](https://www.odilejacob.fr/catalogue/sciences/genetique/singe-toi-meme_9782738146991.php) (Alain Prochiantz)
 * [Le bonheur était pour demain - Rêveries d'un ingénieur solitaire](http://www.seuil.com/ouvrage/le-bonheur-etait-pour-demain-philippe-bihouix/9782021388619) (Philippe Bihouix)
+* [Les fourmis](https://www.albin-michel.fr/ouvrages/les-fourmis-9782226052575) (Bernard Werber)
 * [Paysan résistant&nbsp;!](https://www.fayard.fr/documents-temoignages/paysan-resistant-9782213706092) (Benoît Biteau)
 * [Le Scarabée d'or](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-classique/Prescriptions/Le-Scarabee-d-or) (Edgar Allan Poe / Charles Baudelaire)
 * [Crépuscule](https://audiable.com/boutique/cat_document/crepuscule/) (Juan Branco)
@@ -51,46 +52,46 @@ updated: 2019-07-29
 
 ## 2017
 
-* [Alors, on mange quoi ?](http://www.fayard.fr/alors-mange-quoi-9782213700847)
+* [Alors, on mange quoi ?](http://www.fayard.fr/alors-mange-quoi-9782213700847) (Laurent Chevallier et Claude Aubert)
 * [Le jardinier-maraîcher - 2ème
-  édition](http://lejardiniermaraicher.com/livre/)
-* [La vie secrète des arbres](http://www.arenes.fr/livre/vie-secrete-arbres/)
+  édition](http://lejardiniermaraicher.com/livre/) (Jean-Martin Fortier)
+* [La vie secrète des arbres](http://www.arenes.fr/livre/vie-secrete-arbres/) (Peter Wohlleben)
 * [Éloge de la plante. Pour une nouvelle
-  biologie](http://www.seuil.com/ouvrage/eloge-de-la-plante-pour-une-nouvelle-biologie-francis-halle/9782020684989)
+  biologie](http://www.seuil.com/ouvrage/eloge-de-la-plante-pour-une-nouvelle-biologie-francis-halle/9782020684989) (Francis Hallé)
 * [La
-  Déconnomie](http://www.seuil.com/ouvrage/la-deconnomie-jacques-genereux/9782021241198)
-* [Lord of the Ringards](http://www.bragelonne.fr/livres/View/lord-of-the-ringards-1)
-* [Libérez votre cerveau&nbsp;!](http://www.laffont.fr/site/liberez_votre_cerveau_&100&9782221187586.html)
+  Déconnomie](http://www.seuil.com/ouvrage/la-deconnomie-jacques-genereux/9782021241198) (Jacques Généreux)
+* [Lord of the Ringards](https://www.bragelonne.fr/catalogue/9782811211202-lord-of-the-ringards/) (Henry N. Beard / Douglas C. Kenney)
+* [Libérez votre cerveau&nbsp;!](http://www.laffont.fr/site/liberez_votre_cerveau_&100&9782221187586.html) (Idriss Aberkane)
 * [Vivre à la campagne au Moyen Âge](https://books.openedition.org/alpara/1978)
-* [Éloge de la différence. La génétique et les hommes](http://www.seuil.com/ouvrage/eloge-de-la-difference-la-genetique-et-les-hommes-albert-jacquard/9782020049382)
-* [Au revoir là-haut](http://www.albin-michel.fr/ouvrages/au-revoir-la-haut-9782226249678)
-* [Le meilleur des mondes](https://www.pocket.fr/tous-nos-livres/le_meilleur_des_mondes-9782266283038-2/)
-* [Le tricycle rouge](http://www.lechoixdesbibliothecaires.com/livre-172458-le-tricycle-rouge.htm)
-* [How fucked up is your management?](https://mfbt.ca/how-fucked-up-is-your-management-8a1086eeb4a9)
-* [L'Âge des low tech. Vers une civilisation techniquement soutenable](http://www.seuil.com/ouvrage/l-age-des-low-tech-philippe-bihouix/9782021160727) ([résumé](/post/livre-l-age-des-low-tech/))
-* [Ne fais confiance à personne](http://www.sonatine-editions.fr/livres/Ne-fais-confiance-a-personne.asp)
+* [Éloge de la différence. La génétique et les hommes](http://www.seuil.com/ouvrage/eloge-de-la-difference-la-genetique-et-les-hommes-albert-jacquard/9782020049382) (Albert Jacquard)
+* [Au revoir là-haut](http://www.albin-michel.fr/ouvrages/au-revoir-la-haut-9782226249678) (Pierre Lemaitre)
+* [Le meilleur des mondes](https://www.pocket.fr/tous-nos-livres/le_meilleur_des_mondes-9782266283038-2/) (Aldous Huxley)
+* [Le tricycle rouge](http://www.lechoixdesbibliothecaires.com/livre-172458-le-tricycle-rouge.htm) (Vincent Hauuy)
+* [How fucked up is your management?](https://mfbt.ca/how-fucked-up-is-your-management-8a1086eeb4a9) (Johnathan Nightingale et Melissa Nightingale)
+* [L'Âge des low tech. Vers une civilisation techniquement soutenable](http://www.seuil.com/ouvrage/l-age-des-low-tech-philippe-bihouix/9782021160727) (Philippe Bihouix) ([résumé](/post/livre-l-age-des-low-tech/))
+* [Ne fais confiance à personne](http://www.sonatine-editions.fr/livres/Ne-fais-confiance-a-personne.asp) (Paul Cleave)
 
 ## 2016
 
-* [Permaculture](https://www.actes-sud.fr/catalogue/potager-et-jardinage/permaculture-ne) - Perrine Herve-gruyer
-* [Le dernier qui s'en va éteint la lumière](https://www.fayard.fr/documents-temoignages/le-dernier-qui-sen-va-eteint-la-lumiere-9782213699035) - Paul Jorion
-* [Le Charme discret de l'intestin](https://www.actes-sud.fr/catalogue/e-book/le-charme-discret-de-lintestin-epub) - Isabelle Liber
-* [Fleurir le jardin en 10 leçons et 3 gouttes d'eau…](https://www.laboutiquejardinmaison.fr/16997-fleurir-le-jardin-en-10-lecons-et-3-gouttes-d-eau.html) - Bénédicte Boudassou
-* [Boutures, marcottes et divisions](https://www.laboutiquejardinmaison.fr/16983-boutures-marcottes-et-divisions.html) - Robert Elger
-* [Mes trucs et astuces de jardinier](https://editions.flammarion.com/Catalogue/hors-collection/jardin/mes-trucs-et-astuces-de-jardinier) - Alain Baraton
+* [Permaculture](https://www.actes-sud.fr/catalogue/potager-et-jardinage/permaculture-ne) (Perrine Herve-gruyer)
+* [Le dernier qui s'en va éteint la lumière](https://www.fayard.fr/documents-temoignages/le-dernier-qui-sen-va-eteint-la-lumiere-9782213699035) (Paul Jorion)
+* [Le Charme discret de l'intestin](https://www.actes-sud.fr/catalogue/e-book/le-charme-discret-de-lintestin-epub) (Isabelle Liber)
+* [Fleurir le jardin en 10 leçons et 3 gouttes d'eau…](https://www.laboutiquejardinmaison.fr/16997-fleurir-le-jardin-en-10-lecons-et-3-gouttes-d-eau.html) (Bénédicte Boudassou)
+* [Boutures, marcottes et divisions](https://www.laboutiquejardinmaison.fr/16983-boutures-marcottes-et-divisions.html) (Robert Elger)
+* [Mes trucs et astuces de jardinier](https://editions.flammarion.com/Catalogue/hors-collection/jardin/mes-trucs-et-astuces-de-jardinier) (Alain Baraton)
 * [Mais que fait donc ce gendarme dans mon jardin ? 100 clés pour comprendre les
-    petites bêtes du jardin](https://www.quae.com/produit/1226/9782759221240/mais-que-fait-donc-ce-gendarme-dans-mon-jardin) - Patrice Leraut
-* [L'Élysée off](https://www.fayard.fr/documents-temoignages/lelysee-9782213699028) - Stéphanie Marteau
-* Travail soigné - Pierre Lemaitre
-* [Trois jours et une vie](https://www.albin-michel.fr/ouvrages/trois-jours-et-une-vie-9782226325730) - Pierre Lemaitre
-* La 5e vague Tome 2 : La mer infinie - Francine Deroyan
-* [Le voyage de Simon Morley](https://fr.wikipedia.org/wiki/Le_Voyage_de_Simon_Morley) - Hélène Collon
-* [Le Vide](http://www.patricksenecal.net/romans/le-vide/) - Patrick Senécal
-* La 5e vague - Francine Deroyan
-* La fille du train - Paula Hawkins
-* [Prenez le temps d'e-penser - Tome 1](http://www.marabout.com/prenez-le-temps-de-penser-tome-1-9782501104920) - Bruce Benamran
-* [Le Livre des Baltimore](https://www.editionsdefallois.com/livre/le-livre-des-baltimore/) - Joël Dicker
-* [La Vérité sur l'Affaire Harry Quebert](https://www.editionsdefallois.com/livre/la-verite-sur-laffaire-harry-quebert-poche/) - Joël Dicker
-* [1984](http://www.gallimard.fr/Catalogue/GALLIMARD/Du-monde-entier/19842) - George Orwell
-* [Sapiens](https://www.albin-michel.fr/ouvrages/sapiens-9782226257017) - Yuval Noah Harari
-* [Fin de cycle. Autopsie d'un système corrompu](http://www.editionsdelamartiniere.fr/ouvrage/fin-de-cycle/9782732458359) - Pierre Ballester
+    petites bêtes du jardin](https://www.quae.com/produit/1226/9782759221240/mais-que-fait-donc-ce-gendarme-dans-mon-jardin) (Patrice Leraut)
+* [L'Élysée off](https://www.fayard.fr/documents-temoignages/lelysee-9782213699028) (Stéphanie Marteau)
+* [Travail soigné](https://www.livredepoche.com/livre/travail-soigne-9782253127383) (Pierre Lemaitre)
+* [Trois jours et une vie](https://www.albin-michel.fr/ouvrages/trois-jours-et-une-vie-9782226325730) (Pierre Lemaitre)
+* [La 5e vague Tome 2 : La mer infinie](https://www.lisez.com/livre-de-poche/la-5e-vague-tome-02-la-mer-infinie/9782266285896) (Rick Yancey, traduction  Francine Deroyan)
+* [Le voyage de Simon Morley](https://fr.wikipedia.org/wiki/Le_Voyage_de_Simon_Morley) (Hélène Collon)
+* [Le Vide](http://www.patricksenecal.net/romans/le-vide/) (Patrick Senécal)
+* [La 5e vague](https://www.lisez.com/livre-de-poche/la-5e-vague-tome-01/9782266285889) (Rick Yancey, traduction Francine Deroyan)
+* [La fille du train](https://www.lisez.com/livre-grand-format/la-fille-du-train/9782355843136) (Paula Hawkins)
+* [Prenez le temps d'e-penser (Tome 1](http://www.marabout.com/prenez-le-temps-de-penser-tome-1-9782501104920) (Bruce Benamran)
+* [Le Livre des Baltimore](https://www.editionsdefallois.com/livre/le-livre-des-baltimore/) (Joël Dicker)
+* [La Vérité sur l'Affaire Harry Quebert](https://www.editionsdefallois.com/livre/la-verite-sur-laffaire-harry-quebert-poche/) (Joël Dicker)
+* [1984](http://www.gallimard.fr/Catalogue/GALLIMARD/Du-monde-entier/19842) (George Orwell)
+* [Sapiens](https://www.albin-michel.fr/ouvrages/sapiens-9782226257017) (Yuval Noah Harari)
+* [Fin de cycle. Autopsie d'un système corrompu](http://www.editionsdelamartiniere.fr/ouvrage/fin-de-cycle/9782732458359) (Pierre Ballester)
