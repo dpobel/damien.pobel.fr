@@ -7,6 +7,9 @@ updated: 2019-08-05
 
 ## 2019
 
+* [Le plus grand défi de l'histoire de l'humanité](http://www.michel-lafon.fr/livre/2255-Le_plus_grand_defi_de_l_histoire_de_l_humanite.html) (Aurélien Barrau)
+* [L'Assassin royal](https://fr.wikipedia.org/wiki/L%27Assassin_royal) (Robin Hobb)
+    * Tome 1 : L'apprenti assassin
 * [Le Double Assassinat de la rue Morgue, suivi de La Lettre volée](https://www.livredepoche.com/livre/le-double-assassinat-de-la-rue-morgue-suivi-de-la-lettre-volee-9782253082699) (Edgar Allan Poe / Charles Baudelaire)
 * [Leurre et malheur du transhumanisme](https://www.editionsddb.fr/livre/fiche/leurre-et-malheur-du-transhumanisme-9782220095516) (Olivier Rey)
 * [L'éloge de l'abeille](https://editions.flammarion.com/Catalogue/hors-collection/documents-temoignages-et-essais-d-actualite/eloge-de-labeille) (Christophe Gatineau)
@@ -36,6 +39,14 @@ updated: 2019-08-05
 * [La clinique du docteur
     H.](https://www.albin-michel.fr/ouvrages/la-clinique-du-docteur-h-9782226011503) (Mary Higgins Clark)
 * [Le Soldat chamane](https://fr.wikipedia.org/wiki/Le_Soldat_chamane) (Robin Hobb)
+    * La Déchirure
+    * Le Cavalier rêveur
+    * Le Fils rejeté
+    * La Magie de la peur
+    * Le Choix du soldat
+    * Le Renégat
+    * Danse de terreur
+    * Racines
 * [Le père de nos
     pères](https://fr.wikipedia.org/wiki/Le_P%C3%A8re_de_nos_p%C3%A8res) (Bernard Werber)
 * [Traité d'économie
