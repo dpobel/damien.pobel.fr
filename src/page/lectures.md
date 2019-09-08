@@ -7,6 +7,8 @@ updated: 2019-08-27
 
 ## 2019
 
+* [Le livre noir de l'agriculture](https://www.fayard.fr/documents-temoignages/le-livre-noir-de-lagriculture-9782213656038) (Isabelle Saporta)
+* [Une autre fin du monde est possible - Vivre l'effondrement (et pas seulement y survivre)](http://www.seuil.com/ouvrage/une-autre-fin-du-monde-est-possible-pablo-servigne/9782021332582) (Pablo Servigne)
 * [Cro-Magnon toi-même](http://www.seuil.com/ouvrage/cro-magnon-toi-meme-michel-raymond/9782757821503) (Michel Raymond)
 * [Le plus grand défi de l'histoire de l'humanité](http://www.michel-lafon.fr/livre/2255-Le_plus_grand_defi_de_l_histoire_de_l_humanite.html) (Aurélien Barrau)
 * [L'Assassin royal](https://fr.wikipedia.org/wiki/L%27Assassin_royal) (Robin Hobb)
@@ -14,6 +16,7 @@ updated: 2019-08-27
     * Tome 2 : L'Assassin du roi
     * Tome 3 : La Nef du crépuscule
     * Tome 4 : Le Poison de la vengeance
+    * Tome 5 : La Voie magique
 * [Le Double Assassinat de la rue Morgue, suivi de La Lettre volée](https://www.livredepoche.com/livre/le-double-assassinat-de-la-rue-morgue-suivi-de-la-lettre-volee-9782253082699) (Edgar Allan Poe / Charles Baudelaire)
 * [Leurre et malheur du transhumanisme](https://www.editionsddb.fr/livre/fiche/leurre-et-malheur-du-transhumanisme-9782220095516) (Olivier Rey)
 * [L'éloge de l'abeille](https://editions.flammarion.com/Catalogue/hors-collection/documents-temoignages-et-essais-d-actualite/eloge-de-labeille) (Christophe Gatineau)
