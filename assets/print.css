@@ -26,6 +26,10 @@ acronym, abbr[title] {
     border-bottom: 1px solid #085075;
 }
 
+.break {
+    page-break-before: always;
+}
+
 .cv abbr {
     border-bottom: 0;
 }
