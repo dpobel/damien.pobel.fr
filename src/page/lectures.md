@@ -7,6 +7,8 @@ updated: 2019-08-27
 
 ## 2019
 
+* [Pourquoi je n’ai pas inventé la roue](https://www.odilejacob.fr/catalogue/sciences/biologie/pourquoi-je-nai-pas-invente-la-roue_9782738127747.php) (Michel Raymond)
+* [Histoires extraordinaires](https://fr.wikipedia.org/wiki/Histoires_extraordinaires) (Edgar Allan Poe)
 * [La Disparition de Stephanie Mailer](https://www.editionsdefallois.com/livre/disparition-de-stephanie-mailer/) (Joël Dicker)
 * [Le livre noir de l'agriculture](https://www.fayard.fr/documents-temoignages/le-livre-noir-de-lagriculture-9782213656038) (Isabelle Saporta)
 * [Une autre fin du monde est possible - Vivre l'effondrement (et pas seulement y survivre)](http://www.seuil.com/ouvrage/une-autre-fin-du-monde-est-possible-pablo-servigne/9782021332582) (Pablo Servigne)
@@ -19,6 +21,7 @@ updated: 2019-08-27
     * Tome 4 : Le Poison de la vengeance
     * Tome 5 : La Voie magique
     * Tome 6 : La Reine solitaire
+    * Tome 7 : Le Prophète blanc
 * [Le Double Assassinat de la rue Morgue, suivi de La Lettre volée](https://www.livredepoche.com/livre/le-double-assassinat-de-la-rue-morgue-suivi-de-la-lettre-volee-9782253082699) (Edgar Allan Poe / Charles Baudelaire)
 * [Leurre et malheur du transhumanisme](https://www.editionsddb.fr/livre/fiche/leurre-et-malheur-du-transhumanisme-9782220095516) (Olivier Rey)
 * [L'éloge de l'abeille](https://editions.flammarion.com/Catalogue/hors-collection/documents-temoignages-et-essais-d-actualite/eloge-de-labeille) (Christophe Gatineau)
@@ -80,6 +83,7 @@ updated: 2019-08-27
   biologie](http://www.seuil.com/ouvrage/eloge-de-la-plante-pour-une-nouvelle-biologie-francis-halle/9782020684989) (Francis Hallé)
 * [La
   Déconnomie](http://www.seuil.com/ouvrage/la-deconnomie-jacques-genereux/9782021241198) (Jacques Généreux)
+* [L'immigration en France](https://www.fayard.fr/documents-temoignages/limmigration-en-france-9782213704357) (E.M. Mouhoud)
 * [Lord of the Ringards](https://www.bragelonne.fr/catalogue/9782811211202-lord-of-the-ringards/) (Henry N. Beard / Douglas C. Kenney)
 * [Libérez votre cerveau&nbsp;!](http://www.laffont.fr/site/liberez_votre_cerveau_&100&9782221187586.html) (Idriss Aberkane)
 * [Vivre à la campagne au Moyen Âge](https://books.openedition.org/alpara/1978)
