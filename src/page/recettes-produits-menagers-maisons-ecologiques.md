@@ -3,7 +3,7 @@ title: Recettes de produits ménagers maisons et écologiques
 updated: 2019-10-13
 ---
 
-# Recette de produits ménagers maisons et écologiques
+# Recettes de produits ménagers maisons et écologiques
 
 ## Produit pour les toilettes
 
@@ -37,3 +37,13 @@ pour environ 2L de produits :
 
 Dose pour une machine : ~15CL dans le tambour dans une boule doseuse (+ 1
 cuillère à soupe de percarbonate de soude pour le blanc)
+
+## Liquide vaisselle
+
+basée sur https://www.mieux-vivre-autrement.com/preparez-votre-produit-vaisselle-maison-ecologique-economique.html/
+
+1. Dans 0.8L d'eau bouillante, ajouter 4 cuillères à soupe de savon noir et 15
+   gouttes d'huile essentielle (Lavande par exemple)
+1. Ajouter ensuite 3 cuillères à soupe de cristaux de soude et 3 cuillères à
+   soupe de vinaigre blanc
+1. Laisse refroidir
