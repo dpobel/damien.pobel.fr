@@ -7,6 +7,8 @@ updated: 2019-08-27
 
 ## 2019
 
+* [Le crime est presque parfait - L'enquête choc sur les pesticides et les SDHI](http://www.editionslesliensquiliberent.fr/livre-Le_crime_est_presque_parfait-572-1-1-0-1.html) (Fabrice Nicolino)
+* [Le Mystère de la chambre jaune](https://fr.wikipedia.org/wiki/Le_Myst%C3%A8re_de_la_chambre_jaune) (Gaston Leroux)
 * [Pourquoi je n’ai pas inventé la roue](https://www.odilejacob.fr/catalogue/sciences/biologie/pourquoi-je-nai-pas-invente-la-roue_9782738127747.php) (Michel Raymond)
 * [Histoires extraordinaires](https://fr.wikipedia.org/wiki/Histoires_extraordinaires) (Edgar Allan Poe)
 * [La Disparition de Stephanie Mailer](https://www.editionsdefallois.com/livre/disparition-de-stephanie-mailer/) (Joël Dicker)
@@ -22,6 +24,7 @@ updated: 2019-08-27
     * Tome 5 : La Voie magique
     * Tome 6 : La Reine solitaire
     * Tome 7 : Le Prophète blanc
+    * Tome 8 : La Secte maudite
 * [Le Double Assassinat de la rue Morgue, suivi de La Lettre volée](https://www.livredepoche.com/livre/le-double-assassinat-de-la-rue-morgue-suivi-de-la-lettre-volee-9782253082699) (Edgar Allan Poe / Charles Baudelaire)
 * [Leurre et malheur du transhumanisme](https://www.editionsddb.fr/livre/fiche/leurre-et-malheur-du-transhumanisme-9782220095516) (Olivier Rey)
 * [L'éloge de l'abeille](https://editions.flammarion.com/Catalogue/hors-collection/documents-temoignages-et-essais-d-actualite/eloge-de-labeille) (Christophe Gatineau)
