@@ -7,6 +7,9 @@ updated: 2019-08-27
 
 ## 2019
 
+* [L'Urine, de l'or liquide au jardin](https://www.terran.fr/catalogue/jardiner-naturel/urine-or-liquide-jardin-de-looze-livre-editions-terran.html) (Renaud de Looze)
+* [La_Place](https://fr.wikipedia.org/wiki/La_Place) (Annie Ernaux)
+* [L'Île du docteur Moreau](https://fr.wikipedia.org/wiki/L'%C3%8Ele_du_docteur_Moreau) (H. G. Wells)
 * [Mort aux cons](https://www.livredepoche.com/livre/mort-aux-cons-9782253124870) (Carl Aderhold)
 * [Plutôt couler en beauté que flotter sans grâce](http://www.editionslibertalia.com/catalogue/la-petite-litteraire/corinne-morel-darleux-plutot-couler-en-beaute) (Corinne Morel Darleux)
 * [Le crime est presque parfait - L'enquête choc sur les pesticides et les SDHI](http://www.editionslesliensquiliberent.fr/livre-Le_crime_est_presque_parfait-572-1-1-0-1.html) (Fabrice Nicolino)
@@ -28,6 +31,7 @@ updated: 2019-08-27
     * Tome 7 : Le Prophète blanc
     * Tome 8 : La Secte maudite
     * Tome 9 : Les Secrets de Castelcerf
+    * Tome 10 : Serments et Deuils
 * [Le Double Assassinat de la rue Morgue, suivi de La Lettre volée](https://www.livredepoche.com/livre/le-double-assassinat-de-la-rue-morgue-suivi-de-la-lettre-volee-9782253082699) (Edgar Allan Poe / Charles Baudelaire)
 * [Leurre et malheur du transhumanisme](https://www.editionsddb.fr/livre/fiche/leurre-et-malheur-du-transhumanisme-9782220095516) (Olivier Rey)
 * [L'éloge de l'abeille](https://editions.flammarion.com/Catalogue/hors-collection/documents-temoignages-et-essais-d-actualite/eloge-de-labeille) (Christophe Gatineau)
