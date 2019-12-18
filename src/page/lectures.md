@@ -7,6 +7,11 @@ updated: 2019-08-27
 
 ## 2019
 
+* [Petit manuel de résistance contemporaine](https://www.actes-sud.fr/catalogue/societe/petit-manuel-de-resistance-contemporaine) (Cyril Dion)
+* [Les vrais leaders se servent en dernier](https://www.pearson.fr/fr/book/?gcoi=27440100417600) (Simon Sinek)
+* [Pour une écologie numérique](https://www.lespetitsmatins.fr/collections/pour-une-ecologie-numerique/) (Eric Vidalenc)
+* [L'homme invisible](https://fr.wikipedia.org/wiki/L%27Homme_invisible_(roman)) (H. G. Wells)
+* [La Nuit du renard](https://fr.wikipedia.org/wiki/La_Nuit_du_renard) (Mary Higgins Clark)
 * [L'Urine, de l'or liquide au jardin](https://www.terran.fr/catalogue/jardiner-naturel/urine-or-liquide-jardin-de-looze-livre-editions-terran.html) (Renaud de Looze)
 * [La_Place](https://fr.wikipedia.org/wiki/La_Place) (Annie Ernaux)
 * [L'Île du docteur Moreau](https://fr.wikipedia.org/wiki/L'%C3%8Ele_du_docteur_Moreau) (H. G. Wells)
