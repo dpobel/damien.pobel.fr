@@ -5,6 +5,10 @@ updated: 2019-08-27
 
 # Lectures
 
+## 2020
+
+* [Et si le vivant était anarchique - La génétique est-elle une gigantesque arnaque ?](http://www.editionslesliensquiliberent.fr/livre-Et_si_le_vivant_%C3%83%C2%A9tait_anarchique-9791020907936-1-1-0-1.html)
+
 ## 2019
 
 * [Petit manuel de résistance contemporaine](https://www.actes-sud.fr/catalogue/societe/petit-manuel-de-resistance-contemporaine) (Cyril Dion)
@@ -37,6 +41,7 @@ updated: 2019-08-27
     * Tome 8 : La Secte maudite
     * Tome 9 : Les Secrets de Castelcerf
     * Tome 10 : Serments et Deuils
+    * Tome 11 : Le Dragon des Glaces
 * [Le Double Assassinat de la rue Morgue, suivi de La Lettre volée](https://www.livredepoche.com/livre/le-double-assassinat-de-la-rue-morgue-suivi-de-la-lettre-volee-9782253082699) (Edgar Allan Poe / Charles Baudelaire)
 * [Leurre et malheur du transhumanisme](https://www.editionsddb.fr/livre/fiche/leurre-et-malheur-du-transhumanisme-9782220095516) (Olivier Rey)
 * [L'éloge de l'abeille](https://editions.flammarion.com/Catalogue/hors-collection/documents-temoignages-et-essais-d-actualite/eloge-de-labeille) (Christophe Gatineau)
