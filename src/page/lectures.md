@@ -10,6 +10,9 @@ updated: 2019-08-27
 * [Et si le vivant était anarchique - La génétique est-elle une gigantesque arnaque ?](http://www.editionslesliensquiliberent.fr/livre-Et_si_le_vivant_%C3%83%C2%A9tait_anarchique-9791020907936-1-1-0-1.html) (Jean-Jacques Kupiec)
 * [L'Assassin royal](https://fr.wikipedia.org/wiki/L%27Assassin_royal) (Robin Hobb)
     * Tome 12 : L'Homme noir
+    * Tome 13 : Adieux et Retrouvailles
+* [Le paradoxe de Fermi](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-SF/Le-paradoxe-de-Fermi) (Jean-Pierre Boudine)
+* [Le médias, le monde et nous](https://www.actes-sud.fr/catalogue/economie/les-medias-le-monde-et-nous) (Anne-Sophie Novel)
 
 ## 2019
 
