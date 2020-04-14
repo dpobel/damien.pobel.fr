@@ -7,6 +7,9 @@ updated: 2019-08-27
 
 ## 2020
 
+* [Le Petit Prince](https://fr.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry) (Antoine de Saint-Exupéry)
+* [La Horde du Contrevent](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-SF/La-Horde-du-Contrevent3) (Alain Damasio)
+* [La guerre des métaux rares](http://www.editionslesliensquiliberent.fr/livre-La_guerre_des_m%C3%A9taux_rares-585-1-1-0-1.html) (Guillaume Pitron)
 * [Et si le vivant était anarchique - La génétique est-elle une gigantesque arnaque ?](http://www.editionslesliensquiliberent.fr/livre-Et_si_le_vivant_%C3%83%C2%A9tait_anarchique-9791020907936-1-1-0-1.html) (Jean-Jacques Kupiec)
 * [L'Assassin royal](https://fr.wikipedia.org/wiki/L%27Assassin_royal) (Robin Hobb)
     * Tome 12 : L'Homme noir
