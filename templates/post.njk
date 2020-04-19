@@ -1,4 +1,4 @@
-{% extends "templates/layout.html" %}
+{% extends "layout.njk" %}
 
 {% block title %}
     {{ title }}
@@ -13,7 +13,7 @@
     </div>
 
     <footer class="post-meta">
-        {% include "templates/parts/tags.html" %}
+        {% include "parts/tags.njk" %}
         <time datetime="{{ published.format('YYYY-MM-DD') }}">{{ published.format('DD/MM/YYYY') }}</time>
         <ul class="navigation">
             {# previous / next are inverted #}

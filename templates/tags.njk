@@ -1,4 +1,4 @@
-{% extends "templates/layout.html" %}
+{% extends "layout.njk" %}
 
 {% block content %}
     {% set total = collections.posts.length %}
@@ -16,8 +16,8 @@
 {% block sideMenu %}
     {% set noSocialNetwork = true %}
     <aside>
-        {% include "templates/parts/share.html" %}
-        {% include "templates/parts/last_photos.html" %}
-        {% include "templates/parts/last.html" %}
+        {% include "parts/share.njk" %}
+        {% include "parts/last_photos.njk" %}
+        {% include "parts/last.njk" %}
     </aside>
 {% endblock %}

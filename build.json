@@ -64,32 +64,32 @@
     }, {
         "pattern": "post/*.md",
         "metadata": {
-            "layout": "post.html",
+            "layout": "post.njk",
             "section": "blog",
             "type": "post"
         }
     }, {
         "pattern": "page/*",
         "metadata": {
-            "layout": "page.html",
+            "layout": "page.njk",
             "section": "pages",
             "type": "page"
         }
     },{
         "pattern": "page/cv*",
         "metadata": {
-            "layout": "cv.html"
+            "layout": "cv.njk"
         }
     }, {
         "pattern": "index.md",
         "metadata": {
-            "layout": "home.html",
+            "layout": "home.njk",
             "type": "home"
         }
     }, {
         "pattern": "tags.md",
         "metadata": {
-            "layout": "tags.html",
+            "layout": "tags.njk",
             "section": "blog",
             "type": "list"
         }
@@ -98,7 +98,7 @@
     "tags": {
         "handle": "tags",
         "path": "tag/:tag.html",
-        "layout": "tag.html",
+        "layout": "tag.njk",
         "sortBy": "published",
         "reverse": true,
         "skipMetadata": false,
@@ -134,14 +134,14 @@
     "pagination": {
         "collections.blog": {
             "perPage": 5,
-            "layout": "blog.html",
+            "layout": "blog.njk",
             "first": "posts.md",
             "noPageOne": true,
             "path": "posts/:num.html"
         },
         "collections.pages": {
             "perPage": 10,
-            "layout": "pages.html",
+            "layout": "pages.njk",
             "first": "pages.md",
             "noPageOne": true,
             "path": "pages/:num.html"
@@ -149,10 +149,6 @@
     },
     "permalinks": {
         "relative": false
-    },
-    "layouts": {
-        "engine": "nunjucks",
-        "directory": "templates"
     },
     "feed": {
         "collection": "posts",

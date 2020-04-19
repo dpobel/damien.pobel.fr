@@ -1,46 +1,36 @@
 /* global describe, it, beforeEach */
 var assert = require('assert'),
-    filters = require('../../lib/nunjucks/filters'),
-    nunjucks = require('nunjucks');
+    filters = require('../../lib/nunjucks/filters');
 
 describe('Nunjucks filters', function () {
-    var env = new nunjucks.Environment();
-
     describe('url', function () {
-        beforeEach(function () {
-            filters(env);
-        });
-
         it('should be defined', function () {
-            assert.ok(typeof env.filters.url === 'function');
+            assert.ok(typeof filters.url === 'function');
         });
 
         it('should add trailing slashes', function () {
             var path = 'path';
 
-            assert.equal('/path/', env.filters.url(path));
+            assert.equal('/path/', filters.url(path));
         });
 
         it('should use the prefix', function () {
             var path = 'blog',
                 prefix = 'http://damien.pobel.fr';
 
-            assert.equal('http://damien.pobel.fr/blog/', env.filters.url(path, prefix));
+            assert.equal('http://damien.pobel.fr/blog/', filters.url(path, prefix));
         });
 
         it('should skip the trailing slash for file', function () {
             var path = 'path/to/file.jpg';
 
-            assert.equal('/path/to/file.jpg', env.filters.url(path, '', true));
+            assert.equal('/path/to/file.jpg', filters.url(path, '', true));
         });
     });
 
     describe('image_variation', function () {
-        var func;
-
         beforeEach(function () {
-            filters(env);
-            func = env.filters.image_variation;
+            func = filters.image_variation;
         });
 
         it('should be defined', function () {
@@ -59,8 +49,7 @@ describe('Nunjucks filters', function () {
         var func;
 
         beforeEach(function () {
-            filters(env);
-            func = env.filters.keys;
+            func = filters.keys;
         });
 
         it('should be defined', function () {
@@ -83,8 +72,7 @@ describe('Nunjucks filters', function () {
         };
 
         beforeEach(function () {
-            filters(env);
-            func = env.filters.tag_info;
+            func = filters.tag_info;
         });
 
         it('should return the tag info', () => {

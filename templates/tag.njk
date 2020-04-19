@@ -1,4 +1,4 @@
-{% extends "templates/layout.html" %}
+{% extends "layout.njk" %}
 
 {% block title %}
     {% set tagInfo = tags|tag_info(tag) %}
@@ -14,18 +14,18 @@
 
     <ul class="post-list">
     {% for post in pagination.files  %}
-        <li>{% include "templates/parts/post_line.html" %}</li>
+        <li>{% include "parts/post_line.njk" %}</li>
     {% endfor %}
     </ul>
 
-    {% include "templates/parts/pagination.html" %}
+    {% include "parts/pagination.njk" %}
 {% endblock %}
 
 {% block sideMenu %}
     {% set noSocialNetwork = true %}
     <aside>
-        {% include "templates/parts/share.html" %}
-        {% include "templates/parts/last_photos.html" %}
-        {% include "templates/parts/last.html" %}
+        {% include "parts/share.njk" %}
+        {% include "parts/last_photos.njk" %}
+        {% include "parts/last.njk" %}
     </aside>
 {% endblock %}

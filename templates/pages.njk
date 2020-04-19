@@ -1,4 +1,4 @@
-{% extends "templates/layout.html" %}
+{% extends "layout.njk" %}
 
 
 {% block title %}Damien Pobel / {{ sections['pages'].name }}{% if pagination.num > 1 %} (page {{ pagination.num }}){% endif %}{% endblock %}
@@ -8,9 +8,9 @@
 
     <ul class="post-list">
     {% for page in pagination.files %}
-        <li>{% include "templates/parts/page_line.html" %}</li>
+        <li>{% include "parts/page_line.njk" %}</li>
     {% endfor %}
     </ul>
 
-    {% include "templates/parts/pagination.html" %}
+    {% include "parts/pagination.njk" %}
 {% endblock %}

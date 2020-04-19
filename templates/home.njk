@@ -1,4 +1,4 @@
-{% extends "templates/layout.html" %}
+{% extends "layout.njk" %}
 
 {% block title %}Damien Pobel{% endblock %}
 
@@ -14,7 +14,7 @@
 
             <ul class="post-list">
             {% for post in collections.lastPosts %}
-                <li>{% include "templates/parts/post_line.html" %}</li>
+                <li>{% include "parts/post_line.njk" %}</li>
             {% endfor %}
             </ul>
         </div>
