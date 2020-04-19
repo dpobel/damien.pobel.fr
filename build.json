@@ -177,10 +177,11 @@
         "addFrFilter": ["ez publish", "linux"]
     },
     "htmlMinifier": {
-        "pattern": "*.html",
-        "ignoreCustomFragments": [],
-        "ignoreCustomComments": [],
-        "customEventAttributes": []
+        "minifierOptions": {
+            "ignoreCustomFragments": [],
+            "ignoreCustomComments": [],
+            "customEventAttributes": []
+        }
     },
     "gzip": {
         "gzip": {

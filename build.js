@@ -40,6 +40,7 @@ var metalsmith = require('metalsmith'),
     brotli = require('metalsmith-brotli'),
     gzip = require('metalsmith-gzip'),
 
+    zlib = require('zlib'),
     opn = require('opn'),
     detect = require('detect-port'),
     spawn = require('child_process').spawn,
@@ -103,7 +104,7 @@ pluginsConfList = [
     {plugin: imageVariation, conf: conf.imageVariation, name: 'imageVariation', indev: true},
     {plugin: pdfize, conf: conf['cv-pdf'].pdfize, name: 'pdfize', indev: true},
     {plugin: renamer, conf: conf['cv-pdf'].rename, name: 'renamer', indev: true},
-    {plugin: brotli, conf: undefined, name: 'brotli', indev: false},
+    {plugin: brotli, conf: {options: {params: {[zlib.constants.BROTLI_PARAM_QUALITY]: zlib.constants.BROTLI_MAX_QUALITY}}}, name: 'brotli', indev: false},
     {plugin: gzip, conf: conf.gzip, name: 'gzip', indev: false},
 ];
 
