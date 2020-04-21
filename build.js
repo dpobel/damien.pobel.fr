@@ -40,6 +40,7 @@ var metalsmith = require('metalsmith'),
     brotli = require('metalsmith-brotli'),
     gzip = require('metalsmith-gzip'),
 
+    zlib = require('zlib'),
     opn = require('opn'),
     detect = require('detect-port'),
     spawn = require('child_process').spawn,
@@ -47,10 +48,6 @@ var metalsmith = require('metalsmith'),
 
 const DEV_ENV = process.argv.includes('--dev');
 const DEV_PORT = 50112;
-
-console.log('Adding custom Nunjucks filters');
-consolidate.requires.nunjucks = nunjucks.configure();
-require('./lib/nunjucks/filters')(consolidate.requires.nunjucks);
 
 conf.tags.slug = function (tag) {
     return tag.replace(/ /g, '-');
@@ -98,12 +95,12 @@ pluginsConfList = [
     {plugin: feed, conf: conf['feed-no-veille'], name: 'feed-no-veille', indev: true},
     {plugin: tagLangFeed, conf: conf.tagLangFeed, name: 'tagLangFeed', indev: true},
     {plugin: styleRenamePlugin, conf: conf.styleRenamePlugin, name: 'styleRenamePlugin', indev: true},
-    {plugin: layouts, conf: conf.layouts, name: 'layouts', indev: true},
+    {plugin: layouts, conf: {directory: "templates", engineOptions: {filters: require('./lib/nunjucks/filters')}}, name: 'layouts', indev: true},
     {plugin: htmlMinifier, conf: conf.htmlMinifier, name: 'htmlMinifier', indev: false},
     {plugin: imageVariation, conf: conf.imageVariation, name: 'imageVariation', indev: true},
     {plugin: pdfize, conf: conf['cv-pdf'].pdfize, name: 'pdfize', indev: true},
     {plugin: renamer, conf: conf['cv-pdf'].rename, name: 'renamer', indev: true},
-    {plugin: brotli, conf: undefined, name: 'brotli', indev: false},
+    {plugin: brotli, conf: {options: {params: {[zlib.constants.BROTLI_PARAM_QUALITY]: zlib.constants.BROTLI_MAX_QUALITY}}}, name: 'brotli', indev: false},
     {plugin: gzip, conf: conf.gzip, name: 'gzip', indev: false},
 ];
 
