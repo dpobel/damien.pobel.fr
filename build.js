@@ -41,7 +41,7 @@ var metalsmith = require('metalsmith'),
     gzip = require('metalsmith-gzip'),
 
     zlib = require('zlib'),
-    opn = require('opn'),
+    open = require('open'),
     detect = require('detect-port'),
     spawn = require('child_process').spawn,
     pluginsConfList;
@@ -140,7 +140,7 @@ ms.destination(destination)
                         stdio: 'ignore',
                     }).unref();
                 }
-                opn(`http://localhost:${DEV_PORT}`, {wait: false});
+                open(`http://localhost:${DEV_PORT}`, {wait: false});
             });
         }
         console.log('Build successful in ' + destination + ', wrote:');
