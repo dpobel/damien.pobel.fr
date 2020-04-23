@@ -1890,14 +1890,14 @@ imagemin-gifsicle@^7.0.0:
     gifsicle "^5.0.0"
     is-gif "^3.0.0"
 
-imagemin-jpegtran@^6.0.0:
+imagemin-jpegoptim@^6.0.0:
   version "6.0.0"
-  resolved "https://registry.yarnpkg.com/imagemin-jpegtran/-/imagemin-jpegtran-6.0.0.tgz#c8d3bcfb6ec9c561c20a987142854be70d90b04f"
-  integrity sha512-Ih+NgThzqYfEWv9t58EItncaaXIHR0u9RuhKa8CtVBlMBvY0dCIxgQJQCfwImA4AV1PMfmUKlkyIHJjb7V4z1g==
+  resolved "https://registry.yarnpkg.com/imagemin-jpegoptim/-/imagemin-jpegoptim-6.0.0.tgz#718a86ee271ba15f46df1a5263310d9a51d1f3de"
+  integrity sha512-bXgGRX3f4FIfxMTB/fmivovK+3PTPwAwz6XNgj8zyISZ/mNlnFnS2aiSLsHd40S7FuaSgv9ONliIHAaHbk57mg==
   dependencies:
-    exec-buffer "^3.0.0"
+    execa "^1.0.0"
     is-jpg "^2.0.0"
-    jpegtran-bin "^4.0.0"
+    jpegoptim-bin "^5.0.0"
 
 imagemin-optipng@^7.1.0:
   version "7.1.0"
@@ -2239,10 +2239,10 @@ isurl@^1.0.0-alpha5:
     has-to-string-tag-x "^1.2.0"
     is-object "^1.0.1"
 
-jpegtran-bin@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/jpegtran-bin/-/jpegtran-bin-4.0.0.tgz#d00aed809fba7aa6f30817e59eee4ddf198f8f10"
-  integrity sha512-2cRl1ism+wJUoYAYFt6O/rLBfpXNWG2dUWbgcEkTt5WGMnqI46eEro8T4C5zGROxKRqyKpCBSdHPvt5UYCtxaQ==
+jpegoptim-bin@^5.0.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/jpegoptim-bin/-/jpegoptim-bin-5.1.0.tgz#afe26498bcf91d64beca9e235f60bac7525bf969"
+  integrity sha512-BdvkO6wPLLSid7M6t3HnXuYvfLOxbeatgePBi4c4ps3iwoJ2ReUtvXJvJtsDCeN5l3Cm2tHEUcU7V5+M30hUew==
   dependencies:
     bin-build "^3.0.0"
     bin-wrapper "^4.0.0"
