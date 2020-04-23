@@ -6,9 +6,9 @@ published: 2020-04-22 22:21
 ---
 
 Il y a bien longtemps que [je n'avais pas ressorti le reflex chaussé de mon
-objectif macro](/post/syrphe-phacelie/). Et pourtant, mes sujets préférés, que
-les petites bêtes, ne manquent pas au jardin. Aujourd'hui, je vous présente
-_cette jolie sauterelle bien verte à petit pois_ [qui semble être une leptophye
+objectif macro](/post/syrphe-phacelie/). Et pourtant, mes sujets préférés, les
+petites bêtes, ne manquent pas au jardin. Aujourd'hui, je vous présente _cette
+jolie sauterelle bien verte à petit pois_ [qui semble être une leptophye
 ponctuée](https://www.quelestcetanimal.com/orthopteres/la-leptophye-ponctuee/)
 trônant tranquillement sur une fleur de [plantain
 lancéolé](https://fr.wikipedia.org/wiki/Plantago_lanceolata)&nbsp;:
