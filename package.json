@@ -49,7 +49,7 @@
     "metalsmith-moment": "^1.1.0",
     "metalsmith-myth": "0.0.0",
     "metalsmith-pagination": "^1.5.0",
-    "metalsmith-pdfize": "^1.0.0",
+    "metalsmith-pdfize": "^2.0.0",
     "metalsmith-permalinks": "^2.2.0",
     "metalsmith-renamer": "^0.4.1",
     "metalsmith-tags": "^2.0.0",
