@@ -2368,10 +2368,10 @@ metalsmith-metallic@^2.0.3:
     entities "~1.1"
     highlight.js "~9.15.6"
 
-metalsmith-moment@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/metalsmith-moment/-/metalsmith-moment-1.1.0.tgz#355cf291b0e3a40888ed14515d4aecf975a574ef"
-  integrity sha512-Q5XYuTVpPykp0Gcfu3evLyVrKwEQ+D10zEszLdlynMGZ3UWfRpokr52XY7pZxc9fW5Yt4ztrlg2QnvGToufz1w==
+metalsmith-moment@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/metalsmith-moment/-/metalsmith-moment-2.0.0.tgz#52c4f126ca70f7d7aa9a041370087c5c2e7a09d3"
+  integrity sha512-n/EbM8kV7pXLUVru/1AM49gOedrYg3zPmoGQk32qvORhXa7r7ru8N6pyoAOSxnPmIJOVNbVA6qbkhF3Srd3vSQ==
   dependencies:
     moment "^2.22.1"
 
@@ -2563,11 +2563,7 @@ mocha@^7.1.2:
     yargs-parser "13.1.2"
     yargs-unparser "1.6.0"
 
-moment@^2.22.1:
-  version "2.22.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.1.tgz#529a2e9bf973f259c9643d237fda84de3a26e8ad"
-
-moment@^2.24.0:
+moment@^2.22.1, moment@^2.24.0:
   version "2.24.0"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
   integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
