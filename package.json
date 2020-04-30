@@ -46,7 +46,7 @@
     "metalsmith-layouts": "^2.3.1",
     "metalsmith-markdown": "^0.2.2",
     "metalsmith-metallic": "^2.0.3",
-    "metalsmith-moment": "^1.1.0",
+    "metalsmith-moment": "^2.0.0",
     "metalsmith-myth": "0.0.0",
     "metalsmith-pagination": "^1.5.0",
     "metalsmith-pdfize": "^2.0.0",
