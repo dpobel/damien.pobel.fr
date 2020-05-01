@@ -33,15 +33,11 @@
         "tags": "tags/*"
     },
     "ignore": [
-        "ext/*"
+        "css/*"
     ],
     "assets": {
         "source": "./assets",
         "destination": "."
-    },
-    "myth": {
-        "files": "style.css",
-        "compress": true
     },
     "fileMetadata": [{
         "pattern": "posts{.md,/*.html}",

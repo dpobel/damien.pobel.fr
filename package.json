@@ -10,12 +10,10 @@
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --recursive tests",
-    "copycss": "rsync -av assets/ext/* node_modules/normalize.css/normalize.css node_modules/highlight.js/styles/github.css src/ext",
-    "copyicons": "rsync -av assets/icons src/",
     "restorecache": "./bin/restore_cache.sh",
     "deploy": "./bin/deploy.sh",
-    "build": "npm run copycss && npm run copyicons && ./build.js",
-    "build:dev": "npm run copycss && npm run copyicons && ./build.js --dev"
+    "build": "./build.js",
+    "build:dev": "./build.js --dev"
   },
   "author": "Damien Pobel",
   "license": "MIT",
@@ -23,6 +21,7 @@
     "async": "^3.2.0",
     "cheerio": "^1.0.0-rc.3",
     "consolidate": "^0.15.1",
+    "cssnano": "^4.1.10",
     "dateformat": "^3.0.3",
     "detect-port": "^1.3.0",
     "feedme": "^1.2.0",
@@ -47,10 +46,10 @@
     "metalsmith-markdown": "^0.2.2",
     "metalsmith-metallic": "^2.0.3",
     "metalsmith-moment": "^2.0.0",
-    "metalsmith-myth": "0.0.0",
     "metalsmith-pagination": "^1.5.0",
     "metalsmith-pdfize": "^2.0.0",
     "metalsmith-permalinks": "^2.2.0",
+    "metalsmith-postcss2": "^2.0.0",
     "metalsmith-renamer": "^0.4.1",
     "metalsmith-tags": "^2.0.0",
     "minimatch": "^3.0.4",
@@ -60,6 +59,9 @@
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.1",
     "open": "^7.0.3",
+    "postcss": "^7.0.27",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.7.0",
     "static-server": "^3.0.0",
     "striptags": "^3.1.1"
   }
