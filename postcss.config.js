@@ -5,5 +5,6 @@ module.exports = {
         "postcss-preset-env": {
             "preserve": false,
         },
+        "cssnano": {},
     }
 };
