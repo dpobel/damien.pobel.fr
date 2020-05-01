@@ -10,11 +10,10 @@
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --recursive tests",
-    "copyicons": "rsync -av assets/icons src/",
     "restorecache": "./bin/restore_cache.sh",
     "deploy": "./bin/deploy.sh",
-    "build": "npm run copyicons && ./build.js",
-    "build:dev": "npm run copyicons && ./build.js --dev"
+    "build": "./build.js",
+    "build:dev": "./build.js --dev"
   },
   "author": "Damien Pobel",
   "license": "MIT",
