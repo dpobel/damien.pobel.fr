@@ -2631,13 +2631,6 @@ metalsmith-html-minifier@^4.0.1:
     lodash.defaultsdeep "^4.6.1"
     multimatch "^4.0.0"
 
-metalsmith-ignore@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/metalsmith-ignore/-/metalsmith-ignore-1.0.0.tgz#9a1eb87659c5de1821efa6bea903748b49d47ffc"
-  integrity sha512-qONM0SRzh8hmtPyEBUUsPVBoL2QGm5lfP3Si+UmEtm6ly4uv7dsvaP6S61kCuNRICZx49RuykEBOR0HOaYwMjA==
-  dependencies:
-    multimatch "^2.1.0"
-
 metalsmith-layouts@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/metalsmith-layouts/-/metalsmith-layouts-2.3.1.tgz#027f5ca9b7fb1ecc36e9697cd757d1923670fa7e"
