@@ -32,6 +32,9 @@
         "icons": "icons/*.svg",
         "tags": "tags/*"
     },
+    "ignore": [
+        "css/*"
+    ],
     "assets": {
         "source": "./assets",
         "destination": "."
