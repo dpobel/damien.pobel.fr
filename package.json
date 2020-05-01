@@ -47,10 +47,10 @@
     "metalsmith-markdown": "^0.2.2",
     "metalsmith-metallic": "^2.0.3",
     "metalsmith-moment": "^2.0.0",
-    "metalsmith-myth": "0.0.0",
     "metalsmith-pagination": "^1.5.0",
     "metalsmith-pdfize": "^2.0.0",
     "metalsmith-permalinks": "^2.2.0",
+    "metalsmith-postcss2": "^2.0.0",
     "metalsmith-renamer": "^0.4.1",
     "metalsmith-tags": "^2.0.0",
     "minimatch": "^3.0.4",
@@ -60,6 +60,8 @@
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.1",
     "open": "^7.0.3",
+    "postcss": "^7.0.27",
+    "postcss-import": "^12.0.1",
     "static-server": "^3.0.0",
     "striptags": "^3.1.1"
   }
