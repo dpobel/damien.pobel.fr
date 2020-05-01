@@ -2,7 +2,7 @@ module.exports = {
     map: false,
     plugins: {
         "postcss-import": {
-            "addModulesDirectories": ['assets/ext'],
+            "addModulesDirectories": ['assets/css'],
         },
         "postcss-preset-env": {
             "preserve": false,
