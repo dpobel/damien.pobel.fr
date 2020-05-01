@@ -5,6 +5,11 @@ module.exports = {
         "postcss-preset-env": {
             "preserve": false,
         },
-        "cssnano": {},
+        "cssnano": {
+            "preset": [
+                "default",
+                {"discardComments": {"removeAll": true}},
+            ],
+        },
     }
 };
