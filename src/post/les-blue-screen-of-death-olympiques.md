@@ -7,7 +7,7 @@ node: "67006"
 remoteId: "13cdad67fb1d26db844b19f296af2a78"
 published: 2008-08-13T13:30:05+02:00
 ---
-<figure class="object-center"><a href="/images/blue-screen-of-death-olympique.jpg">![Blue Screen Of Death Olympique](/images//blue-screen-of-death-olympique.jpg)
+<figure class="object-center"><a href="/images/blue-screen-of-death-olympique.jpg"><img src="/images//blue-screen-of-death-olympique.jpg" alt="Blue Screen Of Death Olympique">
 </a></figure>
 
 

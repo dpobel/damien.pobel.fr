@@ -11,8 +11,7 @@ For me it's probably one of the most expected feature in [eZ
 Publish](/tag/ez-publish) after [the PHP5 port with eZ Publish
 4](/post/ez-publish-4) ! It's only a beta release but it looks very promising.
 
-<figure class="object-center"><a href="/images/online-editor-mce.png">![Online
-Editor MCE](/images/660x/online-editor-mce.png) </a></figure>
+<figure class="object-center"><a href="/images/online-editor-mce.png"><img src="/images/660x/online-editor-mce.png" alt="Online Editor MCE"> </a></figure>
 
 
 It's based on [TinyMCE](http://tinymce.moxiecode.com/), so

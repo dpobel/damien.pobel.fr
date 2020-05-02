@@ -7,7 +7,7 @@ remoteId: "f4c362ee6d5dba24996bb9ff473f0bcc"
 published: 2009-02-10T00:53:56+01:00
 updated: 2016-02-12 12:22
 ---
-<figure class="object-center"><a href="/images/nokia-5800.png">![Nokia 5800](/images//nokia-5800.png)
+<figure class="object-center"><a href="/images/nokia-5800.png"><img src="/images//nokia-5800.png" alt="Nokia 5800">
 </a></figure>
 
 

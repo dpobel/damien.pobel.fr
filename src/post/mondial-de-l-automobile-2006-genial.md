@@ -18,7 +18,7 @@ rendant les photos difficiles et ne mettant pas forcément en valeur ces
 magnifiques autos. mais pour le reste, rien à redire, un sans faute !
 
  
-<figure class="object-left"><a href="/images/c-est-beau-de-rever.jpg">![C'est beau de rêver :)](/images/220x/c-est-beau-de-rever.jpg)
+<figure class="object-left"><a href="/images/c-est-beau-de-rever.jpg"><img src="/images/220x/c-est-beau-de-rever.jpg" alt="C'est beau de rêver :)">
 </a></figure>
 
 
@@ -57,7 +57,7 @@ S1](http://photos.pwet.fr/villes-et-departements/paris-75/paris/audi-quattro-s1/
 ou [le prototype Suzuki Grand Vittara préparé pour Pikes
 Peak](http://photos.pwet.fr/villes-et-departements/paris-75/paris/suzuki-grand-vitara-pikes-peak/).
 
-<figure class="object-left"><a href="/images/son-ami-l-ecureuil.jpg">![Son ami l'écureuil](/images/220x/son-ami-l-ecureuil.jpg)
+<figure class="object-left"><a href="/images/son-ami-l-ecureuil.jpg"><img src="/images/220x/son-ami-l-ecureuil.jpg" alt="Son ami l'écureuil">
 </a></figure>
 
 

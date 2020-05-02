@@ -9,8 +9,7 @@ photos:
 <figure class="object-left" style="max-width: 330px;">
     <img src="/images/error-404.gif" alt="404 Page Not Found by Bernie Sanders">
     <figcaption>
-        GIF animé issu de [Bernie Sanders' 404 page is the 404 page we
-        need](http://micdotcom.tumblr.com/post/119974525858/bernie-sanders-404-page-is-the-404-page-we-need)
+        GIF animé issu de <a href="http://micdotcom.tumblr.com/post/119974525858/bernie-sanders-404-page-is-the-404-page-we-need">Bernie Sanders' 404 page is the 404 page we need</a>
     </figcaption>
 </figure>
 

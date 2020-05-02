@@ -13,6 +13,7 @@ photos:
     wrong">
     </a>
 </figure>
+
 Yesterday I published the very first version of
 [metalsmith-pdfize](https://www.npmjs.com/package/metalsmith-pdfize) on npm (and
 of course on [Github](https://www.github.com/dpobel/metalsmith-pdfize) as well).

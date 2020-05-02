@@ -12,23 +12,23 @@ Le sujet du concours photos de l'agence Smile de Lyon de cette année était *Re
 
 ## Mot double : 18 points
 
-<figure class="object-center"><a href="/images/mot-double-18-points.jpg">![Mot double : 18 points](/images/660x/mot-double-18-points.jpg)
+<figure class="object-center"><a href="/images/mot-double-18-points.jpg"><img src="/images/660x/mot-double-18-points.jpg" alt="Mot double : 18 points">
 </a></figure>
 
 
 ## Œil de Smile
 
-<a href="/images/aeil-de-smile.jpg">![Œil de Smile](/images/660x/aeil-de-smile.jpg)
+<a href="/images/aeil-de-smile.jpg"><img src="/images/660x/aeil-de-smile.jpg" alt="Œil de Smile">
 </a>
 
 ## Symétrie
 
-<figure class="object-center"><a href="/images/symetrie.jpg">![Symétrie](/images/660x/symetrie.jpg)
+<figure class="object-center"><a href="/images/symetrie.jpg"><img src="/images/660x/symetrie.jpg" alt="Symétrie">
 </a></figure>
 
 
 ## Cygne
 
-<figure class="object-center"><a href="/images/cygne.jpg">![Cygne](/images/660x/cygne.jpg)
+<figure class="object-center"><a href="/images/cygne.jpg"><img src="/images/660x/cygne.jpg" alt="Cygne">
 </a></figure>
 

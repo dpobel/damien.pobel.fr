@@ -7,6 +7,6 @@ node: "66822"
 remoteId: "367f1cb636f85c009a9f25b819651015"
 published: 2008-05-02T22:32:12+02:00
 ---
-<figure class="object-center"><a href="/images/rider-de-vtt-slopestyle.jpg">![Rider de VTT Slopestyle](/images/660x/rider-de-vtt-slopestyle.jpg)
+<figure class="object-center"><a href="/images/rider-de-vtt-slopestyle.jpg"><img src="/images/660x/rider-de-vtt-slopestyle.jpg" alt="Rider de VTT Slopestyle">
 </a></figure>
 

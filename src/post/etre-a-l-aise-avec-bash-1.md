@@ -47,7 +47,7 @@ Cette configuration fait en sorte d'avoir un *prompt* bleu, jaune et blanc pour 
  
 
 
-<figure class="object-center"><a href="/images/prompt-bash.png">![Prompt bash](/images//prompt-bash.png)
+<figure class="object-center"><a href="/images/prompt-bash.png"><img src="/images//prompt-bash.png" alt="Prompt bash">
 </a></figure>
 
 

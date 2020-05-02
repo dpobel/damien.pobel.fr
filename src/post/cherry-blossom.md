@@ -10,7 +10,7 @@ published: 2007-04-28T18:56:30+02:00
  
 
 
-<figure class="object-center"><a href="/images/fleur-de-cerisier.jpg">![Fleur de cerisier](/images/660x/fleur-de-cerisier.jpg)
+<figure class="object-center"><a href="/images/fleur-de-cerisier.jpg"><img src="/images/660x/fleur-de-cerisier.jpg" alt="Fleur de cerisier">
 </a></figure>
 
 

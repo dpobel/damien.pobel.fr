@@ -11,10 +11,10 @@ photos:
 ---
 
 <figure class="object-center">
-<a href="/images/coupe-de-cheveux-ubuntu.jpg">![Coupe de cheveux Ubuntu](/images/660x/coupe-de-cheveux-ubuntu.jpg)
-</a>
+<a href="/images/coupe-de-cheveux-ubuntu.jpg"><img src="/images/660x/coupe-de-cheveux-ubuntu.jpg" alt="Coupe de cheveux Ubuntu"></a>
 <figcaption>
-Photo sous [Licence Creative Commons By Sa 2.0](http://creativecommons.org/licenses/by-sa/2.0/) par [Jeff Kubina](http://www.flickr.com/photos/kubina/)
+Photo sous <a href="http://creativecommons.org/licenses/by-sa/2.0/">Licence Creative Commons By Sa 2.0</a>
+par <a href="http://www.flickr.com/photos/kubina/">Jeff Kubina</a>
 </figcaption>
 </figure>
 

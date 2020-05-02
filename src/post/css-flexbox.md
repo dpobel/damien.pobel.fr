@@ -27,7 +27,7 @@ can](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/)
     <img src="/images/330x/flexbox-all-the-things.jpg" alt="Flexbox all the
 things">
     <figcaption>
-        Taken from [Meme Generator](http://memegenerator.net/instance/65938732)
+        Taken from <a href="http://memegenerator.net/instance/65938732">Meme Generator</a>
     </figcaption>
 </figure>
 

@@ -10,7 +10,7 @@ published: 2007-05-25T00:18:10+02:00
  
 
 
-<figure class="object-center"><a href="/images/printemps-colore.jpg">![Printemps coloré](/images/660x/printemps-colore.jpg)
+<figure class="object-center"><a href="/images/printemps-colore.jpg"><img src="/images/660x/printemps-colore.jpg" alt="Printemps coloré">
 </a></figure>
 
 

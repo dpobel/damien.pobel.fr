@@ -8,13 +8,14 @@ remoteId: "57f648957c730a8228d51d42f04d0602"
 published: 2008-03-18T21:12:34+01:00
 ---
 <blockquote>
+
 … l'univers et la bêtise humaine ; en ce qui concerne l'univers, je n'en ai pas acquis la certitude absolue.
 
 Albert Einstein
 </blockquote>
 
 
-* [Abruti d'artiste](http://inature.canalblog.com/archives/2008/03/17/8361107.htm://en.wikipedia.org/wiki/Guillermo_Vargas)
+* [Abruti d'artiste](https://en.wikipedia.org/wiki/Guillermo_Vargas)
 * [L'avenir des blogs dans les mains de la justice
   française](http://www.presse-citron.net/fuzz-et-assignation-en-justice-et-le-plaignant-est/)
 

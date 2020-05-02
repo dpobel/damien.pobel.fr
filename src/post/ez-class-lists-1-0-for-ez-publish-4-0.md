@@ -14,8 +14,7 @@ Lists](http://projects.ez.no/ezclasslists) is an extension that adds a new tab
 in the administration interface where you can browse your content by content
 classes.
 
-<figure class="object-center"><a href="/images/ez-class-lists-1-0.png">![eZ
-Class Lists 1.0](/images/660x/ez-class-lists-1-0.png) </a></figure>
+<figure class="object-center"><a href="/images/ez-class-lists-1-0.png"><img src="/images/660x/ez-class-lists-1-0.png" alt="eZ Class Lists 1.0"> </a></figure>
 
 
 This version adds three main features :

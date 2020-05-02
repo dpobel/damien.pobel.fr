@@ -10,6 +10,7 @@ photos:
 <figure class="object-left bordered">
     <img src="/images/330x/hubot.jpg" alt="Hubot">
 </figure>
+
 [Travis CI is a continuous integration
 platform](https://docs.travis-ci.com/user/for-beginners/) which means it is used
 to run various processes after code changes like unit tests, code style checks,

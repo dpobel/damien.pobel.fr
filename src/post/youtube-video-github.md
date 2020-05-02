@@ -51,8 +51,7 @@ snippet, here is the script in action:
 <figure class="object-center bordered">
     <img src="/images/youtube-video-github.gif" alt="Screencast of github-add-youtube-video Greasemonkey script">
     <figcaption>
-        Screencast of [github-add-youtube-video Greasemonkey
-        script](https://github.com/dpobel/github-add-youtube-video/blob/master/addvideo.user.js)
+        Screencast of <a href="https://github.com/dpobel/github-add-youtube-video/blob/master/addvideo.user.js">github-add-youtube-video Greasemonkey script</a>
     </figcaption>
 </figure>
 

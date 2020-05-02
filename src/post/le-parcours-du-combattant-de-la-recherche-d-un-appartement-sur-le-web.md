@@ -16,6 +16,7 @@ fois de plus celui qui applique [le principe <abbr title="Keep It Simple
 Stupid">KISS</abbr>](http://fr.wikipedia.org/wiki/KISS-principe).
 
 <blockquote>
+
 Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher
 
 [Antoine de Saint-Exupéry](http://fr.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
@@ -23,7 +24,7 @@ Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajoute
 
 ## La FNAIM :
 
-<figure class="object-center"><a href="/images/formulaire-de-recherche-de-la-fnaim.png">![Formulaire de recherche de la FNAIM](/images//formulaire-de-recherche-de-la-fnaim.png)
+<figure class="object-center"><a href="/images/formulaire-de-recherche-de-la-fnaim.png"><img src="/images//formulaire-de-recherche-de-la-fnaim.png" alt="Formulaire de recherche de la FNAIM">
 </a></figure>
 
 Vu de loin, ce formulaire a
@@ -40,7 +41,7 @@ suivant !
 
 ## Foncia
 
-<figure class="object-center"><a href="/images/formulaire-de-recherche-foncia.png">![Formulaire de recherche Foncia](/images//formulaire-de-recherche-foncia.png)
+<figure class="object-center"><a href="/images/formulaire-de-recherche-foncia.png"><img src="/images//formulaire-de-recherche-foncia.png" alt="Formulaire de recherche Foncia">
 </a></figure>
 
 Le formulaire de recherche sur le site de
@@ -60,7 +61,7 @@ pour Internet Explorer*, ça doit être pour ça...
 
 ## Orpi
 
-<figure class="object-center"><a href="/images/formulaire-de-recherche-orpi.png">![Formulaire de recherche Orpi](/images//formulaire-de-recherche-orpi.png)
+<figure class="object-center"><a href="/images/formulaire-de-recherche-orpi.png"><img src="/images//formulaire-de-recherche-orpi.png" alt="Formulaire de recherche Orpi">
 </a></figure>
 
 Par rapport aux deux autres, il n'y a pas photo, c'est simple, c'est rapide, ça

@@ -7,6 +7,6 @@ node: "65490"
 remoteId: "fdab83ca0bf48b02da7ce9f52978dbc1"
 published: 2007-05-17T00:14:33+02:00
 ---
-<figure class="object-center"><a href="/images/photo-laitue-vivace.jpg">![Photo Laitue Vivace](/images/660x/photo-laitue-vivace.jpg)
+<figure class="object-center"><a href="/images/photo-laitue-vivace.jpg"><img src="/images/660x/photo-laitue-vivace.jpg" alt="Photo Laitue Vivace">
 </a></figure>
 

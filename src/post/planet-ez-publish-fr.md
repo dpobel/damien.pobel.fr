@@ -7,7 +7,7 @@ node: "67439"
 remoteId: "dcf30312691fb1e572c7d2d6f9038c9e"
 published: 2009-01-20T20:56:36+01:00
 ---
-<figure class="object-center">![Bandeau planet eZ Publish.fr](/images//bandeau-planet-ez-publish-fr.png)
+<figure class="object-center"><img src="/images//bandeau-planet-ez-publish-fr.png" alt="Bandeau planet eZ Publish.fr">
 </figure>
 
 

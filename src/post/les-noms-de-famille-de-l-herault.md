@@ -11,7 +11,7 @@ photos:
 ---
 
 
-<figure class="object-left"><a href="/images/couverture-les-noms-de-famille-de-l-herault.jpg">![Couverture "Les noms de famille de l'Hérault"](/images/220x/couverture-les-noms-de-famille-de-l-herault.jpg)
+<figure class="object-left"><a href="/images/couverture-les-noms-de-famille-de-l-herault.jpg"><img src="/images/220x/couverture-les-noms-de-famille-de-l-herault.jpg" alt="Couverture Les noms de famille de l'Hérault">
 </a></figure>
 
 
@@ -25,13 +25,13 @@ l'origine des 1000 noms les plus portés dans l'Hérault, c'est assez intéressa
 et amusant parfois. J'ai pu découvrir l'origine du nom de quelques connaissances
 ou de célébrités.
 
- 
+
 La photo retenue pour la couverture est finalement [une photo du Pont du
 Diable](http://photos.pwet.fr/villes-et-departements/herault-34/aniane/le-pont-du-diable/)
 légèrement retouchée pour supprimer les quelques passants sur le pont,
 l'automobile stationnée sur le côté et améliorer la luminosité.
 
- 
+
 Je suis vraiment content car dans la liste qu'on m'avait fourni, c'était ma
 préférée avec celle [du
 Lez](http://photos.pwet.fr/villes-et-departements/herault-34/prades-le-lez/le-lez-proche-de-sa-source/)
@@ -40,8 +40,8 @@ grande fierté pour moi de pouvoir lire respectivement en fin et au dos du livre
 :
 
  <blockquote>
+
 Photo de couverture&nbsp;: Damien Pobel, que nous remercions de nous avoir autorisé à reproduire gracieusement
 
- 
 En couverture&nbsp;: le pont du Diable, photo de Damien Pobel
 </blockquote>

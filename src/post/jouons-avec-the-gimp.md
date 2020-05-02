@@ -7,7 +7,7 @@ remoteId: "8d552bc72be6b7f977ebe46e43b8d73b"
 published: 2007-05-29T00:58:00+02:00
 updated: 2016-02-12 13:33
 ---
- 
+
 Voilà plusieurs fois de suite que je tombe sur des photos noir et blanc où seuls
 quelques détails ont gardé leurs couleurs, par exemple sur [ce
 cliché](https://www.flickr.com/photos/domib34/506202573/) du
@@ -27,7 +27,6 @@ réaliser qu'il n'y paraît, et je me suis empressé de faire un premier essai s
 cette photo d'une carcasse rouillée sur [une plage entre Sète et
 Agde](/post/avant-gout-d-ete).
 
- 
+
 <figure class="object-center"><a
-href="/images/rouille-sur-la-plage.jpg">![Rouille sur la
-plage](/images/330x/rouille-sur-la-plage.jpg) </a></figure>
+href="/images/rouille-sur-la-plage.jpg"><img src="/images/330x/rouille-sur-la-plage.jpg" alt="Rouille sur la plage"> </a></figure>

@@ -10,7 +10,7 @@ published: 2007-03-19T22:21:26+01:00
 
 
 
-<figure class="object-left"><a href="/images/la-gazette-de-jean-pierre-pernaut.png">![La gazette de Jean Pierre Pernaut](/images//la-gazette-de-jean-pierre-pernaut.png)
+<figure class="object-left"><a href="/images/la-gazette-de-jean-pierre-pernaut.png"><img src="/images//la-gazette-de-jean-pierre-pernaut.png" alt="La gazette de Jean Pierre Pernaut">
 </a></figure>
 
 

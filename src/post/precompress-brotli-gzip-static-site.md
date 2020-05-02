@@ -198,14 +198,14 @@ resulting size of some files (unless mentioned, sizes are in bytes).
     </thead>
     <tbody>
         <tr>
-            <td>[Homepage](/)</td>
+            <td><a href="/">Homepage</a></td>
             <td>8293</td>
             <td>2399</td><td>29%</td>
             <td>1991</td><td>24%</td>
             <td>-408</td>
         </tr>
         <tr>
-            <td>[RSS feed](/rss.xml)</td>
+            <td><a href="/rss.xml">RSS feed</a></td>
             <td>57368</td>
             <td>19636</td><td>34%</td>
             <td>16998</td><td>30%</td>
@@ -226,14 +226,14 @@ resulting size of some files (unless mentioned, sizes are in bytes).
             <td>-16</td>
         </tr>
         <tr>
-            <td>[Posts index](/posts/)</td>
+            <td><a href="/posts/">Posts index</a></td>
             <td>6772</td>
             <td>1892</td><td>28%</td>
             <td>1587</td><td>23%</td>
             <td>-305</td>
         </tr>
         <tr>
-            <td>[Latest post in English](/post/configure-neovim-vim-gf-javascript-import)</td>
+            <td><a href="/post/configure-neovim-vim-gf-javascript-import/">Latest post in English</a></td>
             <td>13814</td>
             <td>4437</td><td>32%</td>
             <td>3681</td><td>27%</td>

@@ -22,7 +22,7 @@ de cette classe également. Si vous voulez ajouter le support pour d'autres
 réseaux, [n'hésitez pas à rejoindre le
 projet](http://projects.ez.no/autostatus/team/members).
 
-<figure class="object-center"><a href="/images/configuration-du-workflow-event-type-auto-status.png">![Configuration du workflow event type Auto status](/images//configuration-du-workflow-event-type-auto-status.png)
+<figure class="object-center"><a href="/images/configuration-du-workflow-event-type-auto-status.png"><img src="/images//configuration-du-workflow-event-type-auto-status.png" alt="Configuration du workflow event type Auto status">
 </a></figure>
 
 

@@ -8,7 +8,7 @@ photos:
 
 <figure class="object-center">
     <img src="/images/660x/ez-logo-beach.jpg" alt="Logo eZ version plage">
-    <figcaption>Photo &copy; [Sylvain Guittard](https://twitter.com/sylvainguittard)</figcaption>
+    <figcaption>Photo &copy; <a href="https://twitter.com/sylvainguittard">Sylvain Guittard</a></figcaption>
 </figure>
 
 Ce mercredi 19 novembre 2014 aura lieu [le premier *meetup* autour d'eZ

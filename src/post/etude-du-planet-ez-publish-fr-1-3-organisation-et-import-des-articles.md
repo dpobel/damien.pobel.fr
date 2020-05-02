@@ -23,7 +23,7 @@ III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-
 
 ### Classes de contenu
 
-<figure class="object-left"><a href="/images/arborescence-planet-ez-publish-fr.png">![Arborescence Planet eZ Publish.fr](/images//arborescence-planet-ez-publish-fr.png)
+<figure class="object-left"><a href="/images/arborescence-planet-ez-publish-fr.png"><img src="/images//arborescence-planet-ez-publish-fr.png" alt="Arborescence Planet eZ Publish.fr">
 </a></figure>
 
 

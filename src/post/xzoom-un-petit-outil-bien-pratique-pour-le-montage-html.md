@@ -12,7 +12,7 @@ photos:
 
 [xzoom](http://pwet.fr/man/linux/commandes/x2/xzoom) fait partie de ces petits outils peu connus mais qui peuvent rendre de grands services. xzoom permet de d'agrandir une zone de l'écran quasiment en temps réel, en d'autres termes, à partir du moment où une zone a été choisie (en glissant sur la zone à partie de sa fenêtre), la fenêtre de xzoom se met à jour en même temps que la zone concernée (à l'inverse de [xmag](http://pwet.fr/man/linux/commandes/x2/xmag) par exemple). Cet outil est une aide précieuse pour le montage / l'intégration HTML/CSS lorsqu'il faut caler des blocs avec plus ou moins de contrastes au pixel près.
 
-<figure class="object-center"><a href="/images/capture-d-ecran-xzoom.png">![Capture d'écran xzoom](/images//capture-d-ecran-xzoom.png)
+<figure class="object-center"><a href="/images/capture-d-ecran-xzoom.png"><img src="/images//capture-d-ecran-xzoom.png" alt="Capture d'écran xzoom">
 </a></figure>
 
 

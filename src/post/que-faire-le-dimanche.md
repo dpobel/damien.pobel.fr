@@ -20,5 +20,5 @@ updated: 2016-02-12 09:17
  * Et surtout, surtout, attendre 30 minutes et **MIAM&nbsp;!**
  
 
-<figure class="object-center"><a href="/images/gateau-au-chocolat.jpg">![Gâteau au chocolat](/images//gateau-au-chocolat.jpg)
+<figure class="object-center"><a href="/images/gateau-au-chocolat.jpg"><img src="/images//gateau-au-chocolat.jpg" alt="Gâteau au chocolat">
 </a></figure>

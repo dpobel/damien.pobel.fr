@@ -13,7 +13,7 @@ Depuis sa version 2.0, [OpenOffice](http://pwet.fr/man/linux/commandes/openoffic
  
 
 
-<figure class="object-center"><a href="/images/openoffice-sans-detection-de-bureau.png">![OpenOffice sans détection de bureau](/images/330x/openoffice-sans-detection-de-bureau.png)
+<figure class="object-center"><a href="/images/openoffice-sans-detection-de-bureau.png"><img src="/images/330x/openoffice-sans-detection-de-bureau.png" alt="OpenOffice sans détection de bureau">
 </a></figure>
 
 
@@ -32,7 +32,7 @@ Avec cette ligne, OpenOffice prend quoi qu'il arrive le look and feel de GNOME, 
  
 
 
-<figure class="object-center"><a href="/images/openoffice-avec-le-look-and-feel-gnome.png">![OpenOffice avec le look and feel GNOME](/images/330x/openoffice-avec-le-look-and-feel-gnome.png)
+<figure class="object-center"><a href="/images/openoffice-avec-le-look-and-feel-gnome.png"><img src="/images/330x/openoffice-avec-le-look-and-feel-gnome.png" alt="OpenOffice avec le look and feel GNOME">
 </a></figure>
 
 

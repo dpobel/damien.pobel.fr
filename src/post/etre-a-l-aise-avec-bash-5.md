@@ -126,7 +126,7 @@ $ cat .bashrc | egrep --color ' [a-z][a-z]='
 Cette ligne permet d'obtenir tous les alias de 2 caractères. Ce qui donne dans
 mon terminal :
 
-<figure class="object-center"><a href="/images/couleur-avec-grep.png">![Couleur avec grep](/images//couleur-avec-grep.png)
+<figure class="object-center"><a href="/images/couleur-avec-grep.png"><img src="/images//couleur-avec-grep.png" alt="Couleur avec grep">
 </a></figure>
 
  

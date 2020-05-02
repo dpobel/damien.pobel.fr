@@ -8,8 +8,8 @@ photos:
 ---
 
 <p class="note">
-Ce texte est une traduction de [Technical Debt is like Tetris](https://medium.com/@erichiggins/technical-debt-is-like-tetris-168f64d8b700) par
-[Eric Higgins](https://twitter.com/rlyerichiggins).
+Ce texte est une traduction de <a href="https://medium.com/@erichiggins/technical-debt-is-like-tetris-168f64d8b700">Technical Debt is like Tetris</a> par
+<a href="https://twitter.com/rlyerichiggins">Eric Higgins</a>.
 </p>
 
 Vous ne pouvez pas gagner. Vous ne pouvez que retarder la fin de la partie.

@@ -11,12 +11,13 @@ published: 2007-11-26T18:54:35+01:00
 Via [Planète GNOME-FR](http://planet.gnomefr.org/), j'ai vu un petit topo très imagé et très drôle des différentes variantes du métal, extrait :
 
 <blockquote>
+
 **HEAVY METAL** Le chevalier arrive sur une Harley Davidson, tue le dragon, boit quelques bières et baise la princesse en rotant.
-<br />
+
 **SPEED METAL** Chevalier-tue-dragon-sauve-princesse-la-baise.
-<br />
+
 **HARD ROCK** Le chevalier arrive en short avec une casquette. La princesse se casse dégoûtée.
-<br />
+
 [...]
 </blockquote>
 

@@ -10,6 +10,7 @@ photos:
 <figure class="object-left bordered">
     <img src="/images/220x/polymer.png" alt="Polymer project logo">
 </figure>
+
 [Polymer](https://www.polymer-project.org/1.0/) is a library (developed by
 Google) to ease the creation of *components* or more precisely of [Web
 Components](http://webcomponents.org/). I really like the idea of being able to

@@ -10,7 +10,7 @@ published: 2007-06-02T19:12:51+02:00
  
 
 
-<figure class="object-center"><a href="/images/mucari-a-toupet.jpg">![Mucari à toupet](/images/660x/mucari-a-toupet.jpg)
+<figure class="object-center"><a href="/images/mucari-a-toupet.jpg"><img src="/images/660x/mucari-a-toupet.jpg" alt="Mucari à toupet">
 </a></figure>
 
 

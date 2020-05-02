@@ -7,7 +7,7 @@ node: "66948"
 remoteId: "ef49fbf5cc7d390eff83db4da2aa37db"
 published: 2008-07-23T14:13:19+02:00
 ---
-<figure class="object-center"><a href="/images/panoramique-sur-sete-et-le-mont-saint-clair.jpg">![Panoramique sur Sète et le Mont Saint Clair](/images/660x/panoramique-sur-sete-et-le-mont-saint-clair.jpg)
+<figure class="object-center"><a href="/images/panoramique-sur-sete-et-le-mont-saint-clair.jpg"><img src="/images/660x/panoramique-sur-sete-et-le-mont-saint-clair.jpg" alt="Panoramique sur Sète et le Mont Saint Clair">
 </a></figure>
 
 

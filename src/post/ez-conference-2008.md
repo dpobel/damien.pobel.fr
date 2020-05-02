@@ -7,7 +7,7 @@ remoteId: "5e8ad8667e1377486bbc8651d5558ac2"
 published: 2008-06-29T18:53:13+02:00
 updated: 2016-02-10 22:55
 ---
-<figure class="object-center"><a href="/images/skien.jpg">![Skien](/images/660x/skien.jpg)
+<figure class="object-center"><a href="/images/skien.jpg"><img src="/images/660x/skien.jpg" alt="Skien">
 </a></figure>
 
 

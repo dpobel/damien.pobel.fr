@@ -14,7 +14,7 @@ sur 5 sur le Google Play Store au sujet de cette application:
 
 > Très agréablement surpris par cette nouvelle app! Manque juste un widget pour
 > avoir les prochains trains sur une recherche d'itinéraire au lieu de
-> uniquement les départs/arrivées dans une gare! 
+> uniquement les départs/arrivées dans une gare!
 
 Le widget est toujours manquant mais avec le recul, je me demande bien ce qui me
 passait par la tête ce jour là ou alors l'application a radicalement changé.
@@ -33,9 +33,7 @@ et je suis arrivé en gare à 7h43 pour prendre mon train à 7h45. Jusque là to
 va bien, sauf que 10 mètres avant d'arriver sur le quai je reçois cette
 notification:
 
-![Notification dans l'application SNCF TER
-Mobile](/images/660x/notification-retard-ter.png "Pas très informative cette
-notification")
+<img src="/images/660x/notification-retard-ter.png" title="Pas très informative cette notification" alt="Notification dans l'application SNCF TER Mobile">
 
 **Premier raté&nbsp;:** Le texte de la notification est tronqué avant que
 l'information qui m'intéresse (retard ou suppression) puisse être affichée.
@@ -43,8 +41,7 @@ Android sait pourtant faire des notifications interactives [depuis la version 4.
 2012](https://developer.android.com/about/versions/android-4.1.html#UI). La
 notification permet de lancer l'application qui affiche alors&nbsp;:
 
-![Application TER Mobile](/images/330x/application-ter-mobile.png
-"Euh je voulais les informations d'un train")
+<img src="/images/330x/application-ter-mobile.png" alt="Application TER Mobile" title="Euh je voulais les informations d'un train">
 
 **Deuxième raté&nbsp;:** l'application m'affiche sa page d'accueil... À la base
 j'étais intéressé par mon train, bon je vais me
@@ -62,23 +59,21 @@ train a du retard au départ, il n'aura pas le temps de combler ce retard.
 Un peu plus tard, je reçois une nouvelle notification qui cette fois m'emmène
 sur l'écran suivant&nbsp;:
 
-![Application TER Mobile information sur un train](/images/330x/application-ter-mobile-info-train.png
-"Toujours pas le droit à une information complète")
+<img src="/images/330x/application-ter-mobile-info-train.png" alt="Application TER Mobile information sur un train" title="Toujours pas le droit à une information complète">
+
 
 **Troisième raté&nbsp;:** le message est encore tronqué, il semble décidément
 compliqué d'afficher une phrase de plus de 10 mots dans cette application! En
 utilisant "Voir" on passe à l'écran suivant&nbsp;:
 
-![Application TER Mobile continuer à être informé](/images/330x/application-ter-mobile-info-train-encore.png
-"Je suppose que oui ?")
+<img src="/images/330x/application-ter-mobile-info-train-encore.png" alt="Application TER Mobile continuer à être informé" title="Je suppose que oui ?">
 
 On progresse, mais je suis un peu dubitatif sur la question. Mais elle s'affiche
 en entier, on peut pas tout avoir dans le vie... Je me demande ce qu'il se passe
 si je dis "Non" alors que j'ai fait "Voir" juste avant&nbsp;? Mais finalement,
 *miracle* le retard de mon train s'affiche&nbsp;!
 
-![Application TER Mobile train en retard](/images/330x/application-ter-mobile-train-retard.png
-"Application TER Mobile train en retard")
+<img src="/images/330x/application-ter-mobile-train-retard.png" alt="Application TER Mobile train en retard" title="Application TER Mobile train en retard">
 
 Là encore, l'écran me laisse dubitatif, on peut y lire la phrase suivante&nbsp;:
 

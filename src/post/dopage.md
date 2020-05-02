@@ -41,7 +41,7 @@ que les contrôles ne sont pas aussi fiables qu'on veut bien le dire, peut être
 la suite d'expériences positivo-négatives antérieures ?
 
 
-<figure class="object-center"><a href="/images/publicite-pour-un-produit-ameliorant-les-performances.png">![Publicité pour un produit améliorant les performances](/images//publicite-pour-un-produit-ameliorant-les-performances.png)
+<figure class="object-center"><a href="/images/publicite-pour-un-produit-ameliorant-les-performances.png"><img src="/images//publicite-pour-un-produit-ameliorant-les-performances.png" alt="Publicité pour un produit améliorant les performances">
 </a></figure>
 
 En tout cas, certaines choses commencent peut être à changer mais quand je vois

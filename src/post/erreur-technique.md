@@ -11,9 +11,10 @@ published: 2008-12-29T18:36:20+01:00
 Voyages-SNCF.com c'est vraiment... comment dire ? Exemple d'aujourd'hui, je fais une réservation [pour aller à Paris fin février](/post/ac-dc-black-ice-tour-a-bercy-le-27-fevrier-2009), je paie avec ma carte bancaire et là patatra, c'est la cata je suis redirigé vers [la page d'*erreur technique* standard](http://www.voyages-sncf.com/page-erreur-technique) où on peut lire, je cite :
 
 <blockquote>
-**Si vous avez une réservation de billet de Train en cours,** celle-ci a été annulée. 
 
- Nous vous invitons à relancer votre recherche à partir du moteur de recherche sur la droite.
+**Si vous avez une réservation de billet de Train en cours,** celle-ci a été annulée.
+
+Nous vous invitons à relancer votre recherche à partir du moteur de recherche sur la droite.
 </blockquote>
 
 

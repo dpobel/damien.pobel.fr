@@ -22,7 +22,7 @@ $ mplayer -vo caca Le\ monde\ de\ Nemo.avi
  
 
 
-<figure class="object-left"><a href="/images/video-en-ascii-couleur.png">![Video en ASCII couleur](/images/330x/video-en-ascii-couleur.png)
+<figure class="object-left"><a href="/images/video-en-ascii-couleur.png"><img src="/images/330x/video-en-ascii-couleur.png" alt="Video en ASCII couleur">
 </a></figure>
 
 

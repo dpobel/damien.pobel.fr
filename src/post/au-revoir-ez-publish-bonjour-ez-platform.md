@@ -12,6 +12,7 @@ photos:
     <img src="/images/330x/ez-platform-rocket-launch.png" alt="eZ Platform
 Rocket Launch">
 </figure>
+
 [eZ Platform 15.12 est sorti le 15
 décembre](http://ez.no/Blog/Introducing-the-first-releases-of-eZ-Platform-and-eZ-Studio)&nbsp;!
 La sortie d'une nouvelle version est toujours au moins un petit évènement mais
@@ -34,7 +35,7 @@ appelé `ezpublish-kernel`, *la bête est encore vivante* ;-)
 Plus sérieusement, [eZ Platform](/tag/ez-platform) est la réécriture d'eZ
 Publish, en gros on a gardé les concepts mais ils sont mis en œuvre avec du code
 moderne, de bien meilleur qualité, mieux découpé, testé et basé notamment sur
-l'excellent Symfony. 
+l'excellent Symfony.
 
 Une nouvelle version est toujours qu'une étape vers les suivantes. Les
 *Fast-Track Releases* vont maintenant se succèder tous les 2 mois. En toute

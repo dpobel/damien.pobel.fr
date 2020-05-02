@@ -10,7 +10,7 @@ updated: 2016-02-09 13:56
 
 
 
-<figure class="object-left"><a href="/images/montee-dans-la-foret-de-clapiers.jpg">![Montée dans la forêt de Clapiers](/images/330x/montee-dans-la-foret-de-clapiers.jpg)
+<figure class="object-left"><a href="/images/montee-dans-la-foret-de-clapiers.jpg"><img src="/images/330x/montee-dans-la-foret-de-clapiers.jpg" alt="Montée dans la forêt de Clapiers">
 </a></figure>
 
 
@@ -32,21 +32,5 @@ pas pu résister à l'envie de me *rapprocher* de la rocaille locale :-)
 L'ambiance est vraiment sympa et chacun peut rouler à son rythme, pas de
 compétition que du plaisir, comme ici Pierre qui prépare sa mise en orbite :
 
-
-<figure class="object-center"><a href="/images/mise-orbite-de-pierre.jpg">![Mise orbite de Pierre](/images/660x/mise-orbite-de-pierre.jpg)
+<figure class="object-center"><a href="/images/mise-orbite-de-pierre.jpg"><img src="/images/660x/mise-orbite-de-pierre.jpg" alt="Mise orbite de Pierre">
 </a></figure>
-
-
-<div class="video">
-	<object width="425" height="335" type="application/x-shockwave-flash" data="
-https://www.dailymotion.com/swf/Q9NpmzDtzHLmjkmoS
-
-">
-		<param name="movie" value="
-https://www.dailymotion.com/swf/Q9NpmzDtzHLmjkmoS
-
-"></param>
-		<param name="allowfullscreen" value="true"></param>
-	</object>
-</div>
-

@@ -7,7 +7,7 @@ node: "65521"
 remoteId: "d5fb9e8d2cbc2c53b92d14dd301df18d"
 published: 2007-05-19T00:31:10+02:00
 ---
-<figure class="object-center"><a href="/images/le-rider-inconnu.jpg">![Le Rider inconnu](/images/660x/le-rider-inconnu.jpg)
+<figure class="object-center"><a href="/images/le-rider-inconnu.jpg"><img src="/images/660x/le-rider-inconnu.jpg" alt="Le Rider inconnu">
 </a></figure>
 
 

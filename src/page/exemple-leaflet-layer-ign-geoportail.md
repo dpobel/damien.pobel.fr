@@ -12,7 +12,6 @@ Leaflet comme expliquée dans le billet [Cartographie avec les couches Géoporta
 Leaflet](/post/cartographie-api-geoportail-ign-leaflet).
 
 <div id="map"></div>
-
 <link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.3/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@0.7.3/dist/leaflet.js"></script>
 <style>
@@ -21,6 +20,7 @@ Leaflet](/post/cartographie-api-geoportail-ign-leaflet).
     height: 350px;
 }
 </style>
+
 <script>
 (function (global, L) {
     "use strict";

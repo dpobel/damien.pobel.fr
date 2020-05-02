@@ -10,21 +10,15 @@ published: 2009-01-24T21:58:28+01:00
 
 Morceaux choisis lus dans le hors série « *spécial geek* » de [Technikart](http://www.technikart.com/)
 
-<blockquote>
-**Le protocole**
-
-[…] on ne peut pas lire les mails des geeks purs et durs car il passent par le protocole IRC (Internet Relay Chat), soit l'ancêtre du mail né à la fin des années 80 […]
-</blockquote>
-
+> **Le protocole**
+>
+> […] on ne peut pas lire les mails des geeks purs et durs car il passent par le protocole IRC (Internet Relay Chat), soit l'ancêtre du mail né à la fin des années 80 […]
 
 C'est bien connus pour un envoyer [un mail (inventé à la fin des années 60)](http://fr.wikipedia.org/wiki/Mail), le geek va utiliser [le protocole IRC (de la fin des années 80)](http://fr.wikipedia.org/wiki/Irc) ! Pour les non informaticiens, c'est comme si je disais que pour envoyer une lettre manuscrite, j'utilisais la fonction SMS de mon téléphone portable qui serait son ancêtre…
 
-<blockquote>
-**Easter Egg**
-
-[…] par extension désigne les bonus d'un cachés d'un dvd ou d'un blu ray
-</blockquote>
-
+> **Easter Egg**
+>
+> […] par extension désigne les bonus d'un cachés d'un dvd ou d'un blu ray
 
 La faute de frappe n'est pas de moi et si on avait attendu les DVD pour avoir [des Easter Eggs](http://www.eeggs.com/), je connais quelques informaticiens qui ce seraient beaucoup ennuyés :-)
 

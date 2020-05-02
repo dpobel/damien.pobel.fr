@@ -7,7 +7,7 @@ node: "67067"
 remoteId: "8e7a16d8ae1b631f8c256fc8ba612598"
 published: 2008-08-24T20:56:30+02:00
 ---
-<figure class="object-center"><a href="/images/panoramique-sur-le-nid-d-oiseau.jpg">![Panoramique sur le nid d'oiseau](/images//panoramique-sur-le-nid-d-oiseau.jpg)
+<figure class="object-center"><a href="/images/panoramique-sur-le-nid-d-oiseau.jpg"><img src="/images//panoramique-sur-le-nid-d-oiseau.jpg" alt="Panoramique sur le nid d'oiseau">
 </a></figure>
 
 

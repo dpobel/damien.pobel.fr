@@ -13,7 +13,7 @@ Un peu moins de 3 heures de marche aller-retour entre le village de Saint-Guilhe
 
 
 
-<figure class="object-center"><a href="/images/porte-d-enceinte-en-sortant-de-saint-guilhem-le-desert.jpg">![Porte d'enceinte en sortant de Saint Guilhem le Désert](/images/660x/porte-d-enceinte-en-sortant-de-saint-guilhem-le-desert.jpg)
+<figure class="object-center"><a href="/images/porte-d-enceinte-en-sortant-de-saint-guilhem-le-desert.jpg"><img src="/images/660x/porte-d-enceinte-en-sortant-de-saint-guilhem-le-desert.jpg" alt="Porte d'enceinte en sortant de Saint Guilhem le Désert">
 </a></figure>
 
 
@@ -22,7 +22,7 @@ Un peu moins de 3 heures de marche aller-retour entre le village de Saint-Guilhe
 
 
 
-<figure class="object-center"><a href="/images/couleurs-d-automne.jpg">![Couleurs d'automne](/images/660x/couleurs-d-automne.jpg)
+<figure class="object-center"><a href="/images/couleurs-d-automne.jpg"><img src="/images/660x/couleurs-d-automne.jpg" alt="Couleurs d'automne">
 </a></figure>
 
 
@@ -31,7 +31,7 @@ Un peu moins de 3 heures de marche aller-retour entre le village de Saint-Guilhe
 
 
 
-<figure class="object-center"><a href="/images/bruyere-multiflore-erica-multiflora.jpg">![Bruyère multiflore (erica multiflora)](/images/660x/bruyere-multiflore-erica-multiflora.jpg)
+<figure class="object-center"><a href="/images/bruyere-multiflore-erica-multiflora.jpg"><img src="/images/660x/bruyere-multiflore-erica-multiflora.jpg" alt="Bruyère multiflore (erica multiflora)">
 </a></figure>
 
 

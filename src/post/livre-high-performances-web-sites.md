@@ -20,7 +20,7 @@ Traduction libre :
 Seulement 10 à 20% du temps de réponse ressenti par l'utilisateur provient du téléchargement du document HTML. Les 80 à 90% restant viennent du téléchargement des autres composantes de la page.
 </blockquote>
 
-<figure class="object-left"><a href="/images/couverture-du-livre-high-performances-web-sites.jpg">![Couverture du livre "High Performances Web Sites"](/images/220x/couverture-du-livre-high-performances-web-sites.jpg)
+<figure class="object-left"><a href="/images/couverture-du-livre-high-performances-web-sites.jpg"><img src="/images/220x/couverture-du-livre-high-performances-web-sites.jpg" alt="Couverture du livre High Performances Web Sites">
 </a></figure>
 
 

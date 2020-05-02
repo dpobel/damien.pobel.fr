@@ -10,7 +10,7 @@ photos:
 <figure class="object-center">
     <a href="/images/extending-platformui-ezconference-2015.jpg"><img src="/images/660x/extending-platformui-ezconference-2015.jpg" alt="Extending PlatformUI eZ Conference Workshop"></a>
     <figcaption>
-    Photo by [Bertrand Dunogier](https://plus.google.com/+BertrandDunogier)
+    Photo by <a href="https://plus.google.com/+BertrandDunogier">Bertrand Dunogier</a>
     </figcaption>
 </figure>
 

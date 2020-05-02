@@ -7,7 +7,7 @@ remoteId: "5a7b6b6ab5795ebaaf2264e97b05381a"
 published: 2008-09-17T22:41:43+02:00
 updated: 2016-02-09 23:22
 ---
-<figure class="object-center"><a href="/images/living-colour.png">![Living Colour](/images//living-colour.png)
+<figure class="object-center"><a href="/images/living-colour.png"><img src="/images//living-colour.png" alt="Living Colour">
 </a></figure>
 
 Quand je pense que [le groupe Living
