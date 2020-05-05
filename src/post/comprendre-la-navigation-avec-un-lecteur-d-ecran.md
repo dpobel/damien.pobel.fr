@@ -8,9 +8,8 @@ photos:
 ---
 
 <p class="note">
-Ce texte est une traduction de l'excellent [A Tale of Two Rooms: Understanding
-screen reader
-navigation](https://developer.paciellogroup.com/blog/2018/01/a-tale-of-two-rooms-understanding-screen-reader-navigation/).
+Ce texte est une traduction de l'excellent
+<a href="https://developer.paciellogroup.com/blog/2018/01/a-tale-of-two-rooms-understanding-screen-reader-navigation/">A Tale of Two Rooms: Understanding screen reader navigation</a>.
 </p>
 
 <figure class="object-center bordered">

@@ -6,7 +6,7 @@ node: "67472"
 remoteId: "b6ab9bee0cfcf264681f97bdbc270932"
 published: 2009-01-27T12:05:17+01:00
 ---
-<figure class="object-center"><a href="/images/plugin-messagerie-vocale-orange.png">![Plugin messagerie vocale Orange](/images//plugin-messagerie-vocale-orange.png)
+<figure class="object-center"><a href="/images/plugin-messagerie-vocale-orange.png"><img src="/images//plugin-messagerie-vocale-orange.png" alt="Plugin messagerie vocale Orange">
 </a></figure>
 
 

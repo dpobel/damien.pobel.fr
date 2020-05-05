@@ -50,7 +50,7 @@ $ php4 bin/php/ezcache.php -s plain_site_user --clear-id=template-override
  
 Comme on peut le voir dans le template, mon custom tag *dailymotion* attend donc comme attributs la hauteur (height) et la largeur (width) du lecteur. Dans Online Editor, il faut donc remplir le formulaire comme ci-dessous :
 
- <figure class="object-center">![Custom tag dailymotion](/images//custom-tag-dailymotion.png)
+ <figure class="object-center"><img src="/images//custom-tag-dailymotion.png" alt="Custom tag dailymotion">
 </figure>
 
  

@@ -17,14 +17,17 @@ l'Albanelotron (site indisponible depuis :-()&nbsp;! Je ne résiste pas à la
 tentation de citer mes 3 préférées&nbsp;:
 
 <blockquote>
+
 Guy Bono, chanteur de U2…
 </blockquote>
 
 <blockquote>
+
 L'adresse IP est une sorte de plaque d'immatriculation des ordinateurs.
 </blockquote>
 
 <blockquote>
+
 Ce sont [la Quadrature du net](https://www.laquadrature.net/) cinq gus dans un
 garage qui fabriquent des adresses IP pour envoyer des mails à la chaîne.
 </blockquote>

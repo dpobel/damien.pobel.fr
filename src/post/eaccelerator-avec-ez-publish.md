@@ -43,7 +43,7 @@ eaccelerator.shm_only="0"
 eaccelerator.compress="0"
 ```
 
-<figure class="object-left"><a href="/images/temps-de-reponse-pour-googlebot.png">![Temps de réponse pour Googlebot](/images//temps-de-reponse-pour-googlebot.png)
+<figure class="object-left"><a href="/images/temps-de-reponse-pour-googlebot.png"><img src="/images//temps-de-reponse-pour-googlebot.png" alt="Temps de réponse pour Googlebot">
 </a></figure>
 
 

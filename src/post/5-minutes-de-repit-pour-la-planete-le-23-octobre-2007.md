@@ -9,7 +9,7 @@ updated: 2016-02-08 21:34
 ---
  
 
-<figure class="object-left">![Logo 5 minutes de répit pour la planète](/images//logo-5-minutes-de-repit-pour-la-planete.jpg)
+<figure class="object-left"><img src="/images//logo-5-minutes-de-repit-pour-la-planete.jpg" alt="Logo 5 minutes de répit pour la planète">
 </figure>
 
 

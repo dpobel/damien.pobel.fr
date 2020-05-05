@@ -12,6 +12,7 @@ photos:
     <img src="/images/220x/i-can-haz-aligned-image.jpg" alt="I can haz aligned image">
     </a>
 </figure>
+
 [eZ Platform 16.02 was
 released](http://ez.no/Blog/Discover-eZ-Platform-and-eZ-Studio-16.02) last week.
 As far as I'm concerned, I did quite some changes mostly in Online Editor (the

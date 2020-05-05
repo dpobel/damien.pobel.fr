@@ -16,8 +16,8 @@ assez inhabituelles. Dommage que le vent soit venu gâcher la démonstration,
 j'aurais adoré [les cracheurs de
 feux](http://www.festiflam.net/index.php/festiflam/materiel/cracheur.html)...
 
-<figure class="object-center"><a href="/images/festiflam-fete-ses-deux-sur-le-peyrou.jpg">![Festiflam fête ses deux sur le Peyrou](/images/660x/festiflam-fete-ses-deux-sur-le-peyrou.jpg)
+<figure class="object-center"><a href="/images/festiflam-fete-ses-deux-sur-le-peyrou.jpg"><img src="/images/660x/festiflam-fete-ses-deux-sur-le-peyrou.jpg" alt="Festiflam fête ses deux sur le Peyrou">
 </a></figure>
 
-<figure class="object-center"><a href="/images/cercle-enflamme.jpg">![Cercle enflammé](/images/660x/cercle-enflamme.jpg)
+<figure class="object-center"><a href="/images/cercle-enflamme.jpg"><img src="/images/660x/cercle-enflamme.jpg" alt="Cercle enflammé">
 </a></figure>

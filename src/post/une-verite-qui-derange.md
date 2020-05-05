@@ -10,7 +10,7 @@ published: 2006-10-16T00:24:58+02:00
  
 
 
-<figure class="object-left"><a href="/images/affiche-du-film-une-verite-qui-derange.jpg">![Affiche du film Une vérité qui dérange](/images/330x/affiche-du-film-une-verite-qui-derange.jpg)
+<figure class="object-left"><a href="/images/affiche-du-film-une-verite-qui-derange.jpg"><img src="/images/330x/affiche-du-film-une-verite-qui-derange.jpg" alt="Affiche du film Une vérité qui dérange">
 </a></figure>
 
 

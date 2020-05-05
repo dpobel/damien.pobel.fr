@@ -7,7 +7,7 @@ remoteId: "7f063298dbf8c910223edb7cea4fa01a"
 published: 2008-08-06T23:50:01+02:00
 updated: 2016-02-12 13:33
 ---
-<figure class="object-center"><a href="/images/panorama-au-sommet-de-la-rhune.jpg">![Panorama au Sommet de la Rhune](/images/660x/panorama-au-sommet-de-la-rhune.jpg)
+<figure class="object-center"><a href="/images/panorama-au-sommet-de-la-rhune.jpg"><img src="/images/660x/panorama-au-sommet-de-la-rhune.jpg" alt="Panorama au Sommet de la Rhune">
 </a></figure>
 
 

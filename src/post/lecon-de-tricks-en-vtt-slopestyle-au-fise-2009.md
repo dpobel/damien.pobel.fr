@@ -10,14 +10,14 @@ published: 2009-05-24T23:53:06+02:00
 
 Dans l'ordre : [Cancan](/images/cancan-en-vtt-slopestyle.jpg), [bar hop](/images/bar-hop-en-vtt-slopestyle.jpg), [condor](/images/condor-en-vtt-slopestyle.jpg), [*trois six*](/images/360-en-vtt-slopestyle.jpg)... d'autres à venir quand j'aurai le courage et le temps de recadrer et retoucher quelques photos.
 
-<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/cancan-en-vtt-slopestyle.jpg">![Cancan en VTT Slopestyle](/images/330x/cancan-en-vtt-slopestyle.jpg)
+<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/cancan-en-vtt-slopestyle.jpg"><img src="/images/330x/cancan-en-vtt-slopestyle.jpg" alt="Cancan en VTT Slopestyle">
 </a></figure></td>
-<td><figure class="object-center"><a href="/images/bar-hop-en-vtt-slopestyle.jpg">![Bar hop en VTT Slopestyle](/images/330x/bar-hop-en-vtt-slopestyle.jpg)
+<td><figure class="object-center"><a href="/images/bar-hop-en-vtt-slopestyle.jpg"><img src="/images/330x/bar-hop-en-vtt-slopestyle.jpg" alt="Bar hop en VTT Slopestyle">
 </a></figure></td>
 </tr>
-<tr><td><figure class="object-center"><a href="/images/condor-en-vtt-slopestyle.jpg">![Condor en VTT Slopestyle](/images/330x/condor-en-vtt-slopestyle.jpg)
+<tr><td><figure class="object-center"><a href="/images/condor-en-vtt-slopestyle.jpg"><img src="/images/330x/condor-en-vtt-slopestyle.jpg" alt="Condor en VTT Slopestyle">
 </a></figure></td>
-<td><figure class="object-center"><a href="/images/360-en-vtt-slopestyle.jpg">![360 en VTT Slopestyle](/images/330x/360-en-vtt-slopestyle.jpg)
+<td><figure class="object-center"><a href="/images/360-en-vtt-slopestyle.jpg"><img src="/images/330x/360-en-vtt-slopestyle.jpg" alt="360 en VTT Slopestyle">
 </a></figure></td>
 </tr>
 

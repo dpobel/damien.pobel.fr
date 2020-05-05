@@ -45,7 +45,7 @@ Comme une image vaut toujours mieux qu'un long discours :
  
 
 
-<figure class="object-center"><a href="/images/apwal.gif">![Apwal](/images//apwal.gif)
+<figure class="object-center"><a href="/images/apwal.gif"><img src="/images//apwal.gif" alt="Apwal">
 </a></figure>
 
 Comme on peut le voir sur ce GIF animé,

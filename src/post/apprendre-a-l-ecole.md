@@ -11,8 +11,8 @@ photos:
     <img src="/images/660x/school-is-out-forever.jpg" alt="Salle de classe en ruine avec
     au tableau un graphiti 'School's out Forever'">
     <figcaption>
-    [Detroit Abandoned
-    School](https://www.flickr.com/photos/rockandrollfreak/16773279381/in/photostream/) par [Freaktography](http://www.freaktography.ca/) sous licence CC by-nc-nd 2.0
+    <a href="https://www.flickr.com/photos/rockandrollfreak/16773279381/in/photostream/">Detroit Abandoned School</a>
+    par <a href="http://www.freaktography.ca/">Freaktography</a> sous licence CC by-nc-nd 2.0
     </figcaption>
 </figure>
 

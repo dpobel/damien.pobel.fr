@@ -62,7 +62,7 @@ After clearing the cache, the new template will be used if the link has &quot;do
  
 
 
-<figure class="object-center"><a href="/images/creer-un-lien-vers-un-fichier-a-telecharger-dans-ez-publish-online-editor.png">![Créer un lien vers un fichier à télécharger dans eZ Publish / Online Editor](/images//creer-un-lien-vers-un-fichier-a-telecharger-dans-ez-publish-online-editor.png)
+<figure class="object-center"><a href="/images/creer-un-lien-vers-un-fichier-a-telecharger-dans-ez-publish-online-editor.png"><img src="/images//creer-un-lien-vers-un-fichier-a-telecharger-dans-ez-publish-online-editor.png" alt="Créer un lien vers un fichier à télécharger dans eZ Publish / Online Editor">
 </a></figure>
 
 

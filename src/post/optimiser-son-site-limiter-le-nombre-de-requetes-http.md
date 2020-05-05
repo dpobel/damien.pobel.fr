@@ -22,7 +22,7 @@ Les 6 images restantes sont à l'origine des GIF, j'en ai profité pour les conv
 
 <table class="data"><tr><th>Technique</th>
 <th>Image(s)</th>
-<th>CSS *gzippée*</th>
+<th>CSS <em>gzippée</em></th>
 <th>Total</th>
 <th>Ratio</th>
 </tr>
@@ -38,13 +38,13 @@ Les 6 images restantes sont à l'origine des GIF, j'en ai profité pour les conv
 <td>4822</td>
 <td>97%</td>
 </tr>
-<tr><td>[1 GIF](extension/pwet2/design/pwet2/images/p.gif)</td>
+<tr><td>1 GIF</td>
 <td>3154</td>
 <td>3068</td>
 <td>6222</td>
 <td>124%</td>
 </tr>
-<tr><td>[1 PNG](extension/pwet2/design/pwet2/images/p.png)</td>
+<tr><td>1 PNG</td>
 <td>1379</td>
 <td>3068</td>
 <td>4447</td>

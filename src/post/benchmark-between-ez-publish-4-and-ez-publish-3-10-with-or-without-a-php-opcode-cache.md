@@ -91,7 +91,7 @@ blocks and 3 dynamic lists.
 
 ## Result with a cached page
 
-<figure class="object-center"><a href="/images/benchmark-ez-publish-4-and-3-10-on-a-cached-page.png">![Benchmark eZ Publish 4 and 3.10 on a cached page](/images//benchmark-ez-publish-4-and-3-10-on-a-cached-page.png)
+<figure class="object-center"><a href="/images/benchmark-ez-publish-4-and-3-10-on-a-cached-page.png"><img src="/images//benchmark-ez-publish-4-and-3-10-on-a-cached-page.png" alt="Benchmark eZ Publish 4 and 3.10 on a cached page">
 </a></figure>
 
 
@@ -104,7 +104,7 @@ APC or XCache but with PHP5 there's almost no difference (more or less 2%).
 
 ## Result with a page without content related cache
 
-<figure class="object-center"><a href="/images/benchmark-ez-publish-4-and-3-10-on-a-page-without-cache.png">![Benchmark eZ Publish 4 and 3.10 on a page without cache](/images//benchmark-ez-publish-4-and-3-10-on-a-page-without-cache.png)
+<figure class="object-center"><a href="/images/benchmark-ez-publish-4-and-3-10-on-a-page-without-cache.png"><img src="/images//benchmark-ez-publish-4-and-3-10-on-a-page-without-cache.png" alt="Benchmark eZ Publish 4 and 3.10 on a page without cache">
 </a></figure>
 
 

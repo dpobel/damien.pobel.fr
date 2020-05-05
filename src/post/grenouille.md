@@ -12,6 +12,6 @@ exercice toujours plein de surprises.
     <a href="/images/grenouille-frog-dombes.jpg"><img src="/images/660x/grenouille-frog-dombes.jpg" alt="Grenouille de la Dombes"></a>
     <figcaption>
     Grenouille de la Dombes
-    ([Flickr](http://www.flickr.com/photos/tigr0u/20487065090/))
+    (<a href="http://www.flickr.com/photos/tigr0u/20487065090/">Flickr</a>)
     </figcaption>
 </figure>

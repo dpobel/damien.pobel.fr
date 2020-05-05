@@ -7,7 +7,7 @@ node: "67155"
 remoteId: "ef9faeca39a29eecf0ad07c6801b42a5"
 published: 2008-10-13T23:42:42+02:00
 ---
-<figure class="object-center"><a href="/images/ac-dc-black-ice-tour.png">![AC/DC Black Ice Tour](/images//ac-dc-black-ice-tour.png)
+<figure class="object-center"><a href="/images/ac-dc-black-ice-tour.png"><img src="/images//ac-dc-black-ice-tour.png" alt="AC/DC Black Ice Tour">
 </a></figure>
 
 

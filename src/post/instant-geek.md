@@ -9,7 +9,7 @@ published: 2009-02-14T19:13:48+01:00
 photos:
     - images/putty-sur-nokia-5800-xpress-music.png
 ---
-<figure class="object-center"><a href="/images/putty-sur-nokia-5800-xpress-music.png">![Putty sur Nokia 5800 Xpress Music](/images//putty-sur-nokia-5800-xpress-music.png)
+<figure class="object-center"><a href="/images/putty-sur-nokia-5800-xpress-music.png"><img src="/images//putty-sur-nokia-5800-xpress-music.png" alt="Putty sur Nokia 5800 Xpress Music">
 </a></figure>
 
 

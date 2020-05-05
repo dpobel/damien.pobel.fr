@@ -7,7 +7,7 @@ remoteId: "4a387f8e820f17c4702682866f0849fd"
 published: 2007-04-27T00:11:25+02:00
 updated: 2016-02-12 13:33
 ---
- 
+
 De retour après quelques jours du côté de [la principauté
 d'Andorre](http://photos.pwet.fr/villes-et-departements/andorre/) et plus
 précisément à [El
@@ -22,9 +22,7 @@ ce que je pouvais.
 
 
 <figure class="object-center"><a
-href="/images/la-fonte-des-neige-alimente-le-lac.jpg">![La fonte des neige
-alimente le
-lac](/images/660x/la-fonte-des-neige-alimente-le-lac.jpg)</a></figure>
+href="/images/la-fonte-des-neige-alimente-le-lac.jpg"><img src="/images/660x/la-fonte-des-neige-alimente-le-lac.jpg" alt="La fonte des neige alimente le lac"></a></figure>
 
 Et surtout, au retour, on m'a fait découvrir le [Lac de
 Porté-Puymorens](http://photos.pwet.fr/galeries/le-lac-de-porte-puymorens-et-andorre/5/)
@@ -32,4 +30,4 @@ dont j'ai publié [une photo hier](/post/lac-de-porte-puymorens). Cet endroit es
 **magnifique** pour ne pas dire magique. J'ai rarement été autant émerveillé par
 un paysage.
 
-<figure class="object-center"><a href="/images/bourgeons.jpg">![Bourgeons](/images/660x/bourgeons.jpg)</a></figure>
+<figure class="object-center"><a href="/images/bourgeons.jpg"><img src="/images/660x/bourgeons.jpg" alt="Bourgeons"></a></figure>

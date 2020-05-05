@@ -8,6 +8,7 @@ photos:
 
 <figure class="object-left"><img src="/images/javascript-style-badge.png"
 alt="My JavaScript style badge"></figure>
+
 OK that's completely useless, hence why you have to [generate
 yours](http://jsstyle.github.com/#create) and spread the world with it! Now,
 I want a compatibility checker ;-)

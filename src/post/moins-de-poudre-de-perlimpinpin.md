@@ -8,9 +8,8 @@ photos:
 ---
 
 <p class="note">
-Ce texte est une traduction de l'excellent [Less Snake Oil, More
-Context](https://dassur.ma/things/less-snakeoil/) par
-[Surma](https://twitter.com/DasSurma).
+Ce texte est une traduction de l'excellent <a href="https://dassur.ma/things/less-snakeoil/">Less Snake Oil, More Context</a> par
+<a href="https://twitter.com/DasSurma">Surma</a>.
 </p>
 
 Obtenir de bonnes performances sur le web est un défi permanent. Les développeur·ses

@@ -9,7 +9,7 @@ updated: 2016-02-10 18:35
 photos:
     - images/concert-acdc-a-bercy-le-27-02-09.jpg
 ---
-<figure class="object-center"><a href="/images/concert-acdc-a-bercy-le-27-02-09.jpg">![Concert ACDC à Bercy le 27/02/09](/images/660x/concert-acdc-a-bercy-le-27-02-09.jpg)
+<figure class="object-center"><a href="/images/concert-acdc-a-bercy-le-27-02-09.jpg"><img src="/images/660x/concert-acdc-a-bercy-le-27-02-09.jpg" alt="Concert ACDC à Bercy le 27/02/09">
 </a></figure>
 
 Un concert que dis-je un *show* tout simplement **in-cro-ya-ble** j'en suis pas

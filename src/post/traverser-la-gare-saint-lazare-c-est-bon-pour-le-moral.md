@@ -29,13 +29,11 @@ grave...)
 pendant 3 jours contre courants d'air et escaliers.
 
 <figure
-class="object-center"><a href="/images/grip-the-grip.jpg">![Grip the
-grip](/images/660x/grip-the-grip.jpg) </a>
+class="object-center"><a href="/images/grip-the-grip.jpg"><img src="/images/660x/grip-the-grip.jpg" alt="Grip the grip"> </a>
 <figcaption>
-Photo dérivée de [Grip the
-grip](http://www.flickr.com/photos/14448739@N00/304160324) de [*Solar
-ikon*](http://www.flickr.com/photos/chunyang/) sous licence [Creative Commons By
-2.0](http://creativecommons.org/licenses/by/2.0/deed.fr)
+Photo dérivée de <a href="http://www.flickr.com/photos/14448739@N00/304160324">Grip the grip</a> de
+<a href="http://www.flickr.com/photos/chunyang/">Solar ikon</a> sous licence
+<a href="http://creativecommons.org/licenses/by/2.0/deed.fr">Creative Commons By 2.0</a>
 </figcaption>
 </figure>
 

@@ -10,7 +10,7 @@ published: 2008-06-22T23:07:48+02:00
 
 Merci Bård pour l'info. *Thanks Bård for the information*
 
-<figure class="object-center"><a href="/images/racaille-norvegienne.png">![Racaille Norvégienne](/images//racaille-norvegienne.png)
+<figure class="object-center"><a href="/images/racaille-norvegienne.png"><img src="/images//racaille-norvegienne.png" alt="Racaille Norvégienne">
 </a></figure>
 
 

@@ -9,7 +9,7 @@ published: 2010-11-28T13:58:31+01:00
 photos:
     - images/couverture-de-derriere-l-ecran-de-la-revolution-sociale.png
 ---
-<figure class="object-left"><a href="/images/couverture-de-derriere-l-ecran-de-la-revolution-sociale.png">![Couverture de "Derrière l'écran de la révolution sociale"](/images/220x/couverture-de-derriere-l-ecran-de-la-revolution-sociale.png)
+<figure class="object-left"><a href="/images/couverture-de-derriere-l-ecran-de-la-revolution-sociale.png"><img src="/images/220x/couverture-de-derriere-l-ecran-de-la-revolution-sociale.png" alt="Couverture de Derrière l'écran de la révolution sociale">
 </a></figure>
 
 

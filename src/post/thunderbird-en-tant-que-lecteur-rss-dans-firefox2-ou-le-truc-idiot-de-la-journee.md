@@ -15,7 +15,7 @@ d'extraordinaire, tout fonctionne bien, même si le thème est affreux (et encor
 je suis poli)...
 
 
-<figure class="object-center"><a href="/images/firefox-avec-le-theme-mario-bros.gif">![Firefox avec le thème Mario Bros](/images/660x/firefox-avec-le-theme-mario-bros.gif)
+<figure class="object-center"><a href="/images/firefox-avec-le-theme-mario-bros.gif"><img src="/images/660x/firefox-avec-le-theme-mario-bros.gif" alt="Firefox avec le thème Mario Bros">
 </a></figure>
  
 Ensuite, je me dis que cette nouvelle version sera pratique pour les fils RSS,

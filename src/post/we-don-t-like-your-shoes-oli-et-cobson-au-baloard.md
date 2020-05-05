@@ -8,7 +8,7 @@ published: 2006-11-23T20:21:19+01:00
 updated: 2016-02-09 08:37
 ---
  
-<figure class="object-left"><a href="/images/affiche-concert-baloard-22-11-2006.jpg">![Affiche concert Baloard 22/11/2006](/images/220x/affiche-concert-baloard-22-11-2006.jpg)
+<figure class="object-left"><a href="/images/affiche-concert-baloard-22-11-2006.jpg"><img src="/images/220x/affiche-concert-baloard-22-11-2006.jpg" alt="Affiche concert Baloard 22/11/2006">
 </a></figure>
 
 

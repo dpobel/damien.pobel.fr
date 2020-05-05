@@ -19,23 +19,23 @@ par défaut ou des styles complètement différents. Quelques lignes de
 configuration suffisent à obtenir un ensemble cohérent pour les applications
 Gtk2, Gtk3 et Qt4.
 
-Pour Gtk2, le fichier <code>~/.gtkrc-2.0</code> permet de configurer le thème à
+Pour Gtk2, le fichier `~/.gtkrc-2.0` permet de configurer le thème à
 utiliser. L'application gtk-theme-switch2 disponible dans le paquet
 `gtk-theme-switch` permet
 de générer une version de base. Le fichier généré inclut le fichier
-<code>~/.gtkrc-2.0.mine</code> dans lequel il est possible faire [des
+`~/.gtkrc-2.0.mine` dans lequel il est possible faire [des
 ajustements](https://developer.gnome.org/gtk2/stable/GtkSettings.html#GtkSettings.properties)
 par rapport au thème. [Le mien est disponible sur
 Github](https://github.com/dpobel/config/blob/master/gtkrc-2.0.mine).
 
-Pour Gtk3, le fichier <code>~/.config/gtk-3.0/settings.ini</code> permet de
+Pour Gtk3, le fichier `~/.config/gtk-3.0/settings.ini` permet de
 régler le thème à utiliser et [divers
 paramètres](https://developer.gnome.org/gtk3/3.1/GtkSettings.html#GtkSettings.properties).
 Là encore, [mon fichier de configuration est disponible sur
 Github](https://github.com/dpobel/config/blob/master/config/gtk-3.0/settings.ini).
 
 Enfin pour Qt4, le fichier de configuration est
-<code>~/.config/Trolltech.conf</code> mais celui-ci assez compliqué... Le plus
+`~/.config/Trolltech.conf` mais celui-ci assez compliqué... Le plus
 simple est d'installer le paquet
 `qt4-qtconfig` qui fournit
 l'application qtconfig-qt4. Celle-ci permet notamment de choisir Gtk+ comme

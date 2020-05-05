@@ -74,7 +74,7 @@ dernière version est la 5.1.6, je n'ai pas encore rapporté un éventuel bug, m
 je vais essayer d'enquêter la dessus... Ce petit script permet d'obtenir un SVG
 dont voici une version PNG&nbsp;:
 
-<figure class="object-center"><a href="/images/comparaison-de-l-indexation-dans-google-et-dans-yahoo.png">![Comparaison de l'indexation dans Google et dans Yahoo!](/images//comparaison-de-l-indexation-dans-google-et-dans-yahoo.png)
+<figure class="object-center"><a href="/images/comparaison-de-l-indexation-dans-google-et-dans-yahoo.png"><img src="/images//comparaison-de-l-indexation-dans-google-et-dans-yahoo.png" alt="Comparaison de l'indexation dans Google et dans Yahoo!">
 </a></figure>
 
 Et comme je le disais hier, Yahoo! et Google semblent vraiment avoir les mêmes tendances quasiment en même temps, même si les derniers chiffres sont largement supérieurs pour Google.

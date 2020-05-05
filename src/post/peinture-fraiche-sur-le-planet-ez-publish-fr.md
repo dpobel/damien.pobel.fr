@@ -9,7 +9,7 @@ published: 2012-06-20T22:58:58+02:00
 photos:
     - images/nouveau-design-du-planet-ez-publish-fr.png
 ---
-<figure class="object-center"><a href="/images/nouveau-design-du-planet-ez-publish-fr.png">![Nouveau design du Planet eZ Publish.fr](/images/660x/nouveau-design-du-planet-ez-publish-fr.png)
+<figure class="object-center"><a href="/images/nouveau-design-du-planet-ez-publish-fr.png"><img src="/images/660x/nouveau-design-du-planet-ez-publish-fr.png" alt="Nouveau design du Planet eZ Publish.fr">
 </a></figure>
 
 

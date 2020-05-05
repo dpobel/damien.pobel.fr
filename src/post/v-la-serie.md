@@ -10,7 +10,7 @@ published: 2007-09-07T20:28:36+02:00
  
 
 
-<figure class="object-left"><a href="/images/la-serie-v.jpg">![La série V](/images/220x/la-serie-v.jpg)
+<figure class="object-left"><a href="/images/la-serie-v.jpg"><img src="/images/220x/la-serie-v.jpg" alt="La série V">
 </a></figure>
 
 

@@ -7,12 +7,12 @@ node: "69051"
 remoteId: "3dd9d05ebed45dec4cf913b0e7e1bf19"
 published: 2011-03-06T21:16:19+01:00
 ---
-<figure class="object-center"><a href="/images/grands-orgues-de-la-cathedrale-de-bordeaux.jpg">![Grands orgues de la cathédrale de Bordeaux](/images/660x/grands-orgues-de-la-cathedrale-de-bordeaux.jpg)
+<figure class="object-center"><a href="/images/grands-orgues-de-la-cathedrale-de-bordeaux.jpg"><img src="/images/660x/grands-orgues-de-la-cathedrale-de-bordeaux.jpg" alt="Grands orgues de la cathédrale de Bordeaux">
 </a></figure>
 
-<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/chaeur-de-la-cathedrale-de-bordeaux.jpg">![Chœur de la cathédrale de Bordeaux](/images/330x/chaeur-de-la-cathedrale-de-bordeaux.jpg)
+<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/chaeur-de-la-cathedrale-de-bordeaux.jpg"><img src="/images/330x/chaeur-de-la-cathedrale-de-bordeaux.jpg" alt="Chœur de la cathédrale de Bordeaux">
 </a></figure></td>
-<td><figure class="object-center"><a href="/images/chapelle-dans-la-cathedrale-de-bordeaux.jpg">![Chapelle dans la cathédrale de Bordeaux](/images/330x/chapelle-dans-la-cathedrale-de-bordeaux.jpg)
+<td><figure class="object-center"><a href="/images/chapelle-dans-la-cathedrale-de-bordeaux.jpg"><img src="/images/330x/chapelle-dans-la-cathedrale-de-bordeaux.jpg" alt="Chapelle dans la cathédrale de Bordeaux">
 </a></figure></td>
 </tr>
 

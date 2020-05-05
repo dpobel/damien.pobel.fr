@@ -6,7 +6,7 @@ node: "69033"
 remoteId: "ed8a028a62e407d2c8ec2817f9933456"
 published: 2011-02-26T12:33:33+01:00
 ---
-<figure class="object-center"><a href="http://t-ka.net">![Copie d'écran t-ka.net](/images/660x/copie-d-ecran-t-ka-net.jpg)
+<figure class="object-center"><a href="http://t-ka.net"><img src="/images/660x/copie-d-ecran-t-ka-net.jpg" alt="Copie d'écran t-ka.net">
 </a></figure>
 
 

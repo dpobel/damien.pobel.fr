@@ -8,7 +8,7 @@ published: 2007-02-11T19:18:21+01:00
 updated: 2016-02-09 09:02
 ---
  
-<figure class="object-left"><a href="/images/alessandro-barbero-2ieme-du-nokia-fise-2006.jpg">![Alessandro Barbero 2ième du Nokia FISE 2006](/images/330x/alessandro-barbero-2ieme-du-nokia-fise-2006.jpg)
+<figure class="object-left"><a href="/images/alessandro-barbero-2ieme-du-nokia-fise-2006.jpg"><img src="/images/330x/alessandro-barbero-2ieme-du-nokia-fise-2006.jpg" alt="Alessandro Barbero 2ième du Nokia FISE 2006">
 </a></figure>
 
 

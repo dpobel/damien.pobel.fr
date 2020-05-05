@@ -7,14 +7,14 @@ remoteId: "20bdd277a38e5f92b31a0bb3009ddced"
 published: 2006-09-04T23:08:49+02:00
 updated: 2016-02-12 13:42
 ---
- 
+
 On me pose régulièrement ces questions, alors je vais y répondre une bonne fois
 pour toute....
 
-  
+
 ## Pourquoi GNU/Linux ?
 
- 
+
 En fait je suis arrivé sous Linux à la fois par curiosité et par conscience
 *professionnelle*. En fait à la base, je dois avouer que j'étais sceptique voire
 je me moquais [d'un collègue de prépa](http://ofaurax.free.fr) qui ne jurait (ne
@@ -37,7 +37,7 @@ apprécier ce système qui [proposait à l'époque KDE 2.2 et GNOME 1.4 et un ke
 2.4.3](http://linuxfr.org/2001/04/19/3225.html) :'-) et une vision différente
 d'un bureau au sens informatique du terme.
 
- 
+
 Mon PC de l'époque était un AMD K6 200 Mhz avec 32 Mo de RAM puis 128 Mo, j'ai
 donc rapidement switcher vers quelques chose de plus léger et de plus proche de
 l'environnement proposé et/ou compilé avec les moyens du bord sur les terminaux
@@ -47,9 +47,9 @@ servers principalement) avec
 [NEdit](http://pwet.fr/man/linux/commandes/nedit) comme éditeur et ça donnait
 ça&nbsp;:
 
-<figure class="object-center"><a href="/images/screenshot-bureau-aout-2002.png">![Screenshot bureau Août 2002](/images/330x/screenshot-bureau-aout-2002.png)
+<figure class="object-center"><a href="/images/screenshot-bureau-aout-2002.png"><img src="/images/330x/screenshot-bureau-aout-2002.png" alt="Screenshot bureau Août 2002">
 </a></figure>
- 
+
 Cette capture d'écran date d'août 2002 ! C'était pas terrible :) Entre temps
 j'ai découvert [Debian](http://www.debian.org) qui en était encore à la version
 [Woody 3.0](http://www.debian.org/releases/woody/). Comme j'avais pas le net,
@@ -65,12 +65,10 @@ Drake](https://lists.ubuntu.com/archives/ubuntu-announce/2006-June/000083.html)
 et à ça :
 
 <figure class="object-center"><a
-href="/images/screenshot-de-mon-bureau-septembre-2006.png">![Screenshot de mon
-bureau Septembre 2006](/images/330x/screenshot-de-mon-bureau-septembre-2006.png)
-</a></figure>
+href="/images/screenshot-de-mon-bureau-septembre-2006.png"><img src="/images/330x/screenshot-de-mon-bureau-septembre-2006.png" alt="Screenshot de mon bureau Septembre 2006"></a></figure>
 
 ## Pourquoi Ubuntu ?
- 
+
 En fait à la base, j'aime beaucoup Debian. J'aime la philosophie ainsi que les
 outils associés comme la gestion des paquets à l'aide de
 [dpkg](http://pwet.fr/man/linux/commandes/dpkg) et
@@ -87,7 +85,7 @@ Ubuntu sur mon poste (encore en Warty pour différentes raisons, mais plus pour
 longtemps j'espère...) et Debian sur les serveurs.
 
 ## Et pourquoi le logiciel libre alors ?
- 
+
 Comme je l'ai écrit plus haut, je suis arrivé sous un système libre un peu par
 hasard et le côté libre n'a pas été le facteur déclenchant. Par contre le côté
 libre est un formidable moyen de satisfaire ma curiosité, il m'arrive assez
@@ -99,7 +97,7 @@ utiliser les logiciels propriétaires, d'autant qu'en matière de web, ils ont u
 fâcheuse tendances à ne pas évoluer assez vite voire pas du tout pendant des
 années...
 
- 
+
 J'aurais pu finir ce billet par un looong paragraphe intitulé *Pourquoi Unix
 ?* parce que finalement, si on me proposait une *Windows libre*, je crois que
 je resterais sous GNU/Linux (voire \*BSD voire OpenSolaris) car en plus d'être

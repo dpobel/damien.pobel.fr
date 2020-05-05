@@ -13,6 +13,6 @@ photos:
 
 Récupéré depuis [Web Archive](http://web.archive.org), [&quot;Magnéto Serge !&quot;](http://sampler.pwet.fr)
 
-<figure class="object-center"><a href="http://sampler.pwet.fr">![Sampler](/images/660x/sampler.png)
+<figure class="object-center"><a href="http://sampler.pwet.fr"><img src="/images/660x/sampler.png" alt="Sampler">
 </a></figure>
 

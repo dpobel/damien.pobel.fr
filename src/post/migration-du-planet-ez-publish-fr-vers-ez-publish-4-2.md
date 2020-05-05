@@ -9,7 +9,7 @@ updated: 2016-02-10 22:24
 photos:
     - images/bandeau-planet-ez-publish-fr.png
 ---
-<figure class="object-center">![Bandeau planet eZ Publish.fr](/images//bandeau-planet-ez-publish-fr.png)
+<figure class="object-center"><img src="/images//bandeau-planet-ez-publish-fr.png" alt="Bandeau planet eZ Publish.fr">
 </figure>
 
 

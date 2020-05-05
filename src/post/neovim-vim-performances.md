@@ -12,8 +12,7 @@ difficiles; qu'il s'agisse de travailler avec énormément de fichiers ou sur un
 disque où les accès sont plutôt lents (typiquement un montage réseau).
 
 <p class="note">
-Comme d'habitude j'emploie indifféremment Neovim et Vim (même si [j'utilise
-principalement le premier](/post/vim-neovim/)), tout ce qui est écrit
+Comme d'habitude j'emploie indifféremment Neovim et Vim (même si <a href="/post/vim-neovim/">j'utilise principalement le premier</a>), tout ce qui est écrit
 ici est valable pour les deux.
 </p>
 

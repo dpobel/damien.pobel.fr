@@ -23,7 +23,7 @@ III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-
 
 ### Cache de vue et cache-block
 
-<figure class="object-center"><a href="/images/schema-cache-planet-ez-publish-fr.png">![Schéma cache Planet eZ Publish.fr](/images/660x/schema-cache-planet-ez-publish-fr.png)
+<figure class="object-center"><a href="/images/schema-cache-planet-ez-publish-fr.png"><img src="/images/660x/schema-cache-planet-ez-publish-fr.png" alt="Schéma cache Planet eZ Publish.fr">
 </a></figure>
 
 
