@@ -31,7 +31,7 @@ IsInline[dailymotion]=true
  
 Il faut ensuite créer le *template* qui affichera le custom tag. Celui ci doit se nommer comme le tag et se trouver dans template/content/view/datatype/ezxmltags dans un des designs utilisés par le site. Dans ce template, la variable $content stocke le contenu du custom tag et les différents attributs sont accessibles par des variables du même nom. Mon fichier template/content/view/datatype/ezxmltags/dailymotion.tpl ressemble à :
 
- ``` smarty
+ ```
 <div class="video">
     <object width="{$width}" height="{$height}" type="application/x-shockwave-flash" data="{$content}">
         <param name="movie" value="{$content}"></param>

@@ -46,7 +46,7 @@ AdditionalSiteDesignList[]=ezwebin
 
 This step depends on your site. With most designs, you just need to add those lines of code in [the pagelayout template before the <code>{$module_result.content}</code>](http://ez.no/doc/ez_publish/technical_manual/4_0/templates/the_pagelayout#eztoc86799_4_1) :
 
-``` smarty
+```
 {def $current_node_id = first_set( $module_result.node_id, 0 )
      $content_info = cond( is_set( $module_result.content_info ), $module_result.content_info, hash())}
 {if and( $current_node_id,

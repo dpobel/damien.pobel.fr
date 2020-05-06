@@ -25,7 +25,6 @@ var metalsmith = require('metalsmith'),
     ignore = require('metalsmith-ignore'),
     postcss = require('metalsmith-postcss2'),
     assets = require('metalsmith-assets'),
-    metallic = require('metalsmith-metallic'),
     define = require('metalsmith-define'),
     feed = require('metalsmith-feed'),
     msMoment = require('metalsmith-moment'),
@@ -76,6 +75,17 @@ const filterOutVeilleFn = require('./lib/metalsmith/filter-collection.js').exclu
 conf.collections.lastPosts.filterBy = filterOutVeilleFn;
 conf.collections.blog.filterBy = filterOutVeilleFn;
 
+const markdownConf = {
+    highlight: function (code, lang) {
+        const hljs = require('highlight.js');
+
+        if (lang) {
+            return hljs.highlight(lang, code).value;
+        }
+        return hljs.highlightAuto(code).value;
+    },
+};
+
 pluginsConfList = [
     {plugin: define, conf: conf.define, name: 'define', indev: true},
     {plugin: assets, conf: conf.assets, name: 'assets', indev: true},
@@ -86,8 +96,7 @@ pluginsConfList = [
     {plugin: collections, conf: conf.collections, name: 'collections', indev: true},
     {plugin: pagination, conf: conf.pagination, name: 'pagination', indev: true},
     {plugin: fileMetadata, conf: conf.fileMetadata, name: 'fileMetadata', indev: true},
-    {plugin: metallic, conf: undefined, name: 'metallic', indev: true},
-    {plugin: markdown, conf: undefined, name: 'markdown', indev: true},
+    {plugin: markdown, conf: markdownConf, name: 'markdown', indev: true},
     {plugin: fileToMetadata, conf: conf.fileToMetadata, name: 'fileToMetadata', indev: true},
     {plugin: collectPhotos, conf: conf.collectPhotos, name: 'collectPhotos', indev: true},
     {plugin: permalinks, conf: conf.permalinks, name: 'permalinks', indev: true},

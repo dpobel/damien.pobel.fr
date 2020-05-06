@@ -104,6 +104,6 @@ operator](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_op
 I use it in [eZ Class Lists 1.0](/post/ez-class-lists-1-0-for-ez-publish-4-0) to
 display the hash used to filter objects list with something like :
 
-``` smarty
+```
 {debug-log msg='template fetch filter' var=$filter_hash}
 ```

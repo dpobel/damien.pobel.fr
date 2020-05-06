@@ -28,7 +28,7 @@ faire simple quand on peut faire compliqué ? :-)
 Au final, je me dis que publier un template peut être intéressant pour le
 débutant et puis ça fait un bon pense bête pour moi :
 
- ``` smarty
+ ```
 {** désactivation du cache pour avoir  **
  ** un nouvel affichage à chaque appel **}
 {set-block scope=root variable=cache_ttl}0{/set-block}
@@ -74,7 +74,7 @@ Ce bout de code est à mettre dans un template par exemple dans le fichier
 [include](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/template_functions/miscellaneous/include)
 avec quelque chose comme :
 
- ``` smarty
+ ```
 {include uri="design:rand_photo.tpl"}
 ```
 
