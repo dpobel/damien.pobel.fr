@@ -37,7 +37,7 @@ Cette fonctionnalités nécessite l'installation de [l'extension eZ Publish Smil
 
 Les abbréviations Vim permettent de taper quelques lettres et l'éditeur les remplace automatiquement par la séquence définie. Par exemple, en tapant **ezfcls** (Fetch Content List Sort) suivi d'un espace, Vim va *automagiquement* remplacer cette séquence par :
 
- ``` smarty
+ ```
 fetch(content, list, hash('parent_node_id', __ ,
             'class_filter_type', include,
             'class_filter_array', array( __ ),

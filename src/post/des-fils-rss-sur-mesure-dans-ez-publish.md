@@ -51,7 +51,7 @@ ContentType=text/xml
  
 Ces lignes signifient que les pages appelées via l'URL /layout/set/rss/ utiliseront comme *template pagelayout* le fichier design/&lt;mon_design&gt;/templates/rss_pagelayout.tpl et tout cela générera du XML. Le fichier en question est très simple et on retrouve le point central des *pagelayout* traditionnels (si je puis dire...) :
 
- ``` smarty
+ ```
 <?xml version="1.0" encoding="iso-8859-1"?>
 <rss version="2.0">
     <channel>

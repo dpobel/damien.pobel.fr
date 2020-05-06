@@ -35,7 +35,7 @@ It's not required, but with these lines, Online Editor will display &quot;Télé
  
 Then create an override of the template content/datatype/view/ezxmltags/link.tpl for example in override/templates/link_download.tpl in your design with the following code :
 
- ``` smarty
+ ```
 {def $n='' $attribute='' $url=false() $protocols=array('http', 'file', 'ftp', 'mailto', 'https')
 }{if $protocols|contains( $href|explode(':')|extract_left(1))not()
     }{set $n=fetch(content, node, hash(node_path, $href))
