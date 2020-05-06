@@ -14,7 +14,7 @@ trônant tranquillement sur une fleur de [plantain
 lancéolé](https://fr.wikipedia.org/wiki/Plantago_lanceolata)&nbsp;:
 
 <figure class="object-center">
-    <a href="/images/sauterelle-leptophye-ponctuee-plantain.jpg"><img src="/images/660x/sauterelle-leptophye-ponctuee-plantain.jpg" alt="leptophye ponctuée sur une fleur de plantain"></a>
+    <a href="/images/sauterelle-leptophye-ponctuee-plantain.jpg"><img loading="lazy" src="/images/660x/sauterelle-leptophye-ponctuee-plantain.jpg" alt="leptophye ponctuée sur une fleur de plantain"></a>
     <figcaption>
     Une leptophye ponctuée sur une fleur de plantain
     </figcaption>

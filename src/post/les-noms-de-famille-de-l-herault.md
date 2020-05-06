@@ -11,7 +11,7 @@ photos:
 ---
 
 
-<figure class="object-left"><a href="/images/couverture-les-noms-de-famille-de-l-herault.jpg"><img src="/images/220x/couverture-les-noms-de-famille-de-l-herault.jpg" alt="Couverture Les noms de famille de l'Hérault">
+<figure class="object-left"><a href="/images/couverture-les-noms-de-famille-de-l-herault.jpg"><img loading="lazy" src="/images/220x/couverture-les-noms-de-famille-de-l-herault.jpg" alt="Couverture Les noms de famille de l'Hérault">
 </a></figure>
 
 

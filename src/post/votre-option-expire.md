@@ -9,7 +9,7 @@ published: 2009-03-13T16:02:59+01:00
 photos:
     - images/bug-voyages-sncf-com.png
 ---
-<figure class="object-center"><a href="/images/bug-voyages-sncf-com.png"><img src="/images//bug-voyages-sncf-com.png" alt="Bug Voyages SNCF.com">
+<figure class="object-center"><a href="/images/bug-voyages-sncf-com.png"><img loading="lazy" src="/images//bug-voyages-sncf-com.png" alt="Bug Voyages SNCF.com">
 </a></figure>
 
 

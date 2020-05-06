@@ -7,7 +7,7 @@ photos:
     - images/browser-diet.jpg
 ---
 
-<figure class="object-center"><a href="/images/browser-diet.jpg"><img src="/images/660x/browser-diet.jpg"
+<figure class="object-center"><a href="/images/browser-diet.jpg"><img loading="lazy" src="/images/660x/browser-diet.jpg"
 alt="Browser diet"></a>
 </figure>
 

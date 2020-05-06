@@ -61,7 +61,7 @@ Pour le reste quasi rien n'a changé, ou alors je n'ai pas encore remarqué ;-)
 
 <figure class="object-center">
     <a href="/images/neovim-full.png">
-        <img src="/images/neovim.png" alt="Capture d'écran de Neovim">
+        <img loading="lazy" src="/images/neovim.png" alt="Capture d'écran de Neovim">
     </a>
     <figcaption>
     Capture d'écran de Neovim lors de la rédaction de ce billet

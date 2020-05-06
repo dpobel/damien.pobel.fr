@@ -16,7 +16,7 @@ _secrets de fabrication_ même si je ne crois pas faire grand chose de très
 original ;-)
 
 <figure class="object-center bordered">
-    <img src="/images/660x/vieux-outils.jpg" alt="Un marteau et une tenaille qui
+    <img loading="lazy" src="/images/660x/vieux-outils.jpg" alt="Un marteau et une tenaille qui
     ont l'air assez anciens et quelques clous">
 </figure>
 

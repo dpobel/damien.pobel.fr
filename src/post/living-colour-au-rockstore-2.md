@@ -8,7 +8,7 @@ published: 2008-10-01T23:14:56+02:00
 updated: 2016-02-09 23:23
 ---
 <figure class="object-center">
-<a href="/images/living-colour-en-concert-a-madrid-2008.jpg"><img src="/images/660x/living-colour-en-concert-a-madrid-2008.jpg" alt="Living Colour en concert à Madrid 2008">
+<a href="/images/living-colour-en-concert-a-madrid-2008.jpg"><img loading="lazy" src="/images/660x/living-colour-en-concert-a-madrid-2008.jpg" alt="Living Colour en concert à Madrid 2008">
 </a>
 <figcaption>
 Living Colour en concert à Madrid. Photo de <a href="http://flickr.com/photos/vazzz/2883147135/">vazzz</a>

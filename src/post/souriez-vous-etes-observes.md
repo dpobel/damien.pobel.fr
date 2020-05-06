@@ -7,7 +7,7 @@ node: "67105"
 remoteId: "3dc52a1058c99b0168e48adee8314733"
 published: 2008-09-08T21:53:57+02:00
 ---
-<figure class="object-center"><a href="/images/photo-d-un-rougequeue-noir-male.jpg"><img src="/images/660x/photo-d-un-rougequeue-noir-male.jpg" alt="Photo d'un rougequeue noir mâle">
+<figure class="object-center"><a href="/images/photo-d-un-rougequeue-noir-male.jpg"><img loading="lazy" src="/images/660x/photo-d-un-rougequeue-noir-male.jpg" alt="Photo d'un rougequeue noir mâle">
 </a></figure>
 
 

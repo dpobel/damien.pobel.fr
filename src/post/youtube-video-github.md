@@ -49,7 +49,7 @@ get a shiny new button that is able to transform any Youtube URL to the previous
 snippet, here is the script in action:
 
 <figure class="object-center bordered">
-    <img src="/images/youtube-video-github.gif" alt="Screencast of github-add-youtube-video Greasemonkey script">
+    <img loading="lazy" src="/images/youtube-video-github.gif" alt="Screencast of github-add-youtube-video Greasemonkey script">
     <figcaption>
         Screencast of <a href="https://github.com/dpobel/github-add-youtube-video/blob/master/addvideo.user.js">github-add-youtube-video Greasemonkey script</a>
     </figcaption>

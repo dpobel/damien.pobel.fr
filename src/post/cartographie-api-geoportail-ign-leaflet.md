@@ -9,7 +9,7 @@ photos:
 ---
 
 <figure class="object-center">
-    <img src="/images/660x/leaflet-ign-geoportail.jpg" alt="Carte de la descente de
+    <img loading="lazy" src="/images/660x/leaflet-ign-geoportail.jpg" alt="Carte de la descente de
 Rosy">
     <figcaption>Carte de <a href="http://vtt.revermont.bike/single-tracks/descente-de-rosy/">la Descente de Rosy</a>,
     un <a href="http://vtt.revermont.bike/single-tracks/">single du Revermont</a> vraiment sympa :)</figcaption>
@@ -134,7 +134,7 @@ liée à une licence d'exploitation
 laisse supposer qu'une clé n'est dédiée qu'à un domaine&nbsp;:
 
 <figure class="object-center">
-<img src="/images/ui-ign-cle-multi-domaine.png" alt="Interface de modification
+<img loading="lazy" src="/images/ui-ign-cle-multi-domaine.png" alt="Interface de modification
 d'une clé IGN" style="border: 1px solid #ccc">
     <figcaption>Interface de modification d'une clé IGN</figcaption>
 </figure>

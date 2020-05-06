@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-center">
-    <img src="/images/bandeau-planet-ez-publish-fr.png" alt="Logo Planet eZ
+    <img loading="lazy" src="/images/bandeau-planet-ez-publish-fr.png" alt="Logo Planet eZ
 Publish.fr">
 </figure>
 

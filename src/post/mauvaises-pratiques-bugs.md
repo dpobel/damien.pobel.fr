@@ -16,7 +16,7 @@ l'absence de constructeur qui rend le code et les contraintes plus difficiles à
 comprendre.
 
 <figure class="object-center bordered">
-    <img src="/images/660x/charancon.jpg" alt="Un charançon posé sur une feuille">
+    <img loading="lazy" src="/images/660x/charancon.jpg" alt="Un charançon posé sur une feuille">
 </figure>
 
 ## Le bug

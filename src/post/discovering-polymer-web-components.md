@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-left bordered">
-    <img src="/images/220x/polymer.png" alt="Polymer project logo">
+    <img loading="lazy" src="/images/220x/polymer.png" alt="Polymer project logo">
 </figure>
 
 [Polymer](https://www.polymer-project.org/1.0/) is a library (developed by

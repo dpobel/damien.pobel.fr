@@ -16,7 +16,7 @@ Quelques beaux paysages après [une bonne petite randonnée VTT montagnarde avec
  
 
 
-<figure class="object-center"><a href="/images/le-mont-aigoual-et-sa-station-meteo.jpg"><img src="/images/660x/le-mont-aigoual-et-sa-station-meteo.jpg" alt="Le Mont Aigoual et sa station météo">
+<figure class="object-center"><a href="/images/le-mont-aigoual-et-sa-station-meteo.jpg"><img loading="lazy" src="/images/660x/le-mont-aigoual-et-sa-station-meteo.jpg" alt="Le Mont Aigoual et sa station météo">
 </a></figure>
 
 
@@ -28,7 +28,7 @@ Quelques beaux paysages après [une bonne petite randonnée VTT montagnarde avec
  
 
 
-<figure class="object-center"><a href="/images/prairie-jaunie-pres-de-camprieu.jpg"><img src="/images/660x/prairie-jaunie-pres-de-camprieu.jpg" alt="Prairie jaunie près de Camprieu">
+<figure class="object-center"><a href="/images/prairie-jaunie-pres-de-camprieu.jpg"><img loading="lazy" src="/images/660x/prairie-jaunie-pres-de-camprieu.jpg" alt="Prairie jaunie près de Camprieu">
 </a></figure>
 
 
@@ -40,7 +40,7 @@ Quelques beaux paysages après [une bonne petite randonnée VTT montagnarde avec
  
 
 
-<figure class="object-center"><a href="/images/chemin-fleuri-au-dessus-de-l-esperou.jpg"><img src="/images/660x/chemin-fleuri-au-dessus-de-l-esperou.jpg" alt="Chemin fleuri au dessus de l'Espérou">
+<figure class="object-center"><a href="/images/chemin-fleuri-au-dessus-de-l-esperou.jpg"><img loading="lazy" src="/images/660x/chemin-fleuri-au-dessus-de-l-esperou.jpg" alt="Chemin fleuri au dessus de l'Espérou">
 </a></figure>
 
 

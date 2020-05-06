@@ -9,7 +9,7 @@ photos:
 ---
 
 <figure class="object-left">
-    <img src="/images/330x/ez-platform-rocket-launch.png" alt="eZ Platform
+    <img loading="lazy" src="/images/330x/ez-platform-rocket-launch.png" alt="eZ Platform
 Rocket Launch">
 </figure>
 

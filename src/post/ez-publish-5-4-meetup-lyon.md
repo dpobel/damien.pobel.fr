@@ -7,7 +7,7 @@ photos:
 ---
 
 <figure class="object-center">
-    <img src="/images/660x/ez-logo-beach.jpg" alt="Logo eZ version plage">
+    <img loading="lazy" src="/images/660x/ez-logo-beach.jpg" alt="Logo eZ version plage">
     <figcaption>Photo &copy; <a href="https://twitter.com/sylvainguittard">Sylvain Guittard</a></figcaption>
 </figure>
 

@@ -18,7 +18,7 @@ C'est [un vieille adage](http://en.wikipedia.org/wiki/PEBKAC) qui se vérifie qu
 
 
 
-<figure class="object-center"><a href="/images/pebkac.gif"><img src="/images/660x/pebkac.gif" alt="PEBKAC">
+<figure class="object-center"><a href="/images/pebkac.gif"><img loading="lazy" src="/images/660x/pebkac.gif" alt="PEBKAC">
 </a></figure>
 
 

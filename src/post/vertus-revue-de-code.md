@@ -7,7 +7,7 @@ photos:
 ---
 
 <figure class="object-center bordered">
-    <img src="/images/660x/revue-de-code.jpg" alt="Loupe zoomant sur un
+    <img loading="lazy" src="/images/660x/revue-de-code.jpg" alt="Loupe zoomant sur un
     mécanisme">
 </figure>
 
@@ -68,7 +68,7 @@ concentrer sur l'essentiel.
 ## Place aux robots
 
 <figure class="object-center bordered">
-    <img src="/images/660x/robots.jpg" alt="Personnages ressemblant à des robots">
+    <img loading="lazy" src="/images/660x/robots.jpg" alt="Personnages ressemblant à des robots">
 </figure>
 
 Dans le même esprit, idéalement la plateforme de d'intégration continue (CI)

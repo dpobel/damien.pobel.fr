@@ -7,7 +7,7 @@ node: "65587"
 remoteId: "2e8ac2d5610f0bd28aa592cbd900c85d"
 published: 2007-05-26T10:45:12+02:00
 ---
-<figure class="object-center"><a href="/images/centre-du-monde.jpg"><img src="/images/660x/centre-du-monde.jpg" alt="Centre du monde">
+<figure class="object-center"><a href="/images/centre-du-monde.jpg"><img loading="lazy" src="/images/660x/centre-du-monde.jpg" alt="Centre du monde">
 </a></figure>
 
 

@@ -7,7 +7,7 @@ node: "67057"
 remoteId: "d3e3732999b7e5e5ffc42116764ba746"
 published: 2008-08-21T21:19:22+02:00
 ---
-<figure class="object-center"><a href="/images/la-tete-geante-d-eddie-murphy.jpg"><img src="/images/660x/la-tete-geante-d-eddie-murphy.jpg" alt="La tête géante d'Eddie Murphy">
+<figure class="object-center"><a href="/images/la-tete-geante-d-eddie-murphy.jpg"><img loading="lazy" src="/images/660x/la-tete-geante-d-eddie-murphy.jpg" alt="La tête géante d'Eddie Murphy">
 </a></figure>
 
 

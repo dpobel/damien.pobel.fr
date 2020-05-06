@@ -9,10 +9,10 @@ photos:
 Trop, c'est trop! Voici un coli et son contenu reçus aujourd'hui&nbsp;:
 
 <figure class="object-center">
-    <a href="/images/coli-amazon-ouvert-par-la-poste_28122013.jpg"><img src="/images/660x/coli-amazon-ouvert-par-la-poste_28122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
+    <a href="/images/coli-amazon-ouvert-par-la-poste_28122013.jpg"><img loading="lazy" src="/images/660x/coli-amazon-ouvert-par-la-poste_28122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
 </figure>
 <figure class="object-center">
-    <a href="/images/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg"><img src="/images/660x/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg" alt="Contenu endommagé par l'ouverture du coli par La Poste"></a>
+    <a href="/images/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg"><img loading="lazy" src="/images/660x/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg" alt="Contenu endommagé par l'ouverture du coli par La Poste"></a>
 </figure>
 
 La Poste est, semble-t-il, [incapable de fournir un formulaire de réclamation

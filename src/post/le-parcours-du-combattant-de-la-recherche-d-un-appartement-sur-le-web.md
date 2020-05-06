@@ -24,7 +24,7 @@ Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajoute
 
 ## La FNAIM :
 
-<figure class="object-center"><a href="/images/formulaire-de-recherche-de-la-fnaim.png"><img src="/images//formulaire-de-recherche-de-la-fnaim.png" alt="Formulaire de recherche de la FNAIM">
+<figure class="object-center"><a href="/images/formulaire-de-recherche-de-la-fnaim.png"><img loading="lazy" src="/images//formulaire-de-recherche-de-la-fnaim.png" alt="Formulaire de recherche de la FNAIM">
 </a></figure>
 
 Vu de loin, ce formulaire a
@@ -41,7 +41,7 @@ suivant !
 
 ## Foncia
 
-<figure class="object-center"><a href="/images/formulaire-de-recherche-foncia.png"><img src="/images//formulaire-de-recherche-foncia.png" alt="Formulaire de recherche Foncia">
+<figure class="object-center"><a href="/images/formulaire-de-recherche-foncia.png"><img loading="lazy" src="/images//formulaire-de-recherche-foncia.png" alt="Formulaire de recherche Foncia">
 </a></figure>
 
 Le formulaire de recherche sur le site de
@@ -61,7 +61,7 @@ pour Internet Explorer*, ça doit être pour ça...
 
 ## Orpi
 
-<figure class="object-center"><a href="/images/formulaire-de-recherche-orpi.png"><img src="/images//formulaire-de-recherche-orpi.png" alt="Formulaire de recherche Orpi">
+<figure class="object-center"><a href="/images/formulaire-de-recherche-orpi.png"><img loading="lazy" src="/images//formulaire-de-recherche-orpi.png" alt="Formulaire de recherche Orpi">
 </a></figure>
 
 Par rapport aux deux autres, il n'y a pas photo, c'est simple, c'est rapide, ça

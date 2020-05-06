@@ -9,7 +9,7 @@ fascinantes et amusantes :) Et les approcher pour les photographier est un
 exercice toujours plein de surprises.
 
 <figure class="object-center">
-    <a href="/images/grenouille-frog-dombes.jpg"><img src="/images/660x/grenouille-frog-dombes.jpg" alt="Grenouille de la Dombes"></a>
+    <a href="/images/grenouille-frog-dombes.jpg"><img loading="lazy" src="/images/660x/grenouille-frog-dombes.jpg" alt="Grenouille de la Dombes"></a>
     <figcaption>
     Grenouille de la Dombes
     (<a href="http://www.flickr.com/photos/tigr0u/20487065090/">Flickr</a>)

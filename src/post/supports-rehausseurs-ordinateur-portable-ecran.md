@@ -12,7 +12,7 @@ avec mes deux supports/réhausseurs fait maison construits en bois avec mes dix
 petits doigts et quelques outils&nbsp;:
 
 <figure class="object-center bordered">
-    <a href="/images/poste-de-travail.jpg"><img src="/images/660x/poste-de-travail.jpg" alt="Mon poste de travail"></a>
+    <a href="/images/poste-de-travail.jpg"><img loading="lazy" src="/images/660x/poste-de-travail.jpg" alt="Mon poste de travail"></a>
 </figure>
 
 Même si je passe un peu pour un illuminé au bureau et dans les espaces de
@@ -48,7 +48,7 @@ Macbook Pro en aluminium brossé…
 ## Réhausseur d'écran
 
 <figure class="object-center bordered">
-    <a href="/images/support-rehausseur-ecran-bois.jpg"><img src="/images/660x/support-rehausseur-ecran-bois.jpg" alt="Support / réhausseur d'écran en bois"></a>
+    <a href="/images/support-rehausseur-ecran-bois.jpg"><img loading="lazy" src="/images/660x/support-rehausseur-ecran-bois.jpg" alt="Support / réhausseur d'écran en bois"></a>
 </figure>
 
 Ce support est assez simple, une planche avec quatre pieds en bois de chauffage
@@ -70,7 +70,7 @@ porte-clés ou passe câbles pour charger mon téléphone…
 ## Réhausseur d'ordinateur portable
 
 <figure class="object-center bordered">
-    <a href="/images/support-rehausseur-laptop-bois.jpg"><img src="/images/660x/support-rehausseur-laptop-bois.jpg" alt="Support d'ordinateur portable en bois"></a>
+    <a href="/images/support-rehausseur-laptop-bois.jpg"><img loading="lazy" src="/images/660x/support-rehausseur-laptop-bois.jpg" alt="Support d'ordinateur portable en bois"></a>
 </figure>
 
 L'inclinaison rend ce support un peu plus compliqué à réaliser. Au départ, je

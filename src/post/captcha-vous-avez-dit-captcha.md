@@ -15,7 +15,7 @@ Aujourd'hui, je suis tombé sur [Blogs &amp; Pages perso référencement par dé
 
 
 
-<figure class="object-center"><a href="/images/captcha-or-not-captcha.png"><img src="/images//captcha-or-not-captcha.png" alt="Captcha or not captcha ?">
+<figure class="object-center"><a href="/images/captcha-or-not-captcha.png"><img loading="lazy" src="/images//captcha-or-not-captcha.png" alt="Captcha or not captcha ?">
 </a></figure>
 
 

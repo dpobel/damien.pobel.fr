@@ -21,7 +21,7 @@ With many words :
  
 
 
-<figure class="object-center"><a href="/images/ez-award.jpg"><img src="/images/330x/ez-award.jpg" alt="eZ Award">
+<figure class="object-center"><a href="/images/ez-award.jpg"><img loading="lazy" src="/images/330x/ez-award.jpg" alt="eZ Award">
 </a></figure>
 
 

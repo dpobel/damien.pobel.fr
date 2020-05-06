@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-center bordered">
-    <img src="/images/660x/couverture.jpg" alt="Un chien sous une couverture">
+    <img loading="lazy" src="/images/660x/couverture.jpg" alt="Un chien sous une couverture">
 </figure>
 
 Le *code coverage* ou la couverture de code par les tests en bon français est

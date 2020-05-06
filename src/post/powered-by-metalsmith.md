@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-center bordered">
-    <img src="/images/660x/outils-cles.jpg" alt="A set of tools on a blue wall">
+    <img loading="lazy" src="/images/660x/outils-cles.jpg" alt="A set of tools on a blue wall">
 </figure>
 
 And here is another version of this blog! As usual, it's a good opportunity to

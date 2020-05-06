@@ -10,7 +10,7 @@ published: 2007-07-19T23:55:31+02:00
  
 
 
-<figure class="object-center"><a href="/images/randonnee-vers-le-refuge-de-la-caranca.jpg"><img src="/images/660x/randonnee-vers-le-refuge-de-la-caranca.jpg" alt="Randonnée vers le refuge de la Carança">
+<figure class="object-center"><a href="/images/randonnee-vers-le-refuge-de-la-caranca.jpg"><img loading="lazy" src="/images/660x/randonnee-vers-le-refuge-de-la-caranca.jpg" alt="Randonnée vers le refuge de la Carança">
 </a></figure>
 
 
@@ -22,7 +22,7 @@ J'en ai bavé, ça m'apprendra à passer trop de temps derrière mon PC et pas a
  
 
 
-<figure class="object-center"><a href="/images/le-refuge-de-la-caranca.jpg"><img src="/images/660x/le-refuge-de-la-caranca.jpg" alt="Le refuge de la Carança">
+<figure class="object-center"><a href="/images/le-refuge-de-la-caranca.jpg"><img loading="lazy" src="/images/660x/le-refuge-de-la-caranca.jpg" alt="Le refuge de la Carança">
 </a></figure>
 
 

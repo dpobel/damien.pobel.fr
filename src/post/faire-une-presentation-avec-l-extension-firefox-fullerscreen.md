@@ -24,7 +24,7 @@ Si ça intéresse quelqu'un je met à disposition un modèle de présentation as
  
 
 
-<figure class="object-center"><a href="/images/des-questions.png"><img src="/images/660x/des-questions.png" alt="Des questions ?">
+<figure class="object-center"><a href="/images/des-questions.png"><img loading="lazy" src="/images/660x/des-questions.png" alt="Des questions ?">
 </a></figure>
 
 

@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-left bordered">
-    <a href="/images/couverture-l-age-des-low-tech.jpg"><img src="/images/220x/couverture-l-age-des-low-tech.jpg" alt="Couverture du livre L'âge des low tech"></a>
+    <a href="/images/couverture-l-age-des-low-tech.jpg"><img loading="lazy" src="/images/220x/couverture-l-age-des-low-tech.jpg" alt="Couverture du livre L'âge des low tech"></a>
 </figure>
 
 Je viens de terminer de lire [**L'âge des low

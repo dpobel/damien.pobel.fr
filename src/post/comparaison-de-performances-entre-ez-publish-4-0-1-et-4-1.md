@@ -46,7 +46,7 @@ define( 'EZP_INI_FILEMTIME_CHECK', false );
 
 ## Résultats
 
-<figure class="object-center"><a href="/images/comparaison-ez-publish-4-0-1-et-ez-publish-4-1.png"><img src="/images//comparaison-ez-publish-4-0-1-et-ez-publish-4-1.png" alt="Comparaison eZ Publish 4.0.1 et eZ Publish 4.1">
+<figure class="object-center"><a href="/images/comparaison-ez-publish-4-0-1-et-ez-publish-4-1.png"><img loading="lazy" src="/images//comparaison-ez-publish-4-0-1-et-ez-publish-4-1.png" alt="Comparaison eZ Publish 4.0.1 et eZ Publish 4.1">
 </a></figure>
 
 

@@ -10,7 +10,7 @@ published: 2007-06-26T23:28:53+02:00
 
 
 
-<figure class="object-center"><a href="/images/avion.jpg"><img src="/images/660x/avion.jpg" alt="Avion">
+<figure class="object-center"><a href="/images/avion.jpg"><img loading="lazy" src="/images/660x/avion.jpg" alt="Avion">
 </a></figure>
 
 

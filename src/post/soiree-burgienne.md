@@ -6,7 +6,7 @@ node: "67316"
 remoteId: "fc146a8f0b4f8a52711f00c9107182a4"
 published: 2008-11-09T22:26:43+01:00
 ---
-<figure class="object-center"><a href="/images/l-eglise-de-brou-de-nuit.jpg"><img src="/images/660x/l-eglise-de-brou-de-nuit.jpg" alt="L'église de Brou de nuit">
+<figure class="object-center"><a href="/images/l-eglise-de-brou-de-nuit.jpg"><img loading="lazy" src="/images/660x/l-eglise-de-brou-de-nuit.jpg" alt="L'église de Brou de nuit">
 </a></figure>
 
 

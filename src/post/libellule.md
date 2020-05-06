@@ -7,7 +7,7 @@ published: 2013-08-11T23:41:53+02:00
 
 <figure class="object-center">
 <a href="/images/libellule.jpg">
-<img src="/images/660x/libellule.jpg" alt="Libéllule">
+<img loading="lazy" src="/images/660x/libellule.jpg" alt="Libéllule">
 </a>
 </figure>
 

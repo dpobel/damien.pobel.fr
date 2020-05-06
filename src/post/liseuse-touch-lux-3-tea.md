@@ -8,7 +8,7 @@ description: Rapide bilan après un mois d'utilisation de la liseuse Touch Lux 3
 ---
 
 <figure class="object-left bordered">
-    <a href="/images/liseuse-tea-touch-lux-3.jpg"><img src="/images/330x/liseuse-tea-touch-lux-3.jpg" alt="Liseuse Tea Touch
+    <a href="/images/liseuse-tea-touch-lux-3.jpg"><img loading="lazy" src="/images/330x/liseuse-tea-touch-lux-3.jpg" alt="Liseuse Tea Touch
 Lux 3"></a>
 </figure>
 

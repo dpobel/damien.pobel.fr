@@ -10,7 +10,7 @@ published: 2007-04-25T19:36:48+02:00
  
 
 
-<figure class="object-center"><a href="/images/lac-de-porte-puymorens.jpg"><img src="/images/660x/lac-de-porte-puymorens.jpg" alt="Lac de Porté-Puymorens">
+<figure class="object-center"><a href="/images/lac-de-porte-puymorens.jpg"><img loading="lazy" src="/images/660x/lac-de-porte-puymorens.jpg" alt="Lac de Porté-Puymorens">
 </a></figure>
 
 

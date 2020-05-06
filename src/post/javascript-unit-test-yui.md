@@ -5,7 +5,7 @@ lang: "en"
 published: 2014-02-17T13:45:46+01:00
 ---
 
-<figure class="object-left"><img src="/images/unit-test.gif"
+<figure class="object-left"><img loading="lazy" src="/images/unit-test.gif"
 alt="Hey! Let's unit test!"><figcaption>Hey! Let's unit test!</figcaption></figure>
 
 For some months now, I have been working on a single page application based on

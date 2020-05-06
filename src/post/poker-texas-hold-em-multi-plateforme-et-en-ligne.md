@@ -28,4 +28,4 @@ Windows.
 Pour le reste c'est plutôt bien réalisé et très amusant en ligne même si avec ma
 paire de 10 j'ai perdu le coup, *that's poker* ;-)
 
-<figure class="object-center"><a href="/images/pokerth-sous-linux.png"><img src="/images/660x/pokerth-sous-linux.png" alt="PokerTH sous Linux"> </a></figure>
+<figure class="object-center"><a href="/images/pokerth-sous-linux.png"><img loading="lazy" src="/images/660x/pokerth-sous-linux.png" alt="PokerTH sous Linux"> </a></figure>

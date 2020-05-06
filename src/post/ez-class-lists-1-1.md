@@ -7,7 +7,7 @@ node: "67812"
 remoteId: "d03f8121c48a950483f2a9b71ecc5425"
 published: 2009-05-30T17:45:05+02:00
 ---
-<figure class="object-left"><a href="/images/lien-dans-le-menu-contextuel-ajoute-par-ez-class-lists-1-1.png"><img src="/images/330x/lien-dans-le-menu-contextuel-ajoute-par-ez-class-lists-1-1.png" alt="Lien dans le menu contextuel ajouté par eZ Class Lists 1.1">
+<figure class="object-left"><a href="/images/lien-dans-le-menu-contextuel-ajoute-par-ez-class-lists-1-1.png"><img loading="lazy" src="/images/330x/lien-dans-le-menu-contextuel-ajoute-par-ez-class-lists-1-1.png" alt="Lien dans le menu contextuel ajouté par eZ Class Lists 1.1">
 </a></figure>
 
 

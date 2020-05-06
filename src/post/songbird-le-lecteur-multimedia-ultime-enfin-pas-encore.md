@@ -22,7 +22,7 @@ binaires pour Windows, MacOSX et Linux
 développement). Et cela donne :
 
 <figure class="object-center"><a
-href="/images/songbird.png"><img src="/images/660x/songbird.png" alt="Songbird"> </a></figure>
+href="/images/songbird.png"><img loading="lazy" src="/images/660x/songbird.png" alt="Songbird"> </a></figure>
 
 Je dois dire que j'ai été assez déçu. Je m'attendais à un logiciel dans [la
 philosophie de

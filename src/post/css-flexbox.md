@@ -24,7 +24,7 @@ CSS? [With flexbox, you
 can](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/) :-)
 
 <figure class="object-left bordered">
-    <img src="/images/330x/flexbox-all-the-things.jpg" alt="Flexbox all the
+    <img loading="lazy" src="/images/330x/flexbox-all-the-things.jpg" alt="Flexbox all the
 things">
     <figcaption>
         Taken from <a href="http://memegenerator.net/instance/65938732">Meme Generator</a>

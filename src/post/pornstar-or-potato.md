@@ -9,7 +9,7 @@ published: 2009-08-13T23:24:16+02:00
 
 En voila une drôle de question ! C'est totalement idiot, mais super drôle et c'est pas toujours facile, du coup j'ai à peine plus que la moyenne :-)
 
-<p><a href="http://www.pornstarorpotato.com"><img src="http://www.tshirthell.com/pornstarorpotato/img/scorecard_11.gif" alt="Pornstar
+<p><a href="http://www.pornstarorpotato.com"><img loading="lazy" src="http://www.tshirthell.com/pornstarorpotato/img/scorecard_11.gif" alt="Pornstar
 Or Potato Game" style="margin:0 auto;" /></a></p>
 
 

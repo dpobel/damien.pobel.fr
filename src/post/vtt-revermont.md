@@ -6,7 +6,7 @@ published: 2014-10-20T21:36:26+02:00
 ---
 
 <figure class="object-center">
-<img src="/images/660x/revermont_bike.png" alt="Capture d'écran de
+<img loading="lazy" src="/images/660x/revermont_bike.png" alt="Capture d'écran de
 http://vtt.revermont.bike/"></a>
 </figure>
 

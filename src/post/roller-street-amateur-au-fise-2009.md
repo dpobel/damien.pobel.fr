@@ -9,11 +9,11 @@ published: 2009-05-22T19:11:28+02:00
 
 Habituellement je préfère plutôt [le BMX street ou flat](/post/fise-2008-bmx-flat-bmx-street-et-vtt-slopestyle) ou [le VTT Slopestyle](/post/wall-ride-en-vtt-slopestyle-au-fise-2009) au [FISE](/tag/fise) mais je dois dire que j'ai passé un très bon moment devant la finale de Roller Street amateur. Dommage que le temps soit aussi gris...
 
-<a href="/images/rider-avec-du-style.jpg"><img src="/images/660x/rider-avec-du-style.jpg" alt="Rider avec du style">
+<a href="/images/rider-avec-du-style.jpg"><img loading="lazy" src="/images/660x/rider-avec-du-style.jpg" alt="Rider avec du style">
 </a>
-<table class="table-centre"><tr><td><a href="/images/en-haut-du-wall-en-roller.jpg"><img src="/images/330x/en-haut-du-wall-en-roller.jpg" alt="En haut du Wall en Roller">
+<table class="table-centre"><tr><td><a href="/images/en-haut-du-wall-en-roller.jpg"><img loading="lazy" src="/images/330x/en-haut-du-wall-en-roller.jpg" alt="En haut du Wall en Roller">
 </a></td>
-<td><a href="/images/tricks-au-dessus-du-spine.jpg"><img src="/images/330x/tricks-au-dessus-du-spine.jpg" alt="Tricks au dessus du Spine">
+<td><a href="/images/tricks-au-dessus-du-spine.jpg"><img loading="lazy" src="/images/330x/tricks-au-dessus-du-spine.jpg" alt="Tricks au dessus du Spine">
 </a></td>
 </tr>
 

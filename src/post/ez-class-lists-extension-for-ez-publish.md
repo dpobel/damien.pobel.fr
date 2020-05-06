@@ -12,6 +12,6 @@ published: 2007-07-14T16:10:09+02:00
 
 It is a small and very simple extension. I wrote it because I receive a lots of spam trackbacks on [my blog](/) and this extension lets me quickly delete trackback objects.
 
-<figure class="object-center"><a href="/images/ez-class-lists-extension.png"><img src="/images/660x/ez-class-lists-extension.png" alt="eZ Class Lists extension">
+<figure class="object-center"><a href="/images/ez-class-lists-extension.png"><img loading="lazy" src="/images/660x/ez-class-lists-extension.png" alt="eZ Class Lists extension">
 </a></figure>
 

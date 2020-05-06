@@ -7,7 +7,7 @@ remoteId: "7114468f9376b7a4def78988ef7a5a70"
 published: 2009-03-07T13:59:18+01:00
 updated: 2016-02-09 22:51
 ---
-<figure class="object-center"><a href="/images/stop-internet-explorer-6.png"><img src="/images//stop-internet-explorer-6.png" alt="Stop Internet Explorer 6">
+<figure class="object-center"><a href="/images/stop-internet-explorer-6.png"><img loading="lazy" src="/images//stop-internet-explorer-6.png" alt="Stop Internet Explorer 6">
 </a></figure>
 
 

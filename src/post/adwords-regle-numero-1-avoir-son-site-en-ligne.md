@@ -13,7 +13,7 @@ published: 2006-12-12T23:25:23+01:00
  
 
 
-<figure class="object-center"><a href="/images/adwords.png"><img src="/images/660x/adwords.png" alt="Adwords">
+<figure class="object-center"><a href="/images/adwords.png"><img loading="lazy" src="/images/660x/adwords.png" alt="Adwords">
 </a></figure>
 
 

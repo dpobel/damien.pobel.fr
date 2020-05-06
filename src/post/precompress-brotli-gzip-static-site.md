@@ -46,7 +46,7 @@ configure Apache to serve the best possible version.
 > particular emphasis on use for HTTP compression.
 
 <figure class="object-left bordered">
-    <img src="/images/220x/brotli-logo.png" alt="Brotli logo">
+    <img loading="lazy" src="/images/220x/brotli-logo.png" alt="Brotli logo">
 </figure>
 
 If I believe caniuse.com, [Brotli is now supported by most
@@ -160,7 +160,7 @@ panel that files are now served with `Content-Encoding: br` and maybe loading
 feels a bit snappier.
 
 <figure class="object-left bordered">
-    <img src="/images/brotli-encoding-header.png" alt="Screenshot of Firefox dev
+    <img loading="lazy" src="/images/brotli-encoding-header.png" alt="Screenshot of Firefox dev
     tools showing the HTTP headers">
 </figure>
 

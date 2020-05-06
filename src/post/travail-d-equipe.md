@@ -14,7 +14,7 @@ developer* pour découvrir que développer un logiciel est un travail d'équipe
 mais je crois en avoir saisi quelques subtilités qui m'échappaient auparavant.
 
 <figure class="object-center bordered">
-    <img src="/images/660x/cuisinier.jpg" alt="Deux bras de cuisinier en train
+    <img loading="lazy" src="/images/660x/cuisinier.jpg" alt="Deux bras de cuisinier en train
     de complèter des assiettes">
 </figure>
 

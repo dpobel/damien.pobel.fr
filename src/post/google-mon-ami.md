@@ -7,7 +7,7 @@ node: "67929"
 remoteId: "9847e4498047f269da528df596ad2d69"
 published: 2009-09-06T10:38:06+02:00
 ---
-<figure class="object-center"><a href="/images/pornstar-dans-google.png"><img src="/images//pornstar-dans-google.png" alt="Pornstar dans Google">
+<figure class="object-center"><a href="/images/pornstar-dans-google.png"><img loading="lazy" src="/images//pornstar-dans-google.png" alt="Pornstar dans Google">
 </a></figure>
 
 

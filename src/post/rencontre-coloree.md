@@ -7,7 +7,7 @@ remoteId: "8db1ee0c2067868d3b9c9468c5e4e318"
 published: 2008-08-16T23:42:00+02:00
 updated: 2016-02-09 22:06
 ---
-<figure class="object-center"><a href="/images/insecte-rouge-et-noir-et-fleur-violette.jpg"><img src="/images/660x/insecte-rouge-et-noir-et-fleur-violette.jpg" alt="Insecte rouge et noir et fleur violette">
+<figure class="object-center"><a href="/images/insecte-rouge-et-noir-et-fleur-violette.jpg"><img loading="lazy" src="/images/660x/insecte-rouge-et-noir-et-fleur-violette.jpg" alt="Insecte rouge et noir et fleur violette">
 </a></figure>
 
 Malgré plus d'une heure de recherche, il m'a été impossible de déterminer le nom

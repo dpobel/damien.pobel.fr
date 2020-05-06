@@ -8,7 +8,7 @@ published: 2007-05-09T22:45:54+02:00
 updated: 2016-02-10 08:37
 ---
  
-<figure class="object-center"><img src="/images/ez-conference-et-ez-awards.png" alt="eZ Conference et eZ Awards"></figure>
+<figure class="object-center"><img loading="lazy" src="/images/ez-conference-et-ez-awards.png" alt="eZ Conference et eZ Awards"></figure>
 
 J'ai la chance de me rendre dans le cadre professionnel, accompagné d'un
 collègue, à la conférence annuelle eZ

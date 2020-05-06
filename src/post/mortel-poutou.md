@@ -9,7 +9,7 @@ published: 2012-06-05T21:18:00+02:00
 photos:
     - images/affiche-elections-legislatives-2012-mortel-poutou.jpg
 ---
-<a href="/images/affiche-elections-legislatives-2012-mortel-poutou.jpg"><img src="/images/660x/affiche-elections-legislatives-2012-mortel-poutou.jpg" alt="Affiche élections législatives 2012 Mortel Poutou">
+<a href="/images/affiche-elections-legislatives-2012-mortel-poutou.jpg"><img loading="lazy" src="/images/660x/affiche-elections-legislatives-2012-mortel-poutou.jpg" alt="Affiche élections législatives 2012 Mortel Poutou">
 </a>
 
 <strike>Elle mériterait d'atterrir sur [lolgislatives 2012](http://lolgislatives2012.tumblr.com/) celle là :-)</strike>

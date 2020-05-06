@@ -7,7 +7,7 @@ node: "66999"
 remoteId: "a53bbaa7cea9fe1fbfcef27a0e8641f2"
 published: 2008-08-12T23:25:27+02:00
 ---
-<figure class="object-center"><a href="/images/constraste-olympique.jpg"><img src="/images//constraste-olympique.jpg" alt="Constraste Olympique">
+<figure class="object-center"><a href="/images/constraste-olympique.jpg"><img loading="lazy" src="/images//constraste-olympique.jpg" alt="Constraste Olympique">
 </a></figure>
 
 
