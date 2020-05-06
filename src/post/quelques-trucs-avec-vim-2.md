@@ -47,7 +47,7 @@ texte reste intact. Il est possible d'avoir un repère visuel où des zones
 pliables sont positionnées en fixant la variable foldcolumn, par exemple à 2 en
 tapant &quot;:set foldcolumn=2&quot;, ce qui donne :
 
-<figure class="object-center"><a href="/images/fold-dans-vim.gif"><img src="/images//fold-dans-vim.gif" alt="Fold dans Vim">
+<figure class="object-center"><a href="/images/fold-dans-vim.gif"><img loading="lazy" src="/images//fold-dans-vim.gif" alt="Fold dans Vim">
 </a></figure>
 
  
@@ -77,7 +77,7 @@ reconnaître la chaîne &quot; __ &quot; comme une erreur ce qui permet de voir
 rapidement les points à complèter dans ce qui vient d'être inséré pour obtenir
 un code syntaxiquement correct :
 
-<figure class="object-center"><a href="/images/abbreviations-dans-vim.gif"><img src="/images//abbreviations-dans-vim.gif" alt="Abbréviations dans Vim">
+<figure class="object-center"><a href="/images/abbreviations-dans-vim.gif"><img loading="lazy" src="/images//abbreviations-dans-vim.gif" alt="Abbréviations dans Vim">
 </a></figure>
 
 Plus d'informations sur [les abbréviations dans l'aide de Vim](http://vimdoc.sourceforge.net/htmldoc/map.html#Abbreviations).

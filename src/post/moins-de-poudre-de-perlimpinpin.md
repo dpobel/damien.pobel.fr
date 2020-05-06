@@ -122,7 +122,7 @@ importante pour prendre une décision. **Il s'agit encore et toujours de faire
 des compromis**.
 
 <figure class="object-center bordered">
-    <a href="/images/generators.png"><img src="/images/660x/generators.png" alt="Exemple de transformation d'une fonction génératrice par Babel"></a>
+    <a href="/images/generators.png"><img loading="lazy" src="/images/660x/generators.png" alt="Exemple de transformation d'une fonction génératrice par Babel"></a>
 </figure>
 
 ## Budgets
@@ -164,7 +164,7 @@ décodant et traitant les données dans un <i>worker</i>, le <i>main thread</i>
 sera épargné et l'usage de l'application restera fluide.
 
 <figure class="object-center bordered">
-    <a href="/images/sixbench.png"><img src="/images/660x/sixbench.png" alt="Capture d'écran du benchmark six-speed"></a>
+    <a href="/images/sixbench.png"><img loading="lazy" src="/images/660x/sixbench.png" alt="Capture d'écran du benchmark six-speed"></a>
 </figure>
 
 Prenons un autre exemple&nbsp;: jusqu'à il y a un an environ, utiliser [une
@@ -194,7 +194,7 @@ dans Chrome 70, les deux types de boucle ont _exactement_ les mêmes
 performances. Un grand merci à l'équipe travaillant sur V8&nbsp;!
 
 <figure class="object-center bordered">
-    <a href="/images/forbench.png"><img src="/images/660x/forbench.png" alt="Capture d'écran d'un benchmark de boucles for"></a>
+    <a href="/images/forbench.png"><img loading="lazy" src="/images/660x/forbench.png" alt="Capture d'écran d'un benchmark de boucles for"></a>
 </figure>
 
 ## Ça dépend (du contexte)

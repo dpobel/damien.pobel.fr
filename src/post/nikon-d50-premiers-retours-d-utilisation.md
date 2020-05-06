@@ -13,7 +13,7 @@ Je suis l'heureux [propriétaire d'un Nikon D50](/post/nikon-d50-noir-2) depuis 
  
 
 
-<figure class="object-left"><a href="/images/maitriser-le-nikon-d50.jpg"><img src="/images/220x/maitriser-le-nikon-d50.jpg" alt="Maîtriser le Nikon D50">
+<figure class="object-left"><a href="/images/maitriser-le-nikon-d50.jpg"><img loading="lazy" src="/images/220x/maitriser-le-nikon-d50.jpg" alt="Maîtriser le Nikon D50">
 </a></figure>
 
 

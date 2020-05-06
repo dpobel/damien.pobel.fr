@@ -10,15 +10,15 @@ published: 2008-04-08T21:58:23+02:00
 
 Après [les grenouilles](/post/le-jardin-des-plantes-et-des-grenouilles), les plantes évidemment !
 
-<figure class="object-center"><a href="/images/fleur-mauve-et-jaune.jpg"><img src="/images/660x/fleur-mauve-et-jaune.jpg" alt="Fleur mauve et jaune">
+<figure class="object-center"><a href="/images/fleur-mauve-et-jaune.jpg"><img loading="lazy" src="/images/660x/fleur-mauve-et-jaune.jpg" alt="Fleur mauve et jaune">
 </a></figure>
 
-<figure class="object-center"><a href="/images/fleurs-mauves-et-jaunes.jpg"><img src="/images/660x/fleurs-mauves-et-jaunes.jpg" alt="Fleurs mauves et jaunes">
+<figure class="object-center"><a href="/images/fleurs-mauves-et-jaunes.jpg"><img loading="lazy" src="/images/660x/fleurs-mauves-et-jaunes.jpg" alt="Fleurs mauves et jaunes">
 </a></figure>
 
-<figure class="object-center"><a href="/images/fleur-rouge-et-orange.jpg"><img src="/images/660x/fleur-rouge-et-orange.jpg" alt="Fleur rouge et orange">
+<figure class="object-center"><a href="/images/fleur-rouge-et-orange.jpg"><img loading="lazy" src="/images/660x/fleur-rouge-et-orange.jpg" alt="Fleur rouge et orange">
 </a></figure>
 
-<figure class="object-center"><a href="/images/fleur-violette.jpg"><img src="/images/660x/fleur-violette.jpg" alt="Fleur violette">
+<figure class="object-center"><a href="/images/fleur-violette.jpg"><img loading="lazy" src="/images/660x/fleur-violette.jpg" alt="Fleur violette">
 </a></figure>
 

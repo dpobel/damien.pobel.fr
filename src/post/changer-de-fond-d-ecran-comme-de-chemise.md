@@ -61,5 +61,5 @@ wait $wmpid
  
 Aujourd'hui en tapant **bin/dbbg.sh commons scale** ça donnait un drôle d'effet avec [cette chenille](http://fr.wikipedia.org/wiki/Image:Chenille_chevrefeuille.jpg) :-)
 
-<figure class="object-center"><a href="/images/fond-d-ecran-chenille.png"><img src="/images/660x/fond-d-ecran-chenille.png" alt="Fond d'écran chenille">
+<figure class="object-center"><a href="/images/fond-d-ecran-chenille.png"><img loading="lazy" src="/images/660x/fond-d-ecran-chenille.png" alt="Fond d'écran chenille">
 </a></figure>

@@ -56,7 +56,7 @@ edition_dans_ez_publish.gif tournant en boucle de 460x300 pixels dont le point
 d'origine est 249x196 d'une durée de 15 secondes en incluant le curseur X11, ce
 qui donne l'animation suivante :
 
-<figure class="object-center"><a href="/images/exemple-gif-anime-avec-byzanz.gif"><img src="/images//exemple-gif-anime-avec-byzanz.gif" alt="Exemple GIF animé avec byzanz">
+<figure class="object-center"><a href="/images/exemple-gif-anime-avec-byzanz.gif"><img loading="lazy" src="/images//exemple-gif-anime-avec-byzanz.gif" alt="Exemple GIF animé avec byzanz">
 </a></figure>
 
 Comme c'est du GIF ça ne peut contenir que 256 couleurs mais c'est très léger

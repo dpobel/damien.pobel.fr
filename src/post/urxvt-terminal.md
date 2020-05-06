@@ -32,7 +32,7 @@ to hide the "new" button...
 
 This gives the following result:
 
-<figure class="object-center"><img src="/images/urxvt.jpg" alt="2 URXVT
+<figure class="object-center"><img loading="lazy" src="/images/urxvt.jpg" alt="2 URXVT
 window"></figure>
 
 To handle the tabs, the following keyboard shortcuts are available:

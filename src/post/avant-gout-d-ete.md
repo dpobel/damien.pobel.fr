@@ -10,7 +10,7 @@ published: 2007-05-27T22:27:29+02:00
  
 
 
-<figure class="object-center"><a href="/images/plage-de-sete.jpg"><img src="/images/660x/plage-de-sete.jpg" alt="Plage de Sète">
+<figure class="object-center"><a href="/images/plage-de-sete.jpg"><img loading="lazy" src="/images/660x/plage-de-sete.jpg" alt="Plage de Sète">
 </a></figure>
 
 

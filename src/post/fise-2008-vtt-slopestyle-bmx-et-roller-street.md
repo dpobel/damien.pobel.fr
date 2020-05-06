@@ -18,19 +18,19 @@ l'aire de dirt est à l'autre bout de la zone après le pont Zuccarelli et
 l'espace aux abords de l'aire de street ont été réduit, ce qui est un peu
 dommage surtout avec l'affluence incroyable aujourd'hui !
 
-<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/table-top-en-vtt.jpg"><img src="/images/330x/table-top-en-vtt.jpg" alt="Table top en VTT">
+<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/table-top-en-vtt.jpg"><img loading="lazy" src="/images/330x/table-top-en-vtt.jpg" alt="Table top en VTT">
 </a></figure></td>
-<td><figure class="object-center"><a href="/images/manual-en-vtt-slopestyle.jpg"><img src="/images/330x/manual-en-vtt-slopestyle.jpg" alt="Manual en VTT Slopestyle">
-</a></figure></td>
-</tr>
-<tr><td><figure class="object-center"><a href="/images/saut-en-vtt-slopestyle.jpg"><img src="/images/330x/saut-en-vtt-slopestyle.jpg" alt="Saut en VTT Slopestyle">
-</a></figure></td>
-<td><figure class="object-center"><a href="/images/vtt-slopestyle.jpg"><img src="/images/330x/vtt-slopestyle.jpg" alt="VTT Slopestyle">
+<td><figure class="object-center"><a href="/images/manual-en-vtt-slopestyle.jpg"><img loading="lazy" src="/images/330x/manual-en-vtt-slopestyle.jpg" alt="Manual en VTT Slopestyle">
 </a></figure></td>
 </tr>
-<tr><td><figure class="object-center"><a href="/images/whiptail-en-bmx-street.jpg"><img src="/images/330x/whiptail-en-bmx-street.jpg" alt="Whiptail en BMX Street">
+<tr><td><figure class="object-center"><a href="/images/saut-en-vtt-slopestyle.jpg"><img loading="lazy" src="/images/330x/saut-en-vtt-slopestyle.jpg" alt="Saut en VTT Slopestyle">
 </a></figure></td>
-<td><figure class="object-center"><a href="/images/le-rail-en-roller.jpg"><img src="/images/330x/le-rail-en-roller.jpg" alt="Le rail en Roller">
+<td><figure class="object-center"><a href="/images/vtt-slopestyle.jpg"><img loading="lazy" src="/images/330x/vtt-slopestyle.jpg" alt="VTT Slopestyle">
+</a></figure></td>
+</tr>
+<tr><td><figure class="object-center"><a href="/images/whiptail-en-bmx-street.jpg"><img loading="lazy" src="/images/330x/whiptail-en-bmx-street.jpg" alt="Whiptail en BMX Street">
+</a></figure></td>
+<td><figure class="object-center"><a href="/images/le-rail-en-roller.jpg"><img loading="lazy" src="/images/330x/le-rail-en-roller.jpg" alt="Le rail en Roller">
 </a></figure></td>
 </tr>
 

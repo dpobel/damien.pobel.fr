@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-left bordered">
-    <a href="/images/couverture-sortons-de-l-age-des-fossiles.jpg"><img src="/images/220x/couverture-sortons-de-l-age-des-fossiles.jpg" alt="Couverture du livre Sortons de l'âge des fossiles"></a>
+    <a href="/images/couverture-sortons-de-l-age-des-fossiles.jpg"><img loading="lazy" src="/images/220x/couverture-sortons-de-l-age-des-fossiles.jpg" alt="Couverture du livre Sortons de l'âge des fossiles"></a>
 </figure>
 
 J'ai terminé [Sortons de l'âge des

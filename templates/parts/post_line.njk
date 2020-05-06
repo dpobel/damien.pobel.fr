@@ -2,7 +2,7 @@
     <h2><a href="{{ post.path|url }}">{{ post.title }}</a></h2>
     {% if post.photos %}
         {% for photo in post.photos %}
-            <a href="{{ post.path|url }}"><img src="/{{ photo|image_variation('200x') }}" alt="Miniature de {{ post.title }}"></a>
+            <a href="{{ post.path|url }}"><img src="/{{ photo|image_variation('200x') }}" alt="Miniature de {{ post.title }}" loading="lazy"></a>
         {% endfor %}
     {% endif %}
     <div class="post-meta">

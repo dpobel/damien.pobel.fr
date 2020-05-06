@@ -10,7 +10,7 @@ published: 2007-06-28T23:21:42+02:00
  
 
 
-<figure class="object-center"><a href="/images/rosee.jpg"><img src="/images/660x/rosee.jpg" alt="Rosée">
+<figure class="object-center"><a href="/images/rosee.jpg"><img loading="lazy" src="/images/660x/rosee.jpg" alt="Rosée">
 </a></figure>
 
 

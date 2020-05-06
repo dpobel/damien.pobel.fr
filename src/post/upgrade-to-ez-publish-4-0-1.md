@@ -6,7 +6,7 @@ remoteId: "053274302440a02bd6419c0a96a8b916"
 published: 2008-08-24T17:55:58+02:00
 updated: 2016-02-10 22:28
 ---
-<figure class="object-center"><a href="/images/nouveau-logo-ez-publish-4-0-1.png"><img src="/images//nouveau-logo-ez-publish-4-0-1.png" alt="Nouveau logo eZ Publish 4.0.1">
+<figure class="object-center"><a href="/images/nouveau-logo-ez-publish-4-0-1.png"><img loading="lazy" src="/images//nouveau-logo-ez-publish-4-0-1.png" alt="Nouveau logo eZ Publish 4.0.1">
 </a></figure>
 
 

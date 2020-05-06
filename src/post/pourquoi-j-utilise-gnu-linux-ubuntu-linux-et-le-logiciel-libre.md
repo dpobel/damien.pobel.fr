@@ -47,7 +47,7 @@ servers principalement) avec
 [NEdit](http://pwet.fr/man/linux/commandes/nedit) comme éditeur et ça donnait
 ça&nbsp;:
 
-<figure class="object-center"><a href="/images/screenshot-bureau-aout-2002.png"><img src="/images/330x/screenshot-bureau-aout-2002.png" alt="Screenshot bureau Août 2002">
+<figure class="object-center"><a href="/images/screenshot-bureau-aout-2002.png"><img loading="lazy" src="/images/330x/screenshot-bureau-aout-2002.png" alt="Screenshot bureau Août 2002">
 </a></figure>
 
 Cette capture d'écran date d'août 2002 ! C'était pas terrible :) Entre temps
@@ -65,7 +65,7 @@ Drake](https://lists.ubuntu.com/archives/ubuntu-announce/2006-June/000083.html)
 et à ça :
 
 <figure class="object-center"><a
-href="/images/screenshot-de-mon-bureau-septembre-2006.png"><img src="/images/330x/screenshot-de-mon-bureau-septembre-2006.png" alt="Screenshot de mon bureau Septembre 2006"></a></figure>
+href="/images/screenshot-de-mon-bureau-septembre-2006.png"><img loading="lazy" src="/images/330x/screenshot-de-mon-bureau-septembre-2006.png" alt="Screenshot de mon bureau Septembre 2006"></a></figure>
 
 ## Pourquoi Ubuntu ?
 

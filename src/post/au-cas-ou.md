@@ -29,7 +29,7 @@ compliqué, je ne crois pas qu'il soit nécessaire de rajouter de l'incertitude 
 la nécessité de prévoir l'avenir pour le réaliser convenablement.
 
 <figure class="object-center bordered">
-    <img src="/images/660x/psychic-vision.jpg" alt="Panneau avec écrit 'Psychic
+    <img loading="lazy" src="/images/660x/psychic-vision.jpg" alt="Panneau avec écrit 'Psychic
     Vision, present, past, future. Tarots Cards">
 </figure>
 

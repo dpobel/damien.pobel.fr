@@ -10,7 +10,7 @@ published: 2007-04-26T19:57:26+02:00
  
 Extrait de mes [statistiques awstats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi), dans les mots clés les plus tapés dans les moteurs de recherche :
 
-<figure class="object-center"><img src="/images//segolene-nue.png" alt="Ségolène nue"></figure>
+<figure class="object-center"><img loading="lazy" src="/images//segolene-nue.png" alt="Ségolène nue"></figure>
 
  
 Entre [ça](/post/segolene-nue) et les [photos de Viols (le fort)](http://photos.pwet.fr/villes-et-departements/herault-34/viols-le-fort/), j'ai presque honte :-)

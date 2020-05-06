@@ -9,7 +9,7 @@ photos:
 
 <figure class="object-left bordered">
     <a href="/images/i-can-haz-aligned-image.jpg">
-    <img src="/images/220x/i-can-haz-aligned-image.jpg" alt="I can haz aligned image">
+    <img loading="lazy" src="/images/220x/i-can-haz-aligned-image.jpg" alt="I can haz aligned image">
     </a>
 </figure>
 

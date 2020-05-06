@@ -7,7 +7,7 @@ node: "67032"
 remoteId: "f07642c9f45b013ab6944615212abea2"
 published: 2008-08-18T23:10:15+02:00
 ---
-<figure class="object-center"><a href="/images/oecophylla.jpg"><img src="/images/660x/oecophylla.jpg" alt="Oecophylla">
+<figure class="object-center"><a href="/images/oecophylla.jpg"><img loading="lazy" src="/images/660x/oecophylla.jpg" alt="Oecophylla">
 </a></figure>
 
 

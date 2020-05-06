@@ -12,7 +12,7 @@ photos:
 
 
 
-<figure class="object-center"><a href="/images/publicite-contextuelle.png"><img src="/images//publicite-contextuelle.png" alt="Publicité contextuelle">
+<figure class="object-center"><a href="/images/publicite-contextuelle.png"><img loading="lazy" src="/images//publicite-contextuelle.png" alt="Publicité contextuelle">
 </a></figure>
 
 

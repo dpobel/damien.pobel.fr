@@ -38,7 +38,7 @@ pratiques](http://www.mycli.net/commands) et **surtout [un complètement
 intelligent](http://www.mycli.net/completion)**&nbsp;!
 
 <figure class="object-center">
-    <img src="/images/mycli.png" alt="Capture d'écran de mycli dans un terminal">
+    <img loading="lazy" src="/images/mycli.png" alt="Capture d'écran de mycli dans un terminal">
 </figure>
 
 Il a sa propre configuration dans `~/.myclirc` (qu'il génère au premier

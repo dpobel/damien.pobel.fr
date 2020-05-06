@@ -116,7 +116,7 @@ appris que dans les 2 ou 3 années précédentes.
 ## Et en 2019&nbsp;?
 
 <figure class="object-left">
-    <a href="/images/new-year-same-shit-different-year.jpg"><img src="/images/330x/new-year-same-shit-different-year.jpg" alt="Batman disant 'New Year? More like same shit, different year'"></a>
+    <a href="/images/new-year-same-shit-different-year.jpg"><img loading="lazy" src="/images/330x/new-year-same-shit-different-year.jpg" alt="Batman disant 'New Year? More like same shit, different year'"></a>
 </figure>
 
 Quasi tous les objectifs que j'évoquais l'année dernière restent valables et je

@@ -6,7 +6,7 @@ published: 2015-10-01T11:05:50+02:00
 ---
 
 <figure class="object-center">
-    <a href="/images/mante-religieuse.jpg"><img src="/images/660x/mante-religieuse.jpg" alt="Mante religieuse"></a>
+    <a href="/images/mante-religieuse.jpg"><img loading="lazy" src="/images/660x/mante-religieuse.jpg" alt="Mante religieuse"></a>
     <figcaption>
     Mante religieuse
     (<a href="https://www.flickr.com/photos/tigr0u/21867511931">Flickr</a>)

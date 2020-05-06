@@ -13,7 +13,7 @@ des commentaires, on navigue joyeusement d'un extrême à l'autre entre *ne pas 
 vérité est ailleurs~~ le bon dosage sans doute quelque part entre les deux.
 
 <figure class="object-center bordered">
-    <img src="/images/660x/dose-cafe.jpg" alt="Une dose de café en grain">
+    <img loading="lazy" src="/images/660x/dose-cafe.jpg" alt="Une dose de café en grain">
 </figure>
 
 Les commentaires font partie du code et donc comme n'importe quel code, il

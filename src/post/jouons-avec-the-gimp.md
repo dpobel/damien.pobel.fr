@@ -29,4 +29,4 @@ Agde](/post/avant-gout-d-ete).
 
 
 <figure class="object-center"><a
-href="/images/rouille-sur-la-plage.jpg"><img src="/images/330x/rouille-sur-la-plage.jpg" alt="Rouille sur la plage"> </a></figure>
+href="/images/rouille-sur-la-plage.jpg"><img loading="lazy" src="/images/330x/rouille-sur-la-plage.jpg" alt="Rouille sur la plage"> </a></figure>

@@ -16,13 +16,13 @@ facilement. L'année dernière déjà, [je m'étais amusé à les
 photographier](/post/mon-amie-la-grenouille), mais avec un objectif 70-300 c'est
 beaucoup plus facile :)
 
-<figure class="object-center"><a href="/images/une-grenouille-dans-l-eau.jpg"><img src="/images/660x/une-grenouille-dans-l-eau.jpg" alt="Une grenouille dans l'eau">
+<figure class="object-center"><a href="/images/une-grenouille-dans-l-eau.jpg"><img loading="lazy" src="/images/660x/une-grenouille-dans-l-eau.jpg" alt="Une grenouille dans l'eau">
 </a></figure>
 
-<figure class="object-center"><a href="/images/une-grenouille-au-bord-de-l-eau.jpg"><img src="/images/660x/une-grenouille-au-bord-de-l-eau.jpg" alt="Une grenouille au bord de l'eau">
+<figure class="object-center"><a href="/images/une-grenouille-au-bord-de-l-eau.jpg"><img loading="lazy" src="/images/660x/une-grenouille-au-bord-de-l-eau.jpg" alt="Une grenouille au bord de l'eau">
 </a></figure>
 
-<figure class="object-center"><a href="/images/deux-grenouilles.jpg"><img src="/images/660x/deux-grenouilles.jpg" alt="Deux grenouilles">
+<figure class="object-center"><a href="/images/deux-grenouilles.jpg"><img loading="lazy" src="/images/660x/deux-grenouilles.jpg" alt="Deux grenouilles">
 </a></figure>
 
 

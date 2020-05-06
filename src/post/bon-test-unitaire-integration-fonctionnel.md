@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-center bordered">
-    <img src="/images/660x/testing.jpg" alt="Feuille de papier dans une machine
+    <img loading="lazy" src="/images/660x/testing.jpg" alt="Feuille de papier dans une machine
     à écire où il est écrit 'Testing'">
     <figcaption>
     Testing par Nick Youngson sous licence CC by-sa 3.0
@@ -50,7 +50,7 @@ deviennent parfois plus que ça.
 ## Reproductible et fiable
 
 <figure class="object-center bordered">
-    <img src="/images/660x/fiable.jpg" alt="Grosse corde qui passe dans une
+    <img loading="lazy" src="/images/660x/fiable.jpg" alt="Grosse corde qui passe dans une
     ancre en bois">
 </figure>
 

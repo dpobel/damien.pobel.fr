@@ -22,7 +22,7 @@ ce que je pouvais.
 
 
 <figure class="object-center"><a
-href="/images/la-fonte-des-neige-alimente-le-lac.jpg"><img src="/images/660x/la-fonte-des-neige-alimente-le-lac.jpg" alt="La fonte des neige alimente le lac"></a></figure>
+href="/images/la-fonte-des-neige-alimente-le-lac.jpg"><img loading="lazy" src="/images/660x/la-fonte-des-neige-alimente-le-lac.jpg" alt="La fonte des neige alimente le lac"></a></figure>
 
 Et surtout, au retour, on m'a fait découvrir le [Lac de
 Porté-Puymorens](http://photos.pwet.fr/galeries/le-lac-de-porte-puymorens-et-andorre/5/)
@@ -30,4 +30,4 @@ dont j'ai publié [une photo hier](/post/lac-de-porte-puymorens). Cet endroit es
 **magnifique** pour ne pas dire magique. J'ai rarement été autant émerveillé par
 un paysage.
 
-<figure class="object-center"><a href="/images/bourgeons.jpg"><img src="/images/660x/bourgeons.jpg" alt="Bourgeons"></a></figure>
+<figure class="object-center"><a href="/images/bourgeons.jpg"><img loading="lazy" src="/images/660x/bourgeons.jpg" alt="Bourgeons"></a></figure>

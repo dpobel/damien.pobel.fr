@@ -13,7 +13,7 @@ published: 2007-04-15T17:20:27+02:00
  
 
 
-<figure class="object-center"><a href="/images/fleur-orange-au-corum.jpg"><img src="/images/660x/fleur-orange-au-corum.jpg" alt="Fleur orange au Corum">
+<figure class="object-center"><a href="/images/fleur-orange-au-corum.jpg"><img loading="lazy" src="/images/660x/fleur-orange-au-corum.jpg" alt="Fleur orange au Corum">
 </a></figure>
 
 
@@ -25,7 +25,7 @@ published: 2007-04-15T17:20:27+02:00
  
 
 
-<figure class="object-center"><a href="/images/fontaine-des-augustins.jpg"><img src="/images/660x/fontaine-des-augustins.jpg" alt="Fontaine des Augustins">
+<figure class="object-center"><a href="/images/fontaine-des-augustins.jpg"><img loading="lazy" src="/images/660x/fontaine-des-augustins.jpg" alt="Fontaine des Augustins">
 </a></figure>
 
 

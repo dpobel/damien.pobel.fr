@@ -15,7 +15,7 @@ photos:
 * **Specific syntax highlighting for eZ Publish templates** instead of the [Smarty](http://www.smarty.net/) one used by default (based on it by the way)
 * **Specific syntax highlighting for eZ Publish ini files** and overrides (instead of the *dosini* syntax file for *ini files and the PHP one for *.ini.append.php files)
 * The class view sidebar now depends on the [eZDevtools](http://svn.projects.ez.no/ezvim/trunk/ezdevtools/) extension instead of SmileClasses. eZDevtools is a rewrite of SmileClasses for eZ Publish 4.x. You only need it to use the class view sidebar.
-<figure class="object-center"><a href="/images/ezvim-0-2.png"><img src="/images/660x/ezvim-0-2.png" alt="eZVim 0.2">
+<figure class="object-center"><a href="/images/ezvim-0-2.png"><img loading="lazy" src="/images/660x/ezvim-0-2.png" alt="eZVim 0.2">
 </a></figure>
 
 

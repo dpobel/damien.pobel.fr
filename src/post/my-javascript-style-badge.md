@@ -6,7 +6,7 @@ photos:
     - images/javascript-style-badge.png
 ---
 
-<figure class="object-left"><img src="/images/javascript-style-badge.png"
+<figure class="object-left"><img loading="lazy" src="/images/javascript-style-badge.png"
 alt="My JavaScript style badge"></figure>
 
 OK that's completely useless, hence why you have to [generate

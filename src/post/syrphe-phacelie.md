@@ -6,7 +6,7 @@ published: 2017-11-09 15:15
 ---
 
 <figure class="object-center">
-    <a href="/images/syrphe-phacelie.jpg"><img src="/images/660x/syrphe-phacelie.jpg" alt="Syrphe sur une fleur de phacélie"></a>
+    <a href="/images/syrphe-phacelie.jpg"><img loading="lazy" src="/images/660x/syrphe-phacelie.jpg" alt="Syrphe sur une fleur de phacélie"></a>
     <figcaption>
     Syrphe sur une fleur de phacélie
     </figcaption>

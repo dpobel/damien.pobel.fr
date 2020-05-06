@@ -13,7 +13,7 @@ Ce texte est une traduction de l'excellent
 </p>
 
 <figure class="object-center bordered">
-    <img src="/images/660x/lampe.jpg" alt="Une lampe posée sur des pavés dans la pénombre">
+    <img loading="lazy" src="/images/660x/lampe.jpg" alt="Une lampe posée sur des pavés dans la pénombre">
 </figure>
 
 Pour ceux d'entre nous qui utilisent un lecteur d'écran comme JAWS, NVDA or

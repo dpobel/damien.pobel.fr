@@ -10,6 +10,6 @@ published: 2008-03-29T13:21:51+01:00
 
 Ce qui est bien en déplacement professionnel c'est qu'on se fait plein d'amis, voici Jack et Joe du [parc de Suresnes](http://maps.google.fr/maps?f=q&amp;hl=fr&amp;geocode=&amp;q=suresnes&amp;ie=UTF8&amp;ll=48.864327,2.225665&amp;spn=0.004094,0.009141&amp;t=h&amp;z=17) :-)
 
-<figure class="object-center"><a href="/images/jack-et-joe-les-pigeons.jpg"><img src="/images/660x/jack-et-joe-les-pigeons.jpg" alt="Jack et Joe les pigeons">
+<figure class="object-center"><a href="/images/jack-et-joe-les-pigeons.jpg"><img loading="lazy" src="/images/660x/jack-et-joe-les-pigeons.jpg" alt="Jack et Joe les pigeons">
 </a></figure>
 

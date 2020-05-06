@@ -13,13 +13,13 @@ Conduire 6 tours sur [le circuit de Bresse](http://www.circuitdebresse.fr) au vo
 
 *Ça se conduit facilement* dixit l'instructeur à ma droite, mais bon 400 chevaux sur les roues arrières avec une boîte séquentielle sur une piste légèrement humide, j'ai quand même besoin de quelques instructions avant de partir !
 
-<figure class="object-center"><a href="/images/3-2-1-go.jpg"><img src="/images/660x/3-2-1-go.jpg" alt="3, 2, 1 go !">
+<figure class="object-center"><a href="/images/3-2-1-go.jpg"><img loading="lazy" src="/images/660x/3-2-1-go.jpg" alt="3, 2, 1 go !">
 </a></figure>
 
-<figure class="object-center"><a href="/images/la-chicane-avant-le-gauche-du-club.jpg"><img src="/images/660x/la-chicane-avant-le-gauche-du-club.jpg" alt="La chicane avant le gauche du club">
+<figure class="object-center"><a href="/images/la-chicane-avant-le-gauche-du-club.jpg"><img loading="lazy" src="/images/660x/la-chicane-avant-le-gauche-du-club.jpg" alt="La chicane avant le gauche du club">
 </a></figure>
 
-<figure class="object-center"><a href="/images/freinage-au-bout-de-la-longue-courbe.jpg"><img src="/images/660x/freinage-au-bout-de-la-longue-courbe.jpg" alt="Freinage au bout de la longue courbe">
+<figure class="object-center"><a href="/images/freinage-au-bout-de-la-longue-courbe.jpg"><img loading="lazy" src="/images/660x/freinage-au-bout-de-la-longue-courbe.jpg" alt="Freinage au bout de la longue courbe">
 </a></figure>
 
 

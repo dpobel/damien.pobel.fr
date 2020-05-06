@@ -17,7 +17,7 @@ interface l'extension SmileClasses (la même utilisée par [le plugin pour
 Eclipse](http://smile-ez-plugin.sourceforge.net/)) est en très bonne voie. Une
 image vaut mieux qu'un long discours&nbsp;:
 
-<figure class="object-center"><a href="/images/premiere-version-du-classes-view-pour-vim.png"><img src="/images/660x/premiere-version-du-classes-view-pour-vim.png" alt="Première version du Classes View pour Vim">
+<figure class="object-center"><a href="/images/premiere-version-du-classes-view-pour-vim.png"><img loading="lazy" src="/images/660x/premiere-version-du-classes-view-pour-vim.png" alt="Première version du Classes View pour Vim">
 </a></figure>
 
 On voit les 4 groupes de classes, *Content* et *Users* sont *dépliés* et, dans

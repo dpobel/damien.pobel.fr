@@ -9,7 +9,7 @@ photos:
 
 <figure class="object-left bordered">
     <a href="/images/print-screen.jpg">
-    <img src="/images/330x/print-screen.jpg" alt="Print screen, you are doing it
+    <img loading="lazy" src="/images/330x/print-screen.jpg" alt="Print screen, you are doing it
     wrong">
     </a>
 </figure>

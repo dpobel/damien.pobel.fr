@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-left bordered">
-    <img src="/images/330x/hubot.jpg" alt="Hubot">
+    <img loading="lazy" src="/images/330x/hubot.jpg" alt="Hubot">
 </figure>
 
 [Travis CI is a continuous integration

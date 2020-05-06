@@ -10,7 +10,7 @@ published: 2007-04-09T19:17:10+02:00
  
 
 
-<figure class="object-left"><a href="/images/nikon-d50-noir.jpg"><img src="/images/330x/nikon-d50-noir.jpg" alt="Nikon D50 Noir">
+<figure class="object-left"><a href="/images/nikon-d50-noir.jpg"><img loading="lazy" src="/images/330x/nikon-d50-noir.jpg" alt="Nikon D50 Noir">
 </a></figure>
 
 

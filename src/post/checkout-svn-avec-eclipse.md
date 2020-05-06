@@ -7,7 +7,7 @@ node: "66867"
 remoteId: "cc3eedbda9b7026023cb2f8b98b4d661"
 published: 2008-06-13T16:38:24+02:00
 ---
-<figure class="object-center"><a href="/images/checkout-svn-eclipse-top.png"><img src="/images/660x/checkout-svn-eclipse-top.png" alt="Checkout SVN eclipse + top">
+<figure class="object-center"><a href="/images/checkout-svn-eclipse-top.png"><img loading="lazy" src="/images/660x/checkout-svn-eclipse-top.png" alt="Checkout SVN eclipse + top">
 </a></figure>
 
 

@@ -10,7 +10,7 @@ published: 2007-09-07T20:28:36+02:00
  
 
 
-<figure class="object-left"><a href="/images/la-serie-v.jpg"><img src="/images/220x/la-serie-v.jpg" alt="La série V">
+<figure class="object-left"><a href="/images/la-serie-v.jpg"><img loading="lazy" src="/images/220x/la-serie-v.jpg" alt="La série V">
 </a></figure>
 
 

@@ -18,10 +18,10 @@ décembre 2013 mais je n'arrive pas à retrouver la photo...
 ## Coli Amazon du 28/12/2013 ouvert et abîmé pendant la livraison
 
 <figure class="object-center">
-    <a href="/images/coli-amazon-ouvert-par-la-poste_28122013.jpg"><img src="/images/660x/coli-amazon-ouvert-par-la-poste_28122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
+    <a href="/images/coli-amazon-ouvert-par-la-poste_28122013.jpg"><img loading="lazy" src="/images/660x/coli-amazon-ouvert-par-la-poste_28122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
 </figure>
 <figure class="object-center">
-    <a href="/images/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg"><img src="/images/660x/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg" alt="Contenu endommagé par l'ouverture du coli par La Poste"></a>
+    <a href="/images/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg"><img loading="lazy" src="/images/660x/contenu-coli-endommage-apres-ouverture-par-la-poste.jpg" alt="Contenu endommagé par l'ouverture du coli par La Poste"></a>
 </figure>
 
 * **Enseigne&nbsp;:** Amazon
@@ -46,7 +46,7 @@ Réponse #2 après un peu d'insistence:
 ## Coli Amazon du 13/12/2013 ouvert pendant la livraison
 
 <figure class="object-left">
-    <a href="/images/coli-amazon-ouvert-par-la-poste_13122013.jpg"><img src="/images/330x/coli-amazon-ouvert-par-la-poste_13122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
+    <a href="/images/coli-amazon-ouvert-par-la-poste_13122013.jpg"><img loading="lazy" src="/images/330x/coli-amazon-ouvert-par-la-poste_13122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
 </figure>
 
 * **Enseigne&nbsp;:** Amazon
@@ -62,7 +62,7 @@ Réponse #2 après un peu d'insistence:
 ## Coli Amazon du 12/12/2013 ouvert pendant la livraison
 
 <figure class="object-left">
-    <a href="/images/coli-amazon-ouvert-par-la-poste_12122013.jpg"><img src="/images/330x/coli-amazon-ouvert-par-la-poste_12122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
+    <a href="/images/coli-amazon-ouvert-par-la-poste_12122013.jpg"><img loading="lazy" src="/images/330x/coli-amazon-ouvert-par-la-poste_12122013.jpg" alt="Coli Amazon ouvert par La Poste"></a>
 </figure>
 
 * **Enseigne&nbsp;:** Amazon
@@ -83,7 +83,7 @@ constat](https://twitter.com/GroupeLaPoste/status/411171334396583936)...
 ## Coli Zalando éventré
 
 <figure class="object-left">
-    <a href="/images/coli-zalando-eventre-la-poste.jpg"><img src="/images/330x/coli-zalando-eventre-la-poste.jpg" alt="Coli Zalando éventré par La Poste"></a>
+    <a href="/images/coli-zalando-eventre-la-poste.jpg"><img loading="lazy" src="/images/330x/coli-zalando-eventre-la-poste.jpg" alt="Coli Zalando éventré par La Poste"></a>
 </figure>
 
 * **Enseigne&nbsp;:** Zalando

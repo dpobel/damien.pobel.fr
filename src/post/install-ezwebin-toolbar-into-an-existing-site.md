@@ -78,9 +78,9 @@ enough to be included without major layout problem.
 These steps bring an easy to use interface to manage your content. You probably
 need to adjust your stylesheet(s) to have a nice edit form.
 
-<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/ezwebin-toolbar.png"><img src="/images/330x/ezwebin-toolbar.png" alt="eZWebin Toolbar">
+<table class="table-centre"><tr><td><figure class="object-center"><a href="/images/ezwebin-toolbar.png"><img loading="lazy" src="/images/330x/ezwebin-toolbar.png" alt="eZWebin Toolbar">
 </a></figure></td>
-<td><figure class="object-center"><a href="/images/front-end-interface.png"><img src="/images/330x/front-end-interface.png" alt="Front end interface">
+<td><figure class="object-center"><a href="/images/front-end-interface.png"><img loading="lazy" src="/images/330x/front-end-interface.png" alt="Front end interface">
 </a></figure></td>
 </tr>
 </table>

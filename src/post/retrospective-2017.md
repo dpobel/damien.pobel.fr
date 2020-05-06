@@ -83,7 +83,7 @@ qui se tourne…
 ## Et en 2018&nbsp;?
 
 <figure class="object-left bordered">
-    <a href="/images/new-year-resolutions.jpg"><img src="/images/330x/new-year-resolutions.jpg" alt=""></a>
+    <a href="/images/new-year-resolutions.jpg"><img loading="lazy" src="/images/330x/new-year-resolutions.jpg" alt=""></a>
 </figure>
 
 2018 va donc commencer avec un nouveau travail chez [IWD](https://iwd.io)&nbsp;!

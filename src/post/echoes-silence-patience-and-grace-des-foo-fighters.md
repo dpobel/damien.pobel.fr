@@ -7,7 +7,7 @@ remoteId: "5fbfda8ce29c80b6d1361e8932e06643"
 published: 2007-10-13T15:29:17+02:00
 updated: 2016-02-10 23:22
 ---
-<figure class="object-left"><a href="/images/jacquette-de-echoes-silence-patience-and-grace.jpg"><img src="/images/330x/jacquette-de-echoes-silence-patience-and-grace.jpg" alt="Jacquette de Echoes, Silence, Patience and Grace">
+<figure class="object-left"><a href="/images/jacquette-de-echoes-silence-patience-and-grace.jpg"><img loading="lazy" src="/images/330x/jacquette-de-echoes-silence-patience-and-grace.jpg" alt="Jacquette de Echoes, Silence, Patience and Grace">
 </a></figure>
 
 J'ai acheté en début de semaine [Echoes, Silence, Patience and

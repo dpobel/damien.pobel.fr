@@ -10,7 +10,7 @@ published: 2007-06-24T23:09:15+02:00
  
 
 
-<figure class="object-center"><a href="/images/autruche.jpg"><img src="/images/660x/autruche.jpg" alt="Autruche">
+<figure class="object-center"><a href="/images/autruche.jpg"><img loading="lazy" src="/images/660x/autruche.jpg" alt="Autruche">
 </a></figure>
 
 

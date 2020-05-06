@@ -25,7 +25,7 @@ technique dans du code lié à la facturation et comment nous avons **corrigé u
 bug coûtant 1 million de dollars par an**.
 
 <figure class="object-center bordered">
-    <a href="/images/tetris-beginning.png"><img src="/images/660x/tetris-beginning.png" alt="Début d'une partie de Tétris"></a>
+    <a href="/images/tetris-beginning.png"><img loading="lazy" src="/images/660x/tetris-beginning.png" alt="Début d'une partie de Tétris"></a>
     <figcaption>
     Les tâches sont plus faciles au départ quand la complexité est basse
     </figcaption>
@@ -37,7 +37,7 @@ seront développées et livrées aux clients. **Terminer une ligne à Tetris est
 comme livrer une fonctionnalité**.
 
 <figure class="object-center bordered">
-    <a href="/images/tetris-complex.png"><img src="/images/660x/tetris-complex.png" alt="Partie de Tetris où plusieurs lignes sont sur le point de disparaître"></a>
+    <a href="/images/tetris-complex.png"><img loading="lazy" src="/images/660x/tetris-complex.png" alt="Partie de Tetris où plusieurs lignes sont sur le point de disparaître"></a>
     <figcaption>
     Les fonctionnalités complexes sont faciles à obtenir avec une dette
     technique réduite
@@ -54,7 +54,7 @@ implique un effort supplémentaire pour soit migrer les clients existants soit
 être capable de gérer à la fois la "nouvelle" et "l'ancienne" logique.
 
 <figure class="object-center bordered">
-    <a href="/images/tetris-small-technical-debt.png"><img src="/images/660x/tetris-small-technical-debt.png" alt="Une partie de Tetris avec quelques trous"></a>
+    <a href="/images/tetris-small-technical-debt.png"><img loading="lazy" src="/images/660x/tetris-small-technical-debt.png" alt="Une partie de Tetris avec quelques trous"></a>
     <figcaption>
     Une petite quantité de dette technique est normale et gérable
     </figcaption>
@@ -68,7 +68,7 @@ Tout code possède de la dette technique. C'est parfaitement normal. Vous pouvez
 continuer à jouer à Tetris même avec quelques trous.
 
 <figure class="object-center bordered">
-    <a href="/images/tetris-burried-technical-debt.png"><img src="/images/660x/tetris-burried-technical-debt.png" alt="Une partie de Tetris avec beaucoup de trous"></a>
+    <a href="/images/tetris-burried-technical-debt.png"><img loading="lazy" src="/images/660x/tetris-burried-technical-debt.png" alt="Une partie de Tetris avec beaucoup de trous"></a>
     <figcaption>
     Submergé par la dette technique
     </figcaption>
@@ -83,7 +83,7 @@ technique_, il y a _dette_, à un moment ou un autre, elle devra être rembours�
 **Payer la dette technique permet de rester compétitif et concurrentiel**
 
 <figure class="object-center bordered">
-    <a href="/images/tetris-game-over.png"><img src="/images/660x/tetris-game-over.png" alt="Une partie de Tetris perdue"></a>
+    <a href="/images/tetris-game-over.png"><img loading="lazy" src="/images/660x/tetris-game-over.png" alt="Une partie de Tetris perdue"></a>
     <figcaption>
     Fin de la partie
     </figcaption>
@@ -139,7 +139,7 @@ Même si cette histoire est totalement vraie, rembourser la dette technique n'a
 pas toujours un effet aussi considérable.
 
 <figure class="object-center bordered">
-    <a href="/images/tetris-balanced-technical-debt.png"><img src="/images/660x/tetris-balanced-technical-debt.png" alt="Une partie de Tetris avec quelques trous"></a>
+    <a href="/images/tetris-balanced-technical-debt.png"><img loading="lazy" src="/images/660x/tetris-balanced-technical-debt.png" alt="Une partie de Tetris avec quelques trous"></a>
     <figcaption>
     Trouver le bon niveau de dette technique
     </figcaption>

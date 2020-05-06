@@ -10,7 +10,7 @@ updated: 2016-02-12 13:10
 
 
 
-<figure class="object-left"><a href="/images/logo-semaine-du-developpement-durable.png"><img src="/images//logo-semaine-du-developpement-durable.png" alt="Logo Semaine du Développement durable">
+<figure class="object-left"><a href="/images/logo-semaine-du-developpement-durable.png"><img loading="lazy" src="/images//logo-semaine-du-developpement-durable.png" alt="Logo Semaine du Développement durable">
 </a></figure>
 
 

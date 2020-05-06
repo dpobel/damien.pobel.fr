@@ -26,7 +26,7 @@ connues.
 
 ## Maxitoys
 
-<img src="/images/aspirateur-smoby-sexiste.png" alt="Aspirateur Smoby sexiste">
+<img loading="lazy" src="/images/aspirateur-smoby-sexiste.png" alt="Aspirateur Smoby sexiste">
 
 
 [Katia a repéré](https://twitter.com/ZeCherryBlossom/status/399645088336211968)

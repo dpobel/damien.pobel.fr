@@ -10,7 +10,7 @@ published: 2006-09-28T00:40:00+02:00
  
 
 
-<figure class="object-center"><a href="/images/oueee.png"><img src="/images//oueee.png" alt="Ouééé !">
+<figure class="object-center"><a href="/images/oueee.png"><img loading="lazy" src="/images//oueee.png" alt="Ouééé !">
 </a></figure>
 
 

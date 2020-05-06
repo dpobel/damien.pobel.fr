@@ -5,7 +5,7 @@ published: 2013-09-15T16:43:41+02:00
 ---
 
 <figure class="object-center">
-    <a href="/images/frog-dombes.jpg"><img src="/images/660x/frog-dombes.jpg" alt="Grenouille de la Dombes"></a>
+    <a href="/images/frog-dombes.jpg"><img loading="lazy" src="/images/660x/frog-dombes.jpg" alt="Grenouille de la Dombes"></a>
     <figcaption>
     Grenouille de la Dombes
     (<a href="http://www.flickr.com/photos/tigr0u/9759651795/">Flickr</a>)

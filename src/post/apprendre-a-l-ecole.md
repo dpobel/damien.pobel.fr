@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-center">
-    <img src="/images/660x/school-is-out-forever.jpg" alt="Salle de classe en ruine avec
+    <img loading="lazy" src="/images/660x/school-is-out-forever.jpg" alt="Salle de classe en ruine avec
     au tableau un graphiti 'School's out Forever'">
     <figcaption>
     <a href="https://www.flickr.com/photos/rockandrollfreak/16773279381/in/photostream/">Detroit Abandoned School</a>

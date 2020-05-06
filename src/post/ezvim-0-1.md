@@ -52,7 +52,7 @@ Les éléments à complèter par le développeur sont remplacés par la chaîne 
 
 
 
-<figure class="object-center"><a href="/images/abbreviation-ezfcls.png"><img src="/images//abbreviation-ezfcls.png" alt="Abbréviation ezfcls">
+<figure class="object-center"><a href="/images/abbreviation-ezfcls.png"><img loading="lazy" src="/images//abbreviation-ezfcls.png" alt="Abbréviation ezfcls">
 </a></figure>
 
 

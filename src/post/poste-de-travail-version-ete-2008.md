@@ -7,7 +7,7 @@ node: "66912"
 remoteId: "b7d0da1894d1af24125badacc1584cdb"
 published: 2008-07-01T22:43:04+02:00
 ---
-<figure class="object-center"><a href="/images/poste-de-travail-ete-2008.jpg"><img src="/images/660x/poste-de-travail-ete-2008.jpg" alt="Poste de travail été 2008">
+<figure class="object-center"><a href="/images/poste-de-travail-ete-2008.jpg"><img loading="lazy" src="/images/660x/poste-de-travail-ete-2008.jpg" alt="Poste de travail été 2008">
 </a></figure>
 
 

@@ -7,7 +7,7 @@ remoteId: "2b2f8a80b3fcd90b5074c6a614c0bf22"
 published: 2007-01-20T00:06:32+01:00
 updated: 2016-02-08 22:38
 ---
- <figure class="object-left"><img src="/images//5-minutes-de-repit-pour-la-planete.png" alt="5 minutes de répit pour la planète">
+ <figure class="object-left"><img loading="lazy" src="/images//5-minutes-de-repit-pour-la-planete.png" alt="5 minutes de répit pour la planète">
 </figure>
 
 

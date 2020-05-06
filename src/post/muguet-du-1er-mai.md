@@ -10,7 +10,7 @@ published: 2007-05-01T12:52:12+02:00
  
 
 
-<figure class="object-center"><a href="/images/muguet.jpg"><img src="/images/660x/muguet.jpg" alt="Muguet">
+<figure class="object-center"><a href="/images/muguet.jpg"><img loading="lazy" src="/images/660x/muguet.jpg" alt="Muguet">
 </a></figure>
 
 

@@ -8,7 +8,7 @@ photos:
 ---
 
 <figure class="object-left bordered">
-    <a href="/images/couverture-la-permaculture-au-jardin-mois-par-mois.jpg"><img src="/images/220x/couverture-la-permaculture-au-jardin-mois-par-mois.jpg" alt="Couverture du livre La permaculture au jardin mois par mois"></a>
+    <a href="/images/couverture-la-permaculture-au-jardin-mois-par-mois.jpg"><img loading="lazy" src="/images/220x/couverture-la-permaculture-au-jardin-mois-par-mois.jpg" alt="Couverture du livre La permaculture au jardin mois par mois"></a>
 </figure>
 
 <q cite="https://www.youtube.com/user/permacultureetc">Salut salut&nbsp;!</q>

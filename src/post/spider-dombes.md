@@ -5,7 +5,7 @@ published: 2014-08-31T22:42:26+02:00
 ---
 
 <figure class="object-center">
-    <a href="/images/spider-dombes.jpg"><img src="/images/660x/spider-dombes.jpg" alt="Araignée de la Dombes"></a>
+    <a href="/images/spider-dombes.jpg"><img loading="lazy" src="/images/660x/spider-dombes.jpg" alt="Araignée de la Dombes"></a>
     <figcaption>
     Araignée de la Dombes
     (<a href="https://www.flickr.com/photos/tigr0u/14911083029/">Flickr</a>)
