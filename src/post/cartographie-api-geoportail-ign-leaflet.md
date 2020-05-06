@@ -12,7 +12,7 @@ photos:
     <img src="/images/660x/leaflet-ign-geoportail.jpg" alt="Carte de la descente de
 Rosy">
     <figcaption>Carte de <a href="http://vtt.revermont.bike/single-tracks/descente-de-rosy/">la Descente de Rosy</a>,
-    un <a href="http://vtt.revermont.bike/single-tracks/) vraiment sympa :">single du Revermont</a></figcaption>
+    un <a href="http://vtt.revermont.bike/single-tracks/">single du Revermont</a> vraiment sympa :)</figcaption>
 </figure>
 
 Comme je le mentionnais dans [mon dernier billet](/post/vtt-revermont), les
