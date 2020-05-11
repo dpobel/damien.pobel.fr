@@ -2591,10 +2591,10 @@ metalsmith-collections@segmentio/metalsmith-collections.git#v1.0.0:
     read-metadata "^1.0.0"
     uniq "^1.0.1"
 
-metalsmith-define@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/metalsmith-define/-/metalsmith-define-2.1.2.tgz#93a19bd8c2eafd7f7ce51d20c69b788364408b68"
-  integrity sha512-Q0uI/ROrbZh3mkZXl649lPHymW1222C4egTU5owKPMitIB6iH637J9B1VhH+Dkx+g9R4UxqTYzQaAdpiSQeGUQ==
+metalsmith-define@^2.1.3:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/metalsmith-define/-/metalsmith-define-2.1.3.tgz#13f6fb0d30e381c0ad2e3a2f4085bffd6f60dbe7"
+  integrity sha512-/u+ftoxc/5nFAkFXnABWiZ/pHAxErje1UpIACF7q8G6Aw4dfxOxx5LdClRBhSwTvZQd1Y5VEV2su9107PlusLw==
 
 metalsmith-feed@^1.0.0:
   version "1.0.0"
