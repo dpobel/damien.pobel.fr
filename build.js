@@ -67,7 +67,6 @@ if ( assetsRev ) {
 }
 
 conf.feed.preprocess = require('./lib/metalsmith/feed-postcustomelements.js');
-conf['feed-no-veille'].preprocess = conf.feed.preprocess;
 conf.tagLangFeed.preprocess = conf.feed.preprocess;
 
 const filterOutVeilleFn = require('./lib/metalsmith/filter-collection.js').excludeWithMetadataFn('weeklyTech');
@@ -101,7 +100,6 @@ pluginsConfList = [
     {plugin: collectPhotos, conf: conf.collectPhotos, name: 'collectPhotos', indev: true},
     {plugin: permalinks, conf: conf.permalinks, name: 'permalinks', indev: true},
     {plugin: feed, conf: conf.feed, name: 'feed', indev: true},
-    {plugin: feed, conf: conf['feed-no-veille'], name: 'feed-no-veille', indev: true},
     {plugin: tagLangFeed, conf: conf.tagLangFeed, name: 'tagLangFeed', indev: true},
     {plugin: styleRenamePlugin, conf: conf.styleRenamePlugin, name: 'styleRenamePlugin', indev: true},
     {plugin: layouts, conf: {directory: "templates", engineOptions: {filters: require('./lib/nunjucks/filters')}}, name: 'layouts', indev: true},
