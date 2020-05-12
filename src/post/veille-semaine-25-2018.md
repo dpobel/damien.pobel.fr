@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #25 de 2018"
+weeklyTech: true
 tags: veille, html, performances, web, métier, javascript, vim, kanban, code, bonnes pratiques, php, symfony, frontend
 lang: fr
 published: 2018-06-21T10:12:20Z

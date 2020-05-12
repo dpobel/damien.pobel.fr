@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #8 de 2019"
+weeklyTech: true
 tags: veille, humeur, métier, standard, web components, bonnes pratiques, code, php, web, pwa, pattern, unix, ux
 lang: fr
 published: 2019-02-21T11:12:19Z

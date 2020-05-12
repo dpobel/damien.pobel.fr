@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #3 de 2018"
+weeklyTech: true
 tags: veille, composer, php, architecture, microservice, cqrs, javascript, performances, react, redux, dns
 lang: fr
 published: 2018-01-18T11:12:10Z

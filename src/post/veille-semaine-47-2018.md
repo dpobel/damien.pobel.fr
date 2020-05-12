@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #47 de 2018"
+weeklyTech: true
 tags: veille, métier, web components, javascript, standard, css, http, performances, bonnes pratiques, code, unix
 lang: fr
 published: 2018-11-22T11:12:15Z

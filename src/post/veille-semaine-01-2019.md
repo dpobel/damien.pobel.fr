@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #1 de 2019"
+weeklyTech: true
 tags: veille, bonnes pratiques, environnement, performances, pwa, css, video, accessibilité, code, domain driven design
 lang: fr
 published: 2019-01-03T11:12:17Z

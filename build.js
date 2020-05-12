@@ -70,7 +70,7 @@ conf.feed.preprocess = require('./lib/metalsmith/feed-postcustomelements.js');
 conf['feed-no-veille'].preprocess = conf.feed.preprocess;
 conf.tagLangFeed.preprocess = conf.feed.preprocess;
 
-const filterOutVeilleFn = require('./lib/metalsmith/filter-collection.js').excludeWithTagFn('veille');
+const filterOutVeilleFn = require('./lib/metalsmith/filter-collection.js').excludeWithMetadataFn('weeklyTech');
 
 conf.collections.lastPosts.filterBy = filterOutVeilleFn;
 conf.collections.blog.filterBy = filterOutVeilleFn;

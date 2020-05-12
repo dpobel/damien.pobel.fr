@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #8 de 2018"
+weeklyTech: true
 tags: veille, php, android, vie privée, unit test, javascript, performances, web components, webpack, symfony, serverless
 lang: fr
 published: 2018-02-22T11:16:28Z

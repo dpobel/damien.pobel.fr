@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #30 de 2018"
+weeklyTech: true
 tags: veille, javascript, react, redux, chrome, standard, web, performances, pwa, git, mysql, http, php
 lang: fr
 published: 2018-07-26T10:12:15Z

@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #5 de 2018"
+weeklyTech: true
 tags: veille, html, javascript, react, rest, chrome, puppeteer, sécurité, pwa
 lang: fr
 published: 2018-02-01T11:28:17Z

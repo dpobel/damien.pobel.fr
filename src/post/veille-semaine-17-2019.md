@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #17 de 2019"
+weeklyTech: true
 tags: veille, code, métier, php, performances, unit test
 lang: fr
 published: 2019-04-25T10:12:18Z

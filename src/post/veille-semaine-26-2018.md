@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #26 de 2018"
+weeklyTech: true
 tags: veille, métier, vidéo, bonnes pratiques, code, javascript, react, css, mobile, navigateur, standard, sécurité, web
 lang: fr
 published: 2018-06-28T10:12:13Z

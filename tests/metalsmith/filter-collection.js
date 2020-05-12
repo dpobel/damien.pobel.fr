@@ -3,26 +3,24 @@ const filterCollection = require('../../lib/metalsmith/filter-collection.js');
 const assert = require('assert');
 
 describe('filter collection functions', function () {
-    const tag1 = {name: 'tag1'};
-    const tag2 = {name: 'tag2'};
-    const post = {};
+    const propIdentifier = 'metaPropIdentifier';
 
-    beforeEach(function () {
-        post.tags = [];
+    it('should exclude post with the given meta set to true', function () {
+        const excludeMeta = filterCollection.excludeWithMetadataFn(propIdentifier);
+
+        assert(!excludeMeta({[propIdentifier]: true}));
     });
 
-    it('should exclude post with the given tag', function () {
-        const excludeTag2 = filterCollection.excludeWithTagFn(tag2.name);
+    it('should keep post without the given meta', function () {
+        const excludeMeta = filterCollection.excludeWithMetadataFn(propIdentifier);
 
-        post.tags.push(tag1);
-        post.tags.push(tag2);
-        assert(!excludeTag2(post));
+        assert(excludeMeta({}));
     });
 
-    it('should keep post without the given tag', function () {
-        const excludeTag2 = filterCollection.excludeWithTagFn(tag2.name);
+    it('should keep post with the given meta set to false', function () {
+        const excludeMeta = filterCollection.excludeWithMetadataFn(propIdentifier);
 
-        post.tags.push(tag1);
-        assert(excludeTag2(post));
+        assert(excludeMeta({[propIdentifier]: false}));
     });
+
 });

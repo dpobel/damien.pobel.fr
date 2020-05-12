@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #27 de 2018"
+weeklyTech: true
 tags: veille, code, php, node.js, css, web, http, performances, bonnes pratiques, react, tdd, unit test, github
 lang: fr
 published: 2018-07-05T10:12:18Z

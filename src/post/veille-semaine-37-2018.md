@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #37 de 2018"
+weeklyTech: true
 tags: veille, bonnes pratiques, code, html5, mobile, ux, accessibilité, css, github, web components, cookie, http, javascript, chrome, performances, truc, html, domain driven design
 lang: fr
 published: 2018-09-13T10:12:14Z

@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #4 de 2019"
+weeklyTech: true
 tags: veille, css, unit test, html, ux, architecture, métier, code
 lang: fr
 published: 2019-01-24T11:12:18Z

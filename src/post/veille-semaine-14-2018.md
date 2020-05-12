@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #14 de 2018"
+weeklyTech: true
 tags: veille, css, chrome, firefox, bonnes pratiques, dependency injection, php, solid, javascript, node.js, npm, react, redux
 lang: fr
 published: 2018-04-05T10:12:13Z

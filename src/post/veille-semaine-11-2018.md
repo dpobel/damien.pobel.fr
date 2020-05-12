@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #11 de 2018"
+weeklyTech: true
 tags: veille, make, shell, unix, humour, bonnes pratiques, git, github, unit test, php, bug
 lang: fr
 published: 2018-03-15T11:12:12Z

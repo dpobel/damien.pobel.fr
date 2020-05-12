@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #18 de 2018"
+weeklyTech: true
 tags: veille, métier, performances, responsive design, bonnes pratiques, php, javascript, linux, outil, react, css, environnement, vidéo
 lang: fr
 published: 2018-05-03T10:12:13Z

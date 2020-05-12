@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #12 de 2019"
+weeklyTech: true
 tags: veille, react, accessibilité, javascript, css, standard, code, git, humour, low tech, agile, behaviour driven development, bonnes pratiques
 lang: fr
 published: 2019-03-21T11:12:17Z

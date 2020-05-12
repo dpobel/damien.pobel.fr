@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #15 de 2018"
+weeklyTech: true
 tags: veille, bonnes pratiques, code, javascript, outil, php, histoire, informatique, métier, symfony, dependency injection, node.js, domain driven design, java, sécurité, react
 lang: fr
 published: 2018-04-12T10:12:12Z

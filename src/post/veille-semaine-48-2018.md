@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #48 de 2018"
+weeklyTech: true
 tags: veille, bonnes pratiques, code, php, standard, symfony, web, métier, qualité, html, javascript, node.js, npm, sécurité, performances, mobile
 lang: fr
 published: 2018-11-29T11:12:14Z

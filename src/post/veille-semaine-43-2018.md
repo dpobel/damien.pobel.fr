@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #43 de 2018"
+weeklyTech: true
 tags: veille, ux, css, performances, html, javascript, standard, web components, firefox, jamstack, progressive enhancement, humour, agile, métier
 lang: fr
 published: 2018-10-25T11:59:56Z

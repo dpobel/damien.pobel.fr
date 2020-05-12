@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #12 de 2018"
+weeklyTech: true
 tags: veille, php, agile, performances, javascript, bonnes pratiques, dependency injection, architecture
 lang: fr
 published: 2018-03-22T11:12:12Z

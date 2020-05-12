@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #50 de 2018"
+weeklyTech: true
 tags: veille, code, unit test, accessibilité, pwa, métier, bonnes pratiques
 lang: fr
 published: 2018-12-13T11:12:14Z

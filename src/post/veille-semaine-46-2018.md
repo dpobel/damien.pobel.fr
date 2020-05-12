@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #46 de 2018"
+weeklyTech: true
 tags: veille, métier, css, performances, http, standard, accessibilité, javascript, react, web
 lang: fr
 published: 2018-11-15T11:12:15Z

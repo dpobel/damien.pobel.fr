@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #13 de 2018"
+weeklyTech: true
 tags: veille, bonnes pratiques, code, métier, csp, sécurité, php, symfony, javascript, firefox, humour, performances
 lang: fr
 published: 2018-03-29T10:12:12Z

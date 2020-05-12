@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #36 de 2018"
+weeklyTech: true
 tags: veille, agile, travail, humour, histoire, vim, api, http, rest, bonnes pratiques, code, php, performances, sécurité
 lang: fr
 published: 2018-09-06T10:20:57Z

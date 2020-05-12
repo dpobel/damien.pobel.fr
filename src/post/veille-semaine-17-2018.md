@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #17 de 2018"
+weeklyTech: true
 tags: veille, javascript, react, unit test, agile, métier, npm, sécurité, css, performances, standard, web components, bonnes pratiques, accessibilité, sexisme, mobile, pwa, humour, php
 lang: fr
 published: 2018-04-26T10:12:14Z

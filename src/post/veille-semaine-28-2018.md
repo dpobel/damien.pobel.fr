@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #28 de 2018"
+weeklyTech: true
 tags: veille, html, standard, web components, architecture, accessibilité, bonnes pratiques, code, métier, shell, unix, javascript
 lang: fr
 published: 2018-07-12T10:49:01Z

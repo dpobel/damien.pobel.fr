@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #23 de 2018"
+weeklyTech: true
 tags: veille, php, github, microsoft, agile, métier, framework, javascript, unit test, pwa, npm, bonnes pratiques, code
 lang: fr
 published: 2018-06-07T10:12:13Z

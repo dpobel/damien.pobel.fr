@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #11 de 2019"
+weeklyTech: true
 tags: veille, code, métier, conférence, retour d'expérience, react, unit test, shell, unix, standard, web components
 lang: fr
 published: 2019-03-14T11:12:16Z

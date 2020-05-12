@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #14 de 2019"
+weeklyTech: true
 tags: veille, php, unit test, javascript, http, standard, métier, bonnes pratiques, code
 lang: fr
 published: 2019-04-04T10:12:16Z

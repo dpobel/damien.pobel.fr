@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #24 de 2018"
+weeklyTech: true
 tags: veille, code, php, humour, performances, métier, api, web, css, standard, domain driven design, ux, javascript, vuejs, web components
 lang: fr
 published: 2018-06-14T10:12:14Z

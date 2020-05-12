@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #51 de 2018"
+weeklyTech: true
 tags: veille, javascript, ux, code, domain driven design, métier, bonnes pratiques, php, tdd
 lang: fr
 published: 2018-12-20T11:12:16Z
