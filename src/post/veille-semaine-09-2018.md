@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #9 de 2018"
+weeklyTech: true
 tags: veille, javascript, react, redux, unit test, css, sécurité, php, agile, kanban, neovim, vim
 lang: fr
 published: 2018-03-01T12:57:35Z

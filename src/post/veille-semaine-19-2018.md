@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #19 de 2018"
+weeklyTech: true
 tags: veille, linux, php, métier, accessibilité, javascript, react, code, git, polymer, pwa, web components, symfony, conférence, vidéo, web, bonnes pratiques, rest
 lang: fr
 published: 2018-05-10T10:12:12Z

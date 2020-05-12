@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #10 de 2019"
+weeklyTech: true
 tags: veille, code, javascript, laravel, php, dom, métier, http, performances, react
 lang: fr
 published: 2019-03-07T11:12:16Z

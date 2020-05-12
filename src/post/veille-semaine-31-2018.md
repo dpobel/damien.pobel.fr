@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #31 de 2018"
+weeklyTech: true
 tags: veille, javascript, performances, ux, standard, bonnes pratiques, chrome, firefox, truc, web, code, php
 lang: fr
 published: 2018-08-02T10:12:15Z

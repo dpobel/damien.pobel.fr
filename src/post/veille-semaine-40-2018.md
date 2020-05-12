@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #40 de 2018"
+weeklyTech: true
 tags: veille, bonnes pratiques, code, métier, histoire, performances, react
 lang: fr
 published: 2018-10-04T10:12:15Z

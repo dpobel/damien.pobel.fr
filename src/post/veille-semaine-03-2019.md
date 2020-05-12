@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #3 de 2019"
+weeklyTech: true
 tags: veille, environnement, performances, php, unit test, code, google, métier, bonnes pratiques, css, accessibilité, ux
 lang: fr
 published: 2019-01-17T11:12:16Z

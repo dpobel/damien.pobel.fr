@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #22 de 2018"
+weeklyTech: true
 tags: veille, architecture, code, métier, accessibilité, html, javascript, npm, agile, vie privée, android, dégooglisation, google
 lang: fr
 published: 2018-05-31T10:12:13Z

@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #6 de 2019"
+weeklyTech: true
 tags: veille, accessibilité, html, standard, code, métier, php, javascript, api, pwa, git
 lang: fr
 published: 2019-02-07T11:12:16Z

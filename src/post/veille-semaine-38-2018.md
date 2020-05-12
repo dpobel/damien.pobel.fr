@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #38 de 2018"
+weeklyTech: true
 tags: veille, bonnes pratiques, code, mysql, performances, javascript, react, redux, accessibilité, css, html, agile, métier, travail
 lang: fr
 published: 2018-09-20T10:12:14Z

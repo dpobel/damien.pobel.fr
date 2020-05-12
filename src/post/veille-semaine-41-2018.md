@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #41 de 2018"
+weeklyTech: true
 tags: veille, cache, http, rest, standard, web components, bonnes pratiques, cli, shell, sécurité, accessibilité, html, javascript
 lang: fr
 published: 2018-10-11T10:12:15Z

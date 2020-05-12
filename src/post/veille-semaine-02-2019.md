@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #2 de 2019"
+weeklyTech: true
 tags: veille, javascript, pwa, standard, cpu, performances, php, bonnes pratiques, code, react, git, métier
 lang: fr
 published: 2019-01-10T11:12:15Z

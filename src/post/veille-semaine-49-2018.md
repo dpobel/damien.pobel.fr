@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #49 de 2018"
+weeklyTech: true
 tags: veille, edge, standard, web, vim, agile, bonnes pratiques, métier, environnement, accessibilité, html, desktop, flutter, mobile, mysql, shell, git, sécurité
 lang: fr
 published: 2018-12-06T11:12:16Z

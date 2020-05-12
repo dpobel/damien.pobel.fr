@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #32 de 2018"
+weeklyTech: true
 tags: veille, humour, javascript, react, bonnes pratiques, code, accessibilité, css, http, sécurité, rest, pwa, web
 lang: fr
 published: 2018-08-09T10:12:14Z

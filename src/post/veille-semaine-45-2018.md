@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #45 de 2018"
+weeklyTech: true
 tags: veille, react, standard, web components, php, sécurité, ux, javascript, performances, conférence, bonnes pratiques, code
 lang: fr
 published: 2018-11-08T11:14:57Z

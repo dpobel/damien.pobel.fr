@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #52 de 2018"
+weeklyTech: true
 tags: veille, javascript, code, bonnes pratiques, métier, unit test, html5, standard, html
 lang: fr
 published: 2018-12-27T11:14:41Z

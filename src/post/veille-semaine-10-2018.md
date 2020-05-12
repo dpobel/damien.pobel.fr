@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #10 de 2018"
+weeklyTech: true
 tags: veille, php, unit test, sécurité, vie privée, css, humour, rest, pwa, bonnes pratiques, linux, shell, performances, sourceforge, hébergement, mail, spam, unix
 lang: fr
 published: 2018-03-08T11:12:12Z

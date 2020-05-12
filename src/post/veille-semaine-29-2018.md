@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #29 de 2018"
+weeklyTech: true
 tags: veille, php, accessibilité, performances, puppeteer, pwa, bonnes pratiques, code, react, métier, domain driven design
 lang: fr
 published: 2018-07-19T11:22:38Z

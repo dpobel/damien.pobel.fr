@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #15 de 2019"
+weeklyTech: true
 tags: veille, code, javascript, pwa, standard, php, performances, microsoft, navigateur, bash, vim
 lang: fr
 published: 2019-04-11T10:12:17Z

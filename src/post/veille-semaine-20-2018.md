@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #20 de 2018"
+weeklyTech: true
 tags: veille, css, responsive design, http, performances, standard, humour, php, bonnes pratiques, javascript, react, formation, métier, unit test, ios, pwa
 lang: fr
 published: 2018-05-17T10:12:12Z

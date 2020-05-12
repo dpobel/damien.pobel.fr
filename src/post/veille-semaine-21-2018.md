@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #21 de 2018"
+weeklyTech: true
 tags: veille, agile, métier, css, javascript, web, php, pwa, react, symfony, performances, html, responsive design, http, sécurité, bonnes pratiques
 lang: fr
 published: 2018-05-24T10:12:18Z

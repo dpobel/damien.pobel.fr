@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #4 de 2018"
+weeklyTech: true
 tags: veille, javascript, react, php, sécurité, graphql, rest, rpc, polymer, web components
 lang: fr
 published: 2018-01-25T12:58:49Z

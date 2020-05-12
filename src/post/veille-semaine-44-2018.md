@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #44 de 2018"
+weeklyTech: true
 tags: veille, html, standard, sémantique, métier, javascript, web components, domain driven design, php, responsive design, ux, react
 lang: fr
 published: 2018-11-01T11:12:14Z

@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #42 de 2018"
+weeklyTech: true
 tags: veille, accessibilité, domain driven design, php, métier, bonnes pratiques, code, web, api, rest, standard, performances
 lang: fr
 published: 2018-10-18T10:12:15Z

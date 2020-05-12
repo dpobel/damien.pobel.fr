@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #6 de 2018"
+weeklyTech: true
 tags: veille, accessibilité, lecteur d'écran, microsoft, pwa, debian, linux, php, web, chrome, git, javascript, bonnes pratiques, sécurité, silex, webpack, react
 lang: fr
 published: 2018-02-08T11:25:09Z

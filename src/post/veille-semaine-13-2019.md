@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #13 de 2019"
+weeklyTech: true
 tags: veille, performances, bonnes pratiques, code, accessibilité, unit test, react, php
 lang: fr
 published: 2019-03-28T11:12:15Z

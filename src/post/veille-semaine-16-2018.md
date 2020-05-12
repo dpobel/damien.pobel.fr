@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #16 de 2018"
+weeklyTech: true
 tags: veille, css, javascript, web, unit test, code, métier, php, bonnes pratiques, sécurité, git, outil
 lang: fr
 published: 2018-04-19T10:12:14Z

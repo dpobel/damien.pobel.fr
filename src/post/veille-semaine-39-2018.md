@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #39 de 2018"
+weeklyTech: true
 tags: veille, javascript, unit test, métier, humour, bonnes pratiques, css, code, php, git, performances, web, low tech
 lang: fr
 published: 2018-09-27T10:12:14Z

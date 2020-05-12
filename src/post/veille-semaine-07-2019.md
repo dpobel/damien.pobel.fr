@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #7 de 2019"
+weeklyTech: true
 tags: veille, métier, javascript, humour, http, standard, ux, node.js, npm, react, responsive design, bonnes pratiques, html
 lang: fr
 published: 2019-02-14T11:12:22Z

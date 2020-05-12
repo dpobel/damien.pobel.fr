@@ -1,5 +1,6 @@
 ---
 title: "Veille de la semaine #16 de 2019"
+weeklyTech: true
 tags: veille, code, métier, accessibilité, css, html, standard, api, graphql, rest
 lang: fr
 published: 2019-04-18T10:12:17Z
