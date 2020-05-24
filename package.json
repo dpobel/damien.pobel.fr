@@ -31,7 +31,7 @@
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegoptim": "^6.0.0",
     "imagemin-optipng": "^7.1.0",
-    "imagemin-svgo": "^7.1.0",
+    "imagemin-svgo": "^8.0.0",
     "jstransformer-nunjucks": "^1.0.0",
     "metalsmith": "^2.3.0",
     "metalsmith-assets": "^0.1.0",
