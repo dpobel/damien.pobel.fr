@@ -2748,9 +2748,10 @@ metalsmith-renamer@^0.4.1:
   dependencies:
     minimatch "^3.0.0"
 
-metalsmith-tags@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/metalsmith-tags/-/metalsmith-tags-2.0.0.tgz#81a09877a703664c4155944dd946b7b8bfab0cfd"
+metalsmith-tags@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/metalsmith-tags/-/metalsmith-tags-2.1.0.tgz#f409d2c92a1a3d9646b5b92460411286cdb0e65b"
+  integrity sha512-o29LyxTnmlFy16mR+aB9psAupqjLTY48OdgY2S+rOuD3GuWft5YMtrktt5lgi9llyhEEeQXI4YjgcZ2MhhTFBQ==
   dependencies:
     slug "^0.9.1"
 
