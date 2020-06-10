@@ -1,6 +1,6 @@
 ---
 title: Lectures
-updated: 2019-08-27
+updated: 2020-06-10
 ---
 
 # Lectures
@@ -16,8 +16,8 @@ updated: 2019-08-27
 * [La guerre des métaux rares](http://www.editionslesliensquiliberent.fr/livre-La_guerre_des_m%C3%A9taux_rares-585-1-1-0-1.html) (Guillaume Pitron)
 * [Et si le vivant était anarchique - La génétique est-elle une gigantesque arnaque ?](http://www.editionslesliensquiliberent.fr/livre-Et_si_le_vivant_%C3%83%C2%A9tait_anarchique-9791020907936-1-1-0-1.html) (Jean-Jacques Kupiec)
 * [L'Assassin royal](https://fr.wikipedia.org/wiki/L%27Assassin_royal) (Robin Hobb)
-    * Tome 12 : L'Homme noir
-    * Tome 13 : Adieux et Retrouvailles
+    * Tome 12 : L'Homme noir
+    * Tome 13 : Adieux et Retrouvailles
 * [Le paradoxe de Fermi](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-SF/Le-paradoxe-de-Fermi) (Jean-Pierre Boudine)
 * [Le médias, le monde et nous](https://www.actes-sud.fr/catalogue/economie/les-medias-le-monde-et-nous) (Anne-Sophie Novel)
 
@@ -43,17 +43,17 @@ updated: 2019-08-27
 * [Cro-Magnon toi-même](http://www.seuil.com/ouvrage/cro-magnon-toi-meme-michel-raymond/9782757821503) (Michel Raymond)
 * [Le plus grand défi de l'histoire de l'humanité](http://www.michel-lafon.fr/livre/2255-Le_plus_grand_defi_de_l_histoire_de_l_humanite.html) (Aurélien Barrau)
 * [L'Assassin royal](https://fr.wikipedia.org/wiki/L%27Assassin_royal) (Robin Hobb)
-    * Tome 1 : L'apprenti assassin
-    * Tome 2 : L'Assassin du roi
-    * Tome 3 : La Nef du crépuscule
-    * Tome 4 : Le Poison de la vengeance
-    * Tome 5 : La Voie magique
-    * Tome 6 : La Reine solitaire
-    * Tome 7 : Le Prophète blanc
-    * Tome 8 : La Secte maudite
-    * Tome 9 : Les Secrets de Castelcerf
-    * Tome 10 : Serments et Deuils
-    * Tome 11 : Le Dragon des Glaces
+    * Tome 1 : L'apprenti assassin
+    * Tome 2 : L'Assassin du roi
+    * Tome 3 : La Nef du crépuscule
+    * Tome 4 : Le Poison de la vengeance
+    * Tome 5 : La Voie magique
+    * Tome 6 : La Reine solitaire
+    * Tome 7 : Le Prophète blanc
+    * Tome 8 : La Secte maudite
+    * Tome 9 : Les Secrets de Castelcerf
+    * Tome 10 : Serments et Deuils
+    * Tome 11 : Le Dragon des Glaces
 * [Le Double Assassinat de la rue Morgue, suivi de La Lettre volée](https://www.livredepoche.com/livre/le-double-assassinat-de-la-rue-morgue-suivi-de-la-lettre-volee-9782253082699) (Edgar Allan Poe / Charles Baudelaire)
 * [Leurre et malheur du transhumanisme](https://www.editionsddb.fr/livre/fiche/leurre-et-malheur-du-transhumanisme-9782220095516) (Olivier Rey)
 * [L'éloge de l'abeille](https://editions.flammarion.com/Catalogue/hors-collection/documents-temoignages-et-essais-d-actualite/eloge-de-labeille) (Christophe Gatineau)
