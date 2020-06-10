@@ -7,6 +7,10 @@ updated: 2019-08-27
 
 ## 2020
 
+* Le cycle des robots
+    * Tome 1 : [Les robots](https://www.jailu.com/Catalogue/science-fiction/le-cycle-des-robots-1-les-robots)
+* [Et le monde devint silencieux](https://www.seuil.com/ouvrage/et-le-monde-devint-silencieux-stephane-foucart/9782021427424) (Stéphane Foucart)
+* [Propaganda](https://www.editionsladecouverte.fr/catalogue/index-Propaganda-9782355220012.html) (Edward Bernays)
 * [Le Petit Prince](https://fr.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry) (Antoine de Saint-Exupéry)
 * [La Horde du Contrevent](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-SF/La-Horde-du-Contrevent3) (Alain Damasio)
 * [La guerre des métaux rares](http://www.editionslesliensquiliberent.fr/livre-La_guerre_des_m%C3%A9taux_rares-585-1-1-0-1.html) (Guillaume Pitron)
