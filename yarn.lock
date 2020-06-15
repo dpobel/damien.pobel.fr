@@ -2702,10 +2702,10 @@ metalsmith-feed@^1.0.0:
     extend "^3.0.0"
     rss "^1.2.2"
 
-metalsmith-filemetadata@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/metalsmith-filemetadata/-/metalsmith-filemetadata-2.0.0.tgz#7e60071f2e33c7e3c5701107c1bf89b53d267ec5"
-  integrity sha512-vxmR565K/dvuN4wBaT+w/MxGHT5P20ha/Yb6ObaaMJX9D2bqEDK6TRWmlzffHp1S5Olh8yXAycYa+uUXj0NFNw==
+metalsmith-filemetadata@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/metalsmith-filemetadata/-/metalsmith-filemetadata-2.1.0.tgz#a5f9cd9699bc7d13eaefc594d616688d3ef0ddf2"
+  integrity sha512-neobG4D80QXur8jya6MLNSpXjsz7KvPTycy6GZ5oFMuDrUNj1Ssnw0uERqRmmqn3MxnTwnZk3+7X0pB0jx/iiA==
   dependencies:
     minimatch "^3.0.0"
 
