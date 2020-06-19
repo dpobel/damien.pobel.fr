@@ -55,7 +55,7 @@
     "minimatch": "^3.0.4",
     "minimist": "^1.2.5",
     "mocha": "^8.0.1",
-    "moment": "^2.26.0",
+    "moment": "^2.27.0",
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.1",
     "open": "^7.0.4",
