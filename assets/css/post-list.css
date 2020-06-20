@@ -37,3 +37,9 @@
 .post-list .post-info {
     flex: 1;
 }
+
+@media (max-width: 550px) {
+    .post-list article {
+        display: block;
+    }
+}
