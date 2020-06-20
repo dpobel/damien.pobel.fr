@@ -8,8 +8,8 @@ Je suis aussi un peu partout sur les Internets notamment&nbsp;:
 
 * [@dpobel](https://twitter.com/dpobel) pour divaguer, râler, me plaindre,
   geindre et parfois partager des trucs potentiellement intéressants.
-* [dpobel sur Github](https://github.com/dpobel/) pour écrire un peu de code
-* [dpobel on instagram](https://www.instagram.com/dpobel/) parce que c'est fun
+* [dpobel sur Github](https://github.com/dpobel/) pour écrire un peu de code.
+* [dpobel on instagram](https://www.instagram.com/dpobel/) parce que c'est fun.
 * [dpobel on Linkedin](http://fr.linkedin.com/in/dpobel) pour recevoir des
   nouvelles de gens que je n'ai jamais rencontrés ou que je ne connais pas ou
   dont je ne me souviens pas ;-)

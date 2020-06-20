@@ -46,6 +46,14 @@ ol ul, ul ol, ol ol {
     margin: 0;
 }
 
+hr {
+    width: 80%;
+    border: 0;
+    height: 2px;
+    background: #ddd;
+    margin: 2em auto;
+}
+
 .page-content {
     background: #fff;
     max-width: var(--max-width);

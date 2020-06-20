@@ -1,15 +1,17 @@
 <article lang="{{ post.lang|default('fr', true) }}">
-    <h2><a href="{{ post.path|url }}">{{ post.title }}</a></h2>
     {% if post.photos %}
-        {% for photo in post.photos %}
-            <a href="{{ post.path|url }}"><img src="/{{ photo|image_variation('200x') }}" alt="Miniature de {{ post.title }}" loading="lazy"></a>
-        {% endfor %}
+    <figure class="post-image">
+        <a href="{{ post.path|url }}" class="post-image"><img src="/{{ post.photos[0]|image_variation('200x') }}" alt="Miniature de {{ post.title }}" loading="lazy"></a>
+    </figure>
     {% endif %}
-    <div class="post-meta">
-        {% set tags = post.tags %}
-        {% include "parts/tags.njk" %}
-        <time datetime="{{ post.published.format('YYYY-MM-DD') }}">
-            <a href="{{ post.path|url }}">{{ post.published.format('DD/MM/YYYY') }}</a>
-        </time>
+    <div class="post-info">
+        <h2><a href="{{ post.path|url }}">{{ post.title }}</a></h2>
+        <div class="post-meta">
+            {% set tags = post.tags %}
+            {% include "parts/tags.njk" %}
+            <time datetime="{{ post.published.format('YYYY-MM-DD') }}">
+                <a href="{{ post.path|url }}">{{ post.published.format('DD/MM/YYYY') }}</a>
+            </time>
+        </div>
     </div>
 </article>
