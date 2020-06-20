@@ -13,3 +13,7 @@
     text-decoration: none;
     color: var(--meta-color);
 }
+
+.tag::before {
+    content: '#';
+}

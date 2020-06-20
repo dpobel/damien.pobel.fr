@@ -1,7 +1,7 @@
 ---
 title: "À propos"
 updated: 2018-12-31 16:30
-lang: en
+lang: fr
 ---
 
 # À propos…
@@ -33,7 +33,7 @@ tags](/tags/) donne un aperçu rapide des sujets traités.
 totalement PERSONNELS et donc ne reflètent pas ceux de mes employeurs présents
 ou passé ni d'aucune entité à laquelle je suis associé.**
 
-## ce site
+## du site
 
 Ce site est construit avec [Metalsmith et quelques autres outils et
 services](/post/powered-by-metalsmith/). Les icônes proviennent du projet

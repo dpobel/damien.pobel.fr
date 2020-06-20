@@ -1,5 +1,5 @@
 <ul class="post-tags">
 {% for tag in tags %}
-    <li><a href="{{ ('tag/' + tag.slug)|url }}">{{ tag.name }}</a></li>
+    <li><a href="{{ ('tag/' + tag.slug)|url }}" class="tag">{{ tag.name }}</a></li>
 {% endfor %}
 </ul>
