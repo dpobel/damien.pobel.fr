@@ -9,8 +9,12 @@
     color: var(--meta-color);
 }
 
+.post-meta .post-tags {
+    flex: 1;
+}
+
 .post-meta time {
-    flex: 1 0 auto;
+    flex: 0;
     text-align: right;
     align-self: flex-end;
 }
