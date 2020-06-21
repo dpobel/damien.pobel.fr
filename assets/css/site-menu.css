@@ -13,11 +13,12 @@
     display: table-cell;
     vertical-align:middle;
     list-style-type: none;
-    padding: 0.8em 1em;
     border-right: 1px solid #ccc;
 }
 
 .site-menu a {
     text-decoration: none;
     color: #fff;
+    padding: 0.8em 1em;
+    display: block;
 }
