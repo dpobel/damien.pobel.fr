@@ -2801,10 +2801,10 @@ metalsmith-postcss2@^2.0.0:
     postcss-load-config "2.1.0"
     valid-data-url "2.0.0"
 
-metalsmith-renamer@^0.5.1:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/metalsmith-renamer/-/metalsmith-renamer-0.5.1.tgz#fc0faeaf5b8df85c97168d44fe3b698f8b908f99"
-  integrity sha512-zpbh0j27Oewmkjb+xwjj8OgH/XTu3kRiR9IdxjHC43ZT/dUUksHFQK89MCQYULPWIVH3wLzbU+iJlVhaxqwsng==
+metalsmith-renamer@^0.5.5:
+  version "0.5.5"
+  resolved "https://registry.yarnpkg.com/metalsmith-renamer/-/metalsmith-renamer-0.5.5.tgz#cbc6b4ec750262cc3ee3c9c5f9ba32186b04ed18"
+  integrity sha512-gYEEBlmxQHYieML+E7mvqeKV8JTo/AW0IhOBQx4Z6pEa5t/PiIoRd7Eon4bInFh06HFTKsCJe5Ok2D3HTblp5A==
   dependencies:
     minimatch "^3.0.0"
 
