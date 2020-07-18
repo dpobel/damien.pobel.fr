@@ -3,7 +3,7 @@ title: "La dette technique est comme une partie de Tetris"
 tags: traduction, métier, code, qualité
 lang: fr
 published: 2019-03-15
-collection: top
+top-priority: 60
 photos:
     - images/tetris.png
 ---

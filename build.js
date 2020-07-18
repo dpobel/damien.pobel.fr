@@ -71,8 +71,11 @@ conf.tagLangFeed.preprocess = conf.feed.preprocess;
 
 const filterOutVeilleFn = require('./lib/metalsmith/filter-collection.js').excludeWithMetadataFn('weeklyTech');
 
+const keepTopPostFn = require('./lib/metalsmith/filter-collection.js').excludeWithoutMetadataFn('top-priority');
+
 conf.collections.lastPosts.filterBy = filterOutVeilleFn;
 conf.collections.blog.filterBy = filterOutVeilleFn;
+conf.collections.top.filterBy = keepTopPostFn;
 
 const markdownConf = {
     highlight: function (code, lang) {

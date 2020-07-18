@@ -103,6 +103,11 @@
         "pathPage": "tag/:tag/:num.html"
     },
     "collections": {
+        "top": {
+            "pattern": "post/*",
+            "sortBy": "top-priority",
+            "reverse": true
+        },
         "posts": {
             "pattern": "post/*",
             "sortBy": "published",

@@ -3,7 +3,7 @@ title: "« Au cas où »"
 tags: bonnes pratiques, métier, code, qualité, citation
 lang: fr
 published: 2018-10-16 18:22
-collection: top
+top-priority: 10
 photos:
     - images/psychic-vision.jpg
 ---
