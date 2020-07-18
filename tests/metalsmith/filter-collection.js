@@ -5,22 +5,36 @@ const assert = require('assert');
 describe('filter collection functions', function () {
     const propIdentifier = 'metaPropIdentifier';
 
-    it('should exclude post with the given meta set to true', function () {
+    describe('excludeWithMetadataFn', () => {
         const excludeMeta = filterCollection.excludeWithMetadataFn(propIdentifier);
 
-        assert(!excludeMeta({[propIdentifier]: true}));
+        it('should exclude post with the given meta set to true', function () {
+            assert(!excludeMeta({[propIdentifier]: true}));
+        });
+
+        it('should keep post without the given meta', function () {
+            assert(excludeMeta({}));
+        });
+
+        it('should keep post with the given meta set to false', function () {
+            assert(excludeMeta({[propIdentifier]: false}));
+        });
     });
 
-    it('should keep post without the given meta', function () {
-        const excludeMeta = filterCollection.excludeWithMetadataFn(propIdentifier);
+    describe('excludeWithoutMetadataFn', () => {
+        const excludeWithoutMeta = filterCollection.excludeWithoutMetadataFn(propIdentifier);
 
-        assert(excludeMeta({}));
-    });
+        it('should keep post with the given meta set to true', function () {
+            assert(excludeWithoutMeta({[propIdentifier]: true}));
+        });
 
-    it('should keep post with the given meta set to false', function () {
-        const excludeMeta = filterCollection.excludeWithMetadataFn(propIdentifier);
+        it('should exclude the post without the given meta', function () {
+            assert(!excludeWithoutMeta({}));
+        });
 
-        assert(excludeMeta({[propIdentifier]: false}));
+        it('should exclude post with the given meta set to false', function () {
+            assert(!excludeWithoutMeta({[propIdentifier]: false}));
+        });
     });
 
 });

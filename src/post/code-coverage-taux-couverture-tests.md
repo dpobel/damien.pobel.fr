@@ -3,6 +3,7 @@ title: Le code coverage, cet éternel incompris
 tags: bonnes pratiques, unit test, métier, code, qualité
 lang: fr
 published: 2018-07-23 22:31
+top-priority: 90
 photos:
     - images/couverture.jpg
 ---

@@ -80,7 +80,7 @@
         "pattern": "index.md",
         "metadata": {
             "layout": "home.njk",
-            "type": "home"
+            "type": "list"
         }
     }, {
         "pattern": "tags.md",
@@ -103,6 +103,11 @@
         "pathPage": "tag/:tag/:num.html"
     },
     "collections": {
+        "top": {
+            "pattern": "post/*",
+            "sortBy": "top-priority",
+            "reverse": true
+        },
         "posts": {
             "pattern": "post/*",
             "sortBy": "published",

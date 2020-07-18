@@ -29,6 +29,10 @@
     display: flex;
 }
 
+.page-list article {
+    display: block;
+}
+
 .post-list .post-image {
     flex: none;
     margin: 0 0.5em 0 0;

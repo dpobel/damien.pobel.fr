@@ -3,6 +3,7 @@ title: "La juste dose de commentaires ?"
 tags: bonnes pratiques, métier, code, qualité, citation
 lang: fr
 published: 2019-02-18
+top-priority: 30
 photos:
     - images/dose-cafe.jpg
 ---
