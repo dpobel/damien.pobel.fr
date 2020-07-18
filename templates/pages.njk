@@ -6,7 +6,7 @@
 {% block content %}
     <h1>Pages{% if pagination.num > 1 %} (page {{ pagination.num }}){% endif %}</h1>
 
-    <ul class="post-list">
+    <ul class="post-list page-list">
     {% for page in pagination.files %}
         <li>{% include "parts/page_line.njk" %}</li>
     {% endfor %}
