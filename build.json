@@ -80,7 +80,7 @@
         "pattern": "index.md",
         "metadata": {
             "layout": "home.njk",
-            "type": "home"
+            "type": "list"
         }
     }, {
         "pattern": "tags.md",

@@ -15,7 +15,14 @@
 </ul>
 {% endblock %}
 
-{% block sideMenu %}{% endblock %}
+{% block sideMenu %}
+    {% set noSocialNetwork = true %}
+    <aside>
+        {% include "parts/share.njk" %}
+        {% include "parts/last_photos.njk" %}
+        {% include "parts/last.njk" %}
+    </aside>
+{% endblock %}
 
 {% block customMeta %}
 <meta name="google-site-verification" content="HkdwI4FlNgoKXNaEbCq4hm12HVaISQDY89UR0UvVRSM" />
