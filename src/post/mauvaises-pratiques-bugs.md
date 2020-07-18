@@ -3,6 +3,7 @@ title: "Quand de mauvaises pratiques causent un bug"
 tags: php, bonnes pratiques, métier, code, qualité
 lang: fr
 published: 2019-02-25
+collection: top
 photos:
     - images/charancon.jpg
 ---

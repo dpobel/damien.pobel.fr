@@ -7,9 +7,9 @@
     {{ contents|safe }}
 </article>
 <hr>
-<h2>Derniers billets</h2>
+<h2>Quelques billets notables</h2>
 <ul class="post-list">
-    {% for post in collections.lastPosts %}
+    {% for post in collections.top %}
         <li>{% include "parts/post_line.njk" %}</li>
     {% endfor %}
 </ul>

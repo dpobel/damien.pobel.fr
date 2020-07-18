@@ -3,6 +3,7 @@ title: "« Clean Code » résumé en quelques lignes"
 tags: complexité, métier, qualité, code, bonnes pratiques, traduction, clean code, unit test
 lang: fr
 published: 2020-06-16 23:28
+collection: top
 photos:
     - images/water-drop.jpg
 ---

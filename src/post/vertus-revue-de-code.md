@@ -2,6 +2,7 @@
 title: Les vertus de la revue de code
 tags: bonnes pratiques, métier, outil, code, git, qualité
 published: 2018-05-06 23:21
+collection: top
 photos:
     - images/revue-de-code.jpg
 ---
