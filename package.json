@@ -50,7 +50,7 @@
     "metalsmith-pdfize": "^2.0.0",
     "metalsmith-permalinks": "^2.2.0",
     "metalsmith-postcss2": "^2.0.0",
-    "metalsmith-renamer": "^0.5.15",
+    "metalsmith-renamer": "^0.5.20",
     "metalsmith-tags": "^2.1.0",
     "minimatch": "^3.0.4",
     "minimist": "^1.2.5",
