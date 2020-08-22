@@ -58,7 +58,7 @@
     "moment": "^2.27.0",
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.2",
-    "open": "^7.1.0",
+    "open": "^7.2.0",
     "postcss": "^7.0.32",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
