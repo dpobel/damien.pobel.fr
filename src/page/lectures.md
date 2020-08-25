@@ -7,6 +7,9 @@ updated: 2020-06-10
 
 ## 2020
 
+* [La guerre des mondes](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-plus/La-Guerre-des-mondes) (H. G. Wells)
+* [Pourquoi](https://www.livredepoche.com/livre/pourquoi-9782253135487) (Philippe Vandel)
+* [Habitations imaginaires](https://www.editions-allia.com/fr/livre/110/habitations-imaginaires) (Edgar Allan Poe)
 * Le cycle des robots
     * Tome 1 : [Les robots](https://www.jailu.com/Catalogue/science-fiction/le-cycle-des-robots-1-les-robots)
 * [Et le monde devint silencieux](https://www.seuil.com/ouvrage/et-le-monde-devint-silencieux-stephane-foucart/9782021427424) (Stéphane Foucart)
