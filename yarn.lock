@@ -2834,10 +2834,10 @@ metalsmith-postcss2@^2.0.0:
     postcss-load-config "2.1.0"
     valid-data-url "2.0.0"
 
-metalsmith-renamer@^0.5.15:
-  version "0.5.15"
-  resolved "https://registry.yarnpkg.com/metalsmith-renamer/-/metalsmith-renamer-0.5.15.tgz#5e0b1a5c018747196e0e0ce2cdb7fe3b2134cf2b"
-  integrity sha512-aWt7yx3EKLoZewQQc0Yw/5UiQOpDbvg2//NJoUYHxG5xJCimJEUpP1q+KcgiOr01WnJYmJnKl6Y2vmRcBdXDzw==
+metalsmith-renamer@^0.5.23:
+  version "0.5.23"
+  resolved "https://registry.yarnpkg.com/metalsmith-renamer/-/metalsmith-renamer-0.5.23.tgz#523c536cc7964ad195ecb84157be261162268040"
+  integrity sha512-VR9EDTE7TjlG5ToGsX6VfAy6ne8ebmqBDr9BLORAU0ao9ldhkuGmlAkBEcQbCb6KPFqFX3kgrszrMiAvIHefNw==
   dependencies:
     minimatch "^3.0.0"
 
