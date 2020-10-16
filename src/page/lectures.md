@@ -1,12 +1,14 @@
 ---
 title: Lectures
-updated: 2020-06-10
+updated: 2020-10-16
 ---
 
 # Lectures
 
 ## 2020
 
+* [L'homme sans argent](http://www.arenes.fr/livre/lhomme-sans-argent/) (Mark Boyle)
+* [L'arbre monde](https://www.lisez.com/livre-de-poche/larbre-monde/9782264074430) (Richard Powers)
 * [La guerre des mondes](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-plus/La-Guerre-des-mondes) (H. G. Wells)
 * [Pourquoi](https://www.livredepoche.com/livre/pourquoi-9782253135487) (Philippe Vandel)
 * [Habitations imaginaires](https://www.editions-allia.com/fr/livre/110/habitations-imaginaires) (Edgar Allan Poe)
