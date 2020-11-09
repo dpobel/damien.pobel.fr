@@ -2770,13 +2770,13 @@ metalsmith-pagination@^1.5.0:
     to-function "^2.0.5"
     xtend "^4.0.0"
 
-metalsmith-pdfize@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/metalsmith-pdfize/-/metalsmith-pdfize-2.1.0.tgz#452f9b7ab3ea5284c0d2cb68ce698de8003d5bc5"
-  integrity sha512-SvjDiRFf+PI9hBNKAaXJDTRX0almy/KLDrSsvWp7hWU8R6O15oBOiGDdgUVDMUHzWTYsjkUVCINVH6p+KcbSEw==
+metalsmith-pdfize@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/metalsmith-pdfize/-/metalsmith-pdfize-2.2.0.tgz#b659f9001cfa3c0887f76c9fe7930ec50d28cfd7"
+  integrity sha512-jIFubC4ceC37+txpSp7lEpcuCxIbh7NBvWpT0Ve1jLh1EI1p1obrYGc14tOsDE/L5JiEVIJ0WzfAsQarQdBeQA==
   dependencies:
     async "^3.1.0"
-    multimatch "^4.0.0"
+    multimatch "^5.0.0"
     puppeteer "^5.3.1"
 
 metalsmith-permalinks@^2.2.0:
@@ -2974,6 +2974,17 @@ multimatch@^2.0.0, multimatch@^2.1.0:
     array-union "^1.0.1"
     arrify "^1.0.0"
     minimatch "^3.0.0"
+
+multimatch@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/multimatch/-/multimatch-5.0.0.tgz#932b800963cea7a31a033328fa1e0c3a1874dbe6"
+  integrity sha512-ypMKuglUrZUD99Tk2bUQ+xNQj43lPEfAeX2o9cTteAmShXy2VHDJpuwu1o0xqoKCt9jLVAvwyFKdLTPXKAfJyA==
+  dependencies:
+    "@types/minimatch" "^3.0.3"
+    array-differ "^3.0.0"
+    array-union "^2.1.0"
+    arrify "^2.0.1"
+    minimatch "^3.0.4"
 
 nanoid@3.1.12:
   version "3.1.12"
