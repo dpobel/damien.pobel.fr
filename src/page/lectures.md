@@ -1,12 +1,15 @@
 ---
 title: Lectures
-updated: 2020-10-16
+updated: 2020-11-16
 ---
 
 # Lectures
 
 ## 2020
 
+* [Le français est à nous ! Petit manuel d'émancipation linguistique](https://www.editionsladecouverte.fr/catalogue/index-Le_fran__ais_est____nous__-9782348041877.html) (Maria Candea et Laélia Véron)
+* [Les délaissés](https://www.fayard.fr/documents-temoignages/les-delaisses-9782213711959) (Thomas Porcher)
+* [Le marché contre l'humanité](https://www.puf.com/content/Le_march%C3%A9_contre_lhumanit%C3%A9) (Dominique Bourg)
 * [L'homme sans argent](http://www.arenes.fr/livre/lhomme-sans-argent/) (Mark Boyle)
 * [L'arbre monde](https://www.lisez.com/livre-de-poche/larbre-monde/9782264074430) (Richard Powers)
 * [La guerre des mondes](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-plus/La-Guerre-des-mondes) (H. G. Wells)
