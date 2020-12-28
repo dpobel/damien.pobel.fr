@@ -1,12 +1,14 @@
 ---
 title: Lectures
-updated: 2020-11-16
+updated: 2020-12-28
 ---
 
 # Lectures
 
 ## 2020
 
+* [Le Vivant comme modèle](https://www.albin-michel.fr/ouvrages/le-vivant-comme-modele-9782226451408) (Gauthier Chapelle / Michèle Decoust)
+* [Une belle histoire de l'homme](https://editions.flammarion.com/une-belle-histoire-de-lhomme/9782081366718) (Collectif sous la direction d'Évelyne Heyer)
 * [Le français est à nous ! Petit manuel d'émancipation linguistique](https://www.editionsladecouverte.fr/catalogue/index-Le_fran__ais_est____nous__-9782348041877.html) (Maria Candea et Laélia Véron)
 * [Les délaissés](https://www.fayard.fr/documents-temoignages/les-delaisses-9782213711959) (Thomas Porcher)
 * [Le marché contre l'humanité](https://www.puf.com/content/Le_march%C3%A9_contre_lhumanit%C3%A9) (Dominique Bourg)
