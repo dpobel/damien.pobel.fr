@@ -3143,6 +3143,10 @@ open@^7.3.0:
     is-docker "^2.0.0"
     is-wsl "^2.1.1"
 
+"opml-utils@https://github.com/dpobel/opml-utils.git":
+  version "0.0.0"
+  resolved "https://github.com/dpobel/opml-utils.git#8830cb13a2f537d5d3169d6f915da6e25db8c111"
+
 optipng-bin@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/optipng-bin/-/optipng-bin-7.0.0.tgz#2dfcc68a5f006e7746e76ad64d317d6fb7c7f9ed"
