@@ -271,6 +271,7 @@
       <outline type="rss" text="Hi, I’m Nicolas" title="Hi, I’m Nicolas" xmlUrl="https://nicolas.perriault.net/feed.xml" htmlUrl="https://nicolas.perriault.net/"/>
       <outline type="rss" text="Henrik Joreteg's Blog" title="Henrik Joreteg's Blog" xmlUrl="https://joreteg.com/rss.xml" htmlUrl="https://joreteg.com"/>
       <outline type="rss" text="Johan BLEUZEN" title="Johan BLEUZEN" xmlUrl="http://www.johanbleuzen.fr/feed.xml" htmlUrl="http://www.johanbleuzen.fr"/>
+      <outline type="rss" text="SimplonProd - Veille" title="SimplonProd - Veille" xmlUrl="https://veille.simplonprod.co/feed/atom?"/>
       <outline type="rss" text="strava-engineering - Medium" title="strava-engineering - Medium" xmlUrl="https://medium.com/feed/strava-engineering" htmlUrl="https://medium.com/strava-engineering?source=rss----89d4108ce2a3---4"/>
       <outline type="rss" text="Red Star IT – Helping Managers Tackle Legacy Code" title="Red Star IT – Helping Managers Tackle Legacy Code" xmlUrl="https://www.redstar.be/feed/" htmlUrl="https://www.redstar.be"/>
       <outline type="rss" text="Trucs libres" title="Trucs libres" xmlUrl="http://www.positon.org/feed/navlang:fr/rss2" htmlUrl="http://fr.positon.org"/>
