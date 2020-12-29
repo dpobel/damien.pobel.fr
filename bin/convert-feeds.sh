@@ -1,10 +1,17 @@
 #! /bin/sh
 
+OPML="$1"
 PAGE="src/page/flux-rss-tech.html"
-OPML="src/files/feeds.opml"
 OPML_TECH="src/files/tech.opml"
 
-[ ! -f "$OPML" ] && echo "Please export the OPML file to $OPML before running this script" && exit 1
+help() {
+    echo "Please export the feed list as an OPML file and then pass the file path as the first parameter"
+    echo ""
+    echo "$0" path/to/file.opml
+    echo ""
+}
+
+[ ! -f "$OPML" ] && help "$0" && exit 1
 
 LAST_CHANGE=`stat -c "%Y" $OPML`
 EXPORT_DATE=`date --date=@$LAST_CHANGE '+%d/%m/%Y'`
