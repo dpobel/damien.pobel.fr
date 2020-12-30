@@ -8,7 +8,7 @@
           
           <p>
             Voici les flux RSS de ma catégorie <i>Tech</i> (export du <xsl:value-of select="$exportDate" />)
-            qui me sert de source principal pour <a href="/post/comment-je-fais-ma-veille-technologique/">faire ma veille
+            qui me sert de source principale pour <a href="/post/comment-je-fais-ma-veille-technologique/">faire ma veille
             technologique</a>. Cette liste est aussi <a href="/files/tech.opml">disponible
             sous forme de fichier OPML</a>.
           </p>
