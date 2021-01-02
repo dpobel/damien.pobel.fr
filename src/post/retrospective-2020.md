@@ -59,7 +59,7 @@ vivant, d'apprendre plein de choses sur l'évolution des êtres humains,
 d'envoyer gentillement paître celles et ceux qui t'expliquent qu'il faut dire
 _LA covid parce que quelqu'un à l'académie française croit avoir la légitimité
 de décider ce genre de chose_, de se poser quelques questions sur notre mode de
-vie et notre rapport à l'argent et enfin d'imaginer un monde post-effondremnt…
+vie et notre rapport à l'argent et enfin d'imaginer un monde post-effondrement…
 Bon OK le dernier est peu être pas le plus adapté à 2020, à ma décharge, je
 l'ai lu en janvier 😉
 
