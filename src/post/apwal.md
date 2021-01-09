@@ -21,7 +21,7 @@ Par exemple avec le window manager
 [Openbox](http://pwet.fr/man/linux/commandes/openbox), j'ai configuré le clic
 gauche sur le fond d'écran et la combinaison Shift+Tab pour lancer apwal faisant
 ainsi apparaître ce menu à l'aide de la configuration suivante dans le fichier
-~/.config/openbox/rc.xml :
+~/.config/openbox/rc.xml :
 
  ``` xml
 <!-- extrait de ~/.config/openbox/rc.xml -->
@@ -40,7 +40,7 @@ ainsi apparaître ce menu à l'aide de la configuration suivante dans le fichier
 ```
 
  
-Comme une image vaut toujours mieux qu'un long discours :
+Comme une image vaut toujours mieux qu'un long discours :
 
  
 
@@ -59,7 +59,7 @@ facilement et rapidement, un [xterm](http://pwet.fr/man/linux/commandes/xterm),
 audio préféré (Listen en ce moment).
 
  
-Apwal est disponible sous Ubuntu dans le dépôt Universe et s'installe avec le paquet du même nom :
+Apwal est disponible sous Ubuntu dans le dépôt Universe et s'installe avec le paquet du même nom :
 
  ``` bash
 $ sudo apt-get install apwal

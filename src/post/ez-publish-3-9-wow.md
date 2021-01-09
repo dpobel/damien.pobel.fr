@@ -16,7 +16,7 @@ décalée à courant novembre, bref rien de très grave. Par contre depuis cette
 annonce, on peut consulter la roadmap de cette version
 (ez.no/community/developer/roadmap/ez_publish_3_9, page hors ligne depuis) qui
 inclut un court descriptif de l'ensemble des nouvelles fonctionnalités majeures
-et c'est tout bonnement impressionnant ! En vrac, je retiens surtout :
+et c'est tout bonnement impressionnant ! En vrac, je retiens surtout :
 
 * [Les améliorations du datatype Object relations
   list](https://github.com/ezsystems/ezpublish-legacy/blob/master/doc/features/3.9/improved_ezobjectrelationlist_datatype.txt)

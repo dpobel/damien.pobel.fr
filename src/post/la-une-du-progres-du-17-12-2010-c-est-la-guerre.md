@@ -8,7 +8,7 @@ published: 2010-12-17T07:28:00+01:00
 updated: 2016-02-12 13:15
 ---
 
-On sent comme une certaine ironie à la une [du Progrès](http://www.leprogres.fr/) d'aujourd'hui 17/12/2010 :
+On sent comme une certaine ironie à la une [du Progrès](http://www.leprogres.fr/) d'aujourd'hui 17/12/2010 :
 
 <figure class="object-center"><a href="/images/le-progres-du-17-12-2010.jpg"><img loading="lazy" src="/images//le-progres-du-17-12-2010.jpg" alt="Le Progrès du 17/12/2010">
 </a></figure>

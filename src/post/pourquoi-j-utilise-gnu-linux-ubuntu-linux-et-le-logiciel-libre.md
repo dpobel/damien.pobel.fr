@@ -62,7 +62,7 @@ d'Ubuntu, [Ubuntu Warty
 Warthog](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
 puis les versions se sont succédés pour arriver à [Ubuntu Dapper
 Drake](https://lists.ubuntu.com/archives/ubuntu-announce/2006-June/000083.html)
-et à ça :
+et à ça :
 
 <figure class="object-center"><a
 href="/images/screenshot-de-mon-bureau-septembre-2006.png"><img loading="lazy" src="/images/330x/screenshot-de-mon-bureau-septembre-2006.png" alt="Screenshot de mon bureau Septembre 2006"></a></figure>

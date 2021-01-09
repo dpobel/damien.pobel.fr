@@ -41,7 +41,7 @@ d'utilisabilité est tout simplement énorme et même rapporté à Ubuntu (qui e
 une distribution récente) entre Warty et Dapper Drake que de chemin parcouru !
 Je m'en rend compte d'autant mieux, que j'utilise Dapper Drake sur mon poste
 personnel et encore Warty au travail… Je pense que la rapidité de cette
-progression vient (entre autres) de deux phénomèmes :
+progression vient (entre autres) de deux phénomèmes :
 
 * [l'archi domination du marché de
   Windows](https://launchpad.net/distros/ubuntu/+bug/1) ce qui fait que pour

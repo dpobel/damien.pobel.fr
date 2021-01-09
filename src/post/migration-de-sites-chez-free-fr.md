@@ -14,7 +14,7 @@ Aujourd'hui j'ai terminé de ré-intégrer la majeure partie des photos de [http
 La particularité de mon ancien site était de génèrer des pages HTML statiques uniquement. Du coup pour faire une redirection permanente spécifique selon la page appelée sans langage de script côté serveur et sans [Rewriting](http://apachefrance.com/Manuels/Apache_1.3/mod/mod_rewrite.html) côté serveur est impossible. Une solution longue aurait été de générer un .htaccess contenant un [RedirectPermanent](http://apachefrance.com/Manuels/Apache_1.3_VF/mod/mod_alias.html#redirectperm) par page à rediriger. Heureusement, les serveurs de pages persos chez Free sont configurés avec l'option [Multiview](http://apachefrance.com/Manuels/Apache_1.3/content-negotiation.html) d'Apache. Cette option permet d'appeler un fichier par le web sans son extension. Par exemple avec cette option se rendre à l'URL http://zeimg.free.fr/index revient à appeler http://zeimg.free.fr/index.php. Mieux encore, appeler dans son navigateur préféré http://zeimg.free.fr/dossier/sous-dossier/fichier.php revient en fait à appeler http://zeimg.free.fr/dossier.php/sous-dossier/fichier.php si le &quot;dossier&quot; n'existe pas.
 
 
-Il est donc assez simple prendre tous les fichiers ou dossiers à la racine d'un site et de créer pour chacun un script PHP. Cette opération peut se faire avec le script suivant après avoir téléchargé l'ensemble du site :
+Il est donc assez simple prendre tous les fichiers ou dossiers à la racine d'un site et de créer pour chacun un script PHP. Cette opération peut se faire avec le script suivant après avoir téléchargé l'ensemble du site :
 
 ``` bash
 #! /bin/sh
@@ -39,14 +39,14 @@ touch "$SITE_REDIR/$PHP_REDIR.php"
 ```
 
 
-Ce script prend tous les fichiers et dossiers à la racine du site créer pour chacun un fichier PHP portant son nom suivi de l'extension PHP. Ces fichiers PHP contiennent tous uniquement le code suivant :
+Ce script prend tous les fichiers et dossiers à la racine du site créer pour chacun un fichier PHP portant son nom suivi de l'extension PHP. Ces fichiers PHP contiennent tous uniquement le code suivant :
 
 ``` php
 <?php include('redirect.php'); ?>
 ```
 
 
-Il reste donc uniquement à écrire dans le fichier redirect.php la logique de redirection qui est évidemment propre à chaque site. Par exemple, pour ZeImg, mon fichier redirect.php (écourté) est le suivant :
+Il reste donc uniquement à écrire dans le fichier redirect.php la logique de redirection qui est évidemment propre à chaque site. Par exemple, pour ZeImg, mon fichier redirect.php (écourté) est le suivant :
 
 ``` php
 <?php

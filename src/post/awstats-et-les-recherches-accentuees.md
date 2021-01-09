@@ -18,7 +18,7 @@ LoadPlugin="decodeutfkeys"
 ```
 
 
-Comme l'indique le commentaire dans le fichier de configuration, il faut aussi installer les modules [Perl](http://pwet.fr/man/linux/commandes/perl)[Encode](http://pwet.fr/man/linux/fonctions_bibliotheques/perl/encode) et [URI::Escape](http://pwet.fr/man/linux/fonctions_bibliotheques/pm/uri) pour cela, il suffit de taper :
+Comme l'indique le commentaire dans le fichier de configuration, il faut aussi installer les modules [Perl](http://pwet.fr/man/linux/commandes/perl)[Encode](http://pwet.fr/man/linux/fonctions_bibliotheques/perl/encode) et [URI::Escape](http://pwet.fr/man/linux/fonctions_bibliotheques/pm/uri) pour cela, il suffit de taper :
 
 ``` bash
 sudo apt-get install liburi-perl

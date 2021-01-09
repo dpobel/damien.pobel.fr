@@ -30,7 +30,7 @@ anciennes carrières de
 Beaulieu](http://philovelo3.free.fr//Sorties/PB00019-beaulieu.htm) où je n'ai
 pas pu résister à l'envie de me *rapprocher* de la rocaille locale :-)
 L'ambiance est vraiment sympa et chacun peut rouler à son rythme, pas de
-compétition que du plaisir, comme ici Pierre qui prépare sa mise en orbite :
+compétition que du plaisir, comme ici Pierre qui prépare sa mise en orbite :
 
 <figure class="object-center"><a href="/images/mise-orbite-de-pierre.jpg"><img loading="lazy" src="/images/660x/mise-orbite-de-pierre.jpg" alt="Mise orbite de Pierre">
 </a></figure>

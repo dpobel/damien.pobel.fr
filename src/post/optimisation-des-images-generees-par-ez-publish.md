@@ -53,7 +53,7 @@ Dans cet exemple, seules les images générées en format <code>mini</code>
  dans le même fichier de configuration.
 
 
-Dans les deux cas, pour que les images existantes soient régénérées, il faut lancer la commande suivante :
+Dans les deux cas, pour que les images existantes soient régénérées, il faut lancer la commande suivante :
 
 ``` bash
 $ php bin/php/ezcache.php --clear-tag=image

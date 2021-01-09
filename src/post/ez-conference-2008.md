@@ -19,7 +19,7 @@ année, la conférence se déroulait en même temps que l'Open Nordic.
 
 Beaucoup de nouveautés et pas mal de retours intéressants sur de gros projets
 ont été présentés cette année à l'eZ Conférence 2008. D'un point de vue
-*produit*, eZ Systems dirige ses développements sur 2 axes :
+*produit*, eZ Systems dirige ses développements sur 2 axes :
 
 * amélioration de ce qu'on peut appeler le *socle eZ Publish* (correction des
   bugs, amélioration des performances,…)
@@ -33,7 +33,7 @@ et les décalages de planning qui vont avec ;-)
 ## La roadmap eZ Publish
 
 La grosse nouveauté concerne le développement des nouvelles versions d'eZ
-Publish. En effet celui ci va se poursuivre sur 2 branches distinctes :
+Publish. En effet celui ci va se poursuivre sur 2 branches distinctes :
 
 * la branche 4.x
 * le projet V (la branche 5.x)

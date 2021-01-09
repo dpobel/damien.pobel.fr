@@ -24,7 +24,7 @@ PDO](/post/pdo-mysql-sous-ubuntu-au-bord-de-la-crise-nerfs).
 I built [a very simple application](http://vrac.pwet.fr/sysinfo/) that uses the
 Template component to display informations provided by [the
 SystemInformation](http://zetacomponents.org/documentation/trunk/SystemInformation/tutorial.html)
-one. I notice some improvements in this new template engine :
+one. I notice some improvements in this new template engine :
 
 * it seems more strict. it's a good news for developers. In my opinion,
   strictness is mandatory to have a predictive and easy to use templating

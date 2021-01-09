@@ -7,7 +7,7 @@ remoteId: "c9a5f297c3bcb6cf0f3bceb32f14a05f"
 published: 2009-02-06T23:33:35+01:00
 ---
 
-Reçu à l'instant :
+Reçu à l'instant :
 
 ```
 From: spammeur@domaine.fr

@@ -44,7 +44,7 @@ portée d'une éventuelle mauvaise utilisation de ce compte.
 
 On peut aussi penser à désactiver les modules et/ou les vues inutiles pour un
 *siteaccess* donné. Par exemple, pour ce site, le fichier `site.ini.append.php` de
-mon siteaccess correspondant au *front* comporte la configuration suivante :
+mon siteaccess correspondant au *front* comporte la configuration suivante :
 
 ``` ini
 [SiteAccessRules]

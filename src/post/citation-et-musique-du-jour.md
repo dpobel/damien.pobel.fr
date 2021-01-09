@@ -9,7 +9,7 @@ updated: 2016-02-10 23:18
 ---
 
 Lue sur la page du groupe [Audioslave dans
-Wikipedia](http://en.wikipedia.org/wiki/Audioslave) :
+Wikipedia](http://en.wikipedia.org/wiki/Audioslave) :
 
 <blockquote>
 Somewhere in Texas, a Village is Missing an Idiot

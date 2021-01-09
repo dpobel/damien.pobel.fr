@@ -14,7 +14,7 @@ Si il y'a un truc insupportable sous [Linux](/tag/linux) c'est bien le biiiiip s
 ## Sous X11
 
 
-En général avec un Desktop Manager (*environnement de bureau* ?) type KDE ou GNOME, il y a une petite case à cocher bien planquée quelque part. Sans environnement de bureau, une simple ligne de commande avec l'utilitaire [xset](http://pwet.fr/man/linux/commandes/x2/xset) suffit :
+En général avec un Desktop Manager (*environnement de bureau* ?) type KDE ou GNOME, il y a une petite case à cocher bien planquée quelque part. Sans environnement de bureau, une simple ligne de commande avec l'utilitaire [xset](http://pwet.fr/man/linux/commandes/x2/xset) suffit :
 
 ``` bash
 $ xset b off
@@ -28,7 +28,7 @@ Dans mon cas avec [Openbox](/tag/openbox), je la met dans mon fichier .xsession 
 ## En mode console
 
 
-En mode console deux solutions. il est possible d'utiliser [setterm](http://pwet.fr/man/linux/commandes/setterm) avec la ligne suivante :
+En mode console deux solutions. il est possible d'utiliser [setterm](http://pwet.fr/man/linux/commandes/setterm) avec la ligne suivante :
 
 ``` bash
 $ setterm -blength 0
@@ -36,7 +36,7 @@ $ setterm -blength 0
 ```
 
 
-Cette ligne peut être insérée dans le .bashrc (si vous utiliser [bash](http://pwet.fr/man/linux/commandes/bash) comme shell évidemment). Il existe cependant une méthode beaucoup plus radicale qui consiste à empêcher le chargement du module pcspkr du noyau qui gère ce fameux bip. Pour cela il suffit de créer un fichier dans /etc/modprob.d, par exemple blacklist-bip avec la ligne suivante à lancer avec [sudo](http://pwet.fr/man/linux/administration_systeme/sudo) (ou en root) :
+Cette ligne peut être insérée dans le .bashrc (si vous utiliser [bash](http://pwet.fr/man/linux/commandes/bash) comme shell évidemment). Il existe cependant une méthode beaucoup plus radicale qui consiste à empêcher le chargement du module pcspkr du noyau qui gère ce fameux bip. Pour cela il suffit de créer un fichier dans /etc/modprob.d, par exemple blacklist-bip avec la ligne suivante à lancer avec [sudo](http://pwet.fr/man/linux/administration_systeme/sudo) (ou en root) :
 
 ``` bash
 $ sudo echo "blacklist pcspkr" > /etc/modprobe.d/backlist-bip
@@ -44,7 +44,7 @@ $ sudo echo "blacklist pcspkr" > /etc/modprobe.d/backlist-bip
 ```
 
 
-Et pour ne pas attendre le prochain démarrage une dernière ligne de commande avec [modprobe](http://pwet.fr/man/linux/administration_systeme/modprobe) est possible pour supprimer le module directement :
+Et pour ne pas attendre le prochain démarrage une dernière ligne de commande avec [modprobe](http://pwet.fr/man/linux/administration_systeme/modprobe) est possible pour supprimer le module directement :
 
 ``` bash
 $ sudo modprobe -r pcspkr

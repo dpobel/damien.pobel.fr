@@ -18,7 +18,7 @@ largement suffisant pour y voir de très bonnes choses et de beaucoup moins
 bonnes.
 
 
-Parmi les excellents points :
+Parmi les excellents points :
 
 * la flexibilité et l'extensibilité : grâce à [l'alliance du modèle <abbr
   title="Entity Attribute
@@ -29,7 +29,7 @@ Parmi les excellents points :
   différentes avec de multiples informations stockées en base de données
 * l'ergonomie générale du backoffice mais…
 
-Dans les moins bons points :
+Dans les moins bons points :
 
 * le backoffice est lent, vraiment très lent; il n'y a pas encore d'éditeur
   <abbr title="What You See Is What You Get">WYSIWYG</abbr>  vraiment intégré,

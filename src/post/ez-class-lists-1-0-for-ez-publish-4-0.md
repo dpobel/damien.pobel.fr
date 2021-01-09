@@ -17,7 +17,7 @@ classes.
 <figure class="object-center"><a href="/images/ez-class-lists-1-0.png"><img loading="lazy" src="/images/660x/ez-class-lists-1-0.png" alt="eZ Class Lists 1.0"> </a></figure>
 
 
-This version adds three main features :
+This version adds three main features :
 
 * you can now sort the list by one of [the common content object meta
 attributes](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/modules/content/fetch_functions/list#eztoc87605_0_0_1)

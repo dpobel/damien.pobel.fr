@@ -14,7 +14,7 @@ Bien que la plupart des distributions Linux et Ubuntu en particulier tendent à 
 ## Le prompt
 
  
-[Laurent - CyberSDF](http://cybersdf.org/) a publié [un court billet présentant un outils en ligne permettant de créer un prompt plus fantaisiste](http://cybersdf.org/2006/10/28/207-changez-votre-prompt) que celui par défaut. Au delà de l'aspect purement esthétique, le *prompt* est la première chose que l'on voit lors de l'utilisation du shell, il peut donc mettre en valeur des informations importantes. Au travail ou à la maison, j'ai potentiellement accès en [SSH](http://pwet.fr/man/linux/commandes/ssh) à 13 machines différentes (3 Ubuntu, 9 Debian et une [Solaris](/post/solaris-et-les-outils-gnu) pour les curieux), et je suis fréquemment connecté à 3 ou 4 machines en même temps, le *prompt* doit donc m'indiquer sur quelle machine je suis et surtout avec quel *login*, pour cela j'utilise la configuration suivante soit dans le fichier /etc/bash.bashrc soit dans mon ~/.bashrc :
+[Laurent - CyberSDF](http://cybersdf.org/) a publié [un court billet présentant un outils en ligne permettant de créer un prompt plus fantaisiste](http://cybersdf.org/2006/10/28/207-changez-votre-prompt) que celui par défaut. Au delà de l'aspect purement esthétique, le *prompt* est la première chose que l'on voit lors de l'utilisation du shell, il peut donc mettre en valeur des informations importantes. Au travail ou à la maison, j'ai potentiellement accès en [SSH](http://pwet.fr/man/linux/commandes/ssh) à 13 machines différentes (3 Ubuntu, 9 Debian et une [Solaris](/post/solaris-et-les-outils-gnu) pour les curieux), et je suis fréquemment connecté à 3 ou 4 machines en même temps, le *prompt* doit donc m'indiquer sur quelle machine je suis et surtout avec quel *login*, pour cela j'utilise la configuration suivante soit dans le fichier /etc/bash.bashrc soit dans mon ~/.bashrc :
 
  ``` bash
 # couleurs
@@ -42,7 +42,7 @@ export PS1
 ```
 
  
-Cette configuration fait en sorte d'avoir un *prompt* bleu, jaune et blanc pour un utilisateur normal et rouge, jaune et blanc pour l'utilisateur root attirant ainsi mon attention sur le fait qu'en root, on ne tape par n'importe quoi… Il m'indique aussi le nom de la machine ainsi que son adresse IP. Ce qui donne :
+Cette configuration fait en sorte d'avoir un *prompt* bleu, jaune et blanc pour un utilisateur normal et rouge, jaune et blanc pour l'utilisateur root attirant ainsi mon attention sur le fait qu'en root, on ne tape par n'importe quoi… Il m'indique aussi le nom de la machine ainsi que son adresse IP. Ce qui donne :
 
  
 

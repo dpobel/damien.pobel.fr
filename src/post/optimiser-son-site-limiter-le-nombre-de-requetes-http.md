@@ -12,13 +12,13 @@ Limiter le nombre de requêtes HTTP est la première règle (la plus efficace) p
 . Cette technique consiste à rassembler les images en un seul fichier et à jouer avec la position pour n'afficher que la zone voulue. En effet un navigateur mettra moins de temps à télécharger 1 fichier que 6 petits fichiers de taille totale équivalente et en plus le fichier réunissant les 6 premiers est généralement plus petit, double bénéfice donc. Au niveau montage, il faut par contre savoir qu'une dimension doit nécessairement être fixée ou au moins *contrôlée* (par exemple le texte contenu est toujours le même), il ne me semble pas possible de remplacer des images qui se répètent sur les axes X et Y à la fois.
 
 
-J'ai donc expérimenté cela sur ce site dont le design est suffisamment simple. Le design utilise 8 images via la feuille de style, mais 2 restent un peu à part :
+J'ai donc expérimenté cela sur ce site dont le design est suffisamment simple. Le design utilise 8 images via la feuille de style, mais 2 restent un peu à part :
 
 * [le logo RSS](extension/pwet2/design/pwet2/images/rss.png) est un PNG 24 bit pour que les arrondis soit vraiment arrondis, il restera donc seul
 * [l'image utilisée en fond des citations](extension/pwet2/design/pwet2/images/quote.png) est assez large alors que toutes les autres le sont beaucoup moins ou sont répètées sur l'axe horizontale, elle reste intacte également.
 
 
-Les 6 images restantes sont à l'origine des GIF, j'en ai profité pour les convertir en PNG pour comparer les tailles des différents agencements, ce qui donne le tableau récapitulatif suivant (les tailles sont en octets) :
+Les 6 images restantes sont à l'origine des GIF, j'en ai profité pour les convertir en PNG pour comparer les tailles des différents agencements, ce qui donne le tableau récapitulatif suivant (les tailles sont en octets) :
 
 <table class="data"><tr><th>Technique</th>
 <th>Image(s)</th>

@@ -8,7 +8,7 @@ remoteId: "c6d8d294c93f263522e18e689bf1f3f8"
 published: 2007-01-07T15:51:49+01:00
 ---
  
-Dernièrement, j'arrivais à court de place sur ma partition /home il me semblait pourtant que je n'avais pas grand chose de volumineux et comme trouver ce qui occupe beaucoup d'espace est long et fastidieux, j'ai écrit un petit script pour se faciliter la tâche. Ce script liste les dossiers contenus dans un répertoire donné à un niveau donné faisant plus de 1,10,100,1000…unité. Voici donc wimfs.sh (Where is my free space :) :
+Dernièrement, j'arrivais à court de place sur ma partition /home il me semblait pourtant que je n'avais pas grand chose de volumineux et comme trouver ce qui occupe beaucoup d'espace est long et fastidieux, j'ai écrit un petit script pour se faciliter la tâche. Ce script liste les dossiers contenus dans un répertoire donné à un niveau donné faisant plus de 1,10,100,1000…unité. Voici donc wimfs.sh (Where is my free space :) :
 
  ``` bash
 #! /bin/sh
@@ -65,7 +65,7 @@ find $DIR -maxdepth $LEVEL -mindepth $LEVEL -type d -print0 | xargs -0 du -s$SIZ
 ```
 
  
-Ce script s'utilise assez simplement en indiquant un ou plusieurs paramètres (ils sont tous facultatifs). Il prend aussi en compte les dossiers cachés (ie commençant par un .). Exemples :
+Ce script s'utilise assez simplement en indiquant un ou plusieurs paramètres (ils sont tous facultatifs). Il prend aussi en compte les dossiers cachés (ie commençant par un .). Exemples :
 
  ``` bash
 wimfs.sh -d ~ -l 1 -u m -s 3

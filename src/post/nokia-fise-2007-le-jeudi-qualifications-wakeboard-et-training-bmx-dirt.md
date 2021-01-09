@@ -8,7 +8,7 @@ published: 2007-05-17T23:01:32+02:00
 updated: 2016-02-12 13:59
 ---
 
-Un peu de Wakeboard et de Wakeskate sur le Lez :
+Un peu de Wakeboard et de Wakeskate sur le Lez :
 
 <table class="table-centre"><tr><td><figure class="object-center"><a href="/images/rampe-en-wakeboard.jpg"><img loading="lazy" src="/images/330x/rampe-en-wakeboard.jpg" alt="Rampe en wakeboard">
 </a></figure></td>
@@ -17,7 +17,7 @@ Un peu de Wakeboard et de Wakeskate sur le Lez :
 </tr>
 </table>
 
-Et puis un peu de BMX dirt dans la pénombre sur d'énormes bosses sur les rives du Lez :
+Et puis un peu de BMX dirt dans la pénombre sur d'énormes bosses sur les rives du Lez :
 
 <table class="table-centre"><tr><td><figure class="object-center"><a href="/images/bmx-dirt-1.jpg"><img loading="lazy" src="/images/330x/bmx-dirt-1.jpg" alt="BMX Dirt #1">
 </a></figure></td>

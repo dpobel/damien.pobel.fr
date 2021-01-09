@@ -16,7 +16,7 @@ de créer facilement des objets de contenus. Quand je pense que tout le travail
 est mâché par cette fonction, ça en fait des lignes de codes inutiles… Par
 exemple, pour créer un objet de la classe de contenu
 [File](http://ez.no/doc/ez_publish/technical_manual/4_x/reference/content_classes/media/file),
-ces quelques lignes suffisent :
+ces quelques lignes suffisent :
 
 ``` php
 <?php

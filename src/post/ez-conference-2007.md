@@ -11,7 +11,7 @@ published: 2007-06-12T00:40:24+02:00
 With one word : **GREAT** !
 
  
-With many words :
+With many words :
 
  * Many fun and interesting people that told me : *you should blog in english* ! I'll try in some cases ;-)
  * Many high level conferences about [eZ Publish](/tag/ez-publish), [eZ Components](/tag/ez-components), [PHP](/tag/php), and related stuffs.

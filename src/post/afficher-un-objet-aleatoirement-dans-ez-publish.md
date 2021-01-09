@@ -8,7 +8,7 @@ published: 2006-09-19T00:10:14+02:00
 updated: 2016-02-09 09:15
 ---
  
-Afficher un objet aléatoirement est une question assez fréquente sur les forums [eZ publish](/tag/ez-publish/). Cette opération comporte en fait deux petites difficultés :
+Afficher un objet aléatoirement est une question assez fréquente sur les forums [eZ publish](/tag/ez-publish/). Cette opération comporte en fait deux petites difficultés :
 
 * La sélection aléatoire à l'aide [fetch](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/modules/content) qui ne propose pas (encore?) de méthode spécifique
 * La gestion du cache qu'il faut désactiver ou du moins réduire.
@@ -26,7 +26,7 @@ faire simple quand on peut faire compliqué ? :-)
 
  
 Au final, je me dis que publier un template peut être intéressant pour le
-débutant et puis ça fait un bon pense bête pour moi :
+débutant et puis ça fait un bon pense bête pour moi :
 
  ```
 {** désactivation du cache pour avoir  **
@@ -72,7 +72,7 @@ offset.
 Ce bout de code est à mettre dans un template par exemple dans le fichier
 **design/votre_design/templates/rand_photo.tpl** est à inclure à l'aide de
 [include](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/template_functions/miscellaneous/include)
-avec quelque chose comme :
+avec quelque chose comme :
 
  ```
 {include uri="design:rand_photo.tpl"}

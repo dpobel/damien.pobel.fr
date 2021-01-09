@@ -37,7 +37,7 @@ Il faut tout d'abord créer [un utilisateur dans
 MySQL](http://dev.mysql.com/doc/refman/4.1/en/grant.html) qui aura le droit en
 lecture sur toutes les bases pour faire un dump. Cela peut se faire via un
 assistant comme PHPMyAdmin ou bien avec 2 requêtes SQL exécutées en tant que
-root (de MySQL évidemment) :
+root (de MySQL évidemment) :
 
  ``` sql
 GRANT SELECT, LOCK TABLES, SHOW DATABASES
@@ -50,7 +50,7 @@ L'utilisateur backup de MySQL a maintenant les droits en lecture sur toutes
 bases (il est conseillé de mettre un mot de passe fort…). Pour qu'un script
 puisse se connecter sans avoir à taper le mot de passe, il faut créer un fichier
 nommé .my.cnf dans le répertoire personnel de l'utilisateur qui exécutera le
-script. Ce fichier doit ressembler à :
+script. Ce fichier doit ressembler à :
 
 ``` ini
 [client]
@@ -60,7 +60,7 @@ script. Ce fichier doit ressembler à :
 ```
 
 Attention à bien restreindre les permission sur ce fichier pour que personne ne
-puisse le lire, sauf l'utilisateur en question avec la commande suivante :
+puisse le lire, sauf l'utilisateur en question avec la commande suivante :
 
  ``` bash
 $ chmod 600 .my.cnf
@@ -74,7 +74,7 @@ Une fois l'option FTP activée dans la rubrique *Sauvegarde* de la console
 Dedibox, comme pour MySQL il faut faire en sorte que l'accès FTP se fasse sans
 demander de mot de passe. Il faut créer un fichier
 [.netrc](http://pwet.fr/man/linux/formats/netrc) toujours à la racine du dossier
-personnel de l'utilisateur qui fera tourner le script :
+personnel de l'utilisateur qui fera tourner le script :
 
 ``` 
 machine dedibackup.dedibox.fr

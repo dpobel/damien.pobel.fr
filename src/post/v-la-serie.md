@@ -20,7 +20,7 @@ Le premier épisode de la série V est passé hier soir sur NRJ12 (c'est bien la
 À cette occasion j'ai aussi appris sur [la page Wikipedia consacrée à la série](http://fr.wikipedia.org/wiki/V_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29) qu'une suite devrait sortir début octobre 2008 aux États Unis. Cette suite de la suite de la suite est réalisé par le créateur original de la série, [Kenneth Johnson](http://www.kennethjohnson.us/) et on devrait y retrouver un partie des acteurs d'origine (avec 25ans de plus !) J'ai hâte de voir ça même si je crains le pire.
 
  
-Quelques liens supplémentaires sur la série :
+Quelques liens supplémentaires sur la série :
 
  * [V la série](http://vlaserie.free.fr/v2/) : blog français sur la série
  * [La fiche sur IMdb](http://www.imdb.com/title/tt0085106/combined)

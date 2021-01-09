@@ -8,7 +8,7 @@ remoteId: "cc853441c1da1fa212bf0795a594c3e5"
 published: 2006-12-12T23:25:23+01:00
 ---
  
-Ça peut paraître con, mais visiblement pour certains ça n'est pas aussi évident :
+Ça peut paraître con, mais visiblement pour certains ça n'est pas aussi évident :
 
  
 

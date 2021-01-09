@@ -16,7 +16,7 @@ Tout d'abord, je suis content de voir surgir à nouveau la question de la contri
 
 
 Mon avis sur l'initiative eZ France (site disparu) a déclenché un mini-débat.
-Tout d'abord je tiens à préciser plusieurs choses :
+Tout d'abord je tiens à préciser plusieurs choses :
 
 * je parle ici en mon nom uniquement (comme d'habitude sur [damien.pobel.fr](/))
 * les initiatives communautaires ne sont pas si nombreuses, ce n'est pas pour

@@ -8,7 +8,7 @@ remoteId: "88ef1abb207b00756ee922544acd577e"
 published: 2007-04-26T19:57:26+02:00
 ---
  
-Extrait de mes [statistiques awstats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi), dans les mots clés les plus tapés dans les moteurs de recherche :
+Extrait de mes [statistiques awstats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi), dans les mots clés les plus tapés dans les moteurs de recherche :
 
 <figure class="object-center"><img loading="lazy" src="/images//segolene-nue.png" alt="Ségolène nue"></figure>
 

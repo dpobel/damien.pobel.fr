@@ -8,7 +8,7 @@ remoteId: "f4f0bf25cce5c2a2f1b3b95291263b56"
 published: 2007-01-05T20:33:59+01:00
 ---
 
-Extrait d'une discussion (de tête) aujourd'hui au travail entre [un collègue à la recherche (entre autre) de l'âme soeur](http://www.llaumgui.com/post/Bonnes-resolutions-pour-2007) et ma chère et tendre :
+Extrait d'une discussion (de tête) aujourd'hui au travail entre [un collègue à la recherche (entre autre) de l'âme soeur](http://www.llaumgui.com/post/Bonnes-resolutions-pour-2007) et ma chère et tendre :
 
 <blockquote>
 

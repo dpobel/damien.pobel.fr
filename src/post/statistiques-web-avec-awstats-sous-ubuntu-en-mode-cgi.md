@@ -33,13 +33,13 @@ moyennant quelques petites modifications sous tout *Unix like*.
 Comme d'habitude sous Ubuntu, il existe un paquet pour installer AWStats, il
 suffit donc de l'installer avec
 [synaptic](http://pwet.fr/man/linux/administration_systeme/synaptic) (ou
-équivalent) ou de taper dans un terminal :
+équivalent) ou de taper dans un terminal :
 
  ``` bash
 $ sudo apt-get install awstats
 ```
 
-AWStats se configure à l'aide d'un fichier texte stocké dans /etc/awstats. Le plus simple pour commencer la configuration est de partir du fichier /etc/awstats/awstats.conf en le copiant :
+AWStats se configure à l'aide d'un fichier texte stocké dans /etc/awstats. Le plus simple pour commencer la configuration est de partir du fichier /etc/awstats/awstats.conf en le copiant :
 
  ``` bash
 $ sudo cp /etc/awstats/awstats.conf /etc/awstats/awstats.DOMAINECONSULTATION.TLD.conf
@@ -49,7 +49,7 @@ $ sudo cp /etc/awstats/awstats.conf /etc/awstats/awstats.DOMAINECONSULTATION.TLD
 où DOMAINECONSULTATION.TLD est le domaine par lequel les statistiques seront accessibles. Pour ma part, je les consulte par `http://pwet.fr/stats/`, mon fichier est donc awstats.pwet.fr.conf. Si je les consultais via `http://www.pwet.fr/stats/`, ce serait awstats.www.pwet.fr.conf.
 
  
-Il faut ensuite éditer ce fichier et modifier quelques paramètres pour les adapter à votre configuration (les commentaires dans ce fichier sont très utiles) :
+Il faut ensuite éditer ce fichier et modifier quelques paramètres pour les adapter à votre configuration (les commentaires dans ce fichier sont très utiles) :
 
  * `LogFile` : le chemin complet vers le fichier de log d'Apache (par exemple /var/log/apache/access.domaine.tld.log)
  * `LogFormat` : il faut indiquer le format de log, j'utilise *combined* dans Apache, donc 1 est la bonne valeur

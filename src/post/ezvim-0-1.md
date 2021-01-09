@@ -17,7 +17,7 @@ eZVim est un plugin Vim sous licence GPL qui ajoute à cet éditeur quelques fon
 ### Classes View
 
 
-Une barre verticale, le **Classes View**, permet de voir rapidement, les groupes de classes, les classes et leurs attributs. Cette barre affiche les informations les plus pertinentes (identifiant numérique, identifiant, classe, *datatype*,…). Les attributs obligatoires sont mis en valeur et préfixés par le signe +. Des screenshots sont en ligne sur [la page *gallery* du projet](http://projects.ez.no/ezvim/gallery/screenshots). Plusieurs raccourcis sont utilisables dans cette barre :
+Une barre verticale, le **Classes View**, permet de voir rapidement, les groupes de classes, les classes et leurs attributs. Cette barre affiche les informations les plus pertinentes (identifiant numérique, identifiant, classe, *datatype*,…). Les attributs obligatoires sont mis en valeur et préfixés par le signe +. Des screenshots sont en ligne sur [la page *gallery* du projet](http://projects.ez.no/ezvim/gallery/screenshots). Plusieurs raccourcis sont utilisables dans cette barre :
 
 <ul>
     <li>+ ouvre l'élément courant</li>
@@ -35,7 +35,7 @@ Cette fonctionnalités nécessite l'installation de [l'extension eZ Publish Smil
 ### Abbréviations Vim
 
 
-Les abbréviations Vim permettent de taper quelques lettres et l'éditeur les remplace automatiquement par la séquence définie. Par exemple, en tapant **ezfcls** (Fetch Content List Sort) suivi d'un espace, Vim va *automagiquement* remplacer cette séquence par :
+Les abbréviations Vim permettent de taper quelques lettres et l'éditeur les remplace automatiquement par la séquence définie. Par exemple, en tapant **ezfcls** (Fetch Content List Sort) suivi d'un espace, Vim va *automagiquement* remplacer cette séquence par :
 
  ```
 fetch(content, list, hash('parent_node_id', __ ,
@@ -62,7 +62,7 @@ Les éléments à complèter par le développeur sont remplacés par la chaîne 
 ### A venir
 
 
-D'autres fonctionnalités sont à venir, en particulier :
+D'autres fonctionnalités sont à venir, en particulier :
 
 * Une coloration syntaxique spécifique pour les templates eZ Publish
 * La validation syntaxique des templates dans Vim

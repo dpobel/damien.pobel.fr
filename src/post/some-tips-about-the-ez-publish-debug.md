@@ -17,7 +17,7 @@ translations warnings).
 ## Enable the debug ouput
 
 
-I usually activate it by putting those lines in the site.ini.append.php of the siteaccess I work on :
+I usually activate it by putting those lines in the site.ini.append.php of the siteaccess I work on :
 
 ``` ini
 [DebugSettings]
@@ -102,7 +102,7 @@ call. It is sometimes easier to read and less obtrusive than using the
 [attribute()
 operator](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_operators/miscellaneous/attribute),
 I use it in [eZ Class Lists 1.0](/post/ez-class-lists-1-0-for-ez-publish-4-0) to
-display the hash used to filter objects list with something like :
+display the hash used to filter objects list with something like :
 
 ```
 {debug-log msg='template fetch filter' var=$filter_hash}

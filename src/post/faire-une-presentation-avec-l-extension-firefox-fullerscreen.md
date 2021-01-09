@@ -17,7 +17,7 @@ Suivant régulièrement le [Glazblog](http://glazman.org/weblog/), je connais l'
 Finalement, le seul point un peu difficile pour moi a été l'insertion d'un numéro de page sur chaque slide. Au départ, je voulais utiliser [les compteurs en CSS](http://www.w3.org/TR/CSS21/generate.html#counters), mais il semble que ça ne puisse pas marcher puisque l'extension modifie la propriété display de chaque div servant de *slide* à none ce qui fait qu'en mode projection, le compteur reste constamment à un. J'ai donc été obligé d'insérer une petite fonction javascript comptant le nombre de div servant à l'insertion du compteur. À mon avis, il serait intéressant que cette fonctionnalité soit ajouter directement dans l'extension à moins qu'il existe déjà un moyen que je n'ai pas trouvé.
 
  
-Si ça intéresse quelqu'un je met à disposition un modèle de présentation assez basique très inspiré de l'ancien style du site [eZ.no](http://ez.no) encore utilisé sur [projects.ez.no](http://projects.ez.no/) :
+Si ça intéresse quelqu'un je met à disposition un modèle de présentation assez basique très inspiré de l'ancien style du site [eZ.no](http://ez.no) encore utilisé sur [projects.ez.no](http://projects.ez.no/) :
 
  * [Archive contenant le fichier HTML et les images](/files/Modele_Presentation.tar.gz)
  * [Démonstration en ligne](http://vrac.pwet.fr/presentation_fullerscreen/modele.htm) à utiliser une fois l'extension Fullerscreen installée (F11)

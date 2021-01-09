@@ -40,7 +40,7 @@ qu'[il n'est pas possible de spécifier des arguments à l'éxécutable lancé p
 Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=339514), et que
 [Thunderbird n'est pas capable de reconnaître l'URL d'un flux RSS à moins de le
 lancer avec de la manière
-suivante](https://bugzilla.mozilla.org/show_bug.cgi?id=348450) :
+suivante](https://bugzilla.mozilla.org/show_bug.cgi?id=348450) :
 
  ``` bash
 $ mozilla-thunderbird -mail feed:http://pwet.fr/rss/feed/billets

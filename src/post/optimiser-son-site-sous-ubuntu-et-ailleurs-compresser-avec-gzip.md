@@ -11,7 +11,7 @@ published: 2008-08-18T00:24:48+02:00
 Après avoir appliqué la règle 3 [en ajoutant et configurant l'entête Expires](/post/optimiser-son-site-sous-ubuntu-configurer-l-en-tete-expires), passons à la règle 4 du [Livre *High Performances Web Sites*](/post/livre-high-performances-web-sites) (ou [des recommandations de performances Yahoo!](http://developer.yahoo.com/performance/rules.html)) en compressant avec gzip les données transmises par le serveur web, ici [Apache2](http://pwet.fr/man/linux/administration_systeme/apache2). Comme son nom le suggère, cette règle vise à limiter au maximum le poids des contenus distribués en réduisant de près de 70% la taille des fichiers textes. Cela permet d'accélérer le premier chargement du site avant la mise en cache par le navigateur. Pour cela, on peut configurer Apache2 pour utiliser le [mod_deflate](http://httpd.apache.org/docs/2.0/mod/mod_deflate.html) qui va se charger de compresser ce qui peut l'être pour un sur coût CPU faible.
 
 
-La première étape consiste à activer ce module ainsi que [le module headers](http://httpd.apache.org/docs/2.0/mod/mod_headers.html) avec [a2enmod](http://pwet.fr/man/linux/administration_systeme/a2enmod) et à recharger Apache pour prendre en compte ce nouveau module :
+La première étape consiste à activer ce module ainsi que [le module headers](http://httpd.apache.org/docs/2.0/mod/mod_headers.html) avec [a2enmod](http://pwet.fr/man/linux/administration_systeme/a2enmod) et à recharger Apache pour prendre en compte ce nouveau module :
 
 ``` bash
 $ sudo a2enmod deflate

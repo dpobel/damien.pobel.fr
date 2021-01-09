@@ -8,7 +8,7 @@ published: 2010-10-12T00:22:28+02:00
 ---
 
 [pwet.fr](http://pwet.fr) et Planet eZ Publish fr sont maintenant propulsés par [eZ Publish](/tag/ez-publish) 4.4. Deux migrations eZ Publish 4.2 vers 4.4 en deux jours, c'est un bon rythme même si le plus long a finalement été de *commiter* dans mon SVN ! Seule petite subtilité dans la mise à jour, j'ai eu à modifier légérèment les *rewrite rules* Apache pour autoriser la distribution directe des fichiers dans les répertoires du type&nbsp;<code>extension/extname/design/designname/lib</code>
- :
+ :
 
 ``` apache
 RewriteRule ^/extension/[^/]+/design/[^/]+/(lib|flash|stylesheets|images|javascripts?)/.* - [L]

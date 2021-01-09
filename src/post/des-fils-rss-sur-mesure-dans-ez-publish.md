@@ -40,7 +40,7 @@ règle d'
 mais dans le cas d'un *layout*, il est également possible de spécifier le
 &quot;Content-Type&quot; que générera celui-ci. Dans le cas de mes fils RSS, mon
 [layout.ini.append.php](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/configuration_files/layout_ini)
-contient une section qui ressemble à :
+contient une section qui ressemble à :
 
  ``` ini
 [rss]
@@ -49,7 +49,7 @@ ContentType=text/xml
 ```
 
  
-Ces lignes signifient que les pages appelées via l'URL /layout/set/rss/ utiliseront comme *template pagelayout* le fichier design/&lt;mon_design&gt;/templates/rss_pagelayout.tpl et tout cela générera du XML. Le fichier en question est très simple et on retrouve le point central des *pagelayout* traditionnels (si je puis dire…) :
+Ces lignes signifient que les pages appelées via l'URL /layout/set/rss/ utiliseront comme *template pagelayout* le fichier design/&lt;mon_design&gt;/templates/rss_pagelayout.tpl et tout cela générera du XML. Le fichier en question est très simple et on retrouve le point central des *pagelayout* traditionnels (si je puis dire…) :
 
  ```
 <?xml version="1.0" encoding="iso-8859-1"?>
@@ -85,7 +85,7 @@ node_id en paramètre pour avoir des fils RSS &quot;automatiques&quot;. Par
 exemple, le fils RSS des commentaires du billets où je parlais de [l'inclusion
 de vidéo de Dailymotion ou de Youtube dans eZ Publish via un custom
 tag](/post/inclure-une-video-de-dailymotion-youtube-ou-autre-dans-ez-publish)
-est disponible à l'adresse :
+est disponible à l'adresse :
 `pwet.fr/rss/feed/commentaires/64219`
 qui correspond en fait à `pwet.fr/layout/set/rss/content/view/rssco/64219`.
 Il ne reste donc plus qu'à adapter les templates pour ajouter les liens vers ces

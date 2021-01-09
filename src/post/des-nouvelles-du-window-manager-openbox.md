@@ -14,7 +14,7 @@ mentionner sur ce blog](/tag/openbox). À la base, il s'agit comme
 [fluxbox](http://pwet.fr/man/linux/commandes/fluxbox) d'un *fork* du window
 manager [blackbox](http://pwet.fr/man/linux/commandes/blackbox). Dans sa version
 3, Il a totalement été réécrit en langage C (blackbox et fluxbox sont en C++)
-tout en gardant la même philosophie. Ses principales caractéristiques sont :
+tout en gardant la même philosophie. Ses principales caractéristiques sont :
 
  * son aspect minimaliste
  * sa rapidité

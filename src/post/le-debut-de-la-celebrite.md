@@ -15,7 +15,7 @@ l'Hérault](http://photos.pwet.fr/villes-et-departements/herault-34/) et
 cherchant une photo d'un paysage de ce même département pour la couverture. Le
 livre en question est prévu pour être tiré à 600 exemplaires, pas le *best
 seller* de l'année donc, mais ça reste un livre quand même… Cette personne
-souhaitait connaître les conditions d'utilisation des photos suivantes :
+souhaitait connaître les conditions d'utilisation des photos suivantes :
 
 * [Le domaine de
 Restinclière](http://photos.pwet.fr/villes-et-departements/herault-34/prades-le-lez/le-domaine-de-restincliere/)

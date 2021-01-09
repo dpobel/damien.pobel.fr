@@ -35,7 +35,7 @@ et
 ## Nouvelle stack vs. legacy
 
 
-Au final, il reste 3 fonctionnalités basées sur la partie *legacy* :
+Au final, il reste 3 fonctionnalités basées sur la partie *legacy* :
 
 * Le formulaire de [contact](http://www.planet-ezpublish.fr/contact), les
   attributs collecteur d'information n'étant pas pris en charge pour le moment

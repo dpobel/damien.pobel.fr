@@ -21,7 +21,7 @@ bit tough ;-) Congratulation to all winners, especially to
 [Jérôme](http://www.lolart.net/) and [Gilles](http://gandbox.fr/), you deserve
 this price.
 
-On the talks side, there were some really nice presentations. My top 3 is :
+On the talks side, there were some really nice presentations. My top 3 is :
 
 * [PHP in 2011](http://talks.php.net/show/ezkey2011) by Rasmus Lerdorf (hey that's THE creator of PHP ;-)
 * [Profiling PHP Applications](http://derickrethans.nl/talks/profiling-ezc11.pdf) by Derik Rethans

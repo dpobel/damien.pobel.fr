@@ -8,7 +8,7 @@ published: 2008-02-13T13:10:17+01:00
 updated: 2016-02-10 23:12
 ---
 
-Une vidéo hilarante reçue aujourd'hui au travail :
+Une vidéo hilarante reçue aujourd'hui au travail :
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7pdB3rLi3QQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -87,7 +87,7 @@ pour la fin de l'année.
 
 L'après midi s'est terminé par un barcamp axé sur les questions apportées par
 les différents participants. Chacun a pu échanger sur ses &quot;recettes de
-cuisine&quot; eZ Publish, je retiens plusieurs points très en vrac :
+cuisine&quot; eZ Publish, je retiens plusieurs points très en vrac :
 
 * PHP 5.3 apporte des gains significatifs de consomation mémoire
 * Le mode cluster d'eZ Publish pose souvent problème (d'où les améliorations annoncées). Des solutions de contournements ont été mises en place par plusieurs prestataires.

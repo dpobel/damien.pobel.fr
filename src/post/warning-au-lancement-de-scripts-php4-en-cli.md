@@ -14,7 +14,7 @@ Eft](http://doc.ubuntu-fr.org/edgy) installée sur [ma
 Dedibox](/post/migration-sur-dedipwet). Rien de bien grave, mais à chaque
 lancement d'un script (au hasard un de [ceux d'eZ
 Publish](/post/les-scripts-cli-fournis-avec-ez-publish) :-), j'ai le message
-suivant :
+suivant :
 
 ``` bash
 $ php4 update/common/scripts/cleanup.php -s plain_site_admin expired_session

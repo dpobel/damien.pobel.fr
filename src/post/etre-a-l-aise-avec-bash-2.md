@@ -20,7 +20,7 @@ Suite de la série d'articles sur [comment rendre son shell bash un peu plus att
 Les shells sont configurés en partie à l'aide de variables d'environnement. Il en existe un certain nombre et celles définies sur votre système peuvent être listées à l'aide de [printenv](http://pwet.fr/man/linux/commandes/printenv). Parmis ces variables, CDPATH permet de se simplifier la navigation dans l'arborescence à l'aide du shell et sa commande cd.
 
  
-En effet, par défaut, cd xxxyyyzzz recherche le répertoire xxxyyyzzz dans le répertoire courant, mais en spécificiant la variable CDPATH, il est possible de demander au shell de regarder éventuellement dans d'autres répertoires si ce répertoire existe. J'utilise cette fonctionnalités pour naviguer rapidement dans les différents répertoires stockant les sites web sur ma machine en insérant la ligne suivante dans mon fichier .bashrc :
+En effet, par défaut, cd xxxyyyzzz recherche le répertoire xxxyyyzzz dans le répertoire courant, mais en spécificiant la variable CDPATH, il est possible de demander au shell de regarder éventuellement dans d'autres répertoires si ce répertoire existe. J'utilise cette fonctionnalités pour naviguer rapidement dans les différents répertoires stockant les sites web sur ma machine en insérant la ligne suivante dans mon fichier .bashrc :
 
  ``` bash
 export CDPATH=".:/home/damien/public_html"
@@ -40,7 +40,7 @@ shopt -s cdspell
 ```
 
  
-Avec cette option certaines fautes sont corrigées :
+Avec cette option certaines fautes sont corrigées :
 
  ``` bash
 $ mkdir Documents
@@ -70,7 +70,7 @@ cd - permet de retourner au répertoire précédent. Très pratique pour passer 
 ## Les *alias* 
 
  
-Les *alias* permettent se simplifier des lignes de commandes en les réduisant au plus court et aussi de pallier aux fautes de frappe. Pour définir un *alias*, il suffit d'utiliser [la commande interne](http://pwet.fr/man/linux/conventions/bash_builtins) alias. Lorsqu'un *alias* défini est tappé par l'utilisateur, le bash remplace simplement l'alias par sa définition. Quelques exemples de féfinitions (à mettre dans son .bashrc) :
+Les *alias* permettent se simplifier des lignes de commandes en les réduisant au plus court et aussi de pallier aux fautes de frappe. Pour définir un *alias*, il suffit d'utiliser [la commande interne](http://pwet.fr/man/linux/conventions/bash_builtins) alias. Lorsqu'un *alias* défini est tappé par l'utilisateur, le bash remplace simplement l'alias par sa définition. Quelques exemples de féfinitions (à mettre dans son .bashrc) :
 
  ``` bash
 alias cd..='cd ..'

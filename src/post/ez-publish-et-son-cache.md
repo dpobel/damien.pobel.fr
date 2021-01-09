@@ -14,7 +14,7 @@ En publiant mon précédent billet [L'électronique et l'environnement](/post/l-
 Heureusement pour remédier à ce problème, il est possible de configurer la manière dont eZ publish vide son cache grâce à la fonctionnalité **SmartCacheClear**. Par défaut lors de la publication ou la modification d'un objet dans eZ publish les caches associés à cet objet et à celui de ses parents directs sont vidés. Mais, si comme sur ce site, une autre page utilise ces nouvelles données il faut en informer le CMS.
 
 
-Cette opération se fait dans le fichier de configuration **settings/viewcache.ini** et pour plus de facilité il vaut mieux ne modifier (ou créer que les fichiers *.append.php). Voici donc un extrait de mon fichier settings/override/viewcache.ini.append.php :
+Cette opération se fait dans le fichier de configuration **settings/viewcache.ini** et pour plus de facilité il vaut mieux ne modifier (ou créer que les fichiers *.append.php). Voici donc un extrait de mon fichier settings/override/viewcache.ini.append.php :
 
 ``` ini
 [ViewCacheSettings]

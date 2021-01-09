@@ -9,7 +9,7 @@ updated: 2019-10-13
 
 basée sur https://www.ecoconso.be/fr/content/recette-fabriquer-son-produit-wc-maison-et-naturel-diy
 
-pour environ 2L de produits :
+pour environ 2L de produits :
 
 1. Faire bouillir 1,2L d'eau avec 600ml de vinaigre blanc
 1. Mélanger dans un bol 8 cuillères à soupe de fécule de maïs ou d'amidon (ou

@@ -8,7 +8,7 @@ published: 2010-11-25T14:07:52+01:00
 updated: 2016-02-12 13:33
 ---
 
-En attendant d'avoir le temps d'écrire des articles avec un peu plus de contenu, voici quelques liens glanés ci et là ces derniers temps sur un peu tout :
+En attendant d'avoir le temps d'écrire des articles avec un peu plus de contenu, voici quelques liens glanés ci et là ces derniers temps sur un peu tout :
 
 * [Un émulateur Gameboy en HTML5 et JavaScript](https://sourceforge.net/projects/jsgbemu/), c'est juste énorme ce truc, de quoi tuer un peu de productivité, désolé :-)
 * Il est maintenant possible de tester les performances de son sur site sur [WebPageTest.org (en)](http://www.webpagetest.org/)&nbsp;avec Internet Explorer 8 avec une machine installée à Paris, auparavant seul IE7 était disponible depuis Paris.

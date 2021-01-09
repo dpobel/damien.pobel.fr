@@ -31,7 +31,7 @@ ce billet..) ne semble pas fonctionner avec, mais je n'ai pas trop chercher pour
 le moment.
 
 
-Bon il y a quand même quelques trucs bêtes/idiots :
+Bon il y a quand même quelques trucs bêtes/idiots :
 
 * Visiblement le lecteur DVD de type Slot-in de mon PC portable n'aime pas le
   mini DVD fourni, toute façon il ne doit contenir que des logiciels pour

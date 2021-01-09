@@ -32,7 +32,7 @@ dans le forum ez.no à laquelle [Kristof Coomans](http://blog.coomanskristof.be/
 a, comme à son habitude, apporté une réponse claire et précise.
 
  
-Pour faire court, les droits nécessaires sont les suivvants :
+Pour faire court, les droits nécessaires sont les suivvants :
 
 * CREATE
 * DROP
@@ -45,7 +45,7 @@ Pour faire court, les droits nécessaires sont les suivvants :
 * CREATE TEMPORARY TABLES
 * LOCK TABLES
  
-Ce qui lors de la création de l'utilisateur MySQL donne la requête suivante (à adapter…) :
+Ce qui lors de la création de l'utilisateur MySQL donne la requête suivante (à adapter…) :
 
  ``` sql
 GRANT CREATE,DROP,ALTER,INDEX,DELETE,INSERT,SELECT,

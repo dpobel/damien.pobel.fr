@@ -8,7 +8,7 @@ published: 2006-11-26T16:53:06+01:00
 updated: 2016-02-12 18:05
 ---
  
-Résumé des épisodes précédents :
+Résumé des épisodes précédents :
 
 * [Le prompt bash et la manipulation des titres des fenêtres](/post/etre-a-l-aise-avec-bash-1)
 * [Navigation dans les répertoires en ligne de commande et les alias](/post/etre-a-l-aise-avec-bash-2)
@@ -124,7 +124,7 @@ $ cat .bashrc | egrep --color ' [a-z][a-z]='
 
  
 Cette ligne permet d'obtenir tous les alias de 2 caractères. Ce qui donne dans
-mon terminal :
+mon terminal :
 
 <figure class="object-center"><a href="/images/couleur-avec-grep.png"><img loading="lazy" src="/images//couleur-avec-grep.png" alt="Couleur avec grep">
 </a></figure>
@@ -153,7 +153,7 @@ combinée à d'autres utilitaires de traitement de texte
 ([cut](http://pwet.fr/man/linux/commandes/cut),
 [sed](http://pwet.fr/man/linux/commandes/sed),
 [grep](http://pwet.fr/man/linux/commandes/grep),…) permet de suivre
-différents types de journaux facilement, deux exemples courants :
+différents types de journaux facilement, deux exemples courants :
 
  ``` bash
 # suivre les logs d'Apache avec uniquement l'IP du visiteur, la page demandée,

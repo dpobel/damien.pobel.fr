@@ -21,14 +21,14 @@ conversion en KML) avant de comprendre que ce site utilisait en fait le logiciel
 Universe](http://doc.ubuntu-fr.org/depots#universe_et_multiverse). Une fois ces
 dépôts configurés, pour l'installer vous pouvez utiliser
 [synaptic](http://pwet.fr/man/linux/administration_systeme/synaptic) ou taper la
-ligne suivante :
+ligne suivante :
 
 ``` bash
 $ sudo apt-get install gpsbabel
 ```
 
 
-Ensuite pour convertir les fichiers GDB de l'association de VTT Philovelo, j'ai utilisé la ligne de commande suivante :
+Ensuite pour convertir les fichiers GDB de l'association de VTT Philovelo, j'ai utilisé la ligne de commande suivante :
 
 ``` bash
 gpsbabel -i gdb -f gdb/50km\ -\ Teyran.gdb -o kml,points=0,line_width=4,line_color=ff000099,units=m -F kml/50km_-_Teyran.kml

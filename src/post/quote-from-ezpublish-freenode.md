@@ -7,7 +7,7 @@ remoteId: "084572e6ad3619f1fc8c984205eb0a38"
 published: 2007-11-26T00:37:20+01:00
 ---
 
-About [my URL Aliases problem](/post/url-aliases-transformed-into-numbers-when-upgrading-to-ez-publish-3-10-0), on [#ezpublish@freenode](http://ezpedia.org/wiki/en/ez/irc), November 25, 2007 :
+About [my URL Aliases problem](/post/url-aliases-transformed-into-numbers-when-upgrading-to-ez-publish-3-10-0), on [#ezpublish@freenode](http://ezpedia.org/wiki/en/ez/irc), November 25, 2007 :
 
 ``` 
 21:48 <tigrou> grrrr

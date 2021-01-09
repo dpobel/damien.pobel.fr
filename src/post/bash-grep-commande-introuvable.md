@@ -15,7 +15,7 @@ Ubuntu-fr](http://www.mail-archive.com/ubuntu-fr@lists.ubuntu.com/msg09312.html)
 septembre](https://lists.ubuntu.com/archives/ubuntu-fr/2006-September/thread.html)
 ?). J'ai moi même eu ce problème lorsque j'ai commencé à utiliser [Ubuntu
 Hoary](http://doc.ubuntu-fr.org//hoary), voila ce qui peut se
-produire sur un exemple tout simple :
+produire sur un exemple tout simple :
 
 ```bash
 $ ls ~/Desktop | grep 'JPG'
@@ -51,7 +51,7 @@ Comme souvent sous Linux, il est possible de changer ce comportement à l'aide d
 [xmodmap](http://pwet.fr/man/linux/commandes/x2/xmodmap). Pour cela il suffit de
 créer un fichier .Xmodmap dans votre répertoire utilisateur (attention à la
 casse sinon le fichier ne sera pas chargé automatiquement) avec le contenu
-suivant :
+suivant :
 
 ``` 
 keycode 65 = space space space space space

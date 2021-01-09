@@ -9,7 +9,7 @@ updated: 2016-02-12 13:49
 ---
 
 Il se passe des trucs sur la planète vélo et en particulier sur [le Tour de
-France](http://www.letour.fr/) :
+France](http://www.letour.fr/) :
 
 * [Michael Rasmussen](http://www.feltet.dk/michaelrasmussen/) un peu
 trop joueur avec la souplesse du règlement et des avertissements se fait virer

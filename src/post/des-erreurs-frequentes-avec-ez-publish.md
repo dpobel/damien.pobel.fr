@@ -20,7 +20,7 @@ Pour moi ce problème venait de la non activation du module PHP4 domxml ce qui a
 pour résultat d'effectuer l'ensemble des opérations sur les fichiers XML avec du
 code entièrement écrit en PHP plutôt que par l'API compilé dans l'interprèteur
 PHP ce qui est évidemment beaucoup moins efficace. L'erreur lors de
-l'installation ressemble à la suivante :
+l'installation ressemble à la suivante :
 
  ``` 
 Fatal error: Maximum execution time of 60 seconds exceeded in foobar.php on line 300

@@ -11,7 +11,7 @@ published: 2010-12-02T13:38:34+01:00
 Encore quelques liens glanés ci et là;&nbsp;ça va finir par devenir le rendez vous du jeudi midi, enfin [ce n'est que la deuxième fois](/post/quelques-liens-en-vrac);-)
 
 
-Au menu, performances, php, une radio geek et développement d'applications mobiles :
+Au menu, performances, php, une radio geek et développement d'applications mobiles :
 
 * [The cookie monster](http://www.varnish-software.com/blog/cookie-monster) : une courte explication sur le problème des cookies avec le reverse proxy [Varnish](http://www.varnish-cache.org/) et surtout quelques pointeurs sur comment le configurer pour contourner cela
 * [head.js](http://headjs.com/) ou comment inclure des fichiers JavaScripts de manière différé et efficace d'un point de vue performances front end

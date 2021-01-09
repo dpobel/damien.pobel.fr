@@ -8,7 +8,7 @@ published: 2008-05-10T22:27:41+02:00
 updated: 2016-02-12 13:33
 ---
 
-Vu sur l'IBM Developer Works un court et synthétique article sur les nouveautés attendues dans PHP6] (ibm.com/developerworks/library/os-php-future/ page hors ligne depuis), encore plus en bref :
+Vu sur l'IBM Developer Works un court et synthétique article sur les nouveautés attendues dans PHP6] (ibm.com/developerworks/library/os-php-future/ page hors ligne depuis), encore plus en bref :
 
 * Support de l'[Unicode](http://fr.wikipedia.org/wiki/Unicode)
 * Ajout des [Namespaces](http://fr.wikipedia.org/wiki/Namespace)

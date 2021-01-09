@@ -25,7 +25,7 @@ IE4Linux (tatanka.com.br/ies4linux/ page cassée) qui permet
 d'installer et d'utiliser Internet Explorer 5.0, 5.5, 6.0 ainsi que Flash 8 via
 [Wine](http://pwet.fr/man/linux/commandes/wine). C'est très moche, pas très
 stable mais ça peut suffir ponctuellement… En tout cas pour ce site ça permet
-d'apprécier les grandes euh… *qualités* de ce site :
+d'apprécier les grandes euh… *qualités* de ce site :
 
 * Des effets flash inutiles, énervants voire gênants
 * De la musique…

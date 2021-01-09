@@ -64,7 +64,7 @@ d'eZ Labs a semble t il mis au point un système de tests poussés basé sur
 [Selenium](http://docs.seleniumhq.org/).
 
 Enfin, Paul nous a confié quelques orientations futures sur le développement,
-j'ai retenu en vrac :
+j'ai retenu en vrac :
 
 * l'amélioration [du mode
   Cluster](http://ez.no/doc/ez_publish/technical_manual/3_10/features/clustering)
@@ -111,7 +111,7 @@ sorti.
 
 Paul a également fait une courte intervention sur le portage des extensions vers
 eZ Publish 4. Dans la plupart des cas, ce sera relativement simple et les points
-à surveiller sont les suivants :
+à surveiller sont les suivants :
 
 * les fonctions sur les chaînes de caractères doivent être compatibles avec
   l'UTF-8 puisque ce sera l'encodage d'eZ Publish
@@ -132,7 +132,7 @@ Enfin l'après midi s'est terminé par ma présentation sur quelques expérience
 solutions mises en place dans le cadre de mon travail sur des sites à plus ou
 moins fort trafic. J'ai d'abord fait quelques rappels sur les performances *out
 of the box* d'eZ Publish avant d'examiner quelques solutions mises en place pour
-aller plus loin :
+aller plus loin :
 
 * cache statique
 * mode cluster

@@ -21,7 +21,7 @@ sens propre&nbsp;!) et puis évidemment [AC/DC](/tag/acdc) en vrai, en chair et
 en os, live, wahou quelle énergie, quelle claque !
 
 
-Quelques photos sur le web :
+Quelques photos sur le web :
 
 * [Rockerparis partie 1](http://rockerparis.blogspot.com/2009/02/acdc-paris-bercy-2-feb-27th-2009-part-1.html)
 * [Rockerparis partie 2](http://rockerparis.blogspot.com/2009/02/acdc-bercy-2-feb-27th-2009-part-2.html)

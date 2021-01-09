@@ -8,7 +8,7 @@ remoteId: "00be671d9d2e17ab8fa99923b2bb55da"
 published: 2008-08-11T23:49:41+02:00
 ---
 
-Lire [un livre sur comment optimiser son site web](/post/livre-high-performances-web-sites) c'est bien, appliquer les conseils qui s'y trouvent c'est encore mieux. Parmi les 14 bonnes pratiques, 3 peuvent être appliquées très rapidement au niveau système en quelques lignes de commande et de configuration du serveur web pour un résultat quasi immédiat :
+Lire [un livre sur comment optimiser son site web](/post/livre-high-performances-web-sites) c'est bien, appliquer les conseils qui s'y trouvent c'est encore mieux. Parmi les 14 bonnes pratiques, 3 peuvent être appliquées très rapidement au niveau système en quelques lignes de commande et de configuration du serveur web pour un résultat quasi immédiat :
 
 * Règle 3 : [Ajoutez et configurez l'en-tête *Expires*](http://developer.yahoo.com/performance/rules.html#expires)
 * Règle 4 : [Compressez avec *gzip*](http://developer.yahoo.com/performance/rules.html#gzip)
@@ -23,7 +23,7 @@ Dans un premier temps, je vais m'intéresser à la règle 3, je suppose que vous
 L'en-tête *Expires* indique quand un élément devra expirer du cache du navigateur; mettre une date d'expiration dans un futur lointain permet de maximiser l'utilisation du cache navigateur et donc d'éviter les téléchargements inutiles, ce qui est particulièrement utile pour les éléments statiques (images, feuilles de style,…) qui ont tendances à changer… peu fréquemment mais à ralentir l'affichage de la page si ils ne sont pas en cache. Pour ces éléments, il est possible de configurer l'expiration dans Apache avec [le module expires](http://httpd.apache.org/docs/2.0/mod/mod_expires.html). Pour les pages dynamiques ou éléments générés dynamiquement, c'est au script d'envoyer l'en-tête et sa valeur adéquate par exemple avec la fonction [header() en PHP](http://fr.php.net/header).
 
 
-L'activation du module pour Apache2, il faut utiliser [a2enmod](http://pwet.fr/man/linux/administration_systeme/a2enmod) avec la ligne suivante et ensuite recharger apache :
+L'activation du module pour Apache2, il faut utiliser [a2enmod](http://pwet.fr/man/linux/administration_systeme/a2enmod) avec la ligne suivante et ensuite recharger apache :
 
 ``` bash
 $ sudo a2enmod expires
@@ -32,7 +32,7 @@ $ sudo /etc/init.d/apache2 reload
 ```
 
 
-Il reste alors à configurer ce module. Je stocke la configuration de ce module dans le fichier /etc/apache2/conf.d/expires dont voici le détail :
+Il reste alors à configurer ce module. Je stocke la configuration de ce module dans le fichier /etc/apache2/conf.d/expires dont voici le détail :
 
 ``` 
 ExpiresActive On

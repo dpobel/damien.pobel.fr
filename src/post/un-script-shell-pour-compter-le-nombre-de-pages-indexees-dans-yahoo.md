@@ -44,7 +44,7 @@ rm -f "$TMP_XML" "$TMP_XSL"
 ```
 
  
-Ce script me permettra de comparer la vitesse à laquelle ces moteurs indexent mon site. Actuellement ces scripts donnent le résultat suivant :
+Ce script me permettra de comparer la vitesse à laquelle ces moteurs indexent mon site. Actuellement ces scripts donnent le résultat suivant :
 
  ``` 
 $ ./google_count.sh pwet.fr

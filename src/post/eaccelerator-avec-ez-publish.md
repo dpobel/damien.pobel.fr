@@ -25,7 +25,7 @@ puisqu'elle intervient au niveau de l'interprétation du code PHP.
 Personnellement, j'utilise [eAccelerator](http://www.eaccelerator.net/). Il faut veiller
 à bien le configurer pour qu'il ait suffisamment de mémoire partagée sous peine
 de voir apparaître des pages blanches sans explication. Ma configuration
-d'eAccelerator est la suivante :
+d'eAccelerator est la suivante :
 
 ``` ini
 extension=eaccelerator.so

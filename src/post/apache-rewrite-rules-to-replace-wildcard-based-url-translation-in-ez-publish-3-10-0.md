@@ -12,7 +12,7 @@ Wildcard based URL translation has been removed in [eZ Publish](/tag/ez-publish)
 documentation](http://ez.no/doc/ez_publish/upgrading/upgrading_to_3_10/from_3_9_x_to_3_10_0)
 on eZ.no, we can now read (I think this note was not there when [I
 upgrade](/post/upgrading-a-large-site-from-ez-publish-3-9-2-to-ez-publish-3-10)
-at the beginning of October…) :
+at the beginning of October…) :
 
 <blockquote>
 Before continuing, note that eZ Publish 3.10.0 does not support
@@ -34,7 +34,7 @@ Wildcard rules are still in the database, so I wrote a small script that
 transforms eZ Publish wildcard rules into [apache rewrite
 rules](http://httpd.apache.org/docs/1.3/mod/mod_rewrite.html). You can [download
 the script](/files/wildcard_apache_rules.php.txt), you just have to run it from
-eZ Publish root directory. For me, it generates something like :
+eZ Publish root directory. For me, it generates something like :
 
 ``` apache
 #### Auto-generated rules ####
@@ -59,7 +59,7 @@ mod_rewrite has to be loaded in apache (you already have it in a [Virtual host
 setup](http://ez.no/doc/ez_publish/technical_manual/3_10/installation/virtual_host_setup))
 and for direct rules (kind of alias without redirect) you also need
 [mod_proxy](http://httpd.apache.org/docs/1.3/mod/mod_proxy.html) to be loaded.
-As I use apache 1.3 under Ubuntu, I run these commands as root :
+As I use apache 1.3 under Ubuntu, I run these commands as root :
 
 ``` bash
 $ sudo apache-modconf apache enable libproxy

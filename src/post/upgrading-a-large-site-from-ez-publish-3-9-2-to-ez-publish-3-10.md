@@ -19,7 +19,7 @@ site]() from [eZ Publish](/tag/ez-publish) 3.9.2 to eZ Publish 3.10.0. [My last
 upgrade was quite long](/post/migration-vers-ez-publish-3-9-2), but this one
 could have taken ages ! As [I mentioned in the developper
 forum](http://share.ez.no/forums/developer/upgrade-to-3.10), the
-updateniceurls.php script started with this message :
+updateniceurls.php script started with this message :
 
 ``` bash
 $ php4 bin/php/updateniceurls.php -s plain_site_admin
@@ -35,7 +35,7 @@ Importing 62638 standard urls
 
 WOW **155 hours**, and just for the first step ! In fact, I don't want to change
 my URIs ([Cool URIs don't change](http://www.w3.org/Provider/Style/URI) !) so I
-put these lines in site.ini.append.php :
+put these lines in site.ini.append.php :
 
 ``` ini
 [URLTranslator]

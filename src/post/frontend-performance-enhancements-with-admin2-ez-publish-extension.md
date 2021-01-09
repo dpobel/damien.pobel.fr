@@ -23,7 +23,7 @@ Publish](/post/frontend-performance-with-ez-publish-slides-are-online).
 
 
 The admin2++ extension provides the following enhancements to [eZ
-Publish](/tag/ez-publish) admin2 interface :
+Publish](/tag/ez-publish) admin2 interface :
 
 * the twenties background images have been incorporated into three sprites
   images [to decrease the number of HTTP

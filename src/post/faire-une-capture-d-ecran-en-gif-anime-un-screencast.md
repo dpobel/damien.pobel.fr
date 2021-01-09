@@ -25,7 +25,7 @@ animé avec [The GIMP](http://pwet.fr/man/linux/commandes/gimp_2_2)… Mais
 depuis, au détour [d'un
 commentaire](http://linuxfr.org/comments/784332,1.html)[d'un journal trollogène
 sur LinuxFr](http://linuxfr.org/~gnumdk/23303.html), j'ai découvert que
-plusieurs logiciels font cela et qu'ils portent tous le nom d'une ville turque :
+plusieurs logiciels font cela et qu'ils portent tous le nom d'une ville turque :
 
 * [istanbul](https://wiki.gnome.org/Projects/Istanbul) ([page du manuel de
 istanbul](http://pwet.fr/man/linux/commandes/istanbul))
@@ -36,7 +36,7 @@ byzanz-record](http://pwet.fr/man/linux/commandes/byzanz_record))
 J'ai retenu byzanz car il produit des GIF animés ce qui est quand même le plus
 pratique pour publier sur le web et en plus il est disponible dans les dépôts
 Universe d'Ubuntu ce qui simplifie grandement son installation avec la ligne de
-commande suivante (ou en cherchant dans synaptic ou équivalent) :
+commande suivante (ou en cherchant dans synaptic ou équivalent) :
 
  ``` bash
 $ sudo apt-get install byzanz
@@ -54,7 +54,7 @@ $ byzanz-record -l -d 15 -x 249 -y 196 -w 460 -h 300 -c --delay=2 edition_dans_e
 Cette ligne va enregistrer deux secondes après son lancement un GIF animé nommé
 edition_dans_ez_publish.gif tournant en boucle de 460x300 pixels dont le point
 d'origine est 249x196 d'une durée de 15 secondes en incluant le curseur X11, ce
-qui donne l'animation suivante :
+qui donne l'animation suivante :
 
 <figure class="object-center"><a href="/images/exemple-gif-anime-avec-byzanz.gif"><img loading="lazy" src="/images//exemple-gif-anime-avec-byzanz.gif" alt="Exemple GIF animé avec byzanz">
 </a></figure>

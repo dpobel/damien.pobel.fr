@@ -22,7 +22,7 @@ Eft](http://doc.ubuntu-fr.org/edgy), cette fonctionnalité est directement dans
 l'éditeur. Dans un terminal, la ligne est soulignée alors que dans la version
 graphique, il est possible de définir une couleur de fond, pour ma part,
 j'utilise les lignes suivantes dans mon .gvimrc pour avoir une ligne légèrement
-surlignée de bleu/gris dans la version graphique uniquement :
+surlignée de bleu/gris dans la version graphique uniquement :
 
 ``` 
 set cursorline
@@ -45,7 +45,7 @@ Open), pour la replier zc (Fold Close). Si on n'a plus besoin de la zone, on
 peut faire zd (Fold Delete) pour supprimer la possibilité de pliage/dépliage, le
 texte reste intact. Il est possible d'avoir un repère visuel où des zones
 pliables sont positionnées en fixant la variable foldcolumn, par exemple à 2 en
-tapant &quot;:set foldcolumn=2&quot;, ce qui donne :
+tapant &quot;:set foldcolumn=2&quot;, ce qui donne :
 
 <figure class="object-center"><a href="/images/fold-dans-vim.gif"><img loading="lazy" src="/images//fold-dans-vim.gif" alt="Fold dans Vim">
 </a></figure>
@@ -63,7 +63,7 @@ Lorsqu'on écrit du code, on utilise régulièrement les mêmes constructions
 syntaxiques, il peut être avantageux de définir des abbréviations permettant de
 taper rapidement ces séquences. Dans [eZVim](http://projects.ez.no/ezvim), [un
 plugin Vim pour eZ Publish](/post/ezvim-0-1), j'en définis quelques unes, par
-exemple :
+exemple :
 
  ``` 
 iabbrev ezfe {foreach __ as $k => $val}<CR><CR>{/foreach}
@@ -75,7 +75,7 @@ par le reste de la ligne (foreach) en mode insertion. &lt;CR&gt; représente une
 frappe sur la touche &quot;Entrée&quot;. La seconde ligne dit à vim de
 reconnaître la chaîne &quot; __ &quot; comme une erreur ce qui permet de voir
 rapidement les points à complèter dans ce qui vient d'être inséré pour obtenir
-un code syntaxiquement correct :
+un code syntaxiquement correct :
 
 <figure class="object-center"><a href="/images/abbreviations-dans-vim.gif"><img loading="lazy" src="/images//abbreviations-dans-vim.gif" alt="Abbréviations dans Vim">
 </a></figure>

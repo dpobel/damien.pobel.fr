@@ -40,7 +40,7 @@ Pourquoi est ce que les voitures électriques sont quasiment systématiquement
 laides ?
 
  
-Et mes 3 préférées toutes catégories confondues sont :
+Et mes 3 préférées toutes catégories confondues sont :
 
 * [La Citroën C4 WRC](http://photos.pwet.fr/villes-et-departements/paris-75/paris/citroen-c4-wrc/)
 * [La Chevrolet WTCC Ultra](http://photos.pwet.fr/villes-et-departements/paris-75/paris/chevrolet-wtcc-ultra/)

@@ -23,7 +23,7 @@ Grâce à [Nicolas Pastorino](http://share.ez.no/community/profile/9804), l'év�
 En plus, l'extension apporte un nouvel onglet dans l'interface d'administration où il est possible de voir les mises à jour de statut effectuées par le workflow ainsi que le résultat de la mise à jour. Cet onglet permet également de relancer ou de réessayer une mise à jour ayant échouée.
 
 
-Cette extension est maintenant disponible en 5 langues, je te tiens à remercier les traducteurs qui ont répondu à [mon appel à contribution](http://share.ez.no/blogs/damien-pobel/soon-to-be-release-autostatus-extension-needs-translators) :
+Cette extension est maintenant disponible en 5 langues, je te tiens à remercier les traducteurs qui ont répondu à [mon appel à contribution](http://share.ez.no/blogs/damien-pobel/soon-to-be-release-autostatus-extension-needs-translators) :
 
 * [Thiago Campos Viana](http://share.ez.no/community/profile/10894) pour la traduction brésilienne
 * [Georg Franz](http://share.ez.no/community/profile/7805) pour la traduction allemande

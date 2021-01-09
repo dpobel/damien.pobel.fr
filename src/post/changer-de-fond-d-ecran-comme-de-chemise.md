@@ -50,7 +50,7 @@ fichier .fehbg. Ainsi, pour lancer un windows manager alternatif comme
 [openbox](http://pwet.fr/man/linux/commandes/openbox) avec le même fond d'écran,
 il suffit d'insèrer la ligne suivante dans le fichier
 [.xsession](http://pwet.fr/man/linux/formats/xsession) servant à lancer sa
-session :
+session :
 
  ``` bash
 openbox & wmpid=$!

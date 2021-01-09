@@ -30,7 +30,7 @@ des États Unis* reprend point par point les fausses idées et les faux argument
 autour du réchauffement et les démonte un à un.
  
 Parmis les divers détails et situations précisés dans le film, trois points
-autour du dérèglement climatique ont particulièrement retenu mon attention :
+autour du dérèglement climatique ont particulièrement retenu mon attention :
 
 * [le Brésil a connu son premier ouragan en mars
   2004](http://fr.wikipedia.org/wiki/Cyclone_Catarina) ! Sans même connaître

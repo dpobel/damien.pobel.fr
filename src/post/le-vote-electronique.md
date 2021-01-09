@@ -43,6 +43,6 @@ sûre](http://www.sciences.univ-nantes.fr/info/perso/permanents/enguehard/perso/
 pour un système qui n'apporte finalement pas grand chose…
 
  
-Pour en savoir plus :
+Pour en savoir plus :
 
  * [Pour une éthique du vote automatisé](http://www.poureva.be) (site belge)

@@ -14,7 +14,7 @@ published: 2007-02-25T14:04:41+01:00
 ## Vider les caches : bin/shell/clearcache.sh
 
  
-clearcache.sh est un script shell qui permet de vider les différents cache. Il est utile lorsque PHP4 version CLI n'est pas installé, puisqu'il utilise uniquement des commandes shell pour effectuer les différentes tâches. Pour la même raison, il est très rapide. Je l'utilise principalement lors du développement pour supprimer tous les caches d'un site en utilisant [un alias bash](/post/etre-a-l-aise-avec-bash-2) correspondant à :
+clearcache.sh est un script shell qui permet de vider les différents cache. Il est utile lorsque PHP4 version CLI n'est pas installé, puisqu'il utilise uniquement des commandes shell pour effectuer les différentes tâches. Pour la même raison, il est très rapide. Je l'utilise principalement lors du développement pour supprimer tous les caches d'un site en utilisant [un alias bash](/post/etre-a-l-aise-avec-bash-2) correspondant à :
 
  ``` bash
 $ bin/shell/clearcache.sh --clear-all

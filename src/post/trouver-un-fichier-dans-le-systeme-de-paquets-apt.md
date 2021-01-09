@@ -15,7 +15,7 @@ Tool), [le système de paquet de
 Debian](http://www.debian.org/doc/manuals/apt-howto/index.fr.html) et de [ses
 dérivés dont Ubuntu](http://doc.ubuntu-fr.org/apt), Cette commande permet de
 rechercher un fichier ou des fichiers dans tous les paquets disponibles (ie pas
-seulement les paquets installés). Cette commande s'installe comme suit :
+seulement les paquets installés). Cette commande s'installe comme suit :
 
  ``` bash
 $ sudo apt-get install apt-file
@@ -55,7 +55,7 @@ rationnelle](http://pwet.fr/man/linux/conventions/regex) en ajoutant l'option
 **--regex**, par exemple pour lister l'ensemble des binaires disponible
 commençant par apt mais n'étant ni apt-get, ni
 [apt-cache](http://pwet.fr/man/linux/administration_systeme/apt_cache), ni
-apt-file, on peut faire :
+apt-file, on peut faire :
 
  ``` bash
 $ apt-file --regex search 'bin/apt-[^(get|cache|file)]'

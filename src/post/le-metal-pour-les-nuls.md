@@ -8,7 +8,7 @@ remoteId: "3ddcd36b05d3869f2f4c3d8b750bc513"
 published: 2007-11-26T18:54:35+01:00
 ---
 
-Via [Planète GNOME-FR](http://planet.gnomefr.org/), j'ai vu un petit topo très imagé et très drôle des différentes variantes du métal, extrait :
+Via [Planète GNOME-FR](http://planet.gnomefr.org/), j'ai vu un petit topo très imagé et très drôle des différentes variantes du métal, extrait :
 
 <blockquote>
 

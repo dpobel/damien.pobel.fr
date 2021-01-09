@@ -59,7 +59,7 @@ exit 2
  
 Pour fonctionner, ce script nécessite l'utilisation du programme
 [wmctrl](http://pwet.fr/man/linux/commandes/wmctrl) qui s'installe avec le
-paquet du même nom :
+paquet du même nom :
 
  ``` bash
 sudo apt-get install wmctrl

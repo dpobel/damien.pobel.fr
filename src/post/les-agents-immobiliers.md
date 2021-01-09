@@ -15,7 +15,7 @@ appartement, j'ai entendu pas mal d'histoires sur les agents immobiliers, eh
 bien force est de constater qu'il y a pas mal de choses que j'ai pu vérifier. Il
 y aurait de quoi faire un site lesagentsimmobiliers.com sur le modèle du très
 drôle lesbanquiers.com (site hors ligne depuis :-() tellement certains
-tentent de vous prendre pour un idiot… Morceaux choisis :
+tentent de vous prendre pour un idiot… Morceaux choisis :
 
 <blockquote>
 Vous savez cette résidence est très cotée, les appartements ici se vendent en quelques semaines voire quelques jours.

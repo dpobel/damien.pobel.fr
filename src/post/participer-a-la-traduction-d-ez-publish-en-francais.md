@@ -17,7 +17,7 @@ Comme je l'ai déjà écrit sur twitter, [la traduction est **un effort communau
 Actuellement, eZ Publish et [l'extension Online Editor sont traduits à 100%](https://github.com/ezsystems/ezoe/pull/4) mais ça ne signifie pas pour autant que ces traductions n'ont pas besoin d'attention. Pour les autres extensions, la situation est très inégale à cause ou plutôt grâce à quelques initiatives isolées. En tout cas, merci aux auteurs de ces traductions, il est maintenant temps d'intégrer tout cela dans les dépôts GIT officiels des extensions.
 
 
-Bon très bien, mais dans la pratique comment faire ? En fait, il y a plusieurs manières de procéder selon votre niveau technique et/ou le temps dont vous disposez :
+Bon très bien, mais dans la pratique comment faire ? En fait, il y a plusieurs manières de procéder selon votre niveau technique et/ou le temps dont vous disposez :
 
 * Vous avez quelques notions techniques et êtes prêts à manipuler git et des fichiers XML : il vous suffit de suivre [le tutorial publié sur share.ez.no](http://share.ez.no/learn/ez-publish/translating-localizing-ez-publish-using-git) pour l'extension que vous souhaitez traduire. Les fichiers indiquant toutes les traductions (<code>translations/untranslated/translation.ts</code>
 ) de chaque extension sont maintenant à jour. Si aucune traduction en français n'a été initialisée c'est sur ce fichier qu'il faut partir en le copiant dans <code>translations/fre-FR/translation.ts</code>

@@ -22,7 +22,7 @@ sera tout simplement pas possible.
 
 
 Pour pallier à cela, j'ai écrit le script shell suivant pour l'optimisation des
-fichiers GIF et PNG qui :
+fichiers GIF et PNG qui :
 
 * optimise tous les fichiers PNG avec
   [pngcrush](http://pwet.fr/man/linux/commandes/pngcrush)

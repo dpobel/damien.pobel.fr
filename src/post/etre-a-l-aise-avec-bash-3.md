@@ -20,7 +20,7 @@ Après un premier épisode [sur le prompt et les titres des terminaux](/post/etr
 ### Éviter les doublons
 
 
-Il est possible d'éviter d'avoir des &quot;doublons consécutifs&quot;. Avec la ligne suivante dans le fichier ~/.bashrc, les lignes identiques consécutives, ainsi que les lignes commençant par un espace seront ignorées permettant de gagner du temps dans la navigation dans l'historique :
+Il est possible d'éviter d'avoir des &quot;doublons consécutifs&quot;. Avec la ligne suivante dans le fichier ~/.bashrc, les lignes identiques consécutives, ainsi que les lignes commençant par un espace seront ignorées permettant de gagner du temps dans la navigation dans l'historique :
 
  ``` bash
 export HISTCONTROL=ignoreboth
@@ -33,7 +33,7 @@ export HISTCONTROL=ignoreboth
 Il est possible de rechercher dans l'historique avec le raccourcis Control+R. Cette recherche est incrémentale, cela signifie qu'au fur et à mesure de la frappe les résultats correspondant apparaissent, une fois la bonne commande trouvée, il suffit de taper sur Entrée pour l'éxécuter ou sur la flèche droite pour copier cette commande sur la ligne courante si on veut y ajouter des paramètres.
 
 
-Les touches flèche haut et flèche bas permettent de recherche les commandes précédemment tapées dans l'historique, mais il est possible de faire en sorte que cette recherche prenne en compte les caractères déjà tapés, un exemple sera plus parlant :
+Les touches flèche haut et flèche bas permettent de recherche les commandes précédemment tapées dans l'historique, mais il est possible de faire en sorte que cette recherche prenne en compte les caractères déjà tapés, un exemple sera plus parlant :
 
  ``` bash
 $ tar -cf mes_script.tar bin
@@ -57,7 +57,7 @@ Les différentes fonctions disponibles sont détaillées dans la [page du manuel
 ### Faire le ménage dans son historique
 
 
-Il n'y a que très peu d'intérêt d'avoir les commandes très courtes dans son historique, c'est pourquoi il est possible de définir des commandes qui n'apparaîtront jamais à l'aide de la variable d'environnement HISTIGNORE, par exemple clear, bg, fg, cd, ls sans paramètre sont plus rapides à taper qu'à chercher dans l'historique, on peut donc les ignorer sans problème :
+Il n'y a que très peu d'intérêt d'avoir les commandes très courtes dans son historique, c'est pourquoi il est possible de définir des commandes qui n'apparaîtront jamais à l'aide de la variable d'environnement HISTIGNORE, par exemple clear, bg, fg, cd, ls sans paramètre sont plus rapides à taper qu'à chercher dans l'historique, on peut donc les ignorer sans problème :
 
  ``` bash
 export HISTIGNORE="cd:ls:[bf]g:clear"
@@ -84,7 +84,7 @@ Si on souhaite juste afficher cette commande, on peut ajouter :p à la fin de ce
 ## Le complètement avancé
 
 
-Cette fonctionnalité de bash s'active en décommentant si elles sont commentés ou en ajoutant les lignes suivantes dans le fichier /etc/bash.bashrc (pour tous les utilisateurs) ou ~/.bashrc (pour un utilisateur) :
+Cette fonctionnalité de bash s'active en décommentant si elles sont commentés ou en ajoutant les lignes suivantes dans le fichier /etc/bash.bashrc (pour tous les utilisateurs) ou ~/.bashrc (pour un utilisateur) :
 
  ``` bash
 if [ "$PS1" -a -f /etc/bash_completion ]; then

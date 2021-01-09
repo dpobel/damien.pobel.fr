@@ -50,7 +50,7 @@ Borgermans](http://blog.kulakowski.fr/post/ez-publish-40-alpha-1-support-du-php5
 
 À côté de cet évènement eZ Publish 3.10 est sorti avec des nouveautés
 fonctionnelles intéressantes (qui sont aussi de fait dans eZ Publish 4), en
-particulier :
+particulier :
 
 * [l'amélioration du
   clustering](https://github.com/ezsystems/ezpublish-legacy/blob/master/doc/features/3.10/cluster_enhancement.txt)

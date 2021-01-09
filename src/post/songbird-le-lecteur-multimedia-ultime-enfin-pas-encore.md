@@ -19,7 +19,7 @@ un [Xulrunner](http://xulfr.org/wiki/XulRunner) comme les futurs [Firefox
 3. Des
 binaires pour Windows, MacOSX et Linux
 ~~sont~~ étaient disponibles pour tester la bête (ce qui n'était pas le cas tout au début du
-développement). Et cela donne :
+développement). Et cela donne :
 
 <figure class="object-center"><a
 href="/images/songbird.png"><img loading="lazy" src="/images/660x/songbird.png" alt="Songbird"> </a></figure>

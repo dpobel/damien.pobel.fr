@@ -18,7 +18,7 @@ AWStats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi) que
 beaucoup de gens *hotlink* mes photos sur divers blogs, page myspace ou divers
 forums sans rien mentionner de leur provenance et ça m'énerve un peu… Alors
 bien sûr, je peux m'inscrire et rajouter les mentions nécessaires dans le topic
-du forum en question mais :
+du forum en question mais :
 
 * c'est long et fastidieux ;
 * parfois impossible ;
@@ -35,7 +35,7 @@ d'autre…
 
  
 Techniquement parlant, j'ai mis la configuration suivante dans mon fichier de
-configuration d'Apache :
+configuration d'Apache :
 
 ``` apache
 RewriteCond %{HTTP_REFERER} !^$ [NC] 

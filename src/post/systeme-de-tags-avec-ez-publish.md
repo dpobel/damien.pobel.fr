@@ -52,7 +52,7 @@ plusieurs mots.
 
 
 Cette technique semble donc bien adapté mais il y a trois principaux
-inconvénients à l'utiliser :
+inconvénients à l'utiliser :
 
 * je n'ai pas trouvé le moyen de faire la liste complète des mots utilisés, donc
   générer le nuage de mots clefs (*tags cloud*) paraît difficile.
@@ -101,7 +101,7 @@ J'ai mis en place cette technique sur ce blog. Mon dossier *tags* (qui sert à
 afficher le nuage) contient l'ensemble des objets de classe *Tags*. Chaque
 billet est créé dans le dossier racine du blog, ensuite j'ajoute un ou des
 emplacements à mon billet pour le *tagguer*. Au final cette technique est la
-plus simple :
+plus simple :
 
 * l'affichage du nuage est un simple [fetch
   list](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/modules/content/fetch_functions/list)

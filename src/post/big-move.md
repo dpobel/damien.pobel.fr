@@ -7,7 +7,7 @@ remoteId: "1af5e9900c78fc456effd9f9180713e8"
 published: 2010-09-21T14:23:05+02:00
 ---
 
-Non je ne suis pas mort depuis le 25 avril 2010 date de [mon dernier (court) billet](/post/concours-pour-le-re-design-du-site-share-ez-no) ! Mais alors que s'est il passé ? Pas mal de choses en vérité :
+Non je ne suis pas mort depuis le 25 avril 2010 date de [mon dernier (court) billet](/post/concours-pour-le-re-design-du-site-share-ez-no) ! Mais alors que s'est il passé ? Pas mal de choses en vérité :
 
 * je me suis fait volé (entre autres) mon PC portable et [mon Nikon D50](/tag/nikon-d50)
 * Katia et moi nous nous sommes pacsés et [nous avons fêté cet évènement comme il se doit](http://liliaimelenougat.over-blog.fr/article-et-puis-le-vendredi-je-bosse-57206670.html)

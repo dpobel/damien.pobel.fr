@@ -28,7 +28,7 @@ Sinon la machine ne reboote pas. Heureusement, [les dedibox ont un système de
 rescue](https://documentation.online.net/fr/serveur-dedie/rescue) bien
 pratique qui permet de se sortir de ce genre de situation. Concrètement, avant
 pour chaque choix dans le fichier /boot/grub/menu.lst, j'avais quelque chose
-comme :
+comme :
 
 ``` bash
 title       Ubuntu, kernel 2.6.24.2

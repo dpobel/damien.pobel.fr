@@ -72,7 +72,7 @@ utilisé à la place de
 [l'opérateur](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_operators/strings/wash)<code>[wash](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_operators/strings/wash)</code>
 pour afficher [les attributs Text
 block](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/datatypes/text_block)
-contenant le texte issu des flux RSS. Cet opérateur a plusieurs fonctions :
+contenant le texte issu des flux RSS. Cet opérateur a plusieurs fonctions :
 
 * rendre valide le code XHTML avec [le module PHP Tidy](http://fr.php.net/tidy)
 * réécrire les éventuelles URLs relatives au site (images et liens)

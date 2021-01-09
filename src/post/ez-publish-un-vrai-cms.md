@@ -62,7 +62,7 @@ dont on définit la manière dont il s'affichera sur le site ou ailleurs par des
 
  
 Ce mode de conception n'a pas que des avantages, parmis les inconvénients on
-peut citer les deux principaux à mon sens :
+peut citer les deux principaux à mon sens :
 
 * la relative complexité de l'outil, il est clair que pour être à l'aise avec eZ
   publish, cela demande un peu de temps et d'investissement mais en contre

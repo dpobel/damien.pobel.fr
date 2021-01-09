@@ -11,7 +11,7 @@ published: 2007-01-27T00:31:26+01:00
 *Short summary for non french speaking people : it was a really nice event ! I was very impressed by the Bård's hack about import/export in ODF and export in PDF. It's a great feature. Paul's searching extension is another project that promises a lot with some new functionalities that missed in eZ publish… And I love my new t-shirt ;-)*
 
 
-Comme [annoncé précédemment](/post/ezcamp-a-lyon-le-26-janvier-2007), j'étais au [Barcamp nom de code eZCamp](http://barcamp.org/EzCampLyon) dédié aux technologies autour d'[eZ publish](/tag/ez-publish) et d'eZ components aujourd'hui à Lyon. Cette escapade fut très instructive, j'ai assisté à ce qu'on peut appeler 3 présentations/discussions :
+Comme [annoncé précédemment](/post/ezcamp-a-lyon-le-26-janvier-2007), j'étais au [Barcamp nom de code eZCamp](http://barcamp.org/EzCampLyon) dédié aux technologies autour d'[eZ publish](/tag/ez-publish) et d'eZ components aujourd'hui à Lyon. Cette escapade fut très instructive, j'ai assisté à ce qu'on peut appeler 3 présentations/discussions :
 
 * [Bård Farstad](http://papelipe.no/) (co-fondateur d'eZ systems) nous a fait une démonstrattion d'un *hack*/prototype permettant l'import/export ODF et l'export PDF à partir d'un *template* en ODF ;
 * Sam Johnston (de Microcost) nous a fait une présentation sur l'intérêt de l'intégration des services Google avec eZ publish pour donner un environnement de bureau *online* ;

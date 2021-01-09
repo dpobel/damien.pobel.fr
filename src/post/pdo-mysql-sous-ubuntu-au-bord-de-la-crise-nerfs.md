@@ -27,7 +27,7 @@ ces lignes…
 Les symptômes étaient simples, les deux bouts code suivants devraient affichés
 la même chose, mais celui avec le
 [bindValue()](http://fr2.php.net/manual/en/function.pdostatement-bindvalue.php)
-échoue et ne renvoie rien :
+échoue et ne renvoie rien :
 
 ``` php
 <?php
@@ -56,7 +56,7 @@ problème. Pour que ça fonctionne chez moi, il a fallu que j'installe
 libmysqlclient12 et libmysqlclient12-dev pour compiler PDO_MySQL… Ce qui est
 d'autant plus surprenant que libmysqlclient12 correspond à MySQL 4.0 et que [la
 deuxième ligne de la documentation sur
-PDO_MySQL](http://fr2.php.net/manual/fr/ref.pdo-mysql.php) indique :
+PDO_MySQL](http://fr2.php.net/manual/fr/ref.pdo-mysql.php) indique :
 
 
 *PDO_MYSQL prendra avantage des requêtes natives préparées présentes dans MySQL 4.1 et supérieur.*

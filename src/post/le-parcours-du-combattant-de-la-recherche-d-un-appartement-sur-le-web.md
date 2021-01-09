@@ -22,7 +22,7 @@ Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajoute
 [Antoine de Saint-Exupéry](http://fr.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 </blockquote>
 
-## La FNAIM :
+## La FNAIM :
 
 <figure class="object-center"><a href="/images/formulaire-de-recherche-de-la-fnaim.png"><img loading="lazy" src="/images//formulaire-de-recherche-de-la-fnaim.png" alt="Formulaire de recherche de la FNAIM">
 </a></figure>

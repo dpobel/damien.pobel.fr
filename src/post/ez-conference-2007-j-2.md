@@ -27,7 +27,7 @@ personnellement (ez.no/company/news/nominees_for_ez_awards_2007, page hors ligne
 depuis…) :-)
 
  
-Bref, c'est un mini séjour relativement chargé qui m'attend. Pendant ce temps :
+Bref, c'est un mini séjour relativement chargé qui m'attend. Pendant ce temps :
 
  ``` php
 <?php

@@ -27,7 +27,7 @@ La possibilité d'afficher une application sur une machine différente de celle
 qui l'éxécute est déjà possible par X11 de manière native ([avec un peu de
 configuration](http://www.linuxfocus.org/English/January2002/article222.shtml)),
 alors pourquoi en rajouter une couche avec SSH ? Il y a plusieurs avantages à
-utiliser le **X11Forwarding** :
+utiliser le **X11Forwarding** :
 
 * tout comme telnet, les connections par le protocole X11 sont en clair (ie non
     chiffrées) et donc par nature assez peu sécurisées.

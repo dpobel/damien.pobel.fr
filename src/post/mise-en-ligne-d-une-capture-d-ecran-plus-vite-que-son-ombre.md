@@ -12,7 +12,7 @@ Dans la lignée du script de Racoon permettant de prendre une capture d'écran
 optimisé pour ImageShack(tm) (site disparu…) j'ai écrit un script permettant
 de prendre une capture d'écran et de l'envoyer sur un serveur FTP en une seule
 manipulation. Ce script, associé à un raccourcis clavier ou à un lanceur bien
-placé, permet :
+placé, permet :
 
 * de faire une capture d'écran (de l'écran ou d'une fenêtre)
 * de l'uploader sur un serveur FTP
@@ -21,14 +21,14 @@ placé, permet :
   
 ## Mise en place du script
  
-Ce script utilise [ImageMagick](http://pwet.fr/man/linux/commandes/imagemagick), [lftp](http://pwet.fr/man/linux/commandes/lftp) et xclip, il faut donc les installer à l'aide du système de paquet de votre distribution, sous Ubuntu la commande est la suivante :
+Ce script utilise [ImageMagick](http://pwet.fr/man/linux/commandes/imagemagick), [lftp](http://pwet.fr/man/linux/commandes/lftp) et xclip, il faut donc les installer à l'aide du système de paquet de votre distribution, sous Ubuntu la commande est la suivante :
 
  ``` bash
 $ sudo apt-get install imagemagick lftp xclip
 ```
 
  
-Le script est le suivant :
+Le script est le suivant :
 
 ``` bash
 #! /bin/bash
@@ -85,7 +85,7 @@ fi
 ## Configuration
 
  
-Pour fonctionner, il faut rendre ce script exécutable à l'aide [chmod](http://pwet.fr/man/linux/commandes/chmod). Il est bien évidemment possible de mettre les captures dans un autre dossier ou de leur donner un autre nom, il suffit de modifier respectivement les variables TMP et FILE. Pour que l'*upload* fonctionne sans demander de mot de passe, il faut modifier l'adresse du serveur FTP et remplir (ou créer) le fichier [~/.netrc](http://pwet.fr/man/linux/formats/netrc) avec les bons paramètres :
+Pour fonctionner, il faut rendre ce script exécutable à l'aide [chmod](http://pwet.fr/man/linux/commandes/chmod). Il est bien évidemment possible de mettre les captures dans un autre dossier ou de leur donner un autre nom, il suffit de modifier respectivement les variables TMP et FILE. Pour que l'*upload* fonctionne sans demander de mot de passe, il faut modifier l'adresse du serveur FTP et remplir (ou créer) le fichier [~/.netrc](http://pwet.fr/man/linux/formats/netrc) avec les bons paramètres :
 
  ``` 
 machine votre-adresse-du-ftp.com
@@ -94,7 +94,7 @@ password votremotdepasse
 ```
 
  
-Pour un minimum de sécurité, ce fichier doit être en lecture/écriture uniquement pour votre utilisateur. Si vous avez créé ce fichier, la commande suivante est suffisante :
+Pour un minimum de sécurité, ce fichier doit être en lecture/écriture uniquement pour votre utilisateur. Si vous avez créé ce fichier, la commande suivante est suffisante :
 
  ``` bash
 $ chmod 600 ~/.netrc
@@ -107,7 +107,7 @@ Tout ceci fonctionne très bien avec les pages perso chez Free d'autant plus [qu
 ## Utilisation
 
  
-Ce script peut prendre deux paramètres facultatifs :
+Ce script peut prendre deux paramètres facultatifs :
 
  * `-w` indique au script que l'on ne souhaite une capture que d'une fenêtre, qu'il est nécessaire de choisir.
  * `-u` indique au script d'uploader le fichier et de copier l'adresse finale dans le presse papier de X, que l'on peut coller en cliquant sur le bouton du milieu de la souris.

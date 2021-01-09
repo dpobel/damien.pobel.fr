@@ -26,7 +26,7 @@ donner quelques recettes de cuisine bien pratiques.
 ## Le fichier .vimrc
 
  
-Pour commencer, il faut configurer la bête :-) Pour cela, il faut créer ou éditer le fichier .vimrc dans votre dossier personnel, par exemple avec vim. Voici un .vimrc de base :
+Pour commencer, il faut configurer la bête :-) Pour cela, il faut créer ou éditer le fichier .vimrc dans votre dossier personnel, par exemple avec vim. Voici un .vimrc de base :
 
  ``` dos
 set nocompatible                " pas compatibilité avec vi
@@ -73,7 +73,7 @@ Il suffit de taper :set nu et :set nu! pour les cacher. Si vous voulez toujours 
 ### Éditer des fichiers distants via SSH
 
  
-Il est bien sûr possible de se connecter en SSH et d'utiliser Vim sur la machine distante, mais il n'est peut être pas configurer voire pas installé du tout… La commande suivante me permet d'éditer mon .bashrc et le fichier /tmp/unfichier sur ma Dedibox :
+Il est bien sûr possible de se connecter en SSH et d'utiliser Vim sur la machine distante, mais il n'est peut être pas configurer voire pas installé du tout… La commande suivante me permet d'éditer mon .bashrc et le fichier /tmp/unfichier sur ma Dedibox :
 
  ``` bash
 $ vim 'scp://tigrou@pwet.fr/.bashrc' 'scp://tigrou@pwet.fr//tmp/unfichier'

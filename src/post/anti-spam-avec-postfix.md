@@ -17,7 +17,7 @@ pour le filtrage des *spams* et des virus le tout sur un serveur Debian Sarge (�
 l'origine une Woody). Cette solution fonctionne très bien mais elle est
 extrêment gourmande en ressources (en temps CPU et en mémoire) ce qui provoque
 aux heures de pointe un embouteillage dans la file d'attente de Postfix. Il est
-possible de résoudre en grande partie le problème avec deux manipulations :
+possible de résoudre en grande partie le problème avec deux manipulations :
 l'une au niveau de Postfix et AMaVis new et l'autre simple au niveau de Postfix.
 
   
@@ -29,7 +29,7 @@ manipulation ne sera utile pour les performances générales que si la machine e
 suffisamment puissante, c'est à dire que même aux heures de pointe, elle
 n'affiche pas une charge trop importante. Pour cela dans le fichier
 /etc/postfix/master.cf, il faut aller modifier la ligne correspondant à AMaViS
-new, chez moi cette ligne ressemble à :
+new, chez moi cette ligne ressemble à :
 
  ``` 
 smtp-amavis unix -      -       -     -       2  smtp
@@ -76,7 +76,7 @@ par exemple d'exclure et de se protéger contre les vagues soudaines de *spams*
 répétitifs du même type. En ce moment par exemple, je reçois énormément de spam
 dont le sujet est V\*IAGRA est une ou deux lettres quelconques. Ces messages
 peuvent être bloqués rapidement et directement par Postfix avec la configuration
-suivante :
+suivante :
 
  ``` ini
 # dans le fichier /etc/postfix/main.cf
@@ -84,7 +84,7 @@ header_checks = regexp:/etc/postfix/header_check.cf
 ```
 
  
-Le fichier /etc/postfix/header_check.cf contient :
+Le fichier /etc/postfix/header_check.cf contient :
 
  ``` 
 /^Subject: .*V?AGRA/               REJECT Spam
@@ -103,7 +103,7 @@ de ressources. L'inconvénient principal est qu'il faut faire confiance à ces
 listes et qu'il arrivent parfois que les SMTP de certains grands fournisseurs
 d'accès se retrouvent blacklistés comme c'est le cas en ce moment pour Orange
 sur multihop.dsbl.org. Ces listes
-s'utilisent très simplement dans Postfix de la manière suivante :
+s'utilisent très simplement dans Postfix de la manière suivante :
 
  ``` 
 smtpd_recipient_restrictions = reject_invalid_hostname,

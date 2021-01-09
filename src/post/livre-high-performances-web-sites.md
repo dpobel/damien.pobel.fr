@@ -14,7 +14,7 @@ Only 10-20% of the end user response time is spent downloading the HTML document
 </blockquote>
 
 
-Traduction libre :
+Traduction libre :
 
 <blockquote>
 Seulement 10 à 20% du temps de réponse ressenti par l'utilisateur provient du téléchargement du document HTML. Les 80 à 90% restant viennent du téléchargement des autres composantes de la page.
@@ -27,7 +27,7 @@ Seulement 10 à 20% du temps de réponse ressenti par l'utilisateur provient du 
 Voila la *Performance Golden Rule* qui sert de base à ce court mais excellent bouquin [High Performances Web Sites](http://oreilly.com/catalog/9780596529307/index.html) de [Steve Souders](http://stevesouders.com/) (employé chez Yahoo!) expliquant 14 règles pour améliorer la rapidité d'affichage d'un site web. En fait ce livre reprend les 14 premières [bonnes pratiques listées par Yahoo!](http://developer.yahoo.com/performance/rules.html) pour améliorer les performances générales d'un site web. Ces points sont applicables à quasiment tous les sites (à part peut être l'utilisation d'un [Content Delivery Network](http://fr.wikipedia.org/wiki/Content_Delivery_Network) qui est hors de porté du commun des mortels…) quelque soit la technologie employée puisqu'il s'agit essentiellement de configuration au niveau du serveur web ou dans la construction des pages.
 
 
-Ces 14 règles sont les suivantes :
+Ces 14 règles sont les suivantes :
 
 * [Limitez le nombre de requêtes HTTP](http://developer.yahoo.com/performance/rules.html#num_http)
 * [Utilisez un *content delivery network*](http://developer.yahoo.com/performance/rules.html#cdn)

@@ -26,7 +26,7 @@ curl](http://fr.php.net/manual/en/ref.curl.php) voire une socket… Il y a une
 API, autant l'utiliser.
 
  
-J'en suis donc là :
+J'en suis donc là :
 
  ``` php
 <?php
@@ -129,7 +129,7 @@ faut passer à cette nouvelle version.
  
 Une dernier truc amusant en passant, mêmes les ingénieurs de chez Google font
 des fautes de frappe, la preuve dans les entêtes HTTP renvoyées par leur serveur
-on peut lire :
+on peut lire :
 
  ``` 
 HTTP/1.1 500 Internal Server Error

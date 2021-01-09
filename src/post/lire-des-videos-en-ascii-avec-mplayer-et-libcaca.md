@@ -35,7 +35,7 @@ Encore une fois ça n'a strictement aucun intérêt à part le fait de montrer l
 En visitant [le site officiel de libcaca](http://libcaca.zoy.org/), on peut voir différents projets dans la même veine comme [TOIlet](http://libcaca.zoy.org/toilet.html) qui permet d'écrire en grosses lettres à base de symboles ou [cacatris](http://libcaca.zoy.org/cacatris.html) un nième clone de tetris mais basé sur libcaca permettant de jouer à tetris dans un simple terminal.
 
  
-On notera l'humour très *pipi/caca* de [l'auteur français](http://sam.zoy.org/) dans le choix des noms de ses différentes réalisations mêlé à de belles citations, en particulier j'aime beaucoup la citation de [Théophile Gautier](http://fr.wikipedia.org/wiki/Théophile_Gautier) sur la page de libcaca :
+On notera l'humour très *pipi/caca* de [l'auteur français](http://sam.zoy.org/) dans le choix des noms de ses différentes réalisations mêlé à de belles citations, en particulier j'aime beaucoup la citation de [Théophile Gautier](http://fr.wikipedia.org/wiki/Théophile_Gautier) sur la page de libcaca :
 
 > Il n’y a rien de vraiment beau que ce qui ne peut servir à rien ; tout ce qui
 > est utile est laid ; car c’est l’expression de quelque besoin ; et ceux de

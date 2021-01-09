@@ -29,7 +29,7 @@ données (ce qui n'est certes pas très compliqué une fois qu'on connaît le no
 la bonne table).
 
 
-Exemples d'utilisation :
+Exemples d'utilisation :
 
 ``` bash
 cd /path/to/magento

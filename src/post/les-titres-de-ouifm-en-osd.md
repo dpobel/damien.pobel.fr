@@ -20,7 +20,7 @@ petit script shell qui va récupèrer le titre sur le site de OuiFM comme le fai
 l'animation flash et l'affiche en <abbr title="On Screen Display">OSD</abbr> .
 Pour l'utiliser sous Ubuntu (et probablement Debian), il faut installer le
 paquet xosd-bin et php (4 ou 5) en mode ligne de commande avec la commande
-suivante :
+suivante :
 
 ``` bash
 $ sudo apt-get install xosd-bin php5-cli

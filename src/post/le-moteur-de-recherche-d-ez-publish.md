@@ -35,7 +35,7 @@ bref pas génial…
 Pour en revenir au moteur de recherche par défaut, deux directives [de
 configuration](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/configuration_files/site_ini/searchsettings)
 me semblent particulièrement intéressantes mais pas forcément simples à
-comprendre au premier abord :
+comprendre au premier abord :
 
 * [StopWordThresholdPercent](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/configuration_files/site_ini/searchsettings/stopwordthresholdpercent) pour ne pas afficher une recherche avec énormément de résultats
 * [DelayedIndexing](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/configuration_files/site_ini/searchsettings/delayedindexing) pour améliorer les temps de réponses lors de la publication de données en remettant l'indexation à plus tard

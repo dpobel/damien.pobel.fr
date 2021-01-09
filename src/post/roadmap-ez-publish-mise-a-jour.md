@@ -12,7 +12,7 @@ Je viens de voir un peu par hasard *via* [un post sur le
 forum](http://ez.no/developer/forum/suggestions/ez_components_templating_engine)
 que la roadmap d'eZ Publish a été mise à jour
 (le 12 juin apparemment) avec les nouveautés pour les deux prochaines versions
-majeures (4.2 et 4.3). Deux grosses tendances se dessinent dans cette roadmap :
+majeures (4.2 et 4.3). Deux grosses tendances se dessinent dans cette roadmap :
 [les performances](/post/les-performances-d-ez-publish) (mode classique comme en
 cluster, ou avec [un nouveau mode cluster mixant base de données et
 NFS](https://github.com/ezsystems/ezpublish-legacy/blob/master/doc/specifications/4.2/db_nfs_cluster_handler/dbnfsclusterhandler.txt)

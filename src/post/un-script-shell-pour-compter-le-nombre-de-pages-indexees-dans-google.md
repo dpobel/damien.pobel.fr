@@ -39,7 +39,7 @@ les données du XML sont analysées à l'aide d'une feuille XSLT et de
 tracer une courbe à l'aide de plot, il reste à dater l'enregistrement.
 
  
-Ce qui donne le script suivant :
+Ce qui donne le script suivant :
 
  ``` bash
 #! /bin/sh
@@ -102,13 +102,13 @@ Il ne reste plus qu'à configurer la tâche planifier et à atteindre quelques
 jours pour pouvoir tracer un joli graphique. Ce script a été testé sur Debian
 Sarge et Ubuntu Dapper Drake, mais devrait fonctionner sans aucun problème avec
 toute version relativement récente de curl et xsltproc, pour les installer il
-suffit de taper :
+suffit de taper :
 
  ``` bash
 sudo apt-get install xsltproc curl
 ```
  
-Pour le moment, ce script donne le résultat suivant :
+Pour le moment, ce script donne le résultat suivant :
 
  ``` 
 $ ./google_count.sh pwet.fr

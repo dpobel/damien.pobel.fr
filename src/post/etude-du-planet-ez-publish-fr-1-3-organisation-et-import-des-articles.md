@@ -30,7 +30,7 @@ III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-
 Pour tout site réalisé avec le CMS eZ Publish, la détermination de l'arborescence ainsi que la définition des classes de contenus est l'étape préliminaire nécessaire. Dans le cas du Planet, le cahier des charges est assez simple, il s'agit d'importer des billets (classe *Post*) [de divers blogs (classe *Site*) francophones consacrés à eZ Publish](http://www.planet-ezpublish.fr/blogs). Je souhaitais aussi pouvoir gérer une liste de Planets, [le Planétarium](http://www.planet-ezpublish.fr/planetarium), (classe *Site* également) avec pourquoi pas l'affichage des derniers billets de chaque Planet.
 
 
-J'ai aussi créé une classe *Planete* qui sert de page d'accueil au Planet actuel. Le but de la création de cette classe est multiple :
+J'ai aussi créé une classe *Planete* qui sert de page d'accueil au Planet actuel. Le but de la création de cette classe est multiple :
 
 * elle permet d'avoir un affichage spécifique sans faire une surcharge sur le node id de la page d'accueil qui peut changer aux grès des évolutions du site
 * si un jour je souhaite que la même instance eZ Publish héberge d'autres Planets, le travail sera restreint à la duplication de l'arborescence
@@ -50,7 +50,7 @@ J'ai aussi créé une classe *Planete* qui sert de page d'accueil au Planet actu
 ## Import des articles et nettoyage
 
 
-Contrairement à un site classique, le contenu sur un Planet provient d'autres sites via leur flux RSS. Ma première idée était d'utiliser le mécanisme d'import RSS d'eZ Publish. J'avais commencé par écrire un Content Edit Handler qui, pour chaque objet Site, créait un import RSS utilisé ensuite par le script de cronjob rssimport.php. Mais la fonctionnalité d'import RSS souffre de plusieurs limitations / bugs gênants :
+Contrairement à un site classique, le contenu sur un Planet provient d'autres sites via leur flux RSS. Ma première idée était d'utiliser le mécanisme d'import RSS d'eZ Publish. J'avais commencé par écrire un Content Edit Handler qui, pour chaque objet Site, créait un import RSS utilisé ensuite par le script de cronjob rssimport.php. Mais la fonctionnalité d'import RSS souffre de plusieurs limitations / bugs gênants :
 
 * [mauvaise utilisation du guid/link pour générer le remote id](http://issues.ez.no/14296)
 * [le script rssimport.php ne met pas à jour les articles importés](http://issues.ez.no/2318)
