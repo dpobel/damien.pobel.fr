@@ -63,8 +63,8 @@ directly redirected, you have to click on a button to view the next page. It can
 be useful to debug [workflow
 events](http://ezpedia.org/wiki/en/ez/workflow_event_type), content edit
 handler (serwatka.net/index.php/blog/ez_publish_3_8_new_custom_edit_handler,
-offline page...)
-or [extensions with modules and views](http://ezpedia.org/wiki/en/ez/module)...
+offline page…)
+or [extensions with modules and views](http://ezpedia.org/wiki/en/ez/module)…
 It is also possible to specify paths in this setting to enable this feature for
 only some pages, but [this feature is undocumented](http://issues.ez.no/12402)
 for the moment.

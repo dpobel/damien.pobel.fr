@@ -19,7 +19,7 @@ Publish](/tag/ez-publish) par les *templates* par défaut même lorsque cela ne
 devrait pas arriver. La solution (simple) proposée est de faire des surcharges
 s'appliquant en dernier et n'affichant rien pour éviter d'afficher tout ce qui
 n'a pas été prévu. Évidemment il est toujours mieux de restreindre les droits,
-mais c'est un bon dernier rempart à la divulgation d'informations...
+mais c'est un bon dernier rempart à la divulgation d'informations…
 
 
 Il y a évidemment d'autres éléments à considérer et j'en oublie probablement

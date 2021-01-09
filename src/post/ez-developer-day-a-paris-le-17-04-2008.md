@@ -23,7 +23,7 @@ niveaux de support avancés qu'au niveau communautaire.
 La suite était heureusement nettement plus intéressante. Comme en [octobre
 dernier](/post/ez-publish-developer-day-a-paris-le-31-10-2007) Paul Borgermans
 nous a présenté la roadmap des différents produits eZ (eZ Publish, [eZ
-Components](/tag/ez-components), eZ Flow, [eZ Find](/tag/ez-find), ...). Le
+Components](/tag/ez-components), eZ Flow, [eZ Find](/tag/ez-find), …). Le
 moins qu'on puisse dire est que de grosses évolutions voire des révolutions sont
 en marche au moins au niveau d'eZ Publish.
 
@@ -63,7 +63,7 @@ annoncées sont les suivantes&nbsp;:
 * introduction des &quot;object states&quot; personnalisables permettant de brancher facilement l'exécution d'un processus de workflow externe
 * refonte du fichier index.php dans le but de l'alléger et de le rendre plus performant mais aussi de pouvoir y brancher l'exécution d'un script sans passer par toute la pile d'eZ Publish lorsque le besoin de performances est important
 * réécriture du système multi-lingue et des URL alias car le code est actuel est complexe et [est basé sur des opérations bit à bit en base de données](http://ez.no/doc/ez_publish/technical_manual/4_0/features/multi_language/the_bit_field_algorithm) ce qui compromet la portabilité sur différent SGBD
-* &quot;dé-normalisation&quot; de la base de données, en particulier dans un premier temps la gestion des utilisateurs permettant de supporter plus d'utilisateurs. La &quot;dé-normalisation&quot; au niveau des contenus a également été abordée mais reste pour le moment un projet à plus long terme...
+* &quot;dé-normalisation&quot; de la base de données, en particulier dans un premier temps la gestion des utilisateurs permettant de supporter plus d'utilisateurs. La &quot;dé-normalisation&quot; au niveau des contenus a également été abordée mais reste pour le moment un projet à plus long terme…
 
 ouf&nbsp;! voila déjà une belle et ambitieuse liste rien que pour eZ Publish&nbsp;! Cette
 version devrait paraître avant la fin de l'année.
@@ -91,7 +91,7 @@ cuisine&quot; eZ Publish, je retiens plusieurs points très en vrac :
 
 * PHP 5.3 apporte des gains significatifs de consomation mémoire
 * Le mode cluster d'eZ Publish pose souvent problème (d'où les améliorations annoncées). Des solutions de contournements ont été mises en place par plusieurs prestataires.
-* La gestion des utilisateurs est parfois problématique (volume, synchronisation LDAP, ...), là aussi des améliorations sont en cours.
+* La gestion des utilisateurs est parfois problématique (volume, synchronisation LDAP, …), là aussi des améliorations sont en cours.
 * Enfin au niveau du volume de contenus possibles dans eZ Publish, Paul explique qu'avec du bon matériel eZ Publish est capable *de gèrer un million de contenus sans vrai problème* même si c'est dépendant de l'organisation de l'aborescence.
 
 Bon au final, mon sentiment sur cette après midi fort instructive est que le développement d'eZ Publish tente de combler les lacunes au niveau des (très) gros sites autant en terme de volume qu'en terme de performances.

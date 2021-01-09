@@ -35,7 +35,7 @@ Là encore, [mon fichier de configuration est disponible sur
 Github](https://github.com/dpobel/config/blob/master/config/gtk-3.0/settings.ini).
 
 Enfin pour Qt4, le fichier de configuration est
-`~/.config/Trolltech.conf` mais celui-ci assez compliqué... Le plus
+`~/.config/Trolltech.conf` mais celui-ci assez compliqué… Le plus
 simple est d'installer le paquet
 `qt4-qtconfig` qui fournit
 l'application qtconfig-qt4. Celle-ci permet notamment de choisir Gtk+ comme

@@ -25,6 +25,6 @@ It mainly adds three features:
 The extension is bundled with [FLV Player](http://flv-player.net/) which is
 released under the MPL 1.1 license. The rest of the extension is released under
 the GNU GPL licence 2. All information (requirements, installation,
-[screenshots](http://projects.ez.no/ezvideoflv/gallery/screenshots),...) can be
+[screenshots](http://projects.ez.no/ezvideoflv/gallery/screenshots),…) can be
 found in [the project page](http://projects.ez.no/ezvideoflv) on
 [projects.ez.no](http://projects.ez.no/).

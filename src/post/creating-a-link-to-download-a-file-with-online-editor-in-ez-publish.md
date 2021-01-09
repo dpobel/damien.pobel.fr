@@ -57,7 +57,7 @@ Match[classification]=download
 ```
 
  
-After clearing the cache, the new template will be used if the link has &quot;download&quot; in the class attribute and if it's not a full link (with a scheme protocol), it will try to generate a link to download the file. It can probably be improved by putting some datas in settings (object class(es), protocols list, ...)... The indentation is weird in order to be more readable without inserting unnecessary space the HTML code.
+After clearing the cache, the new template will be used if the link has &quot;download&quot; in the class attribute and if it's not a full link (with a scheme protocol), it will try to generate a link to download the file. It can probably be improved by putting some datas in settings (object class(es), protocols list, …)… The indentation is weird in order to be more readable without inserting unnecessary space the HTML code.
 
  
 

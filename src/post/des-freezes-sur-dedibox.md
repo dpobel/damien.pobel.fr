@@ -15,7 +15,7 @@ pour faire un peu de ménage ([en faisant mon boulet](/post/boulet) au passage)
 mais rien qui devrait faire planter une machine.
 
 Les symptômes sont les suivants : arrêt net de la machine, rien dans
-les logs, pas forcément de charge importante sur la machine et hard reboot... Bref
+les logs, pas forcément de charge importante sur la machine et hard reboot… Bref
 pas facile d'y voir clair. J'hésite un peu à demander le changement de la
 machine, car d'après le fil de discussion cité ci-dessus, je ne suis pas sûr
 d'avoir mieux ensuite. En plus la réinstallation de tous les sites est une

@@ -8,7 +8,7 @@ remoteId: "c6d8d294c93f263522e18e689bf1f3f8"
 published: 2007-01-07T15:51:49+01:00
 ---
  
-Dernièrement, j'arrivais à court de place sur ma partition /home il me semblait pourtant que je n'avais pas grand chose de volumineux et comme trouver ce qui occupe beaucoup d'espace est long et fastidieux, j'ai écrit un petit script pour se faciliter la tâche. Ce script liste les dossiers contenus dans un répertoire donné à un niveau donné faisant plus de 1,10,100,1000...unité. Voici donc wimfs.sh (Where is my free space :) :
+Dernièrement, j'arrivais à court de place sur ma partition /home il me semblait pourtant que je n'avais pas grand chose de volumineux et comme trouver ce qui occupe beaucoup d'espace est long et fastidieux, j'ai écrit un petit script pour se faciliter la tâche. Ce script liste les dossiers contenus dans un répertoire donné à un niveau donné faisant plus de 1,10,100,1000…unité. Voici donc wimfs.sh (Where is my free space :) :
 
  ``` bash
 #! /bin/sh
@@ -60,7 +60,7 @@ done
 [ -z $(echo $LEVEL | egrep '^[0-9]+$') ] && print_exit "Le niveau doit être un entier" 3
 [ -z $(echo $MIN_SIZE | egrep '^[0-9]+$') ] && print_exit "La taille minimale doit être un entier" 4
 
-# le script ... :)
+# le script … :)
 find $DIR -maxdepth $LEVEL -mindepth $LEVEL -type d -print0 | xargs -0 du -s$SIZEU 2> /dev/null | egrep "^[0-9]{$MIN_SIZE,}" | sort -n
 ```
 

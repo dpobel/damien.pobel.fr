@@ -28,7 +28,7 @@ addition but I find it more than useful in web applications.
 another very small improvement which can greatly improve users experience.
 * Buttons in the admin interface should be of a different colour depending on the
 action they trigger. For instance cancel buttons can be orange, publish buttons
-blue, remove buttons red, ... The main key here is to be consistent over all the
+blue, remove buttons red, … The main key here is to be consistent over all the
 interface.
 
 The edit interface of each datatype should also be considered individually to
@@ -37,9 +37,9 @@ attribute should provide a JavaScript calendar (like with the ezwebin package),
 the template of a time attribute a button to fill inputs field with the current
 time, the keyword datatype an *autocomplete* input (like with the
 [ezkeywords_autocomplete](http://projects.ez.no/ezkeyword_autocomplete)
-extension),... Beside an advanced edit interface for each attribute, the data
+extension),… Beside an advanced edit interface for each attribute, the data
 entered in the edit form should also be checked with JavaScript (required or
-not, valid syntax, ...). In case of errors, fields that do not validate should
+not, valid syntax, …). In case of errors, fields that do not validate should
 be highlighted with a message until a new valid value is entered. Obviously, if
 JavaScript is disabled, a server side check should do the same thing. On this
 topic, there's also [a very old feature request in the issue tracker about the

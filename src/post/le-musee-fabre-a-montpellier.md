@@ -21,8 +21,8 @@ musée. Je trouve ça inadmissible pour un établissement public présentant des
 oeuvres qui sont pour la plupart des dons ou des prêts. [Et je ne suis pas le
 seul](http://ahahh.blog.lemonde.fr/2007/03/09/le-musee-fabre-a-montpellier-reouverture-apres-travaux/).
 Si je peux comprendre que le flash soit interdit, une photo sans flash ne peut
-pas faire de mal... Et puis, il y a une personne dans chaque salle qui surveille
-tout ça...
+pas faire de mal… Et puis, il y a une personne dans chaque salle qui surveille
+tout ça…
 
  
 Deuxième impression en entrant, &quot;c'est par où ?&quot;, ils ont visiblement

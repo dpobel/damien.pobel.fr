@@ -69,8 +69,8 @@ j'ai retenu en vrac :
 * l'amélioration [du mode
   Cluster](http://ez.no/doc/ez_publish/technical_manual/3_10/features/clustering)
   pour permettre l'utilisation de plus de SGBD et permettre le stockage de
-  données à différents endroits selon leur type (DB, serveur NAS, ...)
-* le support de plus de système de base de données (MSSQL, Oracle, DB2, ...)
+  données à différents endroits selon leur type (DB, serveur NAS, …)
+* le support de plus de système de base de données (MSSQL, Oracle, DB2, …)
   grâce au composant Database. Ce point vient un peu contredire l'article de
   Clever Age que je mentionnais [dans un précédent
   billet](/post/ez-publish-4-alpha-1-et-beaucoup-d-autres-choses) ce qui est une
@@ -101,7 +101,7 @@ FNAC](http://www3.fnac.com/search/quick.do?text=nikon&amp;category=all))
 Bertrand Maugain nous a aussi fait une démonstration de l'extension eZ Flow, une
 nouvelle extension qui devrait sortir dans les semaines qui viennent. Il s'agit
 semble t il d'une surcouche du front site editing qui ajoute des fonctionnalités
-de paramètrage (ordre, type de template, ...) et le tout soupoudré d'AJAX.
+de paramètrage (ordre, type de template, …) et le tout soupoudré d'AJAX.
 Vraiment très impressionnant. J'aurai le temps d'en reparler quand ce sera
 sorti.
 

@@ -294,7 +294,7 @@ And after that, the coverage can be generated with:
 
 ```
 $ grover --server --coverage -S '?filter=coverage' tests/moveitview.html 
-[...]
+[…]
 --------------------+-----------+-----------+-----------+-----------+
 File                |   % Stmts |% Branches |   % Funcs |   % Lines |
 --------------------+-----------+-----------+-----------+-----------+
@@ -328,6 +328,6 @@ pages](http://dpobel.github.io/yui-test-example/coverage/lcov-report/yui-unit-te
 ## The end (for now)
 
 I originally planned to add a tips part on various topics (mock, asynchronous
-test, ...) in this post, but it's already too long so that will be for a next
+test, …) in this post, but it's already too long so that will be for a next
 post. I hope you found this article helpful; you now have no excuse to not unit
 test your YUI based JavaScript code ;-)

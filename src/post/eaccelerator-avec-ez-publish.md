@@ -57,7 +57,7 @@ multipliant le nombre de pages vues sur mon site par 1.5 (6500 le 15 janvier,
 10400 le 12 février)! Le trait vert correspond à l'installation d'eAccelerator.
 Je crois que le graphique parle de lui-même. Je n'ai pas de graphique de la
 charge de la machine, mais là aussi c'est flagrant lors de l'utilisation du
-shell...
+shell…
 
 
 J'ai récemment, fait quelques autres optimisations dans les *templates* en

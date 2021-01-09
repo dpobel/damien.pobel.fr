@@ -14,7 +14,7 @@ Extrait d'une discussion (de tête) aujourd'hui au travail entre [un collègue �
 
 &lt;LLaumgui&gt; Tu as pas des copines libres à me présenter ?
 
-&lt;Cherry&gt; Non toujours pas, de toute manière dans mon entourage autour de 26 ans, la seule chose de libre... c'est [ton logiciel](http://www.fedora-fr.org/) !
+&lt;Cherry&gt; Non toujours pas, de toute manière dans mon entourage autour de 26 ans, la seule chose de libre… c'est [ton logiciel](http://www.fedora-fr.org/) !
 </blockquote>
 
 ROFL !

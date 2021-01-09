@@ -26,7 +26,7 @@ replier, les redimensionner, les mettre à leur taille maximale en largeur, en
 hauteur ou sur tout l'écran, les déplacer d'un bureau à l'autre, changer de
 bureau et évidemment lancer les applications que j'utilise la plupart du temps
 (merci à cette belle touche *morte* avec une fenêtre qui se désagrège, un
-signe&nbsp;?) et bien d'autres choses encore...
+signe&nbsp;?) et bien d'autres choses encore…
 
  
 Depuis septembre 2006 et la sortie de la version
@@ -46,4 +46,4 @@ rapidement d'une fenêtre à une autre sans se tromper. C'est bien l'une des rar
 fonctionnalités des effets de bureaux 3D vraiment utiles. [Elle est mentionnée
 dans une demande de
 fonctionnalités](https://bugzilla.icculus.org/show_bug.cgi?id=2823), il n'y a
-plus qu'à espèrer ou à se mettre à coder mais c'est une autre histoire...
+plus qu'à espèrer ou à se mettre à coder mais c'est une autre histoire…

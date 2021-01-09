@@ -27,7 +27,7 @@ réchauffement climatique. Comme l'indique
 [ecoloPop](http://www.ecolopop.info/article/richard-branson-reserve-3-milliards-pour-la-planete),
 on peut être mauvaise langue et se dire que le patron d'une compagnie aérienne
 est un peu gonflé de faire une telle annonce. D'un autre côté, c'est l'une des
-plus grosses annonces du genre, *so wait and see*...
+plus grosses annonces du genre, *so wait and see*…
 
 
 Le 11 octobre sort au cinéma Une vérité qui
@@ -36,13 +36,13 @@ Inconvenient Truth. À l'origine de ce film on
 trouve ni plus ni moins qu'[Al Gore](http://fr.wikipedia.org/wiki/Al_Gore)
 diplômé de Harvard, ex sénateur du Tennessee, ex vice-président des États Unis,
 l'homme qui a perdu les élections présidentielles américaines avec plus de voix
-que son adversaire... bref, ce n'est pas le premier venu. J'irais le voir et
+que son adversaire… bref, ce n'est pas le premier venu. J'irais le voir et
 vous&nbsp;?
 
 Dans un autre registre, le [WWF France](http://www.wwf.fr/) publie le résultat
 d'une enquête inquiétante sur la présence de substances potentiellement
 dangereuses dans des produits alimentaires de grandes
-consommations (Étude maintenant indisponible...)
+consommations (Étude maintenant indisponible…)
 achetés dans des supermarchés européens. Plusieurs de ces produits (dont les
 retardateurs de flammes bromés et les PCB) sont présents dans les produits
 électroniques et leurs plastiques. Les résultats de cette études sont à mettre
@@ -51,7 +51,7 @@ de
 l'électronique](http://www.greenpeace.org/international/en/press/releases/Electronic-giants-failing-to-go-green-/)
 et avec les résultats d'une précédente étude publiée par le WWF France qui
 relevait des traces de ces produits dans les espadons de
-Méditerranée (Étude maintenant indisponible...)
+Méditerranée (Étude maintenant indisponible…)
 que je mentionnais dans [L'électronique et
 l'environnement](/post/l-electronique-et-l-environnement). Personne pour
 attaquer Apple, Acer ou Motorala en justice ?

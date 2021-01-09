@@ -9,7 +9,7 @@ published: 2007-02-13T23:50:14+01:00
 ---
  
 Interdire l'établissement de liens vers les &quot;gros&quot; sites est
-visiblement la nouvelle mode... Formats Ouverts dressent [une liste de quelques
+visiblement la nouvelle mode… Formats Ouverts dressent [une liste de quelques
 sites restreignant à des degrés divers l'établissement de
 liens](http://formats-ouverts.org/blog/2007/02/10/1102-pas-de-lien-hypertexte).
 Je me demande vraiment ce qu'ils ont à gagner en faisant cela, ou plutôt de quoi
@@ -18,7 +18,7 @@ au point un algorithme permettant de stopper une bonne partie du
 problème](http://googlewebmastercentral.blogspot.com/2007/01/quick-word-about-googlebombs.html)
 et même si ce n'était pas le cas, les vrais cas de *bombing* sont rares et
 visent [généralement des personnalités ou des actions
-politiques](http://fr.wikipedia.org/wiki/Bombardement_Google#Exemples)...
+politiques](http://fr.wikipedia.org/wiki/Bombardement_Google#Exemples)…
 
  
 Et puis l'établissement d'un lien est une sorte de reconnaissance qui apporte du
@@ -34,9 +34,9 @@ de ne pas la rendre publique.
  
 Il faut aussi et surtout préciser que [le lien
 hypertexte](http://fr.wikipedia.org/wiki/Hyperlien) est la base même du web,
-sans lien pas de site, sans site... la question est résolue mais on est pas très
+sans lien pas de site, sans site… la question est résolue mais on est pas très
 avancé. Le lien est non seulement utile, il est surtout nécessaire au web alors
-en ces temps de *Web 2.0*, de contenus créés par les utilisateurs, de blogs, ...
+en ces temps de *Web 2.0*, de contenus créés par les utilisateurs, de blogs, …
 pourquoi vouloir de plus en plus restreindre l'établissement de liens *naturels*
 ?
 

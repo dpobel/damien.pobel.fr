@@ -16,7 +16,7 @@ lors de l'utilisation de ces contenus. Mais je me rend compte en regardant [mes
 statistiques générées avec
 AWStats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi) que
 beaucoup de gens *hotlink* mes photos sur divers blogs, page myspace ou divers
-forums sans rien mentionner de leur provenance et ça m'énerve un peu... Alors
+forums sans rien mentionner de leur provenance et ça m'énerve un peu… Alors
 bien sûr, je peux m'inscrire et rajouter les mentions nécessaires dans le topic
 du forum en question mais :
 
@@ -31,7 +31,7 @@ de *Rewriting Apache*](http://httpd.apache.org/docs/1.3/mod/mod_rewrite.html) et
 un simple script PHP qui ajoute un texte à la volée et met en cache les images
 hébergées sur [ma Dedibox](/post/migration-sur-dedipwet) mais utilisées hors de
 [pwet.fr](http://pwet.fr). Je n'aime pas trop le procédé, mais je n'en vois pas
-d'autre...
+d'autre…
 
  
 Techniquement parlant, j'ai mis la configuration suivante dans mon fichier de

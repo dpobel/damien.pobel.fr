@@ -24,10 +24,10 @@ chose.
 
 Mais par contre, il faudrait vraiment, mais vraiment que les gens aux commandes
 du site web (visiblement le [WWF France](http://www.wwf.fr) si j'en crois le
-texte en bas de page, le seul vraiment lisible d'ailleurs...) arrêtent de nous
+texte en bas de page, le seul vraiment lisible d'ailleurs…) arrêtent de nous
 pondre des trucs comme le site officiel 5minpourlaplanete.org (hors ligne
 depuis). Les sites tout en flash c'est fini, on faisait ça il y'a 10 ans et
-c'était déjà pourri alors en 2007... En plus ça n'a aucun intérêt à moins :
+c'était déjà pourri alors en 2007… En plus ça n'a aucun intérêt à moins :
 
 * de vouloir être invisible : la recherche &quot;5 minutes de répit pour la
   planète&quot; dans Google ne fait pas apparaître le site officiel dans 20

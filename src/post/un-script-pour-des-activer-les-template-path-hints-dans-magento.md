@@ -15,7 +15,7 @@ partir du tableau de bord il faut pas moins de 7 clics et 4 rafraîchissements d
 page pour activer ou désactiver l'option *Template path hints* (affichage des
 *templates* utilisés) et/ou l'affichage du nom des
 *blocks*
-pour un site... Bref c'est extrêmement pénible quand il s'agit juste de voir où
+pour un site… Bref c'est extrêmement pénible quand il s'agit juste de voir où
 se trouve une coquille dans un *template* ou de connaître le nom du *block* à
 surcharger.
 

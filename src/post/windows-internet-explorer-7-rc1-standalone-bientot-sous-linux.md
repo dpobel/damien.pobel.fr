@@ -21,13 +21,13 @@ déjà dessus, il semble qu'il commence à avoir de bon
 résultats](http://www.tatanka.com.br/ies4linux/news/28) !
 
  
-Mais pourquoi installer ce euh... truc (j'hésite à appeler ça un navigateur) ?
+Mais pourquoi installer ce euh… truc (j'hésite à appeler ça un navigateur) ?
 Si vous êtes développeur web, vous n'avez pas trop le choix. [IE7 sera proposé
 comme mise à jour prioritaire de Windows XP
 SP2](http://blogs.msdn.com/ie/archive/2006/07/26/678149.aspx), on peut donc
 prévoir que bon nombre de personnes l'installeront sans même le vouloir/savoir
 (je connais même des personnes non informaticiennes qui l'avaient déjà en
-bêta1...), ce qui est plutôt bien pour les standards du web. Mais les jours
+bêta1…), ce qui est plutôt bien pour les standards du web. Mais les jours
 suivant cette mise à jour risquent d'être bien chargés pour beaucoup de Web
 Agency/Webmasters tant [les bugs d'Internet Explorer 6 et inférieurs sont
 énormes en matière d'interprètation

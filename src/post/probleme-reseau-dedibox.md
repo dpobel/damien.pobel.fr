@@ -8,7 +8,7 @@ remoteId: "0c8c13a32b112d9dc3de84c5a347f6fe"
 published: 2007-05-05T19:21:56+02:00
 ---
  
-Le réseau Dédibox n'était visiblement pas en grande forme cet après midi... Le paquet numéro 1 arrive en 6ième position après le paquet 24, inutile de dire que ce n'est pas très normal...
+Le réseau Dédibox n'était visiblement pas en grande forme cet après midi… Le paquet numéro 1 arrive en 6ième position après le paquet 24, inutile de dire que ce n'est pas très normal…
 
  ``` bash
 $ ping pwet.fr

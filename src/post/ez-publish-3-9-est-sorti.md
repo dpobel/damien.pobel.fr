@@ -12,7 +12,7 @@ D'abord annoncée fin octobre
 2006 puis mi
 novembre puis enfin
 mi-décembre (dans les *community newsletter* sur ez.no, pages hors ligne
-depuis...), [eZ
+depuis…), [eZ
 publish 3.9.0 est
 sorti](http://www.ezpedia.org/ez/ez_publish_3_9)
 et il s'est (un peu) fait attendre mais le voila avec beaucoup de nouveautés !
@@ -38,10 +38,10 @@ sur la classe du noeud parent, j'en aurais eu bien besoin dans un projet il y a
 peu ! Je vois aussi qu'il est question de navigation par *abcdaire*, voila une
 fonctionnalité intéressante et fastidieuse à mettre en place depuis zéro dans
 les précédentes versions. Je lis aussi que de nouvelles clauses sur la gestion
-des utilisateurs font leur apparition...
+des utilisateurs font leur apparition…
 
 Bref, il y a de la migration dans l'air pour moi surtout que ce site utilise
 encore une 3.8.3. D'après [la documentation de mise à
 jour](https://doc.ez.no/eZ-Publish/Upgrading/Upgrading-to-3.9/from-3.8.x-to-3.9.0),
-ça n'a pas l'air trop fastidieux...
+ça n'a pas l'air trop fastidieux…
 

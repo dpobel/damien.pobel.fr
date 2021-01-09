@@ -29,7 +29,7 @@ l'état de l'art, j'en ai déduit un court cahier des charges&nbsp;:
 1. un budget inférieur à 150&nbsp;€
 1. un (très) bon écran avec un rétro-éclairage performant (pour l'utiliser
    confortablement dans le train)
-1. un appareil léger (le train toujours...)
+1. un appareil léger (le train toujours…)
 
 Après avoir parcouru pas mal de tests, mon choix s'est donc porté sur la Touch
 Lux 3 TEA en particulier suite à la lecture de [ce test très complet sur Aldus -
@@ -58,12 +58,12 @@ boutique intégrée. En revanche, **pendant la lecture l'écran est super
 agréable** et c'est bien là l'essentiel. Le rétro-éclairage permet de lire dans
 des conditions de luminosité variables et non-idéales (oui encore le train ;-))
 sans se fatiguer et évidemment, avoir la possibilité de régler différents
-paramètres d'affichage (type et taille de la police, marges, interligne, ...)
+paramètres d'affichage (type et taille de la police, marges, interligne, …)
 rend l'ensemble encore plus agréable.
 
 À côté de l'expérience de lecture pure, l'intégration de la boutique (Cultura
 dans mon cas) est plutôt pas mal même si le premier jour, elle ne fonctionnait
-pas et sans aucun *feedback* (ah la gestion des erreurs...). Même chose pour le
+pas et sans aucun *feedback* (ah la gestion des erreurs…). Même chose pour le
 service Send-to-Pocketbook, la mise en place du service a été un peu laborieuse,
 mais à l'usage, envoyer un livre numérique sur sa liseuse avec un simple e-mail,
 c'est juste parfait pour moi.

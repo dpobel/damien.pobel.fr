@@ -99,7 +99,7 @@ remettre en avant plan. Ce numéro correspond à l'ordre dans lequel les
 programmes ont été mis en arrière plan.
 
    
-## Quelques trucs...
+## Quelques trucs…
 
   
 ### Un peu de couleurs avec grep
@@ -152,7 +152,7 @@ suivre un fichier pour faire défiler les dernières lignes ajoutées. Cette opt
 combinée à d'autres utilitaires de traitement de texte
 ([cut](http://pwet.fr/man/linux/commandes/cut),
 [sed](http://pwet.fr/man/linux/commandes/sed),
-[grep](http://pwet.fr/man/linux/commandes/grep), ...) permet de suivre
+[grep](http://pwet.fr/man/linux/commandes/grep), …) permet de suivre
 différents types de journaux facilement, deux exemples courants :
 
  ``` bash

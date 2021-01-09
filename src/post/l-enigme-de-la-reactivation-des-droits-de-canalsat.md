@@ -20,7 +20,7 @@ toutes les nuits, bref faire une sorte de tâche planifée ou
 [cron](http://pwet.fr/man/linux/administration_systeme/cron) quoi&nbsp;! Je vois mal
 l'utilisateur *lambda* aller farfouiller sur le site de
 [CanalSat](http://www.canalsat.fr/) pour trouver la manipulation à réaliser,
-donc j'imagine que le numéro surtaxé doit bien marcher...
+donc j'imagine que le numéro surtaxé doit bien marcher…
 
 
 Bref, si comme moi vous arrivez à la fin de la période promotionnelle de 3 mois

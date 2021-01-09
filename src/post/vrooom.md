@@ -23,5 +23,5 @@ Conduire 6 tours sur [le circuit de Bresse](http://www.circuitdebresse.fr) au vo
 </a></figure>
 
 
-Bon finalement c'est vrai, ça se conduit relativement facilement mais qu'est ce que ça accélère et freine fort ; ces sensations sont renforcées par le ronronnement du V8 installé juste derrière le poste de pilotage. C'est tout simplement incomparable avec n'importe quel véhicule *classique* même un peu puissant. Finalement mon seul regret est d'avoir conduit une Ferrari... jaune :-)
+Bon finalement c'est vrai, ça se conduit relativement facilement mais qu'est ce que ça accélère et freine fort ; ces sensations sont renforcées par le ronronnement du V8 installé juste derrière le poste de pilotage. C'est tout simplement incomparable avec n'importe quel véhicule *classique* même un peu puissant. Finalement mon seul regret est d'avoir conduit une Ferrari… jaune :-)
 

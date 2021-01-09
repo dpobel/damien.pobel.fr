@@ -36,7 +36,7 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Ce genre de fonctionnalité aurait typiquement sa place sur n'importe quel site
 où les utilisateurs devraient avoir une vraie photo sur leur profil comme un
-réseau social, un intranet d'entreprise, un site communitaire,&nbsp;...
+réseau social, un intranet d'entreprise, un site communitaire,&nbsp;…
 
 ## Quelques détails techniques
 

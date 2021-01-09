@@ -8,7 +8,7 @@ published: 2007-02-10T18:12:30+01:00
 updated: 2016-02-12 13:48
 ---
 
-Voila une perle hilarante trouvée parmi les 1500 articles non lus dans mon agrégateur...
+Voila une perle hilarante trouvée parmi les 1500 articles non lus dans mon agrégateur…
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CW0DUg63lqU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><Paste>

@@ -19,7 +19,7 @@ photos:
 
 Et un peu hors-sujet&nbsp;:
 
-* [Pourquoi y a-t-il des gauchers ?](https://sciencetonnante.wordpress.com/2018/01/26/pourquoi-y-a-t-il-des-gauchers-2/) (fr)&nbsp;: Bah en fait, on sait pas trop et en plus on n'est pas forcément 100% gaucher ou droitier... Bref, la vidéo est passionnante :-)
+* [Pourquoi y a-t-il des gauchers ?](https://sciencetonnante.wordpress.com/2018/01/26/pourquoi-y-a-t-il-des-gauchers-2/) (fr)&nbsp;: Bah en fait, on sait pas trop et en plus on n'est pas forcément 100% gaucher ou droitier… Bref, la vidéo est passionnante :-)
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))

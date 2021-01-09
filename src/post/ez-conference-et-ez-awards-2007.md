@@ -15,7 +15,7 @@ collègue, à la conférence annuelle eZ
 Systems consacrée aux technologies
 autour d'[eZ Publish](/tag/ez-publish) et d'[eZ Components](/tag/ez-components)
 et aux eZ Awards 2007 (ez.no/company/events/conference/ez_awards_2007, page hors
-ligne depuis...)
+ligne depuis…)
 les 7 et 8 juin 2007. La société qui m'emploie, [Smile](http://www.smile.fr/),
 fait partie des nominées pour les eZ Awards
 2007 pour *le projet de
@@ -24,10 +24,10 @@ nominé à titre personnel pour *le blogueur de l'année* et pour *le membre de 
 communauté de l'année*, ça fait plaisir et ça tombe plutôt bien&nbsp;! Parallèlement
 à cela, le programme des
 conférences (ez.no/company/events/conference/schedule_and_speakers, page hors
-ligne depuis...) est
+ligne depuis…) est
 plutôt alléchant avec l'intervention, en plus des *eZ men*, de célébrités hors
 *éco-système eZ* comme [Tristan Nitot](http://standblog.org/blog/) ou Damien
-Seguy... J'ai hâte d'y être, en plus ce sera pour moi l'occasion de passer un
+Seguy… J'ai hâte d'y être, en plus ce sera pour moi l'occasion de passer un
 peu de temps à Oslo en touriste. [Mon Nikon D50](/post/nikon-d50-noir) va
 chauffer pour internationnaliser un peu la section
 [photos](http://photos.pwet.fr) !

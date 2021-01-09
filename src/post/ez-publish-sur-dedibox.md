@@ -17,7 +17,7 @@ faut bien l'admettre demande pas mal de ressources.
 
  
 Mon serveur héberge trois sites utilisant eZ Publish ([pwet.fr](http://pwet.fr),
-[t-ka.net](http://t-ka.net) et frefred.fr (site mort depuis...) où pwet.fr sert
+[t-ka.net](http://t-ka.net) et frefred.fr (site mort depuis…) où pwet.fr sert
 98% des pages) ~~et j'espère bientôt un quatrième
 si je trouve le temps de le terminer~~. Si j'en crois
 [AWStats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi), l'heure
@@ -40,5 +40,5 @@ Il faut aussi oublier le vider tous les caches d'un coup :-)
  
 Biensûr tout ces chiffres sont à modérer en fonction du site et de sa
 réalisation qui d'ailleurs sur pwet.fr est loin d'être parfaite, mais j'y
-travaille...
+travaille…
 

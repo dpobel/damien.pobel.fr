@@ -24,7 +24,7 @@ find /dossier/contenant/fichiers -type f -exec sed -i 's/à remplacer/remplaceme
 Petite explication&nbsp;:
 
 Cette commande indique à find de trouver dans **/dossier/content/fichiers** tous
-les fichiers simples (pas les dossiers, ni les liens symboliques, ...) et de
+les fichiers simples (pas les dossiers, ni les liens symboliques, …) et de
 lancer le remplacement avec sed (Stream EDitor). Dans cette expression, **-i**
 indique à sed de faire le remplacement directement dans le fichier plutôt que
 d'afficher la sortie. **{}** indique à find ou mettre le nom du fichier dans la

@@ -25,7 +25,7 @@ magnifiques autos. mais pour le reste, rien à redire, un sans faute !
 J'ai eu l'occasion de monter dans une réplique d'une Ford WRC (la même que
 Marcus Grönholm) pour jouer à une simulation de rallye, c'était très sympa et
 vraiment prenant. Dommage que je n'ai pas la place d'installer ce genre
-d'équipement chez moi, je pourrais me prendre pour Gron... enfin [Sébastien
+d'équipement chez moi, je pourrais me prendre pour Gron… enfin [Sébastien
 Loeb](http://www.sebastienloeb.com/) plus souvent :-)
 
  
@@ -63,7 +63,7 @@ Peak](http://photos.pwet.fr/villes-et-departements/paris-75/paris/suzuki-grand-v
 
 Enfin dans la rubrique insolite, la palme revient au stand de la chaîne M6
 donnant accès à des PC avec un navigateur web affichant fièrement le site de
-leur ami de toujours : tf1.fr (j'ai pas eu le temps de prendre une photo...).
+leur ami de toujours : tf1.fr (j'ai pas eu le temps de prendre une photo…).
 
 Et dans un autre genre à cette jeune personne (son visage a été flouté par
 respect pour sa famille :) affichant fièrement son adminiration vis à vis de son

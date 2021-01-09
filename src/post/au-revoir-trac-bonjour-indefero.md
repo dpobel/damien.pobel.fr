@@ -16,7 +16,7 @@ logiciel simple et léger, multi-projets avec au minimum la navigation dans des
 dépôts [SVN](http://subversion.tigris.org/), un wiki et gestionnaire de rapports
 et si possible en PHP) mais il fonctionnait assez mal (régulièrement j'avais des
 erreurs sur les pages) et l'utilisation en multi-projets était tellement pénible
-que j'avais fini par tout mettre dans un seul dépôt SVN...
+que j'avais fini par tout mettre dans un seul dépôt SVN…
 
 
 InDefero est un clone libre de [GoogleCode](http://code.google.com/intl/fr/).
@@ -31,4 +31,4 @@ une question d'habitude, pour le wiki il est vrai que, entre la syntaxe de
 [Mediawiki](https://meta.wikimedia.org/wiki/File:Cheatsheet-fr.pdf)
 [TWiki](http://twiki.org/cgi-bin/view/TWiki/WikiSyntax) (que j'utilise [au
 travail](/page/cv)), [Trac](http://trac.edgewall.org/wiki/WikiFormatting) et
-celle-ci, je m'embrouille un peu...
+celle-ci, je m'embrouille un peu…

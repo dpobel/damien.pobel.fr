@@ -41,7 +41,7 @@ conception, mais d'autres alternatives plus à la mode ou plus sexies pourraient
 Rails](http://www.rubyonrails.org/) mais aussi à
 [Symphony](http://www.symfony-project.com/) récemment [adopté par
 Yahoo!](http://linuxfr.org/2006/11/01/21559.html) et il y en a beaucoup
-d'autres...
+d'autres…
    
 ## Un lecteur RSS en ligne
  
@@ -51,7 +51,7 @@ interface riche aux avantages d'une interface en ligne (accessible partout,
 légèreté), le tout associé à une extension Firefox permettant d'ajouter
 directement ses flux dans l'application, ce serait vraiment sympa. J'avais
 d'ailleurs fait un prototype de l'interface, mais j'arrive pas à remettre la
-main dessus...
+main dessus…
 
 ## Une extension eZ Publish permettant d'administrer &quot;par liste&quot;
  
@@ -61,7 +61,7 @@ l'arborescence](http://ez.no/doc/ez_publish/user_manual/3_8/the_administration_i
 est très pratique pour gérer son contenu, mais pas pour supprimer, visualiser
 les *trackbacks* ou les commentaires sur un blog. J'aimerais vraiment avoir une
 page ou je pourrais lister un ensemble d'objets par classe, l'ensemble pourrait
-être trié/restreint selon différents critères (date, auteur, ...).
+être trié/restreint selon différents critères (date, auteur, …).
 
    
 ## Un logiciel d'administration pour eZ publish
@@ -70,7 +70,7 @@ page ou je pourrais lister un ensemble d'objets par classe, l'ensemble pourrait
 eZ publish propose une interface
 [SOAP](http://fr.wikipedia.org/wiki/Simple_Object_Access_Protocol), je n'ai pas
 encore pu vraiment étudier la question en profondeur (c'est très peu
-documenté...), mais il devrait être théoriquement possible d'administrer un site
+documenté…), mais il devrait être théoriquement possible d'administrer un site
 via des requêtes SOAP. Ces requêtes SOAP pourraient très bien être envoyées par
 une application &quot;en dur&quot; (exemple construite avec
 [xulrunner](http://xulfr.org/wiki/XulRunner)) proposant une interface bien plus
@@ -79,4 +79,4 @@ une application &quot;en dur&quot; (exemple construite avec
  
 Par rapport aux trois autres idées, celle-ci est plus de l'ordre du fantasme
 qu'autre chose, car le travail pour arriver à quelque chose d'utilisable me
-semble assez énorme. Mais si il y a des volontaires en manque d'idées... :-)
+semble assez énorme. Mais si il y a des volontaires en manque d'idées… :-)

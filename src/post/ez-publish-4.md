@@ -19,13 +19,13 @@ l'utiliser. Mais surprise intéressante, l'extension [eZ
 Flow](https://doc.ez.no/Extensions/eZ-Publish-extensions/eZ-Flow) annoncée et présentée lors du *developper day* est
 intégrée à cette version. J'ai regardé avec attention la vidéo de
 présentation (ez.no/ezflow/ez_flow_product_demonstration, page hors ligne
-depuis...) qui reprend
+depuis…) qui reprend
 grosso modo la démonstration du 31 octobre; c'est assez impressionnant
 d'intégration et de facilité d'utilisation reste à voir si ce sera facilement
-utilisable/intégrable avec ses propres design et templates...
+utilisable/intégrable avec ses propres design et templates…
 
 Enfin avis personnel, la version à vraiment attendre est la prochaine stable
 prévue en début d'année qui marquera l'intégration réelle et profonde des [eZ
 Components](http://ezcomponents.org/) ce qui promet des changements beaucoup
 plus importants et probablement des améliorations dans bien des secteurs
-(performances, flexibilité, ...).
+(performances, flexibilité, …).

@@ -34,13 +34,13 @@ ezcontentcache.php permet de vider le cache de contenu d'un noeud ou d'une sous 
 ## Vider des caches de manière *fine* : ezcache.php
 
  
-ezcache.php permet de vider certains caches assez finement en spécifiant uniquement un cache particulier pour un *siteaccess* donné. Par exemple, si vous ajouter [un Custom tag comme comme dans mon billet sur l'inclusion de vidéos](/post/inclure-une-video-de-dailymotion-youtube-ou-autre-dans-ez-publish), il est possible de vider uniquement le cache *template-override*. Pratique sur un site en production, surtout si le site est très visité et si le(s) serveur(s) sont un peu justes...
+ezcache.php permet de vider certains caches assez finement en spécifiant uniquement un cache particulier pour un *siteaccess* donné. Par exemple, si vous ajouter [un Custom tag comme comme dans mon billet sur l'inclusion de vidéos](/post/inclure-une-video-de-dailymotion-youtube-ou-autre-dans-ez-publish), il est possible de vider uniquement le cache *template-override*. Pratique sur un site en production, surtout si le site est très visité et si le(s) serveur(s) sont un peu justes…
 
    
 ## Manipuler les données : ezsubtreeremove.php et ezsubtreecopy.php
 
  
-Comme leur nom l'indique, ces scripts permettent de supprimer ou copier (donc déplacer...) des données dans l'arborescence. Ils sont utiles pour manipuler de gros volumes de données, là où l'interface web est limitée par le timeout PHP.
+Comme leur nom l'indique, ces scripts permettent de supprimer ou copier (donc déplacer…) des données dans l'arborescence. Ils sont utiles pour manipuler de gros volumes de données, là où l'interface web est limitée par le timeout PHP.
 
    
 ## Compiler les templates : eztc.php

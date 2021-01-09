@@ -14,7 +14,7 @@ published: 2009-03-29T23:03:11+02:00
 
 </table>
 
-Mais dans les sous bois de Vergongeat on ne trouve pas que des jonquilles...
+Mais dans les sous bois de Vergongeat on ne trouve pas que des jonquilles…
 
 <table class="table-centre"><tr><td><figure class="object-center"><a href="/images/fleur-bleue.jpg"><img loading="lazy" src="/images/330x/fleur-bleue.jpg" alt="Fleur bleue">
 </a></figure></td>

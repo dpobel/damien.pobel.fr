@@ -10,5 +10,5 @@ published: 2009-01-27T12:05:17+01:00
 </a></figure>
 
 
-Un .exe pour mon Firefox sous Linux, euh oui mais non... Il est quand même dingue de devoir installer un plugin pour télécharger un fichier, pour la lecture je peux comprendre (encore que...) Dis monsieur Orange, pour le même prix (voire moins cher ;)) je peux avoir un simple lien vers un fichier sonore correspondant à mon message ?
+Un .exe pour mon Firefox sous Linux, euh oui mais non… Il est quand même dingue de devoir installer un plugin pour télécharger un fichier, pour la lecture je peux comprendre (encore que…) Dis monsieur Orange, pour le même prix (voire moins cher ;)) je peux avoir un simple lien vers un fichier sonore correspondant à mon message ?
 

@@ -24,7 +24,7 @@ Mais pour être honnête, depuis [la migration vers eZ Publish
 en *roue libre* sans une grande motivation de ma part pour le maintenir et ni le
 faire vivre. D'ailleurs, il faudrait le renommer Planet eZ Platform
 [maintenant](/post/au-revoir-ez-publish-bonjour-ez-platform/) :-) Aussi, une
-très large partie des sources sont mortes ou les liens pointent dans le vide...
+très large partie des sources sont mortes ou les liens pointent dans le vide…
 Hé [Cool URIs don't change](https://www.w3.org/Provider/Style/URI) ou au moins
 redirigent vers une ressource correspondante&nbsp;!  &lt;/râlage&gt;
 

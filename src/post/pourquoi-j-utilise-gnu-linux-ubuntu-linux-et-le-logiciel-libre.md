@@ -9,7 +9,7 @@ updated: 2016-02-12 13:42
 ---
 
 On me pose régulièrement ces questions, alors je vais y répondre une bonne fois
-pour toute....
+pour toute….
 
 
 ## Pourquoi GNU/Linux ?
@@ -54,7 +54,7 @@ Cette capture d'écran date d'août 2002 ! C'était pas terrible :) Entre temps
 j'ai découvert [Debian](http://www.debian.org) qui en était encore à la version
 [Woody 3.0](http://www.debian.org/releases/woody/). Comme j'avais pas le net,
 les mises à jour étaient pas simples pour avoir des logiciels de moins de 2 ans
-d'âge... Suite à quelques jobs d'été, j'ai enfin pu m'offrir une machine décente
+d'âge… Suite à quelques jobs d'été, j'ai enfin pu m'offrir une machine décente
 un AMD 2200+ avec 512 Mo de RAM que j'ai toujours avec quelques ajouts (RAM et
 disques durs) sur laquelle j'ai toujours refusé d'installer autre chose que
 GNU/Linux. J'ai poursuivi avec Debian puis avec la toute première version
@@ -82,7 +82,7 @@ stabilité (autant du système que des logiciels dans le temps vu son évolution
 relativement lente) et sa facilité d'administration, et Ubuntu est très adapté
 aux machines de bureau pour le côté très à jour. D'ailleurs au boulot, j'utilise
 Ubuntu sur mon poste (encore en Warty pour différentes raisons, mais plus pour
-longtemps j'espère...) et Debian sur les serveurs.
+longtemps j'espère…) et Debian sur les serveurs.
 
 ## Et pourquoi le logiciel libre alors ?
 
@@ -95,7 +95,7 @@ et j'en apprend encore tous les jours. Parallèlement à cela, avec l'âge j'ai
 appris à apprécier cette liberté et finalement j'ai de plus en plus de mal à
 utiliser les logiciels propriétaires, d'autant qu'en matière de web, ils ont une
 fâcheuse tendances à ne pas évoluer assez vite voire pas du tout pendant des
-années...
+années…
 
 
 J'aurais pu finir ce billet par un looong paragraphe intitulé *Pourquoi Unix
@@ -103,4 +103,4 @@ J'aurais pu finir ce billet par un looong paragraphe intitulé *Pourquoi Unix
 je resterais sous GNU/Linux (voire \*BSD voire OpenSolaris) car en plus d'être
 libre, ces systèmes ont toutes les forces de la philosophie des systèmes de la
 famille Unix&nbsp;: stabilité, scriptabilité, multi-utilisateur, simplicité,
-... L'herbe est loin d'être plus verte du côté de Redmond.
+… L'herbe est loin d'être plus verte du côté de Redmond.

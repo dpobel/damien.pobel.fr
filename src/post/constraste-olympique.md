@@ -14,5 +14,5 @@ published: 2008-08-12T23:25:27+02:00
 *Photos issues du*[*diaporama sur la cérémonie d'ouverture des Jeux Olympiques de Pékin sur 20minutes*](http://www.20minutes.fr/diaporama/426)*.*
 
 
-En lisant [La note du rabat-joie](http://www.blogteam.sport24.com/2008/08/la-note-du-rabatjoie.html) aujourd'hui, ça m'a rappelé ce que je me suis dit en voyant ces deux images successivement...
+En lisant [La note du rabat-joie](http://www.blogteam.sport24.com/2008/08/la-note-du-rabatjoie.html) aujourd'hui, ça m'a rappelé ce que je me suis dit en voyant ces deux images successivement…
 

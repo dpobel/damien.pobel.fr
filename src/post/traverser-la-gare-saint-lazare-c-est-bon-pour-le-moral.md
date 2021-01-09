@@ -24,7 +24,7 @@ dire miteux) fréquentés
 pas savoir combien et quels genres de germes grouillent sur ces trucs)
 * le ciel
 gris en permanence (enfin quand on est 20 mètres sous terre c'est pas si
-grave...)
+grave…)
 * et le sport qui consiste à traîner sa valise à roulettes partout
 pendant 3 jours contre courants d'air et escaliers.
 
@@ -42,7 +42,7 @@ Lazare](http://fr.wikipedia.org/wiki/Gare_Saint-Lazare) même à un horaire dit 
 
 
 Cette dernière expérience matérialise un truc que je déteste : des gens partout,
-tout le temps et encore des gens partout... mais en plus des gens prêts à
+tout le temps et encore des gens partout… mais en plus des gens prêts à
 t'écraser sous prétexte que tu tires une valise et donc tu n'es pas très agile.
 Un jour si j'ai le temps, il faudrait que je tente l'expérience de refaire mon
 lacet en plein milieux juste pour voir combien de temps je survis&nbsp;!
@@ -53,6 +53,6 @@ très bon pour mon moral. Il y a une semaine encore je me disais que j'avais une
 vie pleine de stress à courir partout, pour mon travail, [pour trouver un
 appartement à
 acheter](/post/le-parcours-du-combattant-de-la-recherche-d-un-appartement-sur-le-web),
-pour trouver un prêt plus toute les tracasseries de la vie courante... Mais je
+pour trouver un prêt plus toute les tracasseries de la vie courante… Mais je
 cours dans une ville à taille humaine ensoleillée 300 jours par an et
 franchement ça n'a pas de prix ! N'empêche vivement que je rentre chez moi :-)

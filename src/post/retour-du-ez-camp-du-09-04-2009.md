@@ -9,7 +9,7 @@ published: 2009-04-11T13:22:32+02:00
 
 ## Contributions externes
 
-Tout d'abord, je suis content de voir surgir à nouveau la question de la contribution externe à [eZ Publish](/tag/ez-publish) et de l'ouverture du développement. Paul Borgermans a annoncé la résurrection de la section spécifications sur ez.no (pages disparues depuis...), c'est une super nouvelle ! Je suis toujours inscrit au flux RSS de cette section mais le dernier document date de [la sortie de la version 3.9](/post/ez-publish-3-9-est-sorti) qui a l'époque avait été [surnommée *la community release*](/post/ez-publish-3-9-wow)... Idéalement, cette section devrait servir de <abbr title="Request For Comments">RFC</abbr>  permettant à chacun de s'exprimer sur les évolutions à venir et pourquoi pas proposer des idées et du code. Un peu comme l'Open Funding (page disparues)  mais en moins orienté... *funding* :-)
+Tout d'abord, je suis content de voir surgir à nouveau la question de la contribution externe à [eZ Publish](/tag/ez-publish) et de l'ouverture du développement. Paul Borgermans a annoncé la résurrection de la section spécifications sur ez.no (pages disparues depuis…), c'est une super nouvelle ! Je suis toujours inscrit au flux RSS de cette section mais le dernier document date de [la sortie de la version 3.9](/post/ez-publish-3-9-est-sorti) qui a l'époque avait été [surnommée *la community release*](/post/ez-publish-3-9-wow)… Idéalement, cette section devrait servir de <abbr title="Request For Comments">RFC</abbr>  permettant à chacun de s'exprimer sur les évolutions à venir et pourquoi pas proposer des idées et du code. Un peu comme l'Open Funding (page disparues)  mais en moins orienté… *funding* :-)
 
 
 ## Débat autour des sites communautaires
@@ -54,7 +54,7 @@ doit passer par l'association, chacun reste évidemment libre d'écrire sur ses
 propres expérimentations, découvertes, trucs sur son blog ou ailleurs. Je parle
 ici de la réalisation **d'un unique site communautaire** : des forums (eZ
 Publish France), un aggrégateur (Planet eZ Publish.fr), des initiatives de
-localisation (eZ France, traduction de documentation, ...) et tout autre idée
+localisation (eZ France, traduction de documentation, …) et tout autre idée
 partagée par la communauté. Par exemple, faire une espèce d'annuaire organisé
 des articles en lignes en français sur eZ Publish comme le suggèrait
 [Gauthier](http://blog.gauthier-garnier.ca/) (je crois ?) est une très bonne

@@ -18,7 +18,7 @@ que de
 et un de ces potes et c'était vraiment sympa à l'exception de l'espèce de
 morceau de viande abruti imbibé d'alcool derrière moi une bonne partie de la
 soirée qui ne trouvait rien de mieux à faire ce soir là que de venir écouter son
-balladeur MP3 dans un concert tout en criant et chantant... bref.
+balladeur MP3 dans un concert tout en criant et chantant… bref.
  
 Le premier groupe était [We don't like your
 shoes](http://myspace.com/wedontlikeyourshoes), c'est donc un trio (1 guitare, 1
@@ -39,7 +39,7 @@ the dark* (aussi en écoute sur MySpace)&nbsp;!
  
 Pour finir, CobSon est arrivé sur scène, là j'ai moins accroché, sur le début de
 leur prestation il y avait comme une impression de brouillon, j'avais aussi
-l'impression qu'il jouait au ralenti et j'entendais à peine la chanteuse...
+l'impression qu'il jouait au ralenti et j'entendais à peine la chanteuse…
 Dommage, elle a pourtant une très belle voix, ils se sont bien rattrapés sur
 leur dernier morceau. Ils vont faire pas mal de concerts sur Montpellier dans
 les mois qui viennent, j'aurais peut être l'occasion de les revoir dans une

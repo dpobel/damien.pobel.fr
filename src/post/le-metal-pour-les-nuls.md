@@ -18,7 +18,7 @@ Via [Planète GNOME-FR](http://planet.gnomefr.org/), j'ai vu un petit topo très
 
 **HARD ROCK** Le chevalier arrive en short avec une casquette. La princesse se casse dégoûtée.
 
-[...]
+[…]
 </blockquote>
 
 

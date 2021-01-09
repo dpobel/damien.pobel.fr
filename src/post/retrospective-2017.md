@@ -102,7 +102,7 @@ aboutis voire n'ont pas débutés en 2017&nbsp;:
 * prendre des photos
 * participer et parler à des conférences
 * me *dégoogliser* complètement
-* et sans doute plein d'autres trucs... :)
+* et sans doute plein d'autres trucs… :)
 
 Bref, le programme est déjà bien chargé pour 2018 et sera sans doute même pas
 réalisé à moitié :) Il me reste à souhaiter une bonne année à toi chère/cher

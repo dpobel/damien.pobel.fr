@@ -14,14 +14,14 @@ vainement cherché un logiciel permettant de faire une capture d'écran
 trouvé [Xvidcap](http://xvidcap.sourceforge.net/) mais il n'est pas dans [les
 dépôts Ubuntu](http://doc.ubuntu-fr.org/depots) et [le paquet non-officiel pour
 Debian](http://www.jarre-de-the.net/computing/debian/) ne fonctionne pas
-correctement...
+correctement…
  
 Je me suis donc rabbattu sur deux captures d'écran consécutives réalisées avec
 [mon script de
 capture](/post/mise-en-ligne-d-une-capture-d-ecran-plus-vite-que-son-ombre) basé
 sur [import](http://pwet.fr/man/linux/commandes/import) (de la suite
 [ImageMagick](http://pwet.fr/man/linux/commandes/imagemagick)) montées en GIF
-animé avec [The GIMP](http://pwet.fr/man/linux/commandes/gimp_2_2)... Mais
+animé avec [The GIMP](http://pwet.fr/man/linux/commandes/gimp_2_2)… Mais
 depuis, au détour [d'un
 commentaire](http://linuxfr.org/comments/784332,1.html)[d'un journal trollogène
 sur LinuxFr](http://linuxfr.org/~gnumdk/23303.html), j'ai découvert que

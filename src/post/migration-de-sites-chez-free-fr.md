@@ -52,7 +52,7 @@ Il reste donc uniquement à écrire dans le fichier redirect.php la logique de r
 <?php
 $REDIRECTS['bretagne']='http://photos.pwet.fr/galeries/la-cote-de-granit-rose-lannion-et-ses-environs/';
 $REDIRECTS['chateau-aumelas']='http://photos.pwet.fr/galeries/le-chateau-d-aumelas/';
-/** ... **/
+/** … **/
 
 define('FINAL_REDIRECT', 'http://photos.pwet.fr');
 $file = $_SERVER['REQUEST_URI'];

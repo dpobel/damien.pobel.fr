@@ -18,4 +18,4 @@ par <a href="http://www.flickr.com/photos/kubina/">Jeff Kubina</a>
 </figcaption>
 </figure>
 
-Vue sur le Planet Ubuntu User chez [Gerry Ilagan](http://igerry.com/desktop/ubuntu/going-loco-over-the-ubuntu-logo.html). Dommage, je sors de chez le coiffeur... :-)
+Vue sur le Planet Ubuntu User chez [Gerry Ilagan](http://igerry.com/desktop/ubuntu/going-loco-over-the-ubuntu-logo.html). Dommage, je sors de chez le coiffeur… :-)

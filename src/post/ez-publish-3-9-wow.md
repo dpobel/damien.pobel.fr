@@ -39,7 +39,7 @@ repoussées à la prochaine version par manque de temps, la plus importante éta
 certainement l'intégration d'un framework AJAX qui il est vrai pourrait parfois
 bien simplifier la vie. Je pense en particulier à l'édition des classes ou à la
 définition des rôles des utilisateurs qui sont des opérations assez fastidieuses
-à réaliser à l'aide de l'interface web...
+à réaliser à l'aide de l'interface web…
  
 En tout cas cette version, nommée *The community release* en raison de son
 évolution basée sur les commentaires de la communauté, est plus que prometteuse.

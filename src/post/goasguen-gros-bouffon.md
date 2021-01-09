@@ -29,12 +29,12 @@ croyable pour un politique avec [*une longue expérience
 universitaire*](http://claudegoasguen.typepad.com/about.html) (sic!). Et puis
 comme le dit très bien un certain François M. dans un commentaire sur billet
 d'Effets de
-Terre (page hors ligne depuis...)
+Terre (page hors ligne depuis…)
 
  <blockquote>
-[...] En revanche, ce que je comprend de la part de ce bouffon de Goasguen,
+[…] En revanche, ce que je comprend de la part de ce bouffon de Goasguen,
 comme de 85% des politiques de ce pays, c'est qu'il sont prêts à retourner leur
-veste devant le premier interlocuteur venu.[...]
+veste devant le premier interlocuteur venu.[…]
 </blockquote>
 
 On retiendra aussi les déclarations sur *Nicolas Hulot et son pacte extérieurs à la campagne*.

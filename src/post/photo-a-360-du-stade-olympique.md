@@ -11,5 +11,5 @@ published: 2008-08-24T20:56:30+02:00
 </a></figure>
 
 
-[C'est un peu long à charger](http://www.karikuukka.com/peking2008/100m/) (nécessite le plugin Flash), mais ça en vaut vraiment la peine. Dommage que la photo ne soit pas en meilleure résolution, couplée avec un système où on peut pointer une zone particulière on aurait pu s'amuser à trouver des détails amusants...
+[C'est un peu long à charger](http://www.karikuukka.com/peking2008/100m/) (nécessite le plugin Flash), mais ça en vaut vraiment la peine. Dommage que la photo ne soit pas en meilleure résolution, couplée avec un système où on peut pointer une zone particulière on aurait pu s'amuser à trouver des détails amusants…
 

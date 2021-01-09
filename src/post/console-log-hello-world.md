@@ -9,7 +9,7 @@ Hello world! And welcome on my brand new blog. And when I write *new*, I mean
 **NEW**.
 
 First, the URL is now http://damien.pobel.fr/, nothing fancy here, that's my
-name, and maybe, thanks to that change (and some others...), this website will
+name, and maybe, thanks to that change (and some others…), this website will
 be the first result in Google when searching for "[Damien
 Pobel](https://www.google.com/search?q=damien+pobel)"!
 

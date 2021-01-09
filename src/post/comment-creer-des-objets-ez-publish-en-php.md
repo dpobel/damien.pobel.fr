@@ -13,7 +13,7 @@ J'ai découvert il n'y a pas très longtemps la fonction
 de l'API [eZ Publish](/tag/ez-publish/). Cette fonction bien cachée (et enfin
 documentée depuis la résolution [de ce bug](http://issues.ez.no/12261)) permet
 de créer facilement des objets de contenus. Quand je pense que tout le travail
-est mâché par cette fonction, ça en fait des lignes de codes inutiles... Par
+est mâché par cette fonction, ça en fait des lignes de codes inutiles… Par
 exemple, pour créer un objet de la classe de contenu
 [File](http://ez.no/doc/ez_publish/technical_manual/4_x/reference/content_classes/media/file),
 ces quelques lignes suffisent :

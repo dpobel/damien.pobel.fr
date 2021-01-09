@@ -20,7 +20,7 @@ Probablement l'un des meilleurs CD que j'ai acheté depuis (dans un autre genre)
 Earth](http://fr.wikipedia.org/wiki/First_Impressions_of_Earth) des
 [Strokes](http://www.thestrokes.com/). Quelques titres de l'album sont
 disponibles sur [Deezer](http://www.deezer.com) (ce qui m'a d'ailleurs incité à
-l'acheter...) dont The Pretender, une tuerie, le premier extrait de l'album dans
+l'acheter…) dont The Pretender, une tuerie, le premier extrait de l'album dans
 le plus pur style de Foo Fighters.  [Le clip](#clip_the_pretenders) est aussi
 plutôt sympa. Le reste de l'album alterne entre morceaux plutôt calmes du type
 Stranger things have happened ou Statues et morceaux énergiques comme The

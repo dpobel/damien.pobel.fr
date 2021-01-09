@@ -17,5 +17,5 @@ published: 2007-06-02T19:12:51+02:00
 
 
  
-Sur les bords du plan d'eau de la Jasse à Mas de Londres, le 28 avril 2007. D'après Wikipedia, la [*Muscari comosum*](http://fr.wikipedia.org/wiki/Muscari_comosum) (Muscari à toupet) est aussi connue sous les noms de queue-de-poireau, muscari chevelu, ail à toupet, poireau roux, ...
+Sur les bords du plan d'eau de la Jasse à Mas de Londres, le 28 avril 2007. D'après Wikipedia, la [*Muscari comosum*](http://fr.wikipedia.org/wiki/Muscari_comosum) (Muscari à toupet) est aussi connue sous les noms de queue-de-poireau, muscari chevelu, ail à toupet, poireau roux, …
 

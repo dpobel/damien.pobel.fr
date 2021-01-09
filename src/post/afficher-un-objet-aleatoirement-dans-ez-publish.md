@@ -15,7 +15,7 @@ Afficher un objet aléatoirement est une question assez fréquente sur les forum
  
  
 J'ai d'ailleurs proposé une solution sur le forum *Questions Techniques* d'eZ
-publish France (site mort depuis...) dans un sujet de jeudi dernier Au passage
+publish France (site mort depuis…) dans un sujet de jeudi dernier Au passage
 j'ai appris l'existence de l'opérateur
 [rand()](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/template_operators/mathematics/rand)
 qui renvoie un nombre aléatoire compris entre ses deux arguments. Je ne sais pas
@@ -83,7 +83,7 @@ Une solution, peut être plus économe en ressource, pourrait être de compter l
 nombre d'objets à l'extérieur du template **rand_photo.tpl** et de passer cette
 valeur en paramètre du *include*, de manière à ce que le résultat soit stocké en
 cache. L'inconvénient est que les deux *fetch* utilisés pour la même tâche se
-retrouve à deux endroits distincts ce qui ne facilite pas la maintenance...
+retrouve à deux endroits distincts ce qui ne facilite pas la maintenance…
 
  
 Une autre solution, proposée par Xavier Langlois est d'utiliser la contribution

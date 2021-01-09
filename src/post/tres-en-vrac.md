@@ -13,7 +13,7 @@ updated: 2016-02-12 12:15
    C'est assez incroyable comme [ma Dedibox](/post/migration-sur-dedipwet) s'en
    trouve moins chargée et comme les performances des sites sont bien
    meilleures, [enfin quand elle est
-   joignable](http://seb.abcblog.fr/index.php?2007/02/08/18-dedibox-en-rade)...
+   joignable](http://seb.abcblog.fr/index.php?2007/02/08/18-dedibox-en-rade)…
  * L'installation d'eAccelerator commençait à être une nécessité, car [mes
    photos](http://photos.pwet.fr) sont maintenant indexées dans [Google
    Images](http://images.google.fr/images?hl=fr&amp;q=site:pwet.fr&amp;btnG=Recherche%20d),
@@ -28,7 +28,7 @@ updated: 2016-02-12 12:15
    [plusieurs](http://photos.pwet.fr/villes-et-departements/herault-34/montpellier/unlookdown-par-john-garcia/)
    [photos](http://photos.pwet.fr/villes-et-departements/herault-34/montpellier/john-garcia-s-envole/)
    et j'ai appris ce qu'est [un
-   *spine*](http://photos.pwet.fr/villes-et-departements/herault-34/montpellier/nose-pick-sur-le-spine-par-dave-freimuth/)...
+   *spine*](http://photos.pwet.fr/villes-et-departements/herault-34/montpellier/nose-pick-sur-le-spine-par-dave-freimuth/)…
    Merci encore à lui. [Mon appel à contribution en échange de
    liens](/post/nokia-fise-2006-et-2007) est toujours valable.
  * [Le procès de l'Erika s'est ouvert

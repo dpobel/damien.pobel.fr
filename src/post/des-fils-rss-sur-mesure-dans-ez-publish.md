@@ -10,9 +10,9 @@ updated: 2016-02-09 09:28
  
 Ce billet aurait pu s'appeler *RSS and eZ Publish on Steroïd* ou bien *RSS ou
 autres exports de contenu avec eZ Publish* ou encore *Utilisation de différents
-layouts dans eZ Publish* ... La technique présentée dans ce billet a été
+layouts dans eZ Publish* … La technique présentée dans ce billet a été
 inspirée par le message de Bertrand Danes sur le forum eZ Publish
-France (site mort depuis...)
+France (site mort depuis…)
 et pour certains points techniques par [l'extension Google
 Sitemap](http://ez.no/community/contribs/template_plugins/googlesitemaps_extension)
 de Sergey Shishkin qui utilise aussi ce mécanimse.
@@ -26,9 +26,9 @@ flux RSS, ce qui empêche la détection correcte de mises à jour par les lecteu
 RSS. J'avais aussi écrit [un petit *patch* pour pouvoir inclure un feuille de
 style XSLT dans les fils RSS](http://issues.ez.no/9097) pour eZ Publish 3.8.x,
 mais l'utilisation d'un *layout* et du système de *template* pour créer des fils
-RSS rend complètement obsolète le *patch* en question... Et puis j'ai un petit
+RSS rend complètement obsolète le *patch* en question… Et puis j'ai un petit
 projet personnel en tête qui devrait utiliser assez intensivement cette
-technique, enfin si il se concrétise un jour...
+technique, enfin si il se concrétise un jour…
 
  
 Pour en revenir, à cette technique, elle est assez simple à mettre en oeuvre (
@@ -49,7 +49,7 @@ ContentType=text/xml
 ```
 
  
-Ces lignes signifient que les pages appelées via l'URL /layout/set/rss/ utiliseront comme *template pagelayout* le fichier design/&lt;mon_design&gt;/templates/rss_pagelayout.tpl et tout cela générera du XML. Le fichier en question est très simple et on retrouve le point central des *pagelayout* traditionnels (si je puis dire...) :
+Ces lignes signifient que les pages appelées via l'URL /layout/set/rss/ utiliseront comme *template pagelayout* le fichier design/&lt;mon_design&gt;/templates/rss_pagelayout.tpl et tout cela générera du XML. Le fichier en question est très simple et on retrouve le point central des *pagelayout* traditionnels (si je puis dire…) :
 
  ```
 <?xml version="1.0" encoding="iso-8859-1"?>

@@ -17,7 +17,7 @@ Publish](http://ez.no/fr), [Drupal](http://drupal.org/),
 [Joomla](http://www.joomla.fr/), [Wordpress](http://www.wordpress-fr.org) et
 [SPIP](http://www.spip.net/fr). Il s'agit plus d'une revue de fonctionnalités
 sur le papier que d'un véritable comparatif. Je suis assez surpis de ne pas voir
-[Typo3](http://typo3.org/) dans cette liste... Et puis **comparer** [eZ
+[Typo3](http://typo3.org/) dans cette liste… Et puis **comparer** [eZ
 Publish](/tag/ez-publish) et Wordpress n'a pas vraiment de sens; Wordpress
 étant très spécialisé alors qu'eZ Publish c'est plutôt le contraire, bref ce
 sont deux outils que ne servent pas à la même chose. Pour Joomla! et SPIP, j'ai
@@ -34,7 +34,7 @@ est possible.
 Pour la partie *Back Office*, même combat même si c'est peut être moins simple à
 réaliser sur certains points. Par contre, je sais pas où ils sont allés chercher
 qu'on pouvait pas [faire de
-tableau](http://ez.no/doc/extensions/online_editor/4_x/usage/the_toolbar/working_with_tables)...
+tableau](http://ez.no/doc/extensions/online_editor/4_x/usage/the_toolbar/working_with_tables)…
 Ou alors j'ai mal saisi le critère ?
 
 

@@ -14,7 +14,7 @@ personne écrivant un livre sur les noms de famille dans [le département de
 l'Hérault](http://photos.pwet.fr/villes-et-departements/herault-34/) et
 cherchant une photo d'un paysage de ce même département pour la couverture. Le
 livre en question est prévu pour être tiré à 600 exemplaires, pas le *best
-seller* de l'année donc, mais ça reste un livre quand même... Cette personne
+seller* de l'année donc, mais ça reste un livre quand même… Cette personne
 souhaitait connaître les conditions d'utilisation des photos suivantes :
 
 * [Le domaine de
@@ -34,12 +34,12 @@ en contre partie d'un crédit (avec l'adresse du site :) et si possible contre u
 exemplaire du livre. Il faudrait que j'étudie de plus près les licences tels que
 les [Creative Commons](http://creativecommons.fr/) pour indiquer de manière
 simple les conditions d'utilisation des données de ce site, un truc de plus à
-rajouter sur ma longue liste de *choses à faire*...
+rajouter sur ma longue liste de *choses à faire*…
 
  
 Pour en revenir au livre, même si je ne suis pas particulièrement intéressé par
 les noms de famille de l'Hérault (encore que ça puisse être intéressant), j'ai
 hâte de recevoir mon exemplaire ! J'ai aussi de plus en plus envie de m'acheter
 un bon appareil photo numérique pour remplacer mon mini et vaillant Nikon
-Coolpix 3100...
+Coolpix 3100…
 

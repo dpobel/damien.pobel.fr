@@ -35,7 +35,7 @@ du type de bien, un clic sur un type l'ajoute comme critère de recherche (faço
 checkbox), mais qu'un double clic sur un élément dé-sélectionne les autres. Mais
 les barres de sélection des tranches de prix, du nombre de pièces et de la
 surface c'est insupportable et pénible à utiliser surtout sur un PC portable et
-quand finalement la recherche ne fonctionne tout simplement pas... grrr Au
+quand finalement la recherche ne fonctionne tout simplement pas… grrr Au
 suivant !
 
 
@@ -56,7 +56,7 @@ peut s'en sortir en passant la souris et **en cliquant sur la scrollbar** (!)
 mais sur les suivants point de scrollbar, point de salut ! Quasiment un champ
 sur deux inutilisables, ça fait beaucoup. Dans les mentions
 légales on pouvait lire *Site optimisé
-pour Internet Explorer*, ça doit être pour ça...
+pour Internet Explorer*, ça doit être pour ça…
 
 
 ## Orpi

@@ -9,7 +9,7 @@ updated: 2016-02-09 08:49
 ---
  
 Dans la lignée du script de Racoon permettant de prendre une capture d'écran
-optimisé pour ImageShack(tm) (site disparu...) j'ai écrit un script permettant
+optimisé pour ImageShack(tm) (site disparu…) j'ai écrit un script permettant
 de prendre une capture d'écran et de l'envoyer sur un serveur FTP en une seule
 manipulation. Ce script, associé à un raccourcis clavier ou à un lanceur bien
 placé, permet :

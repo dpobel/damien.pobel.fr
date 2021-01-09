@@ -14,7 +14,7 @@ published: 2011-07-05T20:42:36+02:00
 ## Quoi de neuf ?
 
 
-[La version 0.1](/post/sortie-de-auto-status-0-1) était inutilisable depuis [la suppression de l'authentification Basic par Twitter](http://blog.twitter.com/2010/08/twitter-applications-and-oauth.html) (oui je sais cette mise à jour a plus de 10 mois...). Cette nouvelle version supporte l'authentification OAuth sur Twitter et Identi.ca.
+[La version 0.1](/post/sortie-de-auto-status-0-1) était inutilisable depuis [la suppression de l'authentification Basic par Twitter](http://blog.twitter.com/2010/08/twitter-applications-and-oauth.html) (oui je sais cette mise à jour a plus de 10 mois…). Cette nouvelle version supporte l'authentification OAuth sur Twitter et Identi.ca.
 
 
 Grâce à [Nicolas Pastorino](http://share.ez.no/community/profile/9804), l'évènement de workflow peut être configuré pour construire l'URL de l'objet pour un siteaccess donné.

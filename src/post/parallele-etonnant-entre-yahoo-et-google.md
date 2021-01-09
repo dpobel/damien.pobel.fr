@@ -32,11 +32,11 @@ et Google seraient à ce point proche dans le déclenchement de vagues
 d'indexation massive&nbsp;? À noter qu'à côté de ça, [Live
 Search](http://search.live.com/) (ex-MSN Search)
 [indexe péniblement 800
-pages](http://search.msn.fr/results.aspx?q=site:pwet.fr)...
+pages](http://search.msn.fr/results.aspx?q=site:pwet.fr)…
 
 J'avais annoncé que je publierais le script permettant de faire un graphique
 avec ces données, c'est toujours d'actualité, il faut juste que je trouve le
-temps de l'écrire dans un langage ou un autre voire dans plusieurs...
+temps de l'écrire dans un langage ou un autre voire dans plusieurs…
 D'ailleurs, je regarde sérieusement du côté d'[eZ
 components](http://zetacomponents.org) dont la dernière version
 2006 beta2 intègre un module

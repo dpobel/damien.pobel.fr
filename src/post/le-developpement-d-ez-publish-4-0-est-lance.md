@@ -25,5 +25,5 @@ sera un très bon cru&nbsp;! J'espère deux choses de cette nouvelle version&nbs
  
 Sur ce deuxième point, de petits *trucs* pourraient contribuer à rendre
 l'interface plus facile d'accès (un peu de javascript par ci, une réorganisation
-de quelques éléments par là, ...). C'est un vaste sujet, j'y reviendrai
-probablement dans un autre billet, copies d'écran à l'appui...
+de quelques éléments par là, …). C'est un vaste sujet, j'y reviendrai
+probablement dans un autre billet, copies d'écran à l'appui…

@@ -32,7 +32,7 @@ installations eZ Publish 3.8 utilisant PHP4 avec des installations de Drupal
 utilisant probablement PHP5, ce n'est pas très sérieux ! [eZ Publish 4.0 (avec
 PHP5) est 2 fois plus rapide qu'eZ Publish
 3.10](/post/benchmark-between-ez-publish-4-and-ez-publish-3-10-with-or-without-a-php-opcode-cache),
-alors par rapport à eZ Publish 3.8... Je connais mal Drupal, donc je ne parlerai
+alors par rapport à eZ Publish 3.8… Je connais mal Drupal, donc je ne parlerai
 donc que d'eZ Publish.
 
 Bref, en essayant de démêler tout ça, l'auteur dénonce finalement deux
@@ -43,7 +43,7 @@ problèmes&nbsp;::
 * Des difficultés de développement et d'évolution du/des sites.
 
 
-## Architecture, performances...
+## Architecture, performances…
 
 
 Avec une estimation à la louche, 500 000 pages vues par jour correspond à moins
@@ -106,7 +106,7 @@ utiliser le langage de template d'eZ Publish, on frise le ridicule.
 Il y a probablement une partie de réels problèmes dans les points remontés dans
 les articles de media-buniness.biz (eZ Publish n'est pas parfait) mais il est
 toujours plus facile de démonter une solution dans son ensemble que de se
-remettre en cause... Le fait est qu'eZ Publish est utilisé sur [une large
+remettre en cause… Le fait est qu'eZ Publish est utilisé sur [une large
 palette de sites à plus ou moins fort trafic](http://ez.no/Customers/Customers-by-Industry)
 et les chiffres indiqués ne sont pas non plus exceptionnels&nbsp;!
 

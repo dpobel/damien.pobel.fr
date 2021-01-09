@@ -8,7 +8,7 @@ remoteId: "2aadde2c981603fbccb06f5b93d44fd0"
 published: 2006-09-17T02:04:12+02:00
 ---
  
-Depuis sa version 2.0, [OpenOffice](http://pwet.fr/man/linux/commandes/openoffice) est capable de détecter l'environnement de bureau utilisé pour en imiter le style graphique, ou en tout cas pour utiliser les même boites de dialogue. Cette fonctionnalité fonctionne très bien sous GNOME (et j'imagine aussi sous KDE voire sous XFCE), mais malheureusement si on n'utilise aucun de ces environnements de bureau en utilisant uniquement un gestionnaire de fenêtre alternatif comme [openbox](http://pwet.fr/man/linux/commandes/openbox) par exemple, OpenOffice se trouve un peu perdu (c'est certainement le cas avec d'autres gestionnaire de fenêtre comme [fluxbox](http://pwet.fr/man/linux/commandes/fluxbox), [blackbox](http://pwet.fr/man/linux/commandes/blackbox), [WindowMaker](http://pwet.fr/man/linux/commandes/x2/wmaker), ...). Du coup OpenOffice ressemble à ça :
+Depuis sa version 2.0, [OpenOffice](http://pwet.fr/man/linux/commandes/openoffice) est capable de détecter l'environnement de bureau utilisé pour en imiter le style graphique, ou en tout cas pour utiliser les même boites de dialogue. Cette fonctionnalité fonctionne très bien sous GNOME (et j'imagine aussi sous KDE voire sous XFCE), mais malheureusement si on n'utilise aucun de ces environnements de bureau en utilisant uniquement un gestionnaire de fenêtre alternatif comme [openbox](http://pwet.fr/man/linux/commandes/openbox) par exemple, OpenOffice se trouve un peu perdu (c'est certainement le cas avec d'autres gestionnaire de fenêtre comme [fluxbox](http://pwet.fr/man/linux/commandes/fluxbox), [blackbox](http://pwet.fr/man/linux/commandes/blackbox), [WindowMaker](http://pwet.fr/man/linux/commandes/x2/wmaker), …). Du coup OpenOffice ressemble à ça :
 
  
 
@@ -20,7 +20,7 @@ Depuis sa version 2.0, [OpenOffice](http://pwet.fr/man/linux/commandes/openoffic
 
 
  
-Pas génial ... Après pas mal de recherche, j'ai fini par découvrir sur [une page du Wiki d'OpenOffice](http://wiki.services.openoffice.org/wiki/Environment_Variables#Environment_variables_for_users) qu'on pouvait &quot;forcer&quot; la détection du bureau par une simple variable d'environnement. Comme le lancement de mon environnement de travail se fait par l'intermédiaire de mon ~/.xsession, il m'a suffit d'y placer la ligne suivante pour définir la variable d'environnement **OOO_FORCE_DESKTOP** :
+Pas génial … Après pas mal de recherche, j'ai fini par découvrir sur [une page du Wiki d'OpenOffice](http://wiki.services.openoffice.org/wiki/Environment_Variables#Environment_variables_for_users) qu'on pouvait &quot;forcer&quot; la détection du bureau par une simple variable d'environnement. Comme le lancement de mon environnement de travail se fait par l'intermédiaire de mon ~/.xsession, il m'a suffit d'y placer la ligne suivante pour définir la variable d'environnement **OOO_FORCE_DESKTOP** :
 
  ``` bash
 export OOO_FORCE_DESKTOP="gnome"

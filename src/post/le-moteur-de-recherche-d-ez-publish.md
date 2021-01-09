@@ -29,7 +29,7 @@ a été publié récemment, personnellement je trouve [la solution proposée moi
 défaut](http://share.ez.no/learn/ez-publish/indexing-multiple-binary-file-types/%28page%29/3)
 car cette solution utilise (en partie) l'extension du fichier pour détecter son
 type et les programmes permettant d'extraire les données sont écrits en dur,
-bref pas génial...
+bref pas génial…
 
  
 Pour en revenir au moteur de recherche par défaut, deux directives [de

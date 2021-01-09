@@ -9,8 +9,8 @@ updated: 2016-02-09 09:46
 ---
  
 Ces deux versions sont sorties aujourd'hui. Le ChangeLog de la version 3.8.8
-(page indisponible...) indique uniquement des corrections de bugs (environ 70
-tout de même !). Le ChangeLog de la version 3.9.2 (page indisponible...) indique
+(page indisponible…) indique uniquement des corrections de bugs (environ 70
+tout de même !). Le ChangeLog de la version 3.9.2 (page indisponible…) indique
 en plus des nombreuses corrections de bugs (presque 80&nbsp;!) plusieurs
 fonctionnalités ou améliorations importantes, je remarque en particulier&nbsp;:
 
@@ -20,7 +20,7 @@ fonctionnalités ou améliorations importantes, je remarque en particulier&nbsp;
 fameuse *Website Interface*](http://ez.no/doc/extensions/website_interface).
  
 Sur ce dernier point, il semble qu'il y ait eu pas mal de travail. Au détour
-d'un sujet sur eZ Publish France (site mort depuis...) j'ai appris qu'eZ Systems
+d'un sujet sur eZ Publish France (site mort depuis…) j'ai appris qu'eZ Systems
 travaillait sur l'amélioration des *packages* par défaut en particulier sur
 celui de weblog. Comme je l'écris dans ce fil de discussion, j'ai toujours
 trouvé les *templates* par défaut un peu juste en terme de qualité que ce soit

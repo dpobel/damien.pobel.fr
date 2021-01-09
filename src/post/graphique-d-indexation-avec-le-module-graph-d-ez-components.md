@@ -16,7 +16,7 @@ je lorgne du côté d'[eZ components](http://ezcomponents.org) pour
 un framework sous license BSD développé par eZ systems qui, à terme, devrait
 servir de base au futur eZ publish, nom de code
 Telemark (ez.no/community/articles/platform_and_solutions_strategy/ez_platform,
-page hors ligne depuis...)
+page hors ligne depuis…)
 La dernière version (2006 2 beta1) de ce framework vient de sortir en version
 beta, c'est donc un bon
 moyen de tester cet outil prometteur qui semble particulièrement bien conçu.
@@ -71,7 +71,7 @@ L'avant dernière ligne du script est commentée car visiblement l'utilisation d
 moteur de rendu basé sur la bibliothèque GD permettant de génèrer des PNG fait
 planter le programme. Comme je n'ai que la version 5.1.2 de PHP alors que la
 dernière version est la 5.1.6, je n'ai pas encore rapporté un éventuel bug, mais
-je vais essayer d'enquêter la dessus... Ce petit script permet d'obtenir un SVG
+je vais essayer d'enquêter la dessus… Ce petit script permet d'obtenir un SVG
 dont voici une version PNG&nbsp;:
 
 <figure class="object-center"><a href="/images/comparaison-de-l-indexation-dans-google-et-dans-yahoo.png"><img loading="lazy" src="/images//comparaison-de-l-indexation-dans-google-et-dans-yahoo.png" alt="Comparaison de l'indexation dans Google et dans Yahoo!">

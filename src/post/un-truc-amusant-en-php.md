@@ -18,5 +18,5 @@ I.need.to.get.some.sleep(1);
 ```
 
  
-Bon évidemment ça n'est pas recommandé et en plus ça n'a aucun intérêt :-) En fait techniquement ce comportement est normal. Le *parser* fait juste [quelques *notices*](http://fr2.php.net/manual/en/ref.errorfunc.php) car il interprète les instructions inconnues comme des constantes non définies...
+Bon évidemment ça n'est pas recommandé et en plus ça n'a aucun intérêt :-) En fait techniquement ce comportement est normal. Le *parser* fait juste [quelques *notices*](http://fr2.php.net/manual/en/ref.errorfunc.php) car il interprète les instructions inconnues comme des constantes non définies…
 

@@ -22,9 +22,9 @@ ont été présentés cette année à l'eZ Conférence 2008. D'un point de vue
 *produit*, eZ Systems dirige ses développements sur 2 axes :
 
 * amélioration de ce qu'on peut appeler le *socle eZ Publish* (correction des
-  bugs, amélioration des performances, ...)
+  bugs, amélioration des performances, …)
 * amélioration de l'expérience utilisateurs avec des nouveaux produits autour
-  d'eZ Publish (eZ Flow, nouvel Online Editor, ...)
+  d'eZ Publish (eZ Flow, nouvel Online Editor, …)
 
 La grosse nouvelle est la mise à jour majeure de la roadmap d'eZ Publish par
 rapport [au dernier developer day](/post/ez-developer-day-a-paris-le-17-04-2008)
@@ -82,7 +82,7 @@ passer par un export puis un réimport dans le backoffice. Le CSS Editor permet
 lui d'éditer la feuille de style directement depuis son navigateur. Ce produit
 est déjà en fonctionnement sur *une usine à sites* où les administrateurs de
 chaque site ont la possibilité de changer légèrement la mise en page (couleurs,
-images de fond, police, ...)
+images de fond, police, …)
 
 ## Quelques projets intéressants
 

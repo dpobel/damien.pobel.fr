@@ -12,5 +12,5 @@ Le temps me manque, mais [Biologeek publie un court mais excellent billet sur le
  libre.
 
 
-Mais au moins, on apprend un truc avec le navigateur Google, faire un logiciel avec moins de fonctionnalités que les concurrents mais [qui paraît ultra rapide](http://linuxfr.org/comments/962313.html#962313) (au lancement ou à l'affichage) c'est visiblement révolutionnaire, qu'on se le dise...
+Mais au moins, on apprend un truc avec le navigateur Google, faire un logiciel avec moins de fonctionnalités que les concurrents mais [qui paraît ultra rapide](http://linuxfr.org/comments/962313.html#962313) (au lancement ou à l'affichage) c'est visiblement révolutionnaire, qu'on se le dise…
 

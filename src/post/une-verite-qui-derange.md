@@ -44,7 +44,7 @@ autour du dérèglement climatique ont particulièrement retenu mon attention :
 * pendant un temps, le conseiller du président des États Unis sur les questions
   environnementales était un ex-employé d'une compagnie pétrolière avant de
   démissionner suite à une faute et pour être à nouveau employé d'une autre
-  compagnie pétrolière dès le lendemain... ça se passe de commentaire.
+  compagnie pétrolière dès le lendemain… ça se passe de commentaire.
  
  
 Ce film réussit aussi à faire passer un message sans tomber dans le

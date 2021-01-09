@@ -20,5 +20,5 @@ published: 2006-09-28T00:40:00+02:00
 [ouaaaiiis](http://planet.ubuntu-fr.org) et [re ouaaaiiis](http://www.planetezpublish.org) et du coup [encore ouaaiiis](http://ez.no/community) :)
 
  
-*il en faut peu pour être heureux, vraiment très peu pour* ...
+*il en faut peu pour être heureux, vraiment très peu pour* …
 

@@ -12,7 +12,7 @@ Ma chère et tendre me tannant pour avoir le thème Mario Bros dans son Firefox
 (Thème retiré de https://addons.mozilla.org/firefox/), je lui installe Firefox 2
 sous Windows 2000 et le fameux thème Marios Bros. Jusque là, rien
 d'extraordinaire, tout fonctionne bien, même si le thème est affreux (et encore
-je suis poli)...
+je suis poli)…
 
 
 <figure class="object-center"><a href="/images/firefox-avec-le-theme-mario-bros.gif"><img loading="lazy" src="/images/660x/firefox-avec-le-theme-mario-bros.gif" alt="Firefox avec le thème Mario Bros">
@@ -23,15 +23,15 @@ puisqu'il suffira de cliquer sur le lien ou sur l'icône dans la barre d'adresse
 et Firefox lancera Thunderbird pour l'ajout direct du flux RSS sans avoir à
 chercher puis copier/coller l'adresse du fil. Je configure donc Firefox, pour
 utiliser thunderbird.exe en tant que lecteur RSS, je me rend sur
-[pwet.fr](http://pwet.fr/) pour ajouter un fil RSS et là... rien. Je me dis bon,
+[pwet.fr](http://pwet.fr/) pour ajouter un fil RSS et là… rien. Je me dis bon,
 peut être faut-il relancer le tout, je ferme Firefox et Thunderbird, je relance
 Firefox, je reclique sur un lien vers un fils RSS, Thunderbird se lance bien
 mais il affiche le flux &quot;version texte&quot; dans un des panneaux et c'est
-tout... Bon, peut être que ce sont mes fils RSS qui sont problématiques, je
+tout… Bon, peut être que ce sont mes fils RSS qui sont problématiques, je
 refais l'essai avec le fil de [Mozilla](https://www.mozilla.org/fr/),
 et là c'est encore mieux, Thunderbird m'ouvre carrément une fenêtre pour me
 demander quoi faire du fichier (&quot; *Enregister*&quot; ou &quot; *Ouvrir
-avec*&quot;)... Je refais les tests sous Linux en lançant Thunderbird depuis un
+avec*&quot;)… Je refais les tests sous Linux en lançant Thunderbird depuis un
 terminal (je n'ai pas encore installé Firefox 2), et même résultat ! C'est un
 peu idiot tout ça ! Deux logiciels produits par la même fondation/entreprise qui
 ne fonctionne pas de manière optimale ensemble. Après quelques recherches dans
@@ -47,6 +47,6 @@ $ mozilla-thunderbird -mail feed:http://pwet.fr/rss/feed/billets
 ```
  
 D'ailleurs cette ligne est d'une cohérence *incroyable*, puisqu'elle indique à
-thunderbird d'ouvrir le composant de mail pour y visualiser... le flux RSS en
+thunderbird d'ouvrir le composant de mail pour y visualiser… le flux RSS en
 paramètre ! Bon eh bien l'intégration de RSS dans Firefox/Thunderbird c'est pas
 encore ça, dommage :(

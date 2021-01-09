@@ -19,7 +19,7 @@ photos:
 
 Et un peu hors-sujet&nbsp;:
 
-* [Obsolescence programmée : tous responsables](http://www.lutopik.com/article/obsolescence-programmee-tous-responsables) (fr)&nbsp;: oui vraiment tous et toutes...
+* [Obsolescence programmée : tous responsables](http://www.lutopik.com/article/obsolescence-programmee-tous-responsables) (fr)&nbsp;: oui vraiment tous et toutes…
 * [Voici les pires intitulés de job du secteur de la tech](https://m.usbeketrica.com/article/recrutement-perle-rare-pas-besoin-ninja-ou-sorcier) (fr)&nbsp;: pour rigoler un peu. Je suis étonné de ne pas voir &quot;Jedi&quot; dans les intitulés. Mais je fais effectivement parti de ceux qui auraient tendance à fuir les annonces avec des intitulés de ce genre.
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*

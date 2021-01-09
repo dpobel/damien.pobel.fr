@@ -38,7 +38,7 @@ configure Apache to serve the best possible version.
 
 > Brotli is a data format specification for data streams compressed with a
 > specific combination of the general-purpose LZ77 lossless compression
-> algorithm, Huffman coding and 2nd order context modelling. [...]
+> algorithm, Huffman coding and 2nd order context modelling. […]
 >
 > Brotli was first released in 2015 for off-line compression of web fonts.
 > The version of Brotli released in September 2015 by the Google software

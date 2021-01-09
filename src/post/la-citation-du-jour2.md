@@ -14,5 +14,5 @@ Un peu comme apprendre que votre ex se tape un connard que vous détestez : On a
 </blockquote>
 
 
-Reste plus qu'à prier pour qu'il ne lui prenne pas l'envie d'animer une émission ou pire d'intervenir dans la programmation musicale de la radio...
+Reste plus qu'à prier pour qu'il ne lui prenne pas l'envie d'animer une émission ou pire d'intervenir dans la programmation musicale de la radio…
 

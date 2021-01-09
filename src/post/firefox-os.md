@@ -33,5 +33,5 @@ port efforts are [quite rare and unstable at the
 moment](https://autonome.wordpress.com/2013/01/15/firefox-os-devices-and-dark-matter/).
 While writing this post, I found that [Firefox OS can also be installed on Nexus
 7](https://wiki.mozilla.org/B2G/Nexus7) but the lack of WIFI explained in the
-last sentence of this page is not very motivating...
+last sentence of this page is not very motivating…
 

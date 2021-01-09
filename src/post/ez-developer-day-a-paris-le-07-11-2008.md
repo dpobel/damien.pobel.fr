@@ -8,7 +8,7 @@ published: 2008-11-10T12:51:43+01:00
 updated: 2016-02-09 08:09
 ---
 
-Bon cette fois ci je ne pouvais m'y rendre... Je suis content de voir que
+Bon cette fois ci je ne pouvais m'y rendre… Je suis content de voir que
 d'autres ont fait un résumé&nsbp;:
 
 * [eZ developer day à Paris (7 novembre

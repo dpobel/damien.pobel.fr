@@ -11,12 +11,12 @@ updated: 2016-02-10 21:39
 Il n'y a pas que [des améliorations de performances dans eZ Publish
 4.1](/post/comparaison-de-performances-entre-ez-publish-4-0-1-et-4-1).
 L'annonce de la sortie de la version
-4.1 (ez.no/developer/news/ez_publish_4_1_0_released, page hors ligne depuis...) liste les plus
+4.1 (ez.no/developer/news/ez_publish_4_1_0_released, page hors ligne depuis…) liste les plus
 grosses nouveautés ([stale
 cache](http://ez.no/developer/articles/ez_publish_knowledge_series_stale_cache_or_how_caches_in_ez_publish_4_1_are_handled_in_a_smarter_way),
 [object
 states](http://ez.no/developer/articles/ez_publish_knowledge_series_editorial_workflow_with_object_states),
-...) et d'autres améliorations attendues depuis un bon moment. Je pense en
+…) et d'autres améliorations attendues depuis un bon moment. Je pense en
 particulier à [l'ajout de déclencheurs](http://issues.ez.no/10176) sur d'autres
 opérations que l'affichage d'un objet (<code>content/read</code>), la
 publication (<code>content/publish</code>) ou ceux dédiés au module de boutique.
@@ -35,10 +35,10 @@ d'implémenter tout un tas de fonctionnalités comme la mise à jour d'un cache
 spécifique, [la publication à partir d'une date renseignée dans un
 attribut](http://svn.projects.ez.no/ezcore/trunk/ezcore/doc/hide_unhide.txt),
 la création d'un espace personnel lors de l'ajout d'un
-utilisateur (serwatka.net/index.php/blog/ez_publish_3_8_new_custom_edit_handler, page hors ligne depuis...),
-... J'ai toujours vu ce mécanisme comme une sorte d'évènement de *workflow post
+utilisateur (serwatka.net/index.php/blog/ez_publish_3_8_new_custom_edit_handler, page hors ligne depuis…),
+… J'ai toujours vu ce mécanisme comme une sorte d'évènement de *workflow post
 publish* en beaucoup plus simple (pas de code de retour, pas de syntaxe
-alambiquée, pas de possibilité de laisser le travail à un script *cron*...).
+alambiquée, pas de possibilité de laisser le travail à un script *cron*…).
 
 
 Dans eZ Publish 4.1, il est maintenant possible d'implémenter [une méthode de
@@ -51,7 +51,7 @@ simplifier les choses notamment en permettant la vérification de règles
 syntaxiques supplémentaires sans nécessiter le développement d'un datatype
 spécifique ce qui est parfois un peu lourd pour juste ajouter une validation
 simple (validation d'un code postal, d'une longueur minimale d'une ligne de
-texte, d'un domaine particulier pour un email, ...)
+texte, d'un domaine particulier pour un email, …)
 
 
 ## Extension *output filter*

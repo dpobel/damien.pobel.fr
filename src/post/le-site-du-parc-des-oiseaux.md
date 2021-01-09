@@ -24,16 +24,16 @@ sous Linux. Plus exactement, il possible de voir le site en utilisant
 IE4Linux (tatanka.com.br/ies4linux/ page cassée) qui permet
 d'installer et d'utiliser Internet Explorer 5.0, 5.5, 6.0 ainsi que Flash 8 via
 [Wine](http://pwet.fr/man/linux/commandes/wine). C'est très moche, pas très
-stable mais ça peut suffir ponctuellement... En tout cas pour ce site ça permet
-d'apprécier les grandes euh... *qualités* de ce site :
+stable mais ça peut suffir ponctuellement… En tout cas pour ce site ça permet
+d'apprécier les grandes euh… *qualités* de ce site :
 
 * Des effets flash inutiles, énervants voire gênants
-* De la musique ...
+* De la musique …
 * Quasiment aucun contenu intéressant
 * Un magnifique menu en flash (flash 7 d'ailleurs) sur la partie
   &quot;Presse&quot; et &quot;Téléchargement&quot; avec un non moins magnifique
   bouton &quot;Imprimer&quot; [sur la page contact complètement
-  vide](http://www.parcdesoiseaux.com/presse/index.htm)...
+  vide](http://www.parcdesoiseaux.com/presse/index.htm)…
 
 C'est d'autant plus dommage que [leur ancien
 site](http://web.archive.org/web/20050320052739/www.parc-des-oiseaux.com/oiseaux/recherche.php)
@@ -41,4 +41,4 @@ que j'avais visité au mois de mars dernier était plutôt bien fait. Graphiquem
 c'était très correct et au moins le site était un minimum accessible avec du
 contenu. Je leur avais d'ailleurs envoyé un mail à ce sujet début juillet, mais
 je n'ai jamais reçu de réponse et poutant je demandais aussi des renseignements
-pratiques ...
+pratiques …

@@ -58,4 +58,4 @@ pour déterminer qu'elle est le bon numéro, il faut [monter toutes les partitio
 du
 système](http://documentation.dedibox.fr/doku.php?id=gestion:rescue2#modifier_la_configuration_du_bootloader)
 et trouver le numéro de celle qui contient toute l'arborescence ( /bin, /usr,
-/lib, ...).
+/lib, …).

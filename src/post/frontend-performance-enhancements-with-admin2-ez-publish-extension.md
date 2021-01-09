@@ -75,5 +75,5 @@ ressources](http://websvn.projects.ez.no/wsvn/admin2pp/trunk/extension/admin2pp/
 
 
 In addition, a lot of others small improvements would be possible like minifying
-inline JavaScript code or part of the HTML itself, ... and as usual, it lacks
+inline JavaScript code or part of the HTML itself, … and as usual, it lacks
 some documentation on how to set it up.

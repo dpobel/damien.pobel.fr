@@ -16,7 +16,7 @@ Arte](http://www.arte.tv/fr/art-musique/tracks/Cette-semaine/navigation/1991064.
 En tombant au milieu du reportage, je commençais à sauter de joie et à sortir de
 ma léthargie bien compréhensible aux alentours de 1 heure du mat' en croyant
 voir l'annonce d'un nouvel opus du groupe australien légendaire
-[AC/DC](/tag/acdc) (j'exagère à peine...). En fait, il s'agissait bien d'un
+[AC/DC](/tag/acdc) (j'exagère à peine…). En fait, il s'agissait bien d'un
 groupe de hard rock australien mais pas celui qu'on croit. Ce jeune groupe
 s'appelle [Airbourne](http://www.airbourne-france.fr/) et produit un son dans la
 même veine que les auteurs des bombes *Highway to hell*, *Back in black*, *You

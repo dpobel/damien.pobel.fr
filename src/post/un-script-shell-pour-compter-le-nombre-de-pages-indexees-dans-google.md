@@ -23,7 +23,7 @@ rationnelle](http://pwet.fr/man/linux/conventions/regex) adéquate. Mais après
 une petite réflexion et la lecture des [conditions d'utilisation de
 Google](http://www.google.fr/accounts/TOS), il est interdit d'utiliser Google de
 manière automatique. Petite note en passant, Google interdit l'accès à ses pages
-à wget lorsque celui-ci utilise son user agent par défaut...
+à wget lorsque celui-ci utilise son user agent par défaut…
 
  
 Finalement, la solution est d'utiliser la fameuse API SOAP de Google avec un

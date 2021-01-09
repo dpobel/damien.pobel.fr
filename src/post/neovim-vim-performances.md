@@ -113,10 +113,10 @@ chances d'être plus rapide que l'indexation de base de CtrlP écrite en languag
 de script de Vim. Il semble que [the Silver Searcher
 (`ag`)](https://geoff.greer.fm/ag/) soit particulièrement indiqué mais toute
 commande capable de lister des fichiers dans une arborescence pourra faire
-l'affaire (`find`, `ack`,&nbsp;...).  Par ailleurs, CtrlP peut-être configuré
+l'affaire (`find`, `ack`,&nbsp;…).  Par ailleurs, CtrlP peut-être configuré
 pour conserver son cache (son index) entre 2 lancements de l'éditeur (avec la
 configuration par défaut, F5 permet de rafraîchir le cache après avoir lancé
-CtrlP avec... Ctrl-P 😀), la configuration
+CtrlP avec… Ctrl-P 😀), la configuration
 suivante apporte donc une amélioration appréciable de l'indexation&nbsp;:
 
 ```vim

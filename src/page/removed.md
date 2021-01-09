@@ -7,9 +7,9 @@ lang: en
 <div lang="fr">
 <h2>Page introuvable</h2>
 
-La page que vous cherchez est introuvable... Si elle a existé, j'ai probablement
+La page que vous cherchez est introuvable… Si elle a existé, j'ai probablement
 considéré qu'elle était complètement cassée ou fournissait des informations
-erronées ou simplement je voulais la supprimer pour de *bonnes* raisons... Je
+erronées ou simplement je voulais la supprimer pour de *bonnes* raisons… Je
 suis désolé pour la gêne occasionnée et [croyez bien que je ne fais pas ça à la
 légère](/post/cool-uris-dont-change/).
 
@@ -23,7 +23,7 @@ pages](/pages/) pour trouver du contenu intéressant :-)
 
 I'm sorry, the document you tried to reach does not exist. If it had existed,
 it's probably because it was completely broken or outdated or simply because I
-wanted to remove for various *good* reasons...
+wanted to remove for various *good* reasons…
 
 With some luck, you might be able to find it on [the Internet
 archive](http://web.archive.org/web/*/http://pwet.fr) or you can browse [my

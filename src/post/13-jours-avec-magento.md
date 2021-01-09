@@ -27,20 +27,20 @@ Parmi les excellents points :
 * le système d'installation et mise à jour des modules qui résout pas mal de
   problèmes liés au développement collaboratif sur plusieurs plateformes
   différentes avec de multiples informations stockées en base de données
-* l'ergonomie générale du backoffice mais ...
+* l'ergonomie générale du backoffice mais …
 
 Dans les moins bons points :
 
 * le backoffice est lent, vraiment très lent; il n'y a pas encore d'éditeur
   <abbr title="What You See Is What You Get">WYSIWYG</abbr>  vraiment intégré,
   l'accessibilité est loin d'être parfaite (j'aime naviguer dans les formulaires
-  au clavier...), et si une requête AJAX n'aboutit pas pour cause d'expiration
+  au clavier…), et si une requête AJAX n'aboutit pas pour cause d'expiration
   de la session, rien ne se passe, pas de message d'erreur, juste
-  rien...
+  rien…
 * Magento utilise directement PHP comme langage de template, je ne suis pas fan
   et quand je vois des templates comme
   [price.phtml](http://svn.magentocommerce.com/source/branches/1.3/app/design/frontend/default/default/template/catalog/product/price.phtml),
-  j'ai mal à la tête rien qu'en pensant devoir le modifier un jour...
+  j'ai mal à la tête rien qu'en pensant devoir le modifier un jour…
 * [la version Entreprise de
   Magento](http://www.magentocommerce.com/product/enterprise-edition) embarque à
   la fois

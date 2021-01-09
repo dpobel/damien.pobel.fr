@@ -178,7 +178,7 @@ pas visiter au hasard des salles de conférence avec des gens en éteignant les
 lumières&nbsp;!)
 
 1. Imprimez une page web. Prenez plutôt une page pas trop grande mais contenant
-   une large variété d'éléments comme du texte, des liens, des menus, ...
+   une large variété d'éléments comme du texte, des liens, des menus, …
 1. Prenez une feuille blanche et faites un petit trou en son centre. Le trou
    devrait être de la taille de 2 ou 3 mots (15 millimètres de diamètre environ
    est généralement suffisant)

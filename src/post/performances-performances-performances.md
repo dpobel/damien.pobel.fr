@@ -13,7 +13,7 @@ d'articles que j'ai lus ci et là ces derniers temps. Petite revue de web&nbsp;:
 
 
 Le plus visible est probablement le fiasco de l'article *PHP Performance
-tips* (article disparu depuis...) de Google.
+tips* (article disparu depuis…) de Google.
 Tellement **de mauvais conseils** que les billets en réponse ont fusé sur le
 [Planet PHP](http://www.planet-php.net/) et [Gwynne Raskind a répondu point par
 point dans le groupe Make the web
@@ -49,6 +49,6 @@ sur
 Windows](http://share.ez.no/forums/developer/performance-php-5.2-vs-php-5.3-huge-gain)
 avec [eZ Publish](/tag/ez-publish) + PHP 5.3 par rapport au même site tournant
 avec PHP 5.2 ! Łukasz Serwatka a réalisé le même benchmark sous
-Linux (article disparu depuis...) observant
+Linux (article disparu depuis…) observant
 un gain de l'ordre de 20% !
 

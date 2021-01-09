@@ -19,5 +19,5 @@ Ségolène Royal : J'ai inspiré Obama et ses équipes nous ont copiés
 </blockquote>
 
 
-Mais finalement, c'est pas si drôle, plus ça va et plus [nos politicards m'affligent](/post/et-pan)...
+Mais finalement, c'est pas si drôle, plus ça va et plus [nos politicards m'affligent](/post/et-pan)…
 

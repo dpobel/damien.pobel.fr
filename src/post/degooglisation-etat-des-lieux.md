@@ -26,14 +26,14 @@ Google et que rien ne m'oblige à l'encourager avec mes données personnelles.
 
 Après j'ai découvert récemment l'outil [My Activity de
 Google](https://myactivity.google.com) et y voir  notamment tous les endroits où
-je me suis déplacé depuis plus de 5 ans fait un effet "bizarre"...
+je me suis déplacé depuis plus de 5 ans fait un effet "bizarre"…
 
 ## De quels services suis-je dépendant&nbsp;?
 
 Je n'utilise plus Google pour mes recherches *web* depuis déjà quelques années.
 Mon choix s'est porté vers [DuckDuckGo](https://www.duckduckgo.com) parce que
 les résultats à l'époque du changement me paraissaient (et paraissent toujours)
-corrects et aussi parce que j'aime bien son aspect épuré... *a la* Google :-)
+corrects et aussi parce que j'aime bien son aspect épuré… *a la* Google :-)
 Dans une optique plus *européanno-patriotique*, il faudrait quand même que je
 jette un œil à [Qwant](https://www.qwant.com/).
 

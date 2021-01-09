@@ -35,10 +35,10 @@ Bon il y a quand même quelques trucs bêtes/idiots :
 
 * Visiblement le lecteur DVD de type Slot-in de mon PC portable n'aime pas le
   mini DVD fourni, toute façon il ne doit contenir que des logiciels pour
-  Windows...
+  Windows…
 * On peut choisir 3 types d'écran accueil, un &quot;nu&quot;, un avec des
   raccourcis vers ses contacts, un avec des raccourcis vers des applications
-  mais impossible de faire un mix dommage...
+  mais impossible de faire un mix dommage…
 * Le téléphone dispose de 3 boutons, je ne comprend pas pourquoi celui du milieu
   (qui sert à faire apparaître le menu principal) n'est pas aussi disponible sur
   l'écran tactile, quand on a le stylet en main, ce serait tellement plus
@@ -46,7 +46,7 @@ Bon il y a quand même quelques trucs bêtes/idiots :
 * J'ai pu configurer [mon compte SIP
   Free](http://www.free.fr/assistance/89.html#step-268)
   mais j'ai pas encore trouvé comment passer un appel avec&nbsp;!? Et les clients SIP
-  compatibles ne semblent pas courir les rues...
+  compatibles ne semblent pas courir les rues…
 * Le téléphone dispose d'un presse papier qui marche presque partout
   chouette&nbsp;!
   En revanche, je n'ai pas trouvé comment copier un bout de texte depuis le
@@ -54,6 +54,6 @@ Bon il y a quand même quelques trucs bêtes/idiots :
   une page web dans son répertoire.
 
 Hormis cela et la véritable catastrophe qu'est le site My
-Nokia (my.nokia.com mort depuis...) (en 3 jours et une dizaine d'essais j'ai
+Nokia (my.nokia.com mort depuis…) (en 3 jours et une dizaine d'essais j'ai
 pas encore pu finir de créer mon compte sans avoir une *erreur système
 inattendue*), je suis très content et en plus il fait même téléphone ;-)

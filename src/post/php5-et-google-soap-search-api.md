@@ -22,7 +22,7 @@ compliqué surtout que pour le moment, je cherche à peu de choses près à
 reproduire ce que fait (très salement :) [mon script
 shell](/post/un-script-shell-pour-compter-le-nombre-de-pages-indexees-dans-google),
 comme je cherche à faire *propre* je n'utilise pas de requêtes [HTTP POST avec
-curl](http://fr.php.net/manual/en/ref.curl.php) voire une socket... Il y a une
+curl](http://fr.php.net/manual/en/ref.curl.php) voire une socket… Il y a une
 API, autant l'utiliser.
 
  
@@ -114,11 +114,11 @@ No Deserializer found to deserialize a ':key' using encoding style 'http://schem
 En comparant le message SOAP fait dans le script shell et celui générer par PHP,
 je me suis rendu compte que les paramètres dans la requête PHP ne sont pas typés
 (avec l'attribute xsi:type) et du coup le web service chez Google n'est pas
-capable de décoder les paramètres qu'il reçoit... Je ne suis pas un spécialiste
+capable de décoder les paramètres qu'il reçoit… Je ne suis pas un spécialiste
 SOAP, mais ces paramètres étant définis dans le fichier
 WSDL api.google.com/GoogleSearch.wsdl, il paraîtrait logique que par
 défaut le web service les prenne tel que définit dans celui-ci, mais ce n'est
-pas le cas...
+pas le cas…
 
  
 En tout cas [ce bug a déjà été reporté](http://bugs.php.net/bug.php?id=37523) et

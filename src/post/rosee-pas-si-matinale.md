@@ -17,5 +17,5 @@ published: 2007-06-28T23:21:42+02:00
 
 
  
-Dans le parc du [Palais Royal à Oslo](http://fr.wikipedia.org/wiki/Palais_royal_d%27Oslo), un peu de rosée pas si matinale puisque photographiée en fin de matinée à 11h25 dans un pays où le soleil se lève début juin aux alentours de 3h30 le matin...
+Dans le parc du [Palais Royal à Oslo](http://fr.wikipedia.org/wiki/Palais_royal_d%27Oslo), un peu de rosée pas si matinale puisque photographiée en fin de matinée à 11h25 dans un pays où le soleil se lève début juin aux alentours de 3h30 le matin…
 

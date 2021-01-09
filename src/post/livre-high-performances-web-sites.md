@@ -24,7 +24,7 @@ Seulement 10 à 20% du temps de réponse ressenti par l'utilisateur provient du 
 </a></figure>
 
 
-Voila la *Performance Golden Rule* qui sert de base à ce court mais excellent bouquin [High Performances Web Sites](http://oreilly.com/catalog/9780596529307/index.html) de [Steve Souders](http://stevesouders.com/) (employé chez Yahoo!) expliquant 14 règles pour améliorer la rapidité d'affichage d'un site web. En fait ce livre reprend les 14 premières [bonnes pratiques listées par Yahoo!](http://developer.yahoo.com/performance/rules.html) pour améliorer les performances générales d'un site web. Ces points sont applicables à quasiment tous les sites (à part peut être l'utilisation d'un [Content Delivery Network](http://fr.wikipedia.org/wiki/Content_Delivery_Network) qui est hors de porté du commun des mortels...) quelque soit la technologie employée puisqu'il s'agit essentiellement de configuration au niveau du serveur web ou dans la construction des pages.
+Voila la *Performance Golden Rule* qui sert de base à ce court mais excellent bouquin [High Performances Web Sites](http://oreilly.com/catalog/9780596529307/index.html) de [Steve Souders](http://stevesouders.com/) (employé chez Yahoo!) expliquant 14 règles pour améliorer la rapidité d'affichage d'un site web. En fait ce livre reprend les 14 premières [bonnes pratiques listées par Yahoo!](http://developer.yahoo.com/performance/rules.html) pour améliorer les performances générales d'un site web. Ces points sont applicables à quasiment tous les sites (à part peut être l'utilisation d'un [Content Delivery Network](http://fr.wikipedia.org/wiki/Content_Delivery_Network) qui est hors de porté du commun des mortels…) quelque soit la technologie employée puisqu'il s'agit essentiellement de configuration au niveau du serveur web ou dans la construction des pages.
 
 
 Ces 14 règles sont les suivantes :
@@ -45,7 +45,7 @@ Ces 14 règles sont les suivantes :
 * [Rendez vos appels AJAX cachables](http://developer.yahoo.com/performance/rules.html#cacheajax)
 
 
-En plus de ces règles, le livre explique succintement quelques concepts du [protocole HTTP](http://tools.ietf.org/html/rfc2616) liés aux performances et propose une analyse des 10 plus gros sites américains (MSN, Google, Yahoo!, CNN, Wikipedia, MySpace...). Si ces règles sont assez connues (et pour certaines de l'ordre du bon sens), l'intérêt principal du livre réside dans la quantification des gains éventuels ainsi que dans les explications amenant à ces règles sur le fonctionnement des navigateurs sur la construction d'une page, la parallélisation des téléchargements ou le cache DNS.
+En plus de ces règles, le livre explique succintement quelques concepts du [protocole HTTP](http://tools.ietf.org/html/rfc2616) liés aux performances et propose une analyse des 10 plus gros sites américains (MSN, Google, Yahoo!, CNN, Wikipedia, MySpace…). Si ces règles sont assez connues (et pour certaines de l'ordre du bon sens), l'intérêt principal du livre réside dans la quantification des gains éventuels ainsi que dans les explications amenant à ces règles sur le fonctionnement des navigateurs sur la construction d'une page, la parallélisation des téléchargements ou le cache DNS.
 
 
 Bref, il s'agit vraiment d'un très bon livre pour tout développeur ou administrateur où la plupart des recettes sont applicables en quelques minutes seulement pour un résultat immédiat et assez spectaculaire.

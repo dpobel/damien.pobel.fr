@@ -19,8 +19,8 @@ admin2++ extension currently provides the following features by using [jQueryUI 
 * it adds some new dashboard blocks (System infos, Feed reader, Advanced search form)
 * it replaces *View* link in context menus by a *Preview* link that loads a preview in AJAX
 * it makes the right menu loadable in AJAX instead of requiring a page refresh when revealing it
-* it adds the ability to resize the area dedicated to preview tabs, details tabs, ...
-* it improves default stylesheet (colors in popup menu and dashboard blocks, round corners on all fields, yellow background to highlight currently focused field, ...)
+* it adds the ability to resize the area dedicated to preview tabs, details tabs, …
+* it improves default stylesheet (colors in popup menu and dashboard blocks, round corners on all fields, yellow background to highlight currently focused field, …)
 * it adds a date picker for ezdate and ezdatetime attribute (based on jQuery instead of the default YUI2 one)
 
 All those new features are visible in this screencast :
@@ -35,9 +35,9 @@ All those new features are visible in this screencast :
 I have a lot of ideas :
 
 * [jQueryUI 1.8 now includes an Autocomplete widget](http://jqueryui.com/demos/autocomplete/) that would be useful to type keywords
-* use of AJAX for the several operations (bookmark, add to notifications, ...)
+* use of AJAX for the several operations (bookmark, add to notifications, …)
 * implement [JavaScript validation on edit form as written earlier here](/post/some-thougths-about-the-admin-interface-refresh-of-ez-publish)
 * drag'n drop in content tree
-* add new dashboard blocks (personal note, inline search, ...)
+* add new dashboard blocks (personal note, inline search, …)
 * improve style for [a more clear separations between areas](http://share.ez.no/forums/discussions/administration-interface-refresh-take-2-tell-us-more-of-what-you-think/(offset)/20#comment57448)
-* ... and many more !
+* … and many more !

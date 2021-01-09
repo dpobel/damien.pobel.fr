@@ -48,7 +48,7 @@ notre mode de vie et propose par la suite une autre société à base de low tec
 > la qualité, l’efficacité, la réactivité, la disponibilité, la vitesse, la
 > serviabilité, partout et tout le temps, et tout cela à des prix les plus bas
 > possibles. Mais nous oublions que, au niveau sociétal, ce que nous exigeons
-> comme consommateurs nous impacte comme producteurs. [...] mais ce que nous
+> comme consommateurs nous impacte comme producteurs. […] mais ce que nous
 > y avons laissé en contrepartie est visible dans les délocalisations, le
 > chômage et toutes les études sur le mal-être au travail…
 
@@ -64,7 +64,7 @@ Néanmoins, comme le rappelle l'auteur&nbsp;:
 
 > Partout, quand c’est possible, à toutes les échelles territoriales, à la
 > maison, au travail, en famille, pour les loisirs, ralentissons, simplifions,
-> débranchons, réduisons. [...] Préférons les activités productives, les choses
+> débranchons, réduisons. […] Préférons les activités productives, les choses
 > concrètes, la terre, la pierre, les plaisirs simples.
 
 Et c'est ce que je vais essayer de faire encore plus à l'avenir.

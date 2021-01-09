@@ -19,7 +19,7 @@ le fait que le vote soit obligatoire ce qui, soit dit en passant, me semble
 plutôt une bonne chose quand on voit le nombre de personnes ici en France qui ne
 vont pas voter sous prétexte qu'il fasse *beau temps* le jour de l'élection ou
 qu'ils n'ont *pas eut le temps de s'inscrire* pendant **les quelques années**
-précédant le vote... mais c'est un autre débat.
+précédant le vote… mais c'est un autre débat.
 
  
 Pour en revenir, au vote électronique, je sais trop bien, en tant
@@ -28,19 +28,19 @@ du coup j'imagine la grande tentation de certains d'autant plus qu'il
 m'étonnerait fortement que les sources des logiciels faisant tourner la machine
 soit (au moins) librement consultables ce qui pourrait en garantir le
 fonctionnement auprès de quelques informaticiens mais toujours pas du citoyen
-*lambda*... Au delà même de l'aspect authenticité du vote, je sais aussi comment
+*lambda*… Au delà même de l'aspect authenticité du vote, je sais aussi comment
 beaucoup de gens sont perturbés par des machines dont ils ne connaissent rien
 (pensez à vos parents voire grands parents devant un ordinateur ou un téléphone
-portable...)
+portable…)
 
  
 Mais le pire est à venir : en France (et peut être ailleurs) on parle de vote
-par Internet... De mieux en mieux, qui va garantir que mon voisin n'est pas en
+par Internet… De mieux en mieux, qui va garantir que mon voisin n'est pas en
 train de me menacer pendant mon vote ? comment pourrais je vérifier que mon vote
 a bien été pris en compte ? Et qu'en est il du secret du vote ? Bref beaucoup
 [trop de questions sans réponse valable et
 sûre](http://www.sciences.univ-nantes.fr/info/perso/permanents/enguehard/perso/RI_halshs-00085041.pdf)
-pour un système qui n'apporte finalement pas grand chose...
+pour un système qui n'apporte finalement pas grand chose…
 
  
 Pour en savoir plus :

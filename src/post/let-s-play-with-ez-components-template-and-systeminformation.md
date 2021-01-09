@@ -11,7 +11,7 @@ One of the main topics at [the eZ Conference](/post/ez-conference-2007) was the
 [eZ Components](http://zetacomponents.org/). In fact, it's quite logic, eZ
 Components will be the base of the future [eZ Publish](/tag/ez-publish). As
 announced in the last community
-newsletter (page put offline since...)
+newsletter (page put offline since…)
 migration to eZ Components in eZ Publish will be made step by step and the
 version 4.0 of eZ Publish will include [the Template
 component](http://zetacomponents.org/documentation/trunk/Template/tutorial.html),
@@ -48,4 +48,4 @@ one. I notice some improvements in this new template engine :
 For me the new template system goes to the right direction, it's more strict and
 by the way easier to use, operators seem more consistent and the new syntax
 brings some facilities that simplify developer's life. We now have to wait until
-the end of 2007 to use it in eZ Publish...
+the end of 2007 to use it in eZ Publish…

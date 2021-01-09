@@ -26,5 +26,5 @@ Toutes les infos pratiques et le programme de la soirée sont [sur la page du
 meetup](http://www.meetup.com/Lyon-eZ-Publish-Meetup/events/217802422/),
 n'hésitez pas à vous inscrire et surtout à venir faire un petit tour; une bonne
 partie de l'équipe d'ingénierie sera présente (je n'y serai malheureusement
-pas...) et pourra aussi répondre à vos questions liées à vos projets, vos
-besoins, ...
+pas…) et pourra aussi répondre à vos questions liées à vos projets, vos
+besoins, …

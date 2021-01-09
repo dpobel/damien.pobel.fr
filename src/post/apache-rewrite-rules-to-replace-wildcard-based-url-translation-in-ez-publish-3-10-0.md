@@ -12,7 +12,7 @@ Wildcard based URL translation has been removed in [eZ Publish](/tag/ez-publish)
 documentation](http://ez.no/doc/ez_publish/upgrading/upgrading_to_3_10/from_3_9_x_to_3_10_0)
 on eZ.no, we can now read (I think this note was not there when [I
 upgrade](/post/upgrading-a-large-site-from-ez-publish-3-9-2-to-ez-publish-3-10)
-at the beginning of October...) :
+at the beginning of October…) :
 
 <blockquote>
 Before continuing, note that eZ Publish 3.10.0 does not support
@@ -23,7 +23,7 @@ information).
 </blockquote>
 
 
-Wildcard based URL translation is (was...) a very easy to use way to install a
+Wildcard based URL translation is (was…) a very easy to use way to install a
 kind of simple rewriting rules on a site from eZ Publish almost without
 technical knowlegde. I use this feature to shorten long URLs when using [the
 layout module for specific RSS

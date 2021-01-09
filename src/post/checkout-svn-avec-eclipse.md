@@ -11,5 +11,5 @@ published: 2008-06-13T16:38:24+02:00
 </a></figure>
 
 
-**169% de CPU et 21% de la mémoire** (!), ça fait mal, à se demander ce qu'il peut bien faire avec tout ça... Spéciale dédicace à Simon :p
+**169% de CPU et 21% de la mémoire** (!), ça fait mal, à se demander ce qu'il peut bien faire avec tout ça… Spéciale dédicace à Simon :p
 

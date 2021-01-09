@@ -21,10 +21,10 @@ FISE 2006. N'étant pas un grand connaisseur ni des *riders*, ni des *tricks*,
 j'ai essayé de trouver le nom des sauts pour le FMX et le nom des pilotes pour
 le BMX, mais [pas avec un grand
 succès](http://photos.pwet.fr/galeries/nokia-fise-2006-bmx-street//) je dois
-dire... Donc si vous avez des infos sur la figure ou le pilote sur une photo
+dire… Donc si vous avez des infos sur la figure ou le pilote sur une photo
 n'hésitez pas à commenter la photo où à [m'envoyer un
 e-mail](mailto:dpobel@free.fr), je serai ravi de mettre à jour la légende et de
-vous faire un lien vers votre site si vous en avez un...
+vous faire un lien vers votre site si vous en avez un…
 
 Sinon, en cherchant des infos sur le FISE 2006, j'ai découvert que le [FISE
 2007](http://www.nokiafise.com/) se déroulera cette année pour le week end de

@@ -15,6 +15,6 @@ de ces charmants petits insectes sur ce qui ressemble à [une
 centaurée](http://fr.wikipedia.org/wiki/Centaurea). À chaque fois que je tente
 de trouver le nom d'un insecte ou d'une fleur, je me dis qu'il manque un outil
 permettant d'obtenir une liste d'espèces à partir de quelques critères
-(couleurs, tailles, caractéristiques, ...).
+(couleurs, tailles, caractéristiques, …).
 
 Edit : Il s'agit de **Zygènes de la spirée (de la filipendule)** merci lolovroom

@@ -14,5 +14,5 @@ Quand je pense que [le groupe Living
 Colour](http://www.lastfm.fr/music/Living+Colour) s'est formé en 1984, séparé en
 1995, que je les ai découvert quand j'étais au lycée (1997&nbsp;?), qu'ils se sont
 reformés en 2005 et qu'ils seront [en concert au Rockstore à
-Montpellier](http://www.rockstore.fr), le 29 septembre 2008...  j'aurais jamais
+Montpellier](http://www.rockstore.fr), le 29 septembre 2008…  j'aurais jamais
 cru les voir un jour en live, ouééééé&nbsp;!

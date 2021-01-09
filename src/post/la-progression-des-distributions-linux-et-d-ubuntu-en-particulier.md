@@ -8,7 +8,7 @@ published: 2006-10-04T23:44:49+02:00
 updated: 2016-02-09 08:49
 ---
  
-Vue sur le blog de David Tenser (site disparu depuis...) un comparatif rapide
+Vue sur le blog de David Tenser (site disparu depuis…) un comparatif rapide
 entre Fedora Core 6 et Ubuntu Edgy Eft. Ce billet n'a pas pour but de descendre
 l'une ou l'autre de ces distributions ce qui amènerait immanquablement à tomber
 dans les trolls faciles du type [Fedora est une alpha de
@@ -40,7 +40,7 @@ me dis que le chemin parcouru par les distributions Linux en terme
 d'utilisabilité est tout simplement énorme et même rapporté à Ubuntu (qui est
 une distribution récente) entre Warty et Dapper Drake que de chemin parcouru !
 Je m'en rend compte d'autant mieux, que j'utilise Dapper Drake sur mon poste
-personnel et encore Warty au travail... Je pense que la rapidité de cette
+personnel et encore Warty au travail… Je pense que la rapidité de cette
 progression vient (entre autres) de deux phénomèmes :
 
 * [l'archi domination du marché de
@@ -50,7 +50,7 @@ progression vient (entre autres) de deux phénomèmes :
 * et ce que j'appelle le paradoxe du libre, qui veut que les principales
   distributions se concurrencent pour gagner des utilisateurs tout en
   contribuant et utilisant les mêmes (gros) projets libres (GNOME, KDE, le
-  noyau, ...) provoquant une saine émulation.
+  noyau, …) provoquant une saine émulation.
  
 
 Cette saine émulation est garanti par le fait que le code soit libre et donc

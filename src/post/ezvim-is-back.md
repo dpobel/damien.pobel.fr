@@ -19,5 +19,5 @@ photos:
 </a></figure>
 
 
-For more (download, setup, documentation, ...), please visit [the project page](http://projects.ez.no/ezvim).
+For more (download, setup, documentation, …), please visit [the project page](http://projects.ez.no/ezvim).
 

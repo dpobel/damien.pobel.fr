@@ -9,7 +9,7 @@ published: 2010-10-16T23:58:53+02:00
 
 Dans [Vim](/tag/vim) il est possible de sauvegarder la session courante avec la commande <code>:mksession</code>
  (ou avec&nbsp;l’abréviation&nbsp;<code>:mks</code>
-) suivi d'un nom de fichier, par exemple dans une instance de vim avec plusieurs fichiers ouverts, des buffers ou des onglets... on peut taper :
+) suivi d'un nom de fichier, par exemple dans une instance de vim avec plusieurs fichiers ouverts, des buffers ou des onglets… on peut taper :
 
 ``` 
 :mksession ~/test.vim

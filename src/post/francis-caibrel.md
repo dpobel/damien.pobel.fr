@@ -23,7 +23,7 @@ je suis le plus riche de toute la téci
 
 je deale à mourir
 
-...
+…
 </blockquote>
 
 

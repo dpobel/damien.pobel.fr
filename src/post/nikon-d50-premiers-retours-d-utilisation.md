@@ -23,5 +23,5 @@ Il est clair que [ma première approche](/post/premiers-essais-avec-mon-nikon-d5
 Pour le moment, je ne regrette vraiment pas mon achat. La qualité des images même en automatique complet est excellente. Ce qui m'a le plus bluffé, c'est l'autonomie de la batterie, j'ai passé trois jours à mitrailler dans tous les sens au FISE, la batterie était à peine à moitié déchargée à la fin ! Le poids est à la fois un point positif et négatif. Positif pour la stabilité, mais négatif quand il faut le porter toute une journée. Quand je vois la taille des appareils professionnels, je me dis que tout photographe doit faire de la musculation :-) Le deuxième point négatif est cette foutue sangle et son revêtement qui accroche certes, mais qui est extrêment désagréable sur la peau du cou. Va falloir soit que je la remplace, soit que je trouve quelque chose à mettre dessus pour la rendre plus confortable.
 
  
-Pour le reste, je suis un photographe débutant amateur heureux mais je sens que cet investissement récent en appelle d'autres avec insistance...
+Pour le reste, je suis un photographe débutant amateur heureux mais je sens que cet investissement récent en appelle d'autres avec insistance…
 

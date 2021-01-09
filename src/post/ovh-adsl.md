@@ -43,7 +43,7 @@ aux alentours de 93Ko/s, alors que maintenant c'est stable à un peu plus de
 le reste des services, mon côté geek apprécie l'IP fixe, le reverse DNS
 configurable, les graphiques d'utilisation sur le web et l'application mobile,
 le modem tout à fait correct, l'espoir (très mince dans mon cas) d'avoir du
-VDSL... Seul soucis, l'offre no!TV à laquelle j'ai souscrit [n'est plus
+VDSL… Seul soucis, l'offre no!TV à laquelle j'ai souscrit [n'est plus
 commercialisée](http://www.lesnumeriques.com/ovh-arrete-offres-adsl-low-cost-n26414.html),
 reste [l'offre Pro](http://www.ovh.fr/adsl/pro.xml) qui est peut-être un peu
 moins intéressante financièrement (encore qu'elle comporte quelques services en

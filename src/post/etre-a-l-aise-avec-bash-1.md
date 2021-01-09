@@ -8,7 +8,7 @@ remoteId: "cd23106da34dd3f5f883d7dfd8ac063b"
 published: 2006-10-29T16:36:16+01:00
 ---
  
-Bien que la plupart des distributions Linux et Ubuntu en particulier tendent à minimiser voire à rendre complètement inutile l'utilisation de la ligne de commande, il peut être intéressant de rendre cet outil un peu plus accueillant et facile d'utilisation. Pourquoi ? Si [Xorg](http://pwet.fr/man/linux/commandes/x2/xorg) plante, c'est tout ce qui reste et puis [pour certaines tâches](/post/remplacer-du-texte-dans-une-serie-de-fichiers-repartis-dans-des-dossiers), il n'y a pas plus rapide... Ce billet ouvre donc une série consacrée à la configuration et l'utilisation de bash.
+Bien que la plupart des distributions Linux et Ubuntu en particulier tendent à minimiser voire à rendre complètement inutile l'utilisation de la ligne de commande, il peut être intéressant de rendre cet outil un peu plus accueillant et facile d'utilisation. Pourquoi ? Si [Xorg](http://pwet.fr/man/linux/commandes/x2/xorg) plante, c'est tout ce qui reste et puis [pour certaines tâches](/post/remplacer-du-texte-dans-une-serie-de-fichiers-repartis-dans-des-dossiers), il n'y a pas plus rapide… Ce billet ouvre donc une série consacrée à la configuration et l'utilisation de bash.
 
   
 ## Le prompt
@@ -42,7 +42,7 @@ export PS1
 ```
 
  
-Cette configuration fait en sorte d'avoir un *prompt* bleu, jaune et blanc pour un utilisateur normal et rouge, jaune et blanc pour l'utilisateur root attirant ainsi mon attention sur le fait qu'en root, on ne tape par n'importe quoi... Il m'indique aussi le nom de la machine ainsi que son adresse IP. Ce qui donne :
+Cette configuration fait en sorte d'avoir un *prompt* bleu, jaune et blanc pour un utilisateur normal et rouge, jaune et blanc pour l'utilisateur root attirant ainsi mon attention sur le fait qu'en root, on ne tape par n'importe quoi… Il m'indique aussi le nom de la machine ainsi que son adresse IP. Ce qui donne :
 
  
 

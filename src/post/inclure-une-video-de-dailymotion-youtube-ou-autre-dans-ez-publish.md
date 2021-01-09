@@ -20,7 +20,7 @@ J'ai finalement choisi la deuxième solution pour deux raisons :
 * La première solution oblige à d'abord créer l'objet &quot;Video externe&quot; avant de pouvoir l'inclure dans le bloc XML à l'aide de Online Editor. Pas très pratique. Il serait peut être possible de créer automatiquement un objet de ce type directement dans l'éditeur comme on peut le faire pour un document à télécharger ou une image en détectant une adresse http mais cela me paraît trop complexe pour mon utilisation ponctuelle. **KISS!** (Keep It Simple Stupid)
  
 
-La création d'un custom tag est assez simple. Je l'ai appelé *dailymotion* car il est à la base prévu pour inclure une video de [ce service](http://www.dailymotion.com), mais cela marche aussi pour [Youtube](http://www.youtube.com/) et certainement pour les autres... Pour cela, il suffit de modifier le fichier /settings/override/content.ini;append.php comme suit :
+La création d'un custom tag est assez simple. Je l'ai appelé *dailymotion* car il est à la base prévu pour inclure une video de [ce service](http://www.dailymotion.com), mais cela marche aussi pour [Youtube](http://www.youtube.com/) et certainement pour les autres… Pour cela, il suffit de modifier le fichier /settings/override/content.ini;append.php comme suit :
 
  ``` ini
 [CustomTagSettings]
@@ -41,7 +41,7 @@ Il faut ensuite créer le *template* qui affichera le custom tag. Celui ci doit 
 ```
 
  
-Pour que ce nouveau template soit pris en compte, il faut vider le cache, il n'est pas nécessaire de vider tous les caches mais seulement ceux liés aux overrides de template. Ce qui peut se faire avec le script ezcache.php avec la ligne suivante (à adapter selon votre configuration...) à la racine du site eZ Publish :
+Pour que ce nouveau template soit pris en compte, il faut vider le cache, il n'est pas nécessaire de vider tous les caches mais seulement ceux liés aux overrides de template. Ce qui peut se faire avec le script ezcache.php avec la ligne suivante (à adapter selon votre configuration…) à la racine du site eZ Publish :
 
  ``` bash
 $ php4 bin/php/ezcache.php -s plain_site_user --clear-id=template-override

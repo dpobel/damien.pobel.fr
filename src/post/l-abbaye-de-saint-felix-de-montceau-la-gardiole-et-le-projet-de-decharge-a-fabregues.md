@@ -11,7 +11,7 @@ updated: 2016-02-12 13:48
 Aujourd'hui, profitant de mon abonnement à [Modulauto](http://www.modulauto.net)
 [dont je parlais hier](/post/modulauto-l-autopartage-a-montpellier) et d'un
 temps magnifique (c'est assez rare de marcher en t-shirt au mois de janvier même
-ici...), je suis aller faire un tour du côté de [l'abbaye de
+ici…), je suis aller faire un tour du côté de [l'abbaye de
 Saint-Félix-de-Montceau à Gigean dans la
 Gardiole](http://photos.pwet.fr/galeries/l-abbaye-saint-felix-de-montceau-et-la-montagne-de-la-gardiole/),
 et je n'ai pas été déçu ! Cet endroit est tout simplement magnifique. [L'abbaye

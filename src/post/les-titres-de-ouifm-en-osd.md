@@ -31,7 +31,7 @@ Le paquet xosd-bin fournit le programme
 [osd_cat](http://pwet.fr/man/linux/commandes/osd_cat) qui permet de lire un
 fichier à la manière de [cat](http://pwet.fr/man/linux/commandes/cat) en
 affichant le résultat en OSD selon différents paramètres (couleur, police,
-position, ...). J'ai associé l'exécution de ce script à la touche F9 dans
+position, …). J'ai associé l'exécution de ce script à la touche F9 dans
 [Openbox](http://pwet.fr/man/linux/commandes/openbox), ainsi si un titre passe
 et je ne connais pas l'artiste, je peux connaître rapidement le titre en
 pressant cette touche.
@@ -74,5 +74,5 @@ rm -f $TMP_FILE
 Le seul point particulier concerne la fonction get_infos qui récupère les données sur le site de OuiFM puis crée les variables avec *eval* et les décode avec un tout petit morceau de PHP passé directement à l'interprèteur.
 
 
-*Billet rédigé en écoutant entre autres &quot;Hey Gravity - Risen (She Said)&quot;, &quot;Rinocerose - Cubicle&quot;, &quot;Green Day - Basket Case&quot;, ... :-)*
+*Billet rédigé en écoutant entre autres &quot;Hey Gravity - Risen (She Said)&quot;, &quot;Rinocerose - Cubicle&quot;, &quot;Green Day - Basket Case&quot;, … :-)*
 

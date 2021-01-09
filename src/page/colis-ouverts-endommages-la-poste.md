@@ -12,7 +12,7 @@ récents de livraison parce que je commence **sérieusement** à en avoir marre 
 voir mes colis **ouverts** durant la livraison.
 
 J'ai le souvenir d'au moins un autre colis dans le même cas entre juillet et
-décembre 2013 mais je n'arrive pas à retrouver la photo...
+décembre 2013 mais je n'arrive pas à retrouver la photo…
 
 
 ## Coli Amazon du 28/12/2013 ouvert et abîmé pendant la livraison
@@ -29,7 +29,7 @@ décembre 2013 mais je n'arrive pas à retrouver la photo...
 * **Problème&nbsp;:** Coli **très largement** ouvert dans l'un des coins et le
   contenu du coli (une boîte de Légo) est endommagé en raison de cette
   ouverture. Je me demande aussi qui a mis ce ruban adhésif *cache misère*,
-  habituellement, les colis Amazon n'ont pas ce genre d'artifice...
+  habituellement, les colis Amazon n'ont pas ce genre d'artifice…
 * **Lien&nbsp;:** [Blog post](/post/la-poste-colis-ouverts)
 
 Réponse de La  Poste&nbsp;:
@@ -54,7 +54,7 @@ Réponse #2 après un peu d'insistence:
 * **Problème&nbsp;:** Coli ouvert dans l'un des coins
 * **Lien&nbsp;:** [Tweet](https://twitter.com/dpobel/status/411487060332003329)
   mentionnant l'impossibilité de faire une réclamation comme suggèrée la veille,
-  sans réponse à ce jour...
+  sans réponse à ce jour…
 
 <br style="clear: left;">
 
@@ -69,14 +69,14 @@ Réponse #2 après un peu d'insistence:
 * **Date&nbsp;:** 12/12/2013
 * **Problème&nbsp;:** Coli **largement** ouvert dans l'un des coins, il
   contenait un trépied Gorilla Pod donc un objet relativement petit qui aurait
-  très bien pu être perdu vu la taille de l'ouverture...
+  très bien pu être perdu vu la taille de l'ouverture…
 * **Liens&nbsp;:** [Tweet](https://twitter.com/dpobel/status/411129555819036672)
   en réponse duquel [@lisalaposte](https://twitter.com/lisalaposte) (service
   *consommateur* de la Poste sur Twitter) [propose de faire une réclamation en ligne](https://twitter.com/lisalaposte/status/411152145925541888) ce
   qui s'avère impossible puisqu'aucune option ne permet à un récipiendaire de
   signaler un quelconque problème dans le dédalle d'options! D'autres
   personnes dans ma timeline font [le même
-constat](https://twitter.com/GroupeLaPoste/status/411171334396583936)...
+constat](https://twitter.com/GroupeLaPoste/status/411171334396583936)…
 
 <br style="clear: left;">
 

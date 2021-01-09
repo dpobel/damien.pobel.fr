@@ -14,7 +14,7 @@ photos:
 [Travis CI is a continuous integration
 platform](https://docs.travis-ci.com/user/for-beginners/) which means it is used
 to run various processes after code changes like unit tests, code style checks,
-build releases... Most of the time, you are only interested in the end result
+build releases… Most of the time, you are only interested in the end result
 (ie did unit/code style/whatever tests pass?) and in that case Github displays
 that nicely in the page (and even in the page icon lately). However, from time
 to time, it might be useful to get a little more info for instance to see an

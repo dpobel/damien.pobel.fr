@@ -27,14 +27,14 @@ Lohachara](https://fr.wikipedia.org/wiki/Lohachara)
 et [l'apparition d'ïles au Groënland et en
 Norvège](http://www.nytimes.com/2007/01/16/science/earth/16gree.html) ce qui
 tend d'ailleurs à montrer que la glace réagit plus vite au réchauffement que
-qu'on pensait il y a peu...
+qu'on pensait il y a peu…
 
  
 Dans le même esprit, [vous
 pouvez dire NON à l'EPR](http://www.stop-epr.org/) et [voici
 pourquoi](http://www.stop-epr.org/spip.php?rubrique2) ! En particulier,
 contrairement à ce que j'ai déjà entendu à plusieurs reprises, le nucléaire
-n'est pas une solution aux problèmes énergétiques... La seule et unique solution
+n'est pas une solution aux problèmes énergétiques… La seule et unique solution
 pour le moment consiste à en encourager la sobriété énergétique tout en
 favorisant les énergies renouvelables. [C'est pourtant pas
 difficile](http://adoptons-la-planete-attitude.wwf.fr/)

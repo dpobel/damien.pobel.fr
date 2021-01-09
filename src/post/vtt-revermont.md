@@ -42,7 +42,7 @@ du site sont entièrement libres et disponibles sur Github dans le dépôt
 Techniquement parlant, il y a pas mal de choses à dire et je suis plutôt fier du
 système complet (avec du grunt, bower, metalsmith, gpsbabel, des tests unitaires
 et fonctionnels, des graphiques *server side* avec Rickshaw, de la cartographie
-avec Leaflet et des fonds de cartes IGN,...) mais les détails seront pour de
+avec Leaflet et des fonds de cartes IGN,…) mais les détails seront pour de
 futurs billets.
 
 Ah, j'allais oublier, Revermont.bike est évidemment sur

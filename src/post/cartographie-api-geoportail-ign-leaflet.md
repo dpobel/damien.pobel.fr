@@ -36,7 +36,7 @@ visuellement et ergonomiquement. En plus d'un point de vue performances
 la catastrophe, par exemple avec la version *minimale*&nbsp;: 320 Ko de code
 JavaScript (en gzip, 1,1 Mo sinon, oui c'est la bien version
 **minimale**&nbsp;!), pas d'entête d'expiration, des feuilles de styles non
-compressées et non minifiées,&nbsp;... Bref, à moins d'avoir des besoins pointus
+compressées et non minifiées,&nbsp;… Bref, à moins d'avoir des besoins pointus
 couverts uniquement par l'API Géoportail, Leaflet me paraît une bien meilleure
 alternative.
 
@@ -52,7 +52,7 @@ le reste, il y a pas mal [de plugins](http://leafletjs.com/plugins.html).
 Reste donc à afficher les *layers* IGN dans Leaflet. La documentation de l'API
 Géoportail propose [un exemple un peu périmé avec Leaflet
 0.5](http://api.ign.fr/tech-docs-js/examples/geoportalLeaflet.html) en incluant
-la version minimale de l'API (les 320ko de code mentionnés un peu plus haut...)
+la version minimale de l'API (les 320ko de code mentionnés un peu plus haut…)
 mais il y a beaucoup plus léger car l'IGN a la bonne idée de diffuser ses layers
 [au format WMTS](http://georezo.net/wiki/main/standards/wmts) ce que Leaflet
 supporte nativement. Au final en simplifiant un peu le code, ça donne quelque
@@ -105,7 +105,7 @@ exemple) et notamment [les SCAN
 Express](http://professionnels.ign.fr/pyramide-scan-express) qui sont plus
 *régulières* en fonction du niveau de zoom, malheureusement elles ne proposent
 pas autant de détails que *WMTS-Géoportail - Cartes IGN* (chemins balisés,
-points d'intérêt, ...).
+points d'intérêt, …).
 
 ## Les clés
 

@@ -12,7 +12,7 @@ but it's a good sign if you don't pay attention to it after a while. For about 2
 years, I have used [Terminator](http://www.tenshu.net/p/terminator.html) on all
 my machines.  Terminator is a very powerful terminal emulator with a lot of
 features. Among others, it has tabs, it handles true transparency, it detects
-urls, it allows to split each tab into several embed terminals... On the other
+urls, it allows to split each tab into several embed terminals… On the other
 hand, Terminator is also quite slow and for a tool you use several hours a day,
 that's annoying. So I was looking for a faster and lighter alternative with at
 least tabs, url detections and not too many dependencies.
@@ -28,7 +28,7 @@ tabs, you need to put the [tabbedex
 plugin](https://github.com/stepb/urxvt-tabbedex) in the directory
 `~/.urxvt/`. This plugin replaces the default one (called tabbed); it
 allows to rename tabs, to put the title of the focused tab next to the tab bar,
-to hide the "new" button...
+to hide the "new" button…
 
 This gives the following result:
 

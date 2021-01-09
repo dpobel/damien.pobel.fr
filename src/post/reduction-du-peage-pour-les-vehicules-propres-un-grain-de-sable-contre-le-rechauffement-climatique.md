@@ -16,18 +16,18 @@ Mer](http://www.equipement.gouv.fr) (rien que ça) qui vient de nous sortir de
 son chapeau une mesure qui ressemble fort à du vent. Suite à un rapport commandé
 à [Jean-Pierre Beltoise](http://fr.wikipedia.org/wiki/Jean-Pierre_Beltoise)
 (comme si un ex-pilote de F1 était spécialiste des questions de pollution
-automobile, de fiscalité et de développement durable... bref), notre cher
+automobile, de fiscalité et de développement durable… bref), notre cher
 ministre envisage [une réduction sur les tarifs
 d'autoroute](http://www.senat.fr/questions/base/2007/qSEQ070326419.html) aux
 véhicules émettant moins de 130g de CO<sub>2</sub> par kilomètre. Tout cela
 part d'une bonne intention qui consiste à dire qu'il faut inciter les
 automobilistes à s'équiper d'un véhicule moins polluant. Seulement on essaie de
-réaliser cela en s'attaquant à une niche avec des bouts ficelles...
+réaliser cela en s'attaquant à une niche avec des bouts ficelles…
 
  
 Pour commencer, 130g de CO <sub>2</sub> par kilomètre c'est assez faible,
 seules les voitures (petites) citadines sont en dessous, or par définition, ces
-voitures sont plutôt faites pour rouler... en ville. Si vous utilisez
+voitures sont plutôt faites pour rouler… en ville. Si vous utilisez
 principalement votre voiture en ville, allez vous faire attention aux 20% de
 péage économisables&nbsp;?
 
@@ -51,6 +51,6 @@ efficaces, par exemple, un volet du rapport concerne les poids lourds, pourquoi
 ne pas inciter au ferroutage ou [au transport fluviale bien plus
 efficaces](http://www.ademe.fr/entreprises-monde-agricole/reduire-impacts/optimiser-transports-marchandises/dossier/alternatives-transport-routier/transport-fluvial)&nbsp;?
 Alors évidemment d'un point de vue *communico-politique*, ça marque moins
-qu'une formule du type &quot;-20% sur votre montant de...&quot;, mais au moins
+qu'une formule du type &quot;-20% sur votre montant de…&quot;, mais au moins
 ça marche.
 

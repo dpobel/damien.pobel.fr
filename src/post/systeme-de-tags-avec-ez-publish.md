@@ -11,7 +11,7 @@ updated: 2016-02-10 09:37
 J'ai reçu cet après midi un mail d'une personne me demandant comment fonctionne
 le système de *tags* sur mon blog et plus généralement comment mettre en place
 un tel système avec eZ publish. Comme elle me le suggère, c'est effectivement un
-sujet pouvant faire l'objet d'un billet, alors c'est parti ...
+sujet pouvant faire l'objet d'un billet, alors c'est parti …
 
 
 Pour faire court, un système de *tags* est un système de mots clefs ; à chaque
@@ -39,7 +39,7 @@ c'est à dire que la taille du mot est différente en fonction de son utilisatio
 À l'époque où j'ai commencé à développer ce blog, j'avoue que je ne connaissais
 pas [le datatype
 Keywords](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/datatypes/keywords)
-(c'est l'un des charmes d'eZ publish, on en apprend tous les jours...). Ce type
+(c'est l'un des charmes d'eZ publish, on en apprend tous les jours…). Ce type
 de donnée permet de stocker pour un objet un ensemble de mots clefs séparés par
 des virgules. L'administration d'eZ publish propose pour remplir ce champs un
 simple champs *input text*. On peut alors récupèrer la liste des objets
@@ -57,7 +57,7 @@ inconvénients à l'utiliser :
 * je n'ai pas trouvé le moyen de faire la liste complète des mots utilisés, donc
   générer le nuage de mots clefs (*tags cloud*) paraît difficile.
 * comme les mots sont tappés directement dans un champs texte, il risque d'y
-  avoir des incohérences (pluriel, majuscule, orthographe, ...)
+  avoir des incohérences (pluriel, majuscule, orthographe, …)
 * il ne semble pas possible de faire un export RSS avec le mécanisme par défaut
   pour un mot donné.
 

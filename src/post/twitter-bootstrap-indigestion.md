@@ -10,7 +10,7 @@ Bootstrap](http://notes.unwieldy.net/post/43508972396/please-stop-using-twitter-
 > Let's be honest: a great many of us are tired of seeing the same old Twitter
 > Bootstrap theme again and again.
 >
-> [...]
+> […]
 >
 > But when you start to see the same layout [over](http://www.financialq.com/),
 > and [over](http://www.appfeed.net/), and [over](http://fiveaday.co/) again users

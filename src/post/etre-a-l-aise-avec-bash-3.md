@@ -69,7 +69,7 @@ export HISTIGNORE="cd:ls:[bf]g:clear"
 
 bash propose une syntaxe particulière pour utiliser les commandes déjà taper sans les rechercher interactivement.
 
- **Attention : ces raccourcis sont à utiliser avec parcimonie, car il est facile de rappeler des commandes dans un contexte différent ce qui peut être très dangereux (un [rm](http://pwet.fr/man/linux/commandes/rm) -rf * par exemple ...)**
+ **Attention : ces raccourcis sont à utiliser avec parcimonie, car il est facile de rappeler des commandes dans un contexte différent ce qui peut être très dangereux (un [rm](http://pwet.fr/man/linux/commandes/rm) -rf * par exemple …)**
 
 
 !-1 appelle la dernière commande tapée, !-2 l'avant dernière, et ainsi de suite. !! est équivalent à !-1.
@@ -93,6 +93,6 @@ fi
 ```
 
 
-En activant cette fonctionnalités, bash propose de complèter les lignes de commandes en fonction du contexte. Par exemple, si vous utilisez [tar](http://pwet.fr/man/linux/commandes/tar) pour désarchiver il ne proposera que les fichiers terminant par .tar. Pour un cd, il ne proposera que les dossiers... Avec [apt-get](http://pwet.fr/man/linux/administration_systeme/apt_get), il est capable de proposer les différentes actions (install, update, upgrade, ...) ainsi que les noms de paquets correspondant à des noms répertoriés dans la liste des paquets disponibles. Cette fonctionnalités permet aussi de complèter les options longues de différents programmes comme [rsync](http://pwet.fr/man/linux/commandes/rsync). Bref, une fois qu'on y a goûté, il est difficile de s'en passer.
+En activant cette fonctionnalités, bash propose de complèter les lignes de commandes en fonction du contexte. Par exemple, si vous utilisez [tar](http://pwet.fr/man/linux/commandes/tar) pour désarchiver il ne proposera que les fichiers terminant par .tar. Pour un cd, il ne proposera que les dossiers… Avec [apt-get](http://pwet.fr/man/linux/administration_systeme/apt_get), il est capable de proposer les différentes actions (install, update, upgrade, …) ainsi que les noms de paquets correspondant à des noms répertoriés dans la liste des paquets disponibles. Cette fonctionnalités permet aussi de complèter les options longues de différents programmes comme [rsync](http://pwet.fr/man/linux/commandes/rsync). Bref, une fois qu'on y a goûté, il est difficile de s'en passer.
 
 

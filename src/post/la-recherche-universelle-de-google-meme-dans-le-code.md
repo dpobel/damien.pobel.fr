@@ -14,7 +14,7 @@ Google](http://www.google.fr/search?aq=f&amp;hl=fr&amp;safe=off&amp;q=mysql_num_
 puisqu'on peut y voir un petit extrait de code PHP d'une application nommée
 eNdonesia (d'ailleurs le fait d'avoir des
 mysql_query() et mysql_num_rows() perdus au milieu de HTML ne donne pas très
-envie mais c'est une autre histoire...).
+envie mais c'est une autre histoire…).
 
 
 Je savais que [la recherche

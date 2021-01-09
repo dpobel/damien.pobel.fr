@@ -14,5 +14,5 @@ Merci Bård pour l'info. *Thanks Bård for the information*
 </a></figure>
 
 
-Plus d'informations (sérieuses) sur la eZ Conference 2008 d'ici quelques jours...
+Plus d'informations (sérieuses) sur la eZ Conference 2008 d'ici quelques jours…
 

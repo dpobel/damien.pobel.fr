@@ -11,7 +11,7 @@ updated: 2016-02-10 22:54
 Mon projet de plugin [Vim](/tag/vim/) pour [eZ Publish](/tag/ez-publish/) avance
 doucement mais surement. Il faut dire qu'à la base je connais peu le langage de
 script de Vim et [à peine plus Python](/post/vers-un-plugin-ezvim), je bute
-parfois sur des choses toutes bêtes, mais c'est comme cela qu'on apprend... Mais
+parfois sur des choses toutes bêtes, mais c'est comme cela qu'on apprend… Mais
 après quelques soirées, je suis assez content, car la partie *Classes View* qui
 interface l'extension SmileClasses (la même utilisée par [le plugin pour
 Eclipse](http://smile-ez-plugin.sourceforge.net/)) est en très bonne voie. Une
@@ -28,9 +28,9 @@ l'affichage est géré par les raccourcis classiques de [Vim sur les
  
 Ce qu'il manque maintenant, c'est un peu de coloration syntaxique pour y voir
 plus clair et quelques variables/paramètres pour la configuration (adresse du
-site, largeur de la barre verticale, ...). J'espère pouvoir aussi ajouter des
+site, largeur de la barre verticale, …). J'espère pouvoir aussi ajouter des
 raccourcis pour ouvrir un navigateur directement sur les interfaces de
-visualisation, d'éditions ou de documentation des différents éléments...
+visualisation, d'éditions ou de documentation des différents éléments…
 
  
 Ne cherchez pas de lien pour télécharger ce plugin, en l'état, il n'est pas

@@ -17,7 +17,7 @@ Publish](/tag/ez-publish) after [the PHP5 port with eZ Publish
 It's based on [TinyMCE](http://tinymce.moxiecode.com/), so
 Internet Explorer (including IE7 under Windows Vista), [browsers based on
 Gecko](http://en.wikipedia.org/wiki/Gecko_%28layout_engine%29#Usage) (Firefox
-...), Opera and Safari are now supported and unlike the old one, there are not
+…), Opera and Safari are now supported and unlike the old one, there are not
 two code bases for two navigator families&nbsp;! It's also more flexible as we can
 add or remove buttons and functionnalities (like an underline button). After
 reading the document and a small test, there is one feature I would like to see,

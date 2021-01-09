@@ -13,25 +13,25 @@ Levallois](/post/en-direct-de-levallois-perret), j'ai vraiment envie d'avoir un
 [plugin Vim](http://www.vim.org/scripts/index.php) dédié au développement [eZ
 Publish]() similaire à celui lancé par [Smile pour
 Eclipse](http://smile-ez-plugin.sourceforge.net/), car il y a de bonnes idées et
-parce que franchement Eclipse c'est pas mon truc du tout... Ce qui m'intéresse
+parce que franchement Eclipse c'est pas mon truc du tout… Ce qui m'intéresse
 surtout dans un premier temps, c'est [la fonctionnalité
 ClassView](http://smile-ez-plugin.sourceforge.net/screen1.jpg) et éventuellement
 la vérification syntaxique des templates à la sauvegarde ou en lançant une
 commande. Je pense aussi intégrer [quelques abréviations
 Vim](http://vimdoc.sourceforge.net/htmldoc/map.html#Abbreviations) permettant
 d'insérer rapidement quelques constructions syntaxiques courantes (fetch list,
-node, tree, ...).
+node, tree, …).
 
  
 Vim dispose d'un langage de script permettant de manipuler les différents
-éléments du programme (configuration, buffer, fenêtre, ...) et d'extensions
+éléments du programme (configuration, buffer, fenêtre, …) et d'extensions
 permettant d'utiliser des langages plus avancés dont Ruby, Python, TCL et Perl.
 Je connais mal Perl et pas du tout les 3 autres, mais je suis assez attiré par
 Python. Je me suis donc lancé dans un aperçu rapide de ce langage grâce au très
 bon livre [Langages de script sous
 Linux](http://www.blaess.fr/christophe/livres/scripts-sous-linux/) de
 [Christophe Blaess](http://www.blaess.fr/christophe/presentation/) et pour le
-moment, je trouve ce langage très élégant et plutôt agréable à utiliser... Bon
+moment, je trouve ce langage très élégant et plutôt agréable à utiliser… Bon
 j'ai juste pondu 18 lignes de code très inspirées d'un petit *hack* permettant
 de [poster sur un blog Wordpress depuis
 Vim](http://coopblue.com/blog/2006/06/posting-to-wordpress-from-vim-with-tags-and-markdown/).

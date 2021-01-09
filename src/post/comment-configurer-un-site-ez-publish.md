@@ -20,6 +20,6 @@ Peter Keung publié sur eZ.no. La traduction a été faite par Alain Sahli.
 Je vois de plus en plus de mentions d'eZ Publish par ci par là, avec [la version
 4 d'eZ Publish supportant PHP5](/post/ez-publish-4), ce CMS se popularise et
 c'est plutôt une bonne nouvelle et pour l'occasion même
-ezpublish-france.fr (site mort depuis...) est sortie de sa
+ezpublish-france.fr (site mort depuis…) est sortie de sa
 léthargie en publiant une (très) courte
-actualité...
+actualité…

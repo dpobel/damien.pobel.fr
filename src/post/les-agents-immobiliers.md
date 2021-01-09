@@ -15,7 +15,7 @@ appartement, j'ai entendu pas mal d'histoires sur les agents immobiliers, eh
 bien force est de constater qu'il y a pas mal de choses que j'ai pu vérifier. Il
 y aurait de quoi faire un site lesagentsimmobiliers.com sur le modèle du très
 drôle lesbanquiers.com (site hors ligne depuis :-() tellement certains
-tentent de vous prendre pour un idiot... Morceaux choisis :
+tentent de vous prendre pour un idiot… Morceaux choisis :
 
 <blockquote>
 Vous savez cette résidence est très cotée, les appartements ici se vendent en quelques semaines voire quelques jours.
@@ -38,5 +38,5 @@ c'est d'autant plus magique que la mise en service de la ligne 3 est prévue pou
 
 Le plus marrant dans l'histoire, est qu'à la fin des visites, l'agent finit par
 me faire le laïus habituel sur la grande sincérité et le sérieux des agents
-immobiliers... Mais pourquoi ai je donc la désagréable impression qu'il me prend
+immobiliers… Mais pourquoi ai je donc la désagréable impression qu'il me prend
 pour un c** ?

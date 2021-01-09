@@ -26,4 +26,4 @@ I was also very pleased to read the following sentences in this article:
 That's pretty obvious to me but still, in my experience, very underevaluated. I
 would even add that a *developer who values the importance of UX* might also
 have ideas on this topic and he's not necessarily only interested in his black
-terminal and the code he writes in it...
+terminal and the code he writes in it…

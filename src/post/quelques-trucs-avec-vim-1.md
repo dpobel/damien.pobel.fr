@@ -14,7 +14,7 @@ mais une fois franchi ce cap, il est vraiment très agréable de garder les main
 sur le clavier pour toutes les tâches d'édition. Il est aussi très pratique
 d'utiliser le même éditeur de texte pour éditer un fichier de configuration au
 coup par coup sur un serveur et pour écrire de manière plus élaborée
-(programmation, e-mail, ...), on finit même par taper des commandes Vim dans le
+(programmation, e-mail, …), on finit même par taper des commandes Vim dans le
 terminal ce qui oblige [à définir des alias
 bizarres](/post/etre-a-l-aise-avec-bash-2) :-)
 
@@ -73,7 +73,7 @@ Il suffit de taper :set nu et :set nu! pour les cacher. Si vous voulez toujours 
 ### Éditer des fichiers distants via SSH
 
  
-Il est bien sûr possible de se connecter en SSH et d'utiliser Vim sur la machine distante, mais il n'est peut être pas configurer voire pas installé du tout... La commande suivante me permet d'éditer mon .bashrc et le fichier /tmp/unfichier sur ma Dedibox :
+Il est bien sûr possible de se connecter en SSH et d'utiliser Vim sur la machine distante, mais il n'est peut être pas configurer voire pas installé du tout… La commande suivante me permet d'éditer mon .bashrc et le fichier /tmp/unfichier sur ma Dedibox :
 
  ``` bash
 $ vim 'scp://tigrou@pwet.fr/.bashrc' 'scp://tigrou@pwet.fr//tmp/unfichier'

@@ -39,7 +39,7 @@ Il s'agit juste d'automatiser ces opérations. Selon les applications, le gain
 peut être sensible. [La semaine dernière quand j'étais en
 déplacement](/post/traverser-la-gare-saint-lazare-c-est-bon-pour-le-moral) avec
 une connectivité aléatoire j'aurai bien aimé que tous les sites aient fait cette
-opération...
+opération…
 Je l'ai d'ailleurs lancé sur [le nouvel Online
 Editor](/post/the-new-online-editor-for-ez-publish-beta) de [eZ
 Publish](/tag/ez-publish) pour optimiser au maximum le futur éditeur <abbr

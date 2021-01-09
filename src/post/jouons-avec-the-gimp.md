@@ -14,10 +14,10 @@ cliché](https://www.flickr.com/photos/domib34/506202573/) du
 [Nokia
 FISE](/post/nokia-fise-2007-roller-street-bmx-rampe-wakeboard-and-bmx-street) ou
 par [le même photographe](http://www.flickr.com/photos/domib34/)[cette fraise
-goûteuse](http://www.flickr.com/photos/domib34/503183639/)... L'effet est plutôt
+goûteuse](http://www.flickr.com/photos/domib34/503183639/)… L'effet est plutôt
 choquant pour notre oeil habitué à voir l'ensemble d'une scène en couleur ou en
 noir et blanc. En suivant un topic dédié au FISE sur
-virusphoto (virusphoto.com/6764-nokia-fise-2007-a.html page disparue...), j'ai
+virusphoto (virusphoto.com/6764-nokia-fise-2007-a.html page disparue…), j'ai
 découvert [un excellent
 tutoriel](http://www.virusphoto.com/1948-faire-ressortir-un-element-en-couleur-dune-photo-n-and-b-the-gimp.html)
 permettant de réaliser cet effet dans [The

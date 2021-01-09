@@ -17,7 +17,7 @@ AWStats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi) et [m'êtr
 battu avec PDO_MySQL](/post/pdo-mysql-sous-ubuntu-au-bord-de-la-crise-nerfs)
 (rien que ça :)), j'en viens aux backups. On ne le répètera jamais assez, il est
 important de faire des backups réguliers et systèmatiques comme il est important
-de savoir restaurer ses sauvegardes...
+de savoir restaurer ses sauvegardes…
 
  
 En plus, le service Dedibox propose un accès FTP avec un quota de 5Go inclu dans
@@ -47,7 +47,7 @@ FLUSH PRIVILEGES;
 ```
 
 L'utilisateur backup de MySQL a maintenant les droits en lecture sur toutes
-bases (il est conseillé de mettre un mot de passe fort...). Pour qu'un script
+bases (il est conseillé de mettre un mot de passe fort…). Pour qu'un script
 puisse se connecter sans avoir à taper le mot de passe, il faut créer un fichier
 nommé .my.cnf dans le répertoire personnel de l'utilisateur qui exécutera le
 script. Ce fichier doit ressembler à :
@@ -87,7 +87,7 @@ Avec ce fichier, les connections FTP sur dedibackup.dedibox.fr se feront avec le
 login et le mot de passe indiqués avec les clients FTP suivant ce fichier
 ([ftp](http://pwet.fr/man/linux/commandes/ftp),
 [lftp](http://pwet.fr/man/linux/commandes/lftp),
-[ncftp](http://pwet.fr/man/linux/commandes/ncftp), ...) sans rien demander. De
+[ncftp](http://pwet.fr/man/linux/commandes/ncftp), …) sans rien demander. De
 la même manière que le fichier .my.cnf, il faut faire attention aux permissions
 sur ce fichier.
 

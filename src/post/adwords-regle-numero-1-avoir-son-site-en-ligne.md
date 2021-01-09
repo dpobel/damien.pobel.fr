@@ -20,7 +20,7 @@ published: 2006-12-12T23:25:23+01:00
 
 
  
-Au minimum, il vaut mieux aussi avoir déposé son nom de domaine...
+Au minimum, il vaut mieux aussi avoir déposé son nom de domaine…
 
  ``` bash
 $ whois 2007lesvraissujets.com | head -10

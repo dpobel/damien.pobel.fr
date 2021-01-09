@@ -14,7 +14,7 @@ l'occasion de dépoussiérer [mon Nikon
 D50](/post/nikon-d50-premiers-retours-d-utilisation) et de prendre des photos
 assez inhabituelles. Dommage que le vent soit venu gâcher la démonstration,
 j'aurais adoré [les cracheurs de
-feux](http://www.festiflam.net/index.php/festiflam/materiel/cracheur.html)...
+feux](http://www.festiflam.net/index.php/festiflam/materiel/cracheur.html)…
 
 <figure class="object-center"><a href="/images/festiflam-fete-ses-deux-sur-le-peyrou.jpg"><img loading="lazy" src="/images/660x/festiflam-fete-ses-deux-sur-le-peyrou.jpg" alt="Festiflam fête ses deux sur le Peyrou">
 </a></figure>

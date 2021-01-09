@@ -54,10 +54,10 @@ compliquée&nbsp;:
   sur certains sites que cette disparation est le fruit d'une refonte où les
   anciennes pages auraient tout à fait leur place (grrrr encore);
 * les 33 liens restants pointent vers des sites qui ont complètement changé
-  (domain parking, rachat ou pire...) et là, il faut vraiment que je mette à
-  jour ces liens...
+  (domain parking, rachat ou pire…) et là, il faut vraiment que je mette à
+  jour ces liens…
 
-Bref, j'ai un peu plus de 500 liens à mettre à jour... Et j'avoue être tiraillé
+Bref, j'ai un peu plus de 500 liens à mettre à jour… Et j'avoue être tiraillé
 entre l'envie de proposer des liens qui marchent et une certaine flemme :) Alors
 ami webmaster, propriétaire de site, directeur de la publication, tu as bien sûr
 le droit de fermer ton site, mais s'il reste en ligne, s'il te plaît maintiens

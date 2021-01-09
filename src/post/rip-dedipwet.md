@@ -17,7 +17,7 @@ système de secours
 pour vérifier les trucs habituels
 ([fsck](http://pwet.fr/man/linux/administration_systeme/fsck) très long, mauvais
 paramètrage du [grub](http://pwet.fr/man/linux/administration_systeme/grub),
-...). Bref, j'ai migré les sites sur mon second serveur, le temps que la
+…). Bref, j'ai migré les sites sur mon second serveur, le temps que la
 propagation des DNS se fasse, et revoila Planet eZ
 Publish.fr, Bioutifoul
 Photos et [pwet.fr](http://pwet.fr) à nouveau

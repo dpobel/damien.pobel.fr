@@ -26,4 +26,4 @@ operators](http://share.ez.no/articles/ez-publish/ezjscore-ez-publish-javascript
 (fr)](/post/optimisation-des-images-generees-par-ez-publish) or [the ability to
 set far future expires headers for ressources in the storage
 directory](https://www.mail-archive.com/sdk-public@lists.ez.no/msg00221.html) of
-the CMS...
+the CMS…

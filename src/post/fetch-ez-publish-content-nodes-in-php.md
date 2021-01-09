@@ -41,5 +41,5 @@ The &quot;attribute_filter&quot; parameter must be an array. The first element m
 </blockquote>
 
  
-So, the first and the second examples are not correct even if the first works in templates ! Damn, this took me almost 2 hours...
+So, the first and the second examples are not correct even if the first works in templates ! Damn, this took me almost 2 hours…
 

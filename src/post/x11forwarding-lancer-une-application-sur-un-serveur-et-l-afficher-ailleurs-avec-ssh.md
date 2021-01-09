@@ -37,7 +37,7 @@ clés, on peut lancer une application distante quasiment comme une application
 locale.
 * ssh dispose d'une option permettant de compresser les données
 échangées, ce qui peut grandement améliorer les performances sur des lignes à
-faible débit (mais les ralentir sur d'autres, à tester donc...)
+faible débit (mais les ralentir sur d'autres, à tester donc…)
 
 ## Configuration et utilisation
 
@@ -82,4 +82,4 @@ et feront peut être l'objet d'un billet tant les options, les possibilités et
 les usages sont nombreux. Il faudra alors regarder du côté de
 [ssh-agent](http://pwet.fr/man/linux/commandes/ssh_agent), ssh-add et
 certainement
-[x11-ssh-askpass](http://pwet.fr/man/linux/commandes/x11_ssh_askpass)...
+[x11-ssh-askpass](http://pwet.fr/man/linux/commandes/x11_ssh_askpass)…
