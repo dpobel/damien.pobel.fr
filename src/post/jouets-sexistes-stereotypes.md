@@ -66,7 +66,7 @@ que [chez les
 garçons](http://www.toysrus.fr/family/viewall/index.jsp?fd=Gar%C3%A7on&fg=Genre&f=PAD&fv=Boy+Girl%2fGar%C3%A7on&categoryId=3937251&overrideStore=TRUFR)
 les jeux d'imitations consistent pour la plupart à incarner des super héros, des
 espions (bon il y a aussi des armes…) ou papa qui bricole, mais chez les
-filles, on astique, balaie, aspire, frotte, repasse, nettoie, … mais surtout
+filles, on astique, balaie, aspire, frotte, repasse, nettoie,… mais surtout
 on ne s'évade jamais du quotidien voire on ne sort pas de la maison!
 
 ## Carrefour
@@ -126,7 +126,7 @@ entre les marques en question et le fabricant du jouet…
 ## Et les autres ?
 
 À des degrés divers, les autres enseignes comme Joué Club, King Jouet, la Grande
-Récré, …  présentent ces fameux jouets d'imitation de la même manière. Super U
+Récré,…  présentent ces fameux jouets d'imitation de la même manière. Super U
 qui est donné comme bon élève avec [son
 catalogue](http://solution.poptract.fr/SU/13817880004001/30965) n'a pas de
 boutique en ligne mais dans les rayons de jouets pour fille on trouve le même
@@ -141,4 +141,4 @@ viennent à l'esprit. Par exemple, retrouve-t-on les mêmes stéréotypes et le 
 sexisme dans les boutiques de jouets à l'étranger&nbsp;? Pourquoi cette overdose
 de rose dans les rayons (pas seulement de jouets) pour filles&nbsp;?  Pourquoi
 mêmes les jouets type Lego ou Playmobil proposent des versions différenciées
-fille/garçon&nbsp;? … mais ce sera peut être pour de prochains billets.
+fille/garçon&nbsp;?… mais ce sera peut être pour de prochains billets.

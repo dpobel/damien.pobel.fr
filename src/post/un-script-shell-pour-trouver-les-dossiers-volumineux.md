@@ -60,7 +60,7 @@ done
 [ -z $(echo $LEVEL | egrep '^[0-9]+$') ] && print_exit "Le niveau doit être un entier" 3
 [ -z $(echo $MIN_SIZE | egrep '^[0-9]+$') ] && print_exit "La taille minimale doit être un entier" 4
 
-# le script … :)
+# le script… :)
 find $DIR -maxdepth $LEVEL -mindepth $LEVEL -type d -print0 | xargs -0 du -s$SIZEU 2> /dev/null | egrep "^[0-9]{$MIN_SIZE,}" | sort -n
 ```
 

@@ -20,7 +20,7 @@ photos:
 Et un peu hors-sujet&nbsp;:
 
 * [Faut-il créer un label « Internet bio » permettant aux services respectueux de faire la différence ?](https://www.nextinpact.com/news/106043-faut-il-creer-label-internet-bio-permettant-aux-services-respectueux-faire-difference.htm) (fr)&nbsp;: Et pourquoi pas tient :)
-* [Un logiciel libre de gestion des cultures OpenJardin](https://linuxfr.org/news/un-logiciel-libre-de-gestion-des-cultures-openjardin) (fr)&nbsp;: Un logiciel pour organiser son jardin (rotation des cultures, voisinage, …). Pas encore testé mais la fin de l'hiver arrive, il va falloir bientôt penser au potager.
+* [Un logiciel libre de gestion des cultures OpenJardin](https://linuxfr.org/news/un-logiciel-libre-de-gestion-des-cultures-openjardin) (fr)&nbsp;: Un logiciel pour organiser son jardin (rotation des cultures, voisinage,…). Pas encore testé mais la fin de l'hiver arrive, il va falloir bientôt penser au potager.
 * [Les deux vitesses de la pensée et le "Bullshitomètre"](https://www.youtube.com/watch?v=eLLIm-GpJh4&list=WL&index=18) (fr)&nbsp;: Excellente vidéo sur le fonctionnement de notre cerveau et comment on peut (essayer) de trier les informations.
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*

@@ -1,5 +1,5 @@
 ---
-title: "I believe I can fly …"
+title: "I believe I can fly…"
 tags: photo, nikon d50, blog
 updated: 2007-07-14T12:20:50.000Z
 lang: "fr"

@@ -17,7 +17,7 @@ Hansen](http://www.askbjoernhansen.com/). Cette longue présentation (189
 pages&nbsp;!) est une excellente compilation de la plupart des conseils que l'on peut
 trouver un peu partout pour améliorer les performances et l'extensibilité (au
 niveau de l'architecture) d'une application web par exemple à base de MySQL et
-du langage de votre choix (PHP, Perl, Ruby, …)
+du langage de votre choix (PHP, Perl, Ruby,…)
 
 On peut y trouver également quelques petites phrases assez amusantes du type
 (traduction libre)&nbsp;:

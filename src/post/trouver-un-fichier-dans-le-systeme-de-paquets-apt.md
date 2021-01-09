@@ -30,7 +30,7 @@ topic sur le forum Ubuntu-fr](http://forum.ubuntu-fr.org/viewtopic.php?id=63551)
 
  ``` bash
 $ sudo apt-file update
-# …. affichage des informations …
+#…. affichage des informations…
 $ apt-file search bin/ps2
 c2050: usr/bin/ps2lexmark
 gs-common: usr/bin/ps2ascii

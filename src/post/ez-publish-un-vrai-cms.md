@@ -11,7 +11,7 @@ published: 2006-12-08T17:05:17+01:00
 J'ai déjà écrit [une quinzaine de billets autour d'eZ publish](/tag/ez-publish),
 mais je me rend compte que je n'en ai jamais vraiment parlé par rapport au petit
 monde des CMS. Pourtant, je parcours assez souvent des forums pour webmasters
-sur divers sujets (Développement, Astuces, Standards, Référencement, …) et il
+sur divers sujets (Développement, Astuces, Standards, Référencement,…) et il
 y a une question qui revient souvent : *quel CMS choisir pour ci ou pour ça ?*
 Et la réponse est quasiment invariablement [SPIP](http://www.spip.net) ou
 [Joomla!](http://www.joomla.org/) alors que je répondrai bien souvent (mais pas
@@ -49,16 +49,16 @@ on parle de professionnels). Bien sûr il est toujours possible de se dire que c
 contenu pourra très bien être présenté dans une simple page de texte (un
 article) ce que tous les Systèmes de Gestion de Contenu savent faire, mais sans
 structuration on écarte toute possibilité d'utilisation avancée du contenu
-(recherches avancées, exports particuliers, …). Et c'est justement là une des
+(recherches avancées, exports particuliers,…). Et c'est justement là une des
 grandes forces d'eZ publish, la structuration qui permet à l'outil de s'adapter
 au contenu et non l'inverse puisque chaque objet dans l'arborescence est [une
 instance d'une
 classe](http://ez.no/doc/ez_publish/technical_manual/3_8/concepts_and_basics/content_management/the_content_class)
 dont on a défini [les différents
 membres](http://ez.no/doc/ez_publish/technical_manual/3_8/concepts_and_basics/content_management/datatypes)
-(Ligne de texte, texte formaté ou non, sélection, date, adresse web, …) et
+(Ligne de texte, texte formaté ou non, sélection, date, adresse web,…) et
 dont on définit la manière dont il s'affichera sur le site ou ailleurs par des
-*templates* (export PDF, ODF …)
+*templates* (export PDF, ODF…)
 
  
 Ce mode de conception n'a pas que des avantages, parmis les inconvénients on

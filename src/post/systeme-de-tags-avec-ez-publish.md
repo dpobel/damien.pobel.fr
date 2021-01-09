@@ -11,7 +11,7 @@ updated: 2016-02-10 09:37
 J'ai reçu cet après midi un mail d'une personne me demandant comment fonctionne
 le système de *tags* sur mon blog et plus généralement comment mettre en place
 un tel système avec eZ publish. Comme elle me le suggère, c'est effectivement un
-sujet pouvant faire l'objet d'un billet, alors c'est parti …
+sujet pouvant faire l'objet d'un billet, alors c'est parti…
 
 
 Pour faire court, un système de *tags* est un système de mots clefs ; à chaque
@@ -57,7 +57,7 @@ inconvénients à l'utiliser :
 * je n'ai pas trouvé le moyen de faire la liste complète des mots utilisés, donc
   générer le nuage de mots clefs (*tags cloud*) paraît difficile.
 * comme les mots sont tappés directement dans un champs texte, il risque d'y
-  avoir des incohérences (pluriel, majuscule, orthographe, …)
+  avoir des incohérences (pluriel, majuscule, orthographe,…)
 * il ne semble pas possible de faire un export RSS avec le mécanisme par défaut
   pour un mot donné.
 

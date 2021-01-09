@@ -51,7 +51,7 @@ simplifier les choses notamment en permettant la vérification de règles
 syntaxiques supplémentaires sans nécessiter le développement d'un datatype
 spécifique ce qui est parfois un peu lourd pour juste ajouter une validation
 simple (validation d'un code postal, d'une longueur minimale d'une ligne de
-texte, d'un domaine particulier pour un email, …)
+texte, d'un domaine particulier pour un email,…)
 
 
 ## Extension *output filter*

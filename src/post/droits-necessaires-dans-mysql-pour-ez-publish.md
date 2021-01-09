@@ -9,7 +9,7 @@ updated: 2016-02-10 21:32
 ---
  
 Aujourd'hui j'ai commencé la migration d'un site assez touffu (plusieurs
-administrations, deux extranets, …) utilisant eZ publish d'un serveur que
+administrations, deux extranets,…) utilisant eZ publish d'un serveur que
 j'administre vers un serveur d'un prestataire externe. Contrairement à la
 dernière fois où j'ai du m'adapter [à l'environnement un poil spartiate sous
 Solaris](/post/solaris-et-les-outils-gnu), cette fois ci je n'ai pas été très

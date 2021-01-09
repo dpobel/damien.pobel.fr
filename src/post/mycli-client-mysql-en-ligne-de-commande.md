@@ -15,7 +15,7 @@ qui rappelle que le client MySQL en ligne de commande propose un fichier de
 configuration (`~/.my.cnf`) permettant de se simplifier la vie si on se connecte
 toujours aux mêmes machines/bases. Ce billet montre aussi
 l'option `pager` de ce fichier de configuration qui, comme son nom l'indique,
-permet de configurer un *pager* (`more`, `less`, `neovim`, … ou ce que vous
+permet de configurer un *pager* (`more`, `less`, `neovim`,… ou ce que vous
 voulez) que l'auteur utilise pour [mettre de la couleur dans le client MySQL /
 MariaDB](https://www.mon-code.net/article/80/mettre-de-la-couleur-dans-le-client-mysql-mariadb)
 avec [Generic Colouriser](https://github.com/garabik/grc). Bref, ce sont deux

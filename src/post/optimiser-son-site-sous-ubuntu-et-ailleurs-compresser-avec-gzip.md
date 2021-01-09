@@ -23,7 +23,7 @@ $ sudo /etc/init.d/apache2 reload
 Le module headers est nécessaire pour envoyer des entêtes spécifiques aux proxy caches de manière à ne pas envoyer de documents compressés à certains navigateurs buggés mais populaires…
 
 
-La configuration par défaut, stockée dans le fichier /etc/apache2/mods-available/deflate.conf, fait en sorte de compresser les fichiers texte brut, HTML et XML ce qui est déjà bien, mais on peut aller plus loin en traitant tout ce qui est *texte*. Il est en effet inutile de compresser les images (JPG, PNG, GIF, …), les PDF et bien d'autres types de fichier qui sont déjà compressés par nature. J'utilise la configuration suivante dans /etc/apache2/conf.d/deflate pour compresser en plus les feuilles de style et les scripts Javascript tout évitant certains bugs connus de quelques navigateurs.
+La configuration par défaut, stockée dans le fichier /etc/apache2/mods-available/deflate.conf, fait en sorte de compresser les fichiers texte brut, HTML et XML ce qui est déjà bien, mais on peut aller plus loin en traitant tout ce qui est *texte*. Il est en effet inutile de compresser les images (JPG, PNG, GIF,…), les PDF et bien d'autres types de fichier qui sont déjà compressés par nature. J'utilise la configuration suivante dans /etc/apache2/conf.d/deflate pour compresser en plus les feuilles de style et les scripts Javascript tout évitant certains bugs connus de quelques navigateurs.
 
 ``` apache
  AddOutputFilterByType DEFLATE text/plain text/css application/x-javascript text/xml text/html

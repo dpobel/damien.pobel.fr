@@ -16,7 +16,7 @@ Publish 5 en décembre
 dernier](/post/planet-ez-publish-fr-mis-sur-orbite-par-ez-publish-5). [L'un de
 ces problèmes](https://github.com/dpobel/planet-ezpublish.fr/issues/20)
 concernait les différences entre les pages générées par les modules legacy
-(ezinfo/about, planet/search, …) et le reste du site. En effet, en 5.0, [il
+(ezinfo/about, planet/search,…) et le reste du site. En effet, en 5.0, [il
 n'était pas possible d'utiliser un pagelayout Twig avec un module
 legacy](https://jira.ez.no/browse/EZP-20576), et donc le résultat de ces modules
 étaient toujours injectés dans le bon vieux `pagealyout.tpl`. À partir des n

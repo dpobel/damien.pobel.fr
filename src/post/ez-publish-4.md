@@ -28,4 +28,4 @@ Enfin avis personnel, la version à vraiment attendre est la prochaine stable
 prévue en début d'année qui marquera l'intégration réelle et profonde des [eZ
 Components](http://ezcomponents.org/) ce qui promet des changements beaucoup
 plus importants et probablement des améliorations dans bien des secteurs
-(performances, flexibilité, …).
+(performances, flexibilité,…).

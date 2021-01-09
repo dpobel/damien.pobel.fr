@@ -57,7 +57,7 @@ particulier :
   (maintenant uniquement disponible pour MySQL)
 * [un meilleure gestion des
   URL](https://github.com/ezsystems/ezpublish-legacy/blob/master/doc/features/3.10/multilingual_support_for_urlalias.txt)
-  (multilangue, règles de génération paramètrables, support de l'UTF8, …)
+  (multilangue, règles de génération paramètrables, support de l'UTF8,…)
 * l'amélioration du datatype ISBN et un nouveau datatype Multi-options2
 
 J'ai testé les nouvelles fonctionnalités autour des URL en développant

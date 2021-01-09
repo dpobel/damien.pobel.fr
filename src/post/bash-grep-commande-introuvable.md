@@ -58,7 +58,7 @@ keycode 65 = space space space space space
 ```
  
 Ce fichier indique que la touche dont le code est 65 (la barre d'espace)
-associée à n'importe quelle touche *modifier* (shift, control, alt, …) produit
+associée à n'importe quelle touche *modifier* (shift, control, alt,…) produit
 une espace simple. Je n'ai pas l'utilité de taper des espaces insécables mais du
 coup avec cette technique il est possible d'assigner n'importe quelle
 combinaison de touche à un caractère particulier. Par exemple si on souhaite

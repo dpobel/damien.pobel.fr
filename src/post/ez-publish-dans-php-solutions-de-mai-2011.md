@@ -21,7 +21,7 @@ excellent moyen de découvrir eZ Publish.
 Évidemment le format magazine ne permet pas de rentrer dans tous les détails
 mais l'article couvre néanmoins les notions indispensables comme la mise en
 place au niveau système, l'installation du CMS, les classes de contenu, la
-configuration, le *templating*, … Pour aller plus loin, chaque point est
+configuration, le *templating*,… Pour aller plus loin, chaque point est
 accompagné de liens vers [la documentation
 officielle](http://doc.ez.no/eZ-Publish/Technical-manual/4.5); dommage que ces
 liens ne soient pas directement cliquables dans le PDF…

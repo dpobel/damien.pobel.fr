@@ -20,7 +20,7 @@ diminuent régulièrement) mais (parce qu'il y a un *mais*) je crois qu'on va
 encore devoir faire avec des navigateurs ne supportant pas les standards pendant
 encore un bon moment et encore je parle de standards déjà
 ancien
-(XHTML, CSS 2.1, SVG, …) pas des derniers trucs à la mode à peine sortis des
+(XHTML, CSS 2.1, SVG,…) pas des derniers trucs à la mode à peine sortis des
 cartons. Pourquoi tant de pessimisme ?
 
 * Internet Explorer 6 est sorti en 2001 et on en parle encore ! Il y a 8 ans,

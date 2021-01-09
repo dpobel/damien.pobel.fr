@@ -1,5 +1,5 @@
 ---
-title: "L'albanelotron, HADOPI, les gus …"
+title: "L'albanelotron, HADOPI, les gus…"
 tags: amusant, citation, web, politique
 lang: "fr"
 node: "67742"

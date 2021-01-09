@@ -13,7 +13,7 @@ well documented, and like any other command line tool, you can use it together
 with others text processing tools
 ([grep](http://pwet.fr/man/linux/commandes/grep),
 [xmllint](http://pwet.fr/man/linux/commandes/xmllint),
-[xsltproc](http://pwet.fr/man/linux/commandes/xsltproc), …). I'm writing this
+[xsltproc](http://pwet.fr/man/linux/commandes/xsltproc),…). I'm writing this
 post as a memo for me but I'm sure some people will find it useful as well.
 
 The whole REST API v2 is specified in [the ezpublish-kernel git

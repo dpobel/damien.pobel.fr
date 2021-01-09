@@ -19,7 +19,7 @@ mysqldump](http://dev.mysql.com/doc/refman/5.7/en/mysqldump.html) au détour de
 la documentation de MySQL 5.x. Bien que j'utilise MySQL 4.1 et que cette option
 ne soit pas indiquée dans [la page du manuel de
 mysqldump](http://pwet.fr/man/linux/commandes/mysqldump) elle est présente
-depuis MySQL 4.0.2 … Cette option permet d'exporter les tables InnoDB sans
+depuis MySQL 4.0.2… Cette option permet d'exporter les tables InnoDB sans
 perturber les transactions des autres applications, la génération du dump s'en
 trouve largement accélérée. Finalement, le plus long a été de réimporter
 l'ensemble du dump…

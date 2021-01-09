@@ -54,7 +54,7 @@ doit passer par l'association, chacun reste évidemment libre d'écrire sur ses
 propres expérimentations, découvertes, trucs sur son blog ou ailleurs. Je parle
 ici de la réalisation **d'un unique site communautaire** : des forums (eZ
 Publish France), un aggrégateur (Planet eZ Publish.fr), des initiatives de
-localisation (eZ France, traduction de documentation, …) et tout autre idée
+localisation (eZ France, traduction de documentation,…) et tout autre idée
 partagée par la communauté. Par exemple, faire une espèce d'annuaire organisé
 des articles en lignes en français sur eZ Publish comme le suggèrait
 [Gauthier](http://blog.gauthier-garnier.ca/) (je crois ?) est une très bonne

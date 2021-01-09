@@ -43,7 +43,7 @@ Biensûr, ces sujets sont documentés:
 
 * [La configuration des *view provider* (en)](https://confluence.ez.no/display/EZP52/View+provider+configuration) (~override rules)
 * [Comment utiliser un controller spécifique pour afficher du contenu (en)](https://confluence.ez.no/display/EZP52/How+to+use+a+custom+controller+to+display+a+content+or+location)
-* [Les fonctions Twig (en)](https://confluence.ez.no/display/EZP52/Twig+functions) (`ez_render_field`, `ez_content_name`, …)
+* [Les fonctions Twig (en)](https://confluence.ez.no/display/EZP52/Twig+functions) (`ez_render_field`, `ez_content_name`,…)
 
 Si vous étiez présent, merci [de noter et commenter notre présentation sur
 joind.in](https://joind.in/talk/view/9358) et dans le cas contraire, ~~la vidéo

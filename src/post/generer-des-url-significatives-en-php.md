@@ -17,7 +17,7 @@ utilise un système assez complexe (en code) mais très souple permettant de
 produire [des URLs selon le format de son
 choix](http://ez.no/doc/ez_publish/technical_manual/3_10/features/multi_language_support_for_url_aliases)
 (avec ou sans majuscule, en conservant ou non les accents, les espaces, choix du
-séparateur, …). Si, on ne trouve pas son bonheur on peut même écrire une
+séparateur,…). Si, on ne trouve pas son bonheur on peut même écrire une
 extension pour un formatage sur mesure, voir par exemple [celle de Damien Pitard
 sur
 ez.no](http://ez.no/developer/contribs/applications/dpgnu_dp_google_news_url)
@@ -90,7 +90,7 @@ ailleurs si on veut par exemple utiliser des formats de dates normalisés et
 localisés avec [strftime()](http://fr.php.net/strftime). L'appel de la méthode
 initLocale() (qui appelle [setlocale()](http://fr.php.net/setlocale)) réalise ce
 travail et aura sa place dans un fichier d'intilialisation globale (connexion à
-la base de données, définition du `__autoload`, …) inclus dans tous les scripts.
+la base de données, définition du `__autoload`,…) inclus dans tous les scripts.
 Il faut également prêter attention au fait que sous [Windows, les locales ne
 s'écrivent pas de la même
 manière](https://msdn.microsoft.com/en-us/goglobal/bb895996.aspx) évidemment,

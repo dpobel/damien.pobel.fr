@@ -29,7 +29,7 @@ d'une étude
 inquiétante (Étude indisponible maintenant…)
 montrant que les [espadons](http://fr.wikipedia.org/wiki/Espadon_%28poisson%29)
 de méditerranée présentent des traces de produits justement principalement
-utilisés dans l'électronique grand public (Télévision, ordinateurs, …). Les
+utilisés dans l'électronique grand public (Télévision, ordinateurs,…). Les
 produits incriminés sont des substances organochlorées ainsi que les
 retardateurs de flammes bromés qui ont des propriétés cancérigènes et peuvent
 provoquer des problèmes neurologiques.

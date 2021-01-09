@@ -50,7 +50,7 @@ progression vient (entre autres) de deux phénomèmes :
 * et ce que j'appelle le paradoxe du libre, qui veut que les principales
   distributions se concurrencent pour gagner des utilisateurs tout en
   contribuant et utilisant les mêmes (gros) projets libres (GNOME, KDE, le
-  noyau, …) provoquant une saine émulation.
+  noyau,…) provoquant une saine émulation.
  
 
 Cette saine émulation est garanti par le fait que le code soit libre et donc

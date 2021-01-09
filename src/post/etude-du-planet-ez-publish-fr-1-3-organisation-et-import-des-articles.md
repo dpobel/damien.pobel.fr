@@ -55,7 +55,7 @@ Contrairement à un site classique, le contenu sur un Planet provient d'autres s
 * [mauvaise utilisation du guid/link pour générer le remote id](http://issues.ez.no/14296)
 * [le script rssimport.php ne met pas à jour les articles importés](http://issues.ez.no/2318)
 * [le format Atom n'est pas supporté](http://issues.ez.no/2318)
-* [les modules courants du format RSS ne sont pas non plus pris en compte](http://issues.ez.no/10100) (Dublin Core, Content, …)
+* [les modules courants du format RSS ne sont pas non plus pris en compte](http://issues.ez.no/10100) (Dublin Core, Content,…)
 
 Le script rssimport.php me semble par ailleurs assez mal écrit, du coup, j'ai choisi d'en écrire [un autre](https://github.com/dpobel/planet-ezpublish.fr/blob/master/legacy/extensions/planete/cronjobs/rssimport_planete.php) quasiment *from scratch* basé sur [le composant Feed des eZ Components](http://ezcomponents.org/docs/api/trunk/classtrees_Feed.html) et le *mapping* entre champs du flux et champs des objets *Post* est fait dans [un simple fichier de configuration](https://github.com/dpobel/planet-ezpublish.fr/blob/master/legacy/extensions/planete/settings/planete.ini.append.php).
 

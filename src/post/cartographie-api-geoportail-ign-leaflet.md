@@ -105,7 +105,7 @@ exemple) et notamment [les SCAN
 Express](http://professionnels.ign.fr/pyramide-scan-express) qui sont plus
 *régulières* en fonction du niveau de zoom, malheureusement elles ne proposent
 pas autant de détails que *WMTS-Géoportail - Cartes IGN* (chemins balisés,
-points d'intérêt, …).
+points d'intérêt,…).
 
 ## Les clés
 

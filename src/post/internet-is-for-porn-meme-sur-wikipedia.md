@@ -13,7 +13,7 @@ Wikipédia](http://blog.lefigaro.fr/hightech/2008/10/10-choses-que-vous-ne-savez
 [le classement des pages les plus vues sur Wikipedia
 Commons](http://wikistics.falsikon.de/2008/wikimedia/commons/) (la médiathèque
 des Wikipedia). Les premiers articles qui ne sont pas en relation avec le sexe
-et qui ne concernent pas un service du site (recherche, identification, …)
+et qui ne concernent pas un service du site (recherche, identification,…)
 sont&nbsp;:
 
 * 11ième [une photo de Sarah

@@ -30,7 +30,7 @@ génération de d'exports en tout genre)&nbsp;:
 // différentes opérations
 header( 'Content-Disposition: attachment, filename=fichier.ext' );
 // ici je génère mon fichier
-// …
+//…
 ?>
 ```
 

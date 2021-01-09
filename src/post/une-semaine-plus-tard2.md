@@ -20,7 +20,7 @@ j'arrive chez un éditeur où c'est quasiment l'inverse avec
 [Github](https://github.com/), Scrumpad,
 [Campfire](http://campfirenow.com/), [Google
 Apps](http://www.google.com/apps/intl/fr/business/index.html#utm_campaign=fr&amp;utm_source=fr-ha-emea-fr-bk&amp;utm_medium=ha&amp;utm_term=google%20apps)
-(Documents, Mail, gTalk, …)… et j'en oublie probablement pas mal ! Je ne
+(Documents, Mail, gTalk,…)… et j'en oublie probablement pas mal ! Je ne
 doute pas que je vais découvrir au fur et à mesure d'autres surprises.
 
 

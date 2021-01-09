@@ -58,7 +58,7 @@ boutique intégrée. En revanche, **pendant la lecture l'écran est super
 agréable** et c'est bien là l'essentiel. Le rétro-éclairage permet de lire dans
 des conditions de luminosité variables et non-idéales (oui encore le train ;-))
 sans se fatiguer et évidemment, avoir la possibilité de régler différents
-paramètres d'affichage (type et taille de la police, marges, interligne, …)
+paramètres d'affichage (type et taille de la police, marges, interligne,…)
 rend l'ensemble encore plus agréable.
 
 À côté de l'expérience de lecture pure, l'intégration de la boutique (Cultura

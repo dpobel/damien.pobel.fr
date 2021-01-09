@@ -28,7 +28,7 @@ l'affichage est géré par les raccourcis classiques de [Vim sur les
  
 Ce qu'il manque maintenant, c'est un peu de coloration syntaxique pour y voir
 plus clair et quelques variables/paramètres pour la configuration (adresse du
-site, largeur de la barre verticale, …). J'espère pouvoir aussi ajouter des
+site, largeur de la barre verticale,…). J'espère pouvoir aussi ajouter des
 raccourcis pour ouvrir un navigateur directement sur les interfaces de
 visualisation, d'éditions ou de documentation des différents éléments…
 

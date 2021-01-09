@@ -36,7 +36,7 @@ Il faut aussi et surtout préciser que [le lien
 hypertexte](http://fr.wikipedia.org/wiki/Hyperlien) est la base même du web,
 sans lien pas de site, sans site… la question est résolue mais on est pas très
 avancé. Le lien est non seulement utile, il est surtout nécessaire au web alors
-en ces temps de *Web 2.0*, de contenus créés par les utilisateurs, de blogs, …
+en ces temps de *Web 2.0*, de contenus créés par les utilisateurs, de blogs,…
 pourquoi vouloir de plus en plus restreindre l'établissement de liens *naturels*
 ?
 

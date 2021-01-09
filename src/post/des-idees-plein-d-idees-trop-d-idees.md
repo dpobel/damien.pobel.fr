@@ -61,7 +61,7 @@ l'arborescence](http://ez.no/doc/ez_publish/user_manual/3_8/the_administration_i
 est très pratique pour gérer son contenu, mais pas pour supprimer, visualiser
 les *trackbacks* ou les commentaires sur un blog. J'aimerais vraiment avoir une
 page ou je pourrais lister un ensemble d'objets par classe, l'ensemble pourrait
-être trié/restreint selon différents critères (date, auteur, …).
+être trié/restreint selon différents critères (date, auteur,…).
 
    
 ## Un logiciel d'administration pour eZ publish

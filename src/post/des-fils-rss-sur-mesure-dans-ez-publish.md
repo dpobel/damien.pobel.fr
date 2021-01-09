@@ -10,7 +10,7 @@ updated: 2016-02-09 09:28
  
 Ce billet aurait pu s'appeler *RSS and eZ Publish on Steroïd* ou bien *RSS ou
 autres exports de contenu avec eZ Publish* ou encore *Utilisation de différents
-layouts dans eZ Publish* … La technique présentée dans ce billet a été
+layouts dans eZ Publish*… La technique présentée dans ce billet a été
 inspirée par le message de Bertrand Danes sur le forum eZ Publish
 France (site mort depuis…)
 et pour certains points techniques par [l'extension Google

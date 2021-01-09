@@ -27,7 +27,7 @@ Parmi les excellents points :
 * le système d'installation et mise à jour des modules qui résout pas mal de
   problèmes liés au développement collaboratif sur plusieurs plateformes
   différentes avec de multiples informations stockées en base de données
-* l'ergonomie générale du backoffice mais …
+* l'ergonomie générale du backoffice mais…
 
 Dans les moins bons points :
 

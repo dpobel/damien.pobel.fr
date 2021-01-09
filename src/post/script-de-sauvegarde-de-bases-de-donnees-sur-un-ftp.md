@@ -87,7 +87,7 @@ Avec ce fichier, les connections FTP sur dedibackup.dedibox.fr se feront avec le
 login et le mot de passe indiqués avec les clients FTP suivant ce fichier
 ([ftp](http://pwet.fr/man/linux/commandes/ftp),
 [lftp](http://pwet.fr/man/linux/commandes/lftp),
-[ncftp](http://pwet.fr/man/linux/commandes/ncftp), …) sans rien demander. De
+[ncftp](http://pwet.fr/man/linux/commandes/ncftp),…) sans rien demander. De
 la même manière que le fichier .my.cnf, il faut faire attention aux permissions
 sur ce fichier.
 

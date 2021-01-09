@@ -20,11 +20,11 @@ la vérification syntaxique des templates à la sauvegarde ou en lançant une
 commande. Je pense aussi intégrer [quelques abréviations
 Vim](http://vimdoc.sourceforge.net/htmldoc/map.html#Abbreviations) permettant
 d'insérer rapidement quelques constructions syntaxiques courantes (fetch list,
-node, tree, …).
+node, tree,…).
 
  
 Vim dispose d'un langage de script permettant de manipuler les différents
-éléments du programme (configuration, buffer, fenêtre, …) et d'extensions
+éléments du programme (configuration, buffer, fenêtre,…) et d'extensions
 permettant d'utiliser des langages plus avancés dont Ruby, Python, TCL et Perl.
 Je connais mal Perl et pas du tout les 3 autres, mais je suis assez attiré par
 Python. Je me suis donc lancé dans un aperçu rapide de ce langage grâce au très

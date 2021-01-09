@@ -14,7 +14,7 @@ mais une fois franchi ce cap, il est vraiment très agréable de garder les main
 sur le clavier pour toutes les tâches d'édition. Il est aussi très pratique
 d'utiliser le même éditeur de texte pour éditer un fichier de configuration au
 coup par coup sur un serveur et pour écrire de manière plus élaborée
-(programmation, e-mail, …), on finit même par taper des commandes Vim dans le
+(programmation, e-mail,…), on finit même par taper des commandes Vim dans le
 terminal ce qui oblige [à définir des alias
 bizarres](/post/etre-a-l-aise-avec-bash-2) :-)
 
