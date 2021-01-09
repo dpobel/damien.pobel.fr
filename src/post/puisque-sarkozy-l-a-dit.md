@@ -16,7 +16,7 @@ To: spamme@domaine.fr
 
 Bonjour,
 
-Voila Sarkozy l'a dit : pas de relance de la consommation par
+Voila Sarkozy l'a dit : pas de relance de la consommation par
 l'augmentation des salaires. Donc en clair, on est cuit !  Hormis
 travailler plus ou trouver un autre emploi, je vois pas comment on va
 faire. Mais comment trouver un emploi quand c'est le bins general ?

@@ -11,7 +11,7 @@ photos:
 
 [And eZVim is not dead](/post/ezvim-le-plugin-vim-pour-ez-publish) ! I've just released a new version of [eZVim](http://projects.ez.no/ezvim), the Vim plugin for [eZ Publish](/tag/ez-publish). This version brings some new important features :
 
-* **Quick documentation search** : ALT-D on any word in a template file will search for this word in [the online documentation](http://ez.no/doc)
+* **Quick documentation search** : ALT-D on any word in a template file will search for this word in [the online documentation](http://ez.no/doc)
 * **Specific syntax highlighting for eZ Publish templates** instead of the [Smarty](http://www.smarty.net/) one used by default (based on it by the way)
 * **Specific syntax highlighting for eZ Publish ini files** and overrides (instead of the *dosini* syntax file for *ini files and the PHP one for *.ini.append.php files)
 * The class view sidebar now depends on the [eZDevtools](http://svn.projects.ez.no/ezvim/trunk/ezdevtools/) extension instead of SmileClasses. eZDevtools is a rewrite of SmileClasses for eZ Publish 4.x. You only need it to use the class view sidebar.

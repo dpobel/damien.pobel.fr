@@ -29,13 +29,13 @@ pondre des trucs comme le site officiel 5minpourlaplanete.org (hors ligne
 depuis). Les sites tout en flash c'est fini, on faisait ça il y'a 10 ans et
 c'était déjà pourri alors en 2007… En plus ça n'a aucun intérêt à moins :
 
-* de vouloir être invisible : la recherche &quot;5 minutes de répit pour la
+* de vouloir être invisible : la recherche &quot;5 minutes de répit pour la
   planète&quot; dans Google ne fait pas apparaître le site officiel dans 20
   premiers résultats, quelle réussite marketing !
-* d'empêcher l'accès à l'information : accessibilité 0 et même moins que ça.
+* d'empêcher l'accès à l'information : accessibilité 0 et même moins que ça.
   Tout le monde devrait être sensibiliser à ces questions, même les personnes
   mal voyantes ou avec des problèmes moteurs.
-* de vouloir empêcher la diffusion d'information : j'aurais bien voulu envoyer
+* de vouloir empêcher la diffusion d'information : j'aurais bien voulu envoyer
   un lien direct vers l'article &quot;5 minutes, ça change quoi&quot; mais c'est
   techniquement impossible, dommage pour la diffusion de l'information
   réellement importante du site.

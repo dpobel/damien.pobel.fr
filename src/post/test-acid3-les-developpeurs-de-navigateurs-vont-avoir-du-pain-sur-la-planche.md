@@ -1,5 +1,5 @@
 ---
-title: "Test Acid3 : les développeurs de navigateurs vont avoir du pain sur la planche"
+title: "Test Acid3 : les développeurs de navigateurs vont avoir du pain sur la planche"
 tags: formats, mozilla, microsofterie, standards, xhtml, internet explorer, web
 updated: 2008-10-31T08:41:48.000Z
 lang: "fr"

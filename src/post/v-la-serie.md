@@ -22,5 +22,5 @@ Le premier épisode de la série V est passé hier soir sur NRJ12 (c'est bien la
  
 Quelques liens supplémentaires sur la série :
 
- * [V la série](http://vlaserie.free.fr/v2/) : blog français sur la série
+ * [V la série](http://vlaserie.free.fr/v2/) : blog français sur la série
  * [La fiche sur IMdb](http://www.imdb.com/title/tt0085106/combined)

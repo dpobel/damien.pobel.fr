@@ -1,5 +1,5 @@
 ---
-title: "FISE 2008 : backflip qui partent mal…"
+title: "FISE 2008 : backflip qui partent mal…"
 tags: sport, bmx, photo, montpellier, nikon d50, fise
 updated: 2009-05-22T15:41:10.000Z
 lang: "fr"

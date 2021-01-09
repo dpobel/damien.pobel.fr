@@ -44,7 +44,7 @@ fi
  
 Il utilise [feh](http://pwet.fr/man/linux/commandes/feh), un petit programme
 permettant d'afficher et de mettre en fond une image. Il a un petite
-fonctionnalité intéressante lorsqu'on utilise pas GNOME ou KDE : lorsqu'il met
+fonctionnalité intéressante lorsqu'on utilise pas GNOME ou KDE : lorsqu'il met
 une image en fond d'écran, il écrit la ligne de commande nécessaire dans le
 fichier .fehbg. Ainsi, pour lancer un windows manager alternatif comme
 [openbox](http://pwet.fr/man/linux/commandes/openbox) avec le même fond d'écran,

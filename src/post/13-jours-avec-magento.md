@@ -20,7 +20,7 @@ bonnes.
 
 Parmi les excellents points :
 
-* la flexibilité et l'extensibilité : grâce à [l'alliance du modèle <abbr
+* la flexibilité et l'extensibilité : grâce à [l'alliance du modèle <abbr
   title="Entity Attribute
   Value">EAV</abbr>](http://en.wikipedia.org/wiki/Entity-attribute-value_model)
   et à la possibilité de surcharger proprement presque tout le *core*.

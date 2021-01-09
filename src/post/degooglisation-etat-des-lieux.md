@@ -14,7 +14,7 @@ difficile.
 ## Mais pourquoi au fait&nbsp;?
 
 <figure class="object-left bordered">
-    <a href="/images/flicage-internet.png"><img loading="lazy" src="/images/330x/flicage-internet.png" alt="Nous, on a peur que d'une chose : que le flicage nous tombe sur l'Internet"></a>
+    <a href="/images/flicage-internet.png"><img loading="lazy" src="/images/330x/flicage-internet.png" alt="Nous, on a peur que d'une chose : que le flicage nous tombe sur l'Internet"></a>
 </figure>
 
 [Dégooglisons Internet l'explique bien mieux que

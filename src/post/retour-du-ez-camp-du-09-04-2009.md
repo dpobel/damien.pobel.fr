@@ -52,7 +52,7 @@ valoriser nos contributions :-)
 Au passage, si tout cela se réalise, ça ne veut pas dire que toute contribution
 doit passer par l'association, chacun reste évidemment libre d'écrire sur ses
 propres expérimentations, découvertes, trucs sur son blog ou ailleurs. Je parle
-ici de la réalisation **d'un unique site communautaire** : des forums (eZ
+ici de la réalisation **d'un unique site communautaire** : des forums (eZ
 Publish France), un aggrégateur (Planet eZ Publish.fr), des initiatives de
 localisation (eZ France, traduction de documentation,…) et tout autre idée
 partagée par la communauté. Par exemple, faire une espèce d'annuaire organisé

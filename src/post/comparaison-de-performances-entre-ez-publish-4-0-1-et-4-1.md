@@ -29,8 +29,8 @@ performances pour un site sur un seul serveur.
 
 ## Informations techniques
 
-* Serveur : une Dedibox v1 ancienne génération (processeur Via C7 à 2Ghz avec 1Go de RAM)
-* Logiciels : Apache 2.2.8, PHP 5.2.4 avec le module xcache, MySQL 5.0.51
+* Serveur : une Dedibox v1 ancienne génération (processeur Via C7 à 2Ghz avec 1Go de RAM)
+* Logiciels : Apache 2.2.8, PHP 5.2.4 avec le module xcache, MySQL 5.0.51
 * Caractéristique de la page&nbsp;: la page fait les 3 requêtes SQL minimum (session, [chargement des langues](http://issues.ez.no/14227) et détermination de la page concernée)
 * Test&nbsp;: plusieurs séries de 500 requêtes avec un concurrence de 2 réalisées avec l'utilitaire [ab](http://pwet.fr/man/linux/administration_systeme/ab) sur chacune des installations
 

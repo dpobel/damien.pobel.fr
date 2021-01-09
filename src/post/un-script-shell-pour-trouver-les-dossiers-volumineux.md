@@ -78,5 +78,5 @@ wimfs.sh -d ~ -l 3 -u k -s 2
 Ce script illustre l'utilisation de getopts pour analyser la ligne de commande, ainsi qu'une partie des possibilités de find. Le truc amusant c'est que finalement, le script proprement dit tient en une ligne, le reste est surtout du confort pour la vérification des options avec test.
 
  
-*Edit : correction d'erreurs dans la vérification des entiers, merci byzmut.*
+*Edit : correction d'erreurs dans la vérification des entiers, merci byzmut.*
 

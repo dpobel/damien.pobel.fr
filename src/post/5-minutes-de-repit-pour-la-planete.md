@@ -12,7 +12,7 @@ updated: 2016-02-08 22:38
 
 
 [L'Alliance pour la planète](http://www.lalliance.fr/) lance une initiative
-intéressante le 1er février : 5 minutes de répit pour la
+intéressante le 1er février : 5 minutes de répit pour la
 planète. Il
 s'agit d'éteindre tous les appareils électriques pendant 5 minutes de 19h55 à
 20h. L'idée derrière cette manisfestation n'est pas vraiment d'économiser 5

@@ -41,7 +41,7 @@ Mais le pire du pire est probablement la traversée de [la gare Saint
 Lazare](http://fr.wikipedia.org/wiki/Gare_Saint-Lazare) même à un horaire dit «&nbsp;calme&nbsp;».
 
 
-Cette dernière expérience matérialise un truc que je déteste : des gens partout,
+Cette dernière expérience matérialise un truc que je déteste : des gens partout,
 tout le temps et encore des gens partout… mais en plus des gens prêts à
 t'écraser sous prétexte que tu tires une valise et donc tu n'es pas très agile.
 Un jour si j'ai le temps, il faudrait que je tente l'expérience de refaire mon

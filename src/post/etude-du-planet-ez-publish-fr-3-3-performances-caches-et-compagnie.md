@@ -1,5 +1,5 @@
 ---
-title: "Étude du Planet eZ Publish.fr (3/3) : performances, caches et compagnie"
+title: "Étude du Planet eZ Publish.fr (3/3) : performances, caches et compagnie"
 tags: ez publish, performances, yahoo, dedibox, http, php
 updated: 2009-01-27T20:58:34.000Z
 lang: "fr"
@@ -15,7 +15,7 @@ I. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3
 
 II. [Modules/vues sur mesure et templates](/post/etude-du-planet-ez-publish-fr-2-3-modules-vues-et-templates)
 
-III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
+III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
 
 
 ## Performances

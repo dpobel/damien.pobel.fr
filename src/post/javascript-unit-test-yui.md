@@ -66,7 +66,7 @@ class="container"` here) needs to be embed in the HTML:
             modules: {
                 "moveitview": {
                     requires: ['event-tap', 'node', 'view'],
-                    fullpath: "../moveitview" + (filter ? "-" + filter : "") + ".js"
+                    fullpath: "../moveitview" + (filter ? "-" + filter : "") + ".js"
                 }
             }
         }).use('moveitview-tests', function (Y) {

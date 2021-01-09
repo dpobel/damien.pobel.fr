@@ -11,7 +11,7 @@ published: 2008-08-13T13:30:05+02:00
 </a></figure>
 
 
-Reçu aujourd'hui par un collègue de travail : [Des &quot;Blue screen Of Death&quot; pendant la cérémonie d'ouverture des Jeux Olympiques de Pékin](http://gizmodo.com/5035456/blue-screen-of-death-strikes-birds-nest-during-opening-ceremonies-torch-lighting)
+Reçu aujourd'hui par un collègue de travail : [Des &quot;Blue screen Of Death&quot; pendant la cérémonie d'ouverture des Jeux Olympiques de Pékin](http://gizmodo.com/5035456/blue-screen-of-death-strikes-birds-nest-during-opening-ceremonies-torch-lighting)
 
 
 Voila un très beau placement de produit :-), il s'agit probablement des BSOD les plus vues de tous les temps en direct même [ça n'a pas duré longtemps](http://gizmodo.com/5035456/blue-screen-of-death-strikes-birds-nest-during-opening-ceremonies-torch-lighting#c7158273).

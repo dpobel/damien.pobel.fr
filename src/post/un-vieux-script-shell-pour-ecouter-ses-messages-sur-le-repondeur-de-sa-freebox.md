@@ -24,7 +24,7 @@ quelque part. J'ai fini par remettre la main sur [**freerep.sh version
 
  
 Néanmoins, ce script peut constituer un exemple intéressant d'utilisation de
-différentes commandes : [curl](http://pwet.fr/man/linux/commandes/curl),
+différentes commandes : [curl](http://pwet.fr/man/linux/commandes/curl),
 [wget](http://pwet.fr/man/linux/commandes/wget),
 [grep](http://pwet.fr/man/linux/commandes/grep),
 [sed](http://pwet.fr/man/linux/commandes/sed),

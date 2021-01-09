@@ -15,7 +15,7 @@ Difficile de garder son sérieux en voyant ça à la une du Monde.fr et en lisan
 
 <blockquote>
 
-Ségolène Royal : J'ai inspiré Obama et ses équipes nous ont copiés
+Ségolène Royal : J'ai inspiré Obama et ses équipes nous ont copiés
 </blockquote>
 
 

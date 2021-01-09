@@ -8,7 +8,7 @@ remoteId: "6aa1fd03ffc92cb054a7d95bf65549ad"
 published: 2007-02-03T02:52:15+01:00
 ---
  
-Tout à l'heure en rédigeant (c'est un bien grand mot) [It's not too late](/post/it-s-not-too-late) je me suis trouvé face à un problème courant dans le web actuel : inclure une vidéo avec son lecteur flash fournie par un service tier. Après une courte réflexion, j'ai trouvé deux solutions à ce problème :
+Tout à l'heure en rédigeant (c'est un bien grand mot) [It's not too late](/post/it-s-not-too-late) je me suis trouvé face à un problème courant dans le web actuel : inclure une vidéo avec son lecteur flash fournie par un service tier. Après une courte réflexion, j'ai trouvé deux solutions à ce problème :
 
 * Créer une classe &quot;Video externe&quot; regroupant les informations nécessaires et utiliser la possibilité [d'inclure des objets eZ Publish dans un bloc XML](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/datatypes/xml_block/object_embedding) selon différentes vues avec la balise &lt;embed/&gt;
 * Utiliser un [custom tag](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/datatypes/xml_block/custom_tags) avec les différents attributs nécessaires pour inclure la vidéo.

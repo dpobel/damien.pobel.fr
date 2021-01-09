@@ -8,7 +8,7 @@ published: 2013-11-22T12:15:48+01:00
 share.ez.no](http://share.ez.no/blogs/damien-pobel/conference-at-the-forum-php-2013-create-an-ez-publish-website-in-45-minutes)*
 
 Avec [Patrick Allaert](http://patrickallaert.blogspot.be/), nous avons présenté
-une conférence intitulée *eZ Publish : un CMS pour créer un site orienté
+une conférence intitulée *eZ Publish : un CMS pour créer un site orienté
 contenu en 45 minutes* au [the Forum PHP
 2013](http://afup.org/pages/forumphp2013/) à Paris.
 

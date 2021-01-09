@@ -47,4 +47,4 @@ pédibus dans l'Hérault et au niveau
 national](http://www.tousapied.org/accueil/).
 
  
-Pour en savoir plus : [**http://www.tousapied.org/**](http://www.tousapied.org)
+Pour en savoir plus : [**http://www.tousapied.org/**](http://www.tousapied.org)

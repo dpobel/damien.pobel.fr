@@ -31,7 +31,7 @@ léger avantage pour Ubuntu. Finalement le choix de l'une ou l'autre apparaît
 plus comme une histoire de goût car quand on en arrive à mentionner que l'une
 ofre un son au démarrage du *login manager* que l'autre se contente d'un *beep*,
 c'est que vraiment on doit pas être loin d'un système qui fait ce qu'on attend
-de lui : fontionner.
+de lui : fontionner.
 
  
 Avec le recul de [quelques années d'utilisation intensive de

@@ -1,5 +1,5 @@
 ---
-title: "Optimiser son site (sous Ubuntu et ailleurs…) : Compresser avec gzip"
+title: "Optimiser son site (sous Ubuntu et ailleurs…) : Compresser avec gzip"
 tags: ubuntu, linux, apache, performances, yahoo, dedibox, hébergement, gzip
 updated: 2008-10-31T08:42:41.000Z
 lang: "fr"

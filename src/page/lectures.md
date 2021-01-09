@@ -150,7 +150,7 @@ updated: 2020-12-28
 * [L'Élysée off](https://www.fayard.fr/documents-temoignages/lelysee-9782213699028) (Stéphanie Marteau)
 * [Travail soigné](https://www.livredepoche.com/livre/travail-soigne-9782253127383) (Pierre Lemaitre)
 * [Trois jours et une vie](https://www.albin-michel.fr/ouvrages/trois-jours-et-une-vie-9782226325730) (Pierre Lemaitre)
-* [La 5e vague Tome 2 : La mer infinie](https://www.lisez.com/livre-de-poche/la-5e-vague-tome-02-la-mer-infinie/9782266285896) (Rick Yancey, traduction  Francine Deroyan)
+* [La 5e vague Tome 2 : La mer infinie](https://www.lisez.com/livre-de-poche/la-5e-vague-tome-02-la-mer-infinie/9782266285896) (Rick Yancey, traduction  Francine Deroyan)
 * [Le voyage de Simon Morley](https://fr.wikipedia.org/wiki/Le_Voyage_de_Simon_Morley) (Hélène Collon)
 * [Le Vide](http://www.patricksenecal.net/romans/le-vide/) (Patrick Senécal)
 * [La 5e vague](https://www.lisez.com/livre-de-poche/la-5e-vague-tome-01/9782266285889) (Rick Yancey, traduction Francine Deroyan)

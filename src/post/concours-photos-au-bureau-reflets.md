@@ -1,5 +1,5 @@
 ---
-title: "Concours photos au bureau : Reflets"
+title: "Concours photos au bureau : Reflets"
 tags: photo, nikon d90, smile, ain, dombes, travail
 lang: "fr"
 node: "69067"
@@ -10,9 +10,9 @@ published: 2011-03-15T21:05:46+01:00
 Le sujet du concours photos de l'agence Smile de Lyon de cette année était *Reflets*. Vaste sujet à traiter en moins d'un mois ! L'ensemble des propositions sont visibles sur [le compte Flickr créé pour l'occasion](http://www.flickr.com/photos/60118980@N04/sets/72157626179847454/). La première photos ci-dessous a fini deuxième :-) mais ce n'est pas une raison de cacher les autres (qui sont également visible [sur mon compte Flickr](http://www.flickr.com/photos/tigr0u))
 
 
-## Mot double : 18 points
+## Mot double : 18 points
 
-<figure class="object-center"><a href="/images/mot-double-18-points.jpg"><img loading="lazy" src="/images/660x/mot-double-18-points.jpg" alt="Mot double : 18 points">
+<figure class="object-center"><a href="/images/mot-double-18-points.jpg"><img loading="lazy" src="/images/660x/mot-double-18-points.jpg" alt="Mot double : 18 points">
 </a></figure>
 
 

@@ -36,7 +36,7 @@ Le script est le suivant :
 # selon les paramètres, prend la capture de la fenêtre cliquée
 # et l'upload sur un serveur FTP
 # et copie l'adresse dans le presse papier X11
-# Dépendences : imagemagick lftp xclip
+# Dépendences : imagemagick lftp xclip
 
 # paramètres par défaut
 FILE="screenshot-ubuntu-`date +%Y-%m-%d_%H-%M`.png"
@@ -51,9 +51,9 @@ SERVER="votre-adresse-du-ftp.com"
 
 print_usage ()
 {
-    echo "Usage : $0 [-w] [-u]"
-    echo -e "\t-w : la fenêtre cliquée uniquement"
-    echo -e "\t-u : upload sur ftp"
+    echo "Usage : $0 [-w] [-u]"
+    echo -e "\t-w : la fenêtre cliquée uniquement"
+    echo -e "\t-u : upload sur ftp"
 }
 
 # options

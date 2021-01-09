@@ -26,7 +26,7 @@ outil au service d'une certaine simplification :
 > Une bonne abstraction, en éliminant le besoin de connaitre les détails
 > d’implémentation, est un outil particulièrement puissant pour diminuer la
 > charge cognitive. Attention à ne pas créer des abstractions inutiles, ou
-> d'abstraire trop tôt certains concepts : l’over-ingénierie n’est jamais très
+> d'abstraire trop tôt certains concepts : l’over-ingénierie n’est jamais très
 > loin. Et vous vous retrouvez avec la situation inverse de celle que vous
 > espériez.
 

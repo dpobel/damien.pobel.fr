@@ -19,7 +19,7 @@ Yahoo!](/post/un-script-shell-pour-compter-le-nombre-de-pages-indexees-dans-yaho
 ainsi qu'en faisant des tests manuellement sur ces
 [deux](http://www.google.fr/search?hl=fr&amp;q=site:pwet.fr&amp;btnG=Recherche+Google&amp;met)[moteurs](http://fr.search.yahoo.com/search?p=site:pwet.fr&amp;ei=UTF-8).
 
-Mais un point m'étonne : ces deux moteurs utilisent chacun leur propre
+Mais un point m'étonne : ces deux moteurs utilisent chacun leur propre
 technologie et pourtant, au niveau de l'indexation, ils évoluent dans le même
 sens quasiment au même moment. Par exemple, sur Yahoo! je suis passé d'environ
 2900 pages indexées à plus de 7000 entre le 25 octobre et le 27 octobre et dans

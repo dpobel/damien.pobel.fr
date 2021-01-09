@@ -18,7 +18,7 @@ photos:
 Et un peu hors-sujet&nbsp;:
 
 * ["Et toi, plus moi, plus lui, plus elle, plus tous ceux qui sont vieux…"](https://libelilou.github.io/2017/01/08/solidarite.html) (fr)&nbsp;: pour tout savoir sur la *journée de solidarité* et surtout pour comprendre pourquoi certains doivent travailler un jour férié et se débrouiller pour aller au travail avec des transports réduits, faire garder les enfants qui n'ont ni école, ni assistante maternelle ce jour là… ou faire cadeau d'un jour de congé/RTT. Tout ça pour être en réalité solidaire environ à 60%, je vous laisse lire pour savoir à qui profite les 40% restant…
-* [Numérique : le grand gâchis énergétique](https://lejournal.cnrs.fr/articles/numerique-le-grand-gachis-energetique) (fr)&nbsp;: une fois de plus un article qui fait écho à [L'âge des low-tech](/post/livre-l-age-des-low-tech/) et qui résume plutôt bien la situation et notamment le sur-dimensionnement de l'ensemble pour satisfaire *la tyrannie des utilisateurs* (nous).
+* [Numérique : le grand gâchis énergétique](https://lejournal.cnrs.fr/articles/numerique-le-grand-gachis-energetique) (fr)&nbsp;: une fois de plus un article qui fait écho à [L'âge des low-tech](/post/livre-l-age-des-low-tech/) et qui résume plutôt bien la situation et notamment le sur-dimensionnement de l'ensemble pour satisfaire *la tyrannie des utilisateurs* (nous).
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))

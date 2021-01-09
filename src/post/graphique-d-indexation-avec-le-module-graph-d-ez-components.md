@@ -28,7 +28,7 @@ est très simple et est détaillée dans la documentation.
 Graph](http://ezcomponents.org/docs/tutorials/Graph)
 détaille les types de graphique disponible. *A priori*, pour mes données, un
 *Line Chart* est le plus adapté. J'ai donc à ma disposition mes deux fichiers
-dont chaque ligne comporte deux champs : une date et un nombre, l'exploitation
+dont chaque ligne comporte deux champs : une date et un nombre, l'exploitation
 est très simple et le script PHP permettant de génèrer ce graphique est lui
 aussi simple :
 

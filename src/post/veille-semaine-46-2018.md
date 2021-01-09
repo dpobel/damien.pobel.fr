@@ -16,7 +16,7 @@ photos:
 
 Et un peu hors-sujet&nbsp;:
 
-* [Prix du carburant : petit manuel à lire avant de débattre](https://www.lemonde.fr/les-decodeurs/article/2018/11/09/petit-manuel-a-lire-avant-de-debattre-de-la-hausse-des-prix-du-carburant_5381196_4355770.html?xtref=) (fr)
+* [Prix du carburant : petit manuel à lire avant de débattre](https://www.lemonde.fr/les-decodeurs/article/2018/11/09/petit-manuel-a-lire-avant-de-debattre-de-la-hausse-des-prix-du-carburant_5381196_4355770.html?xtref=) (fr)
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS correspondant](/rss/veille.xml))

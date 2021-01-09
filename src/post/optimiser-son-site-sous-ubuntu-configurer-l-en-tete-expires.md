@@ -1,5 +1,5 @@
 ---
-title: "Optimiser son site sous Ubuntu : Configurer l'en-tête Expires"
+title: "Optimiser son site sous Ubuntu : Configurer l'en-tête Expires"
 tags: ubuntu, linux, dedibox, php, apache, hébergement, performances
 updated: 2008-08-18T11:57:26.000Z
 lang: "fr"
@@ -10,8 +10,8 @@ published: 2008-08-11T23:49:41+02:00
 
 Lire [un livre sur comment optimiser son site web](/post/livre-high-performances-web-sites) c'est bien, appliquer les conseils qui s'y trouvent c'est encore mieux. Parmi les 14 bonnes pratiques, 3 peuvent être appliquées très rapidement au niveau système en quelques lignes de commande et de configuration du serveur web pour un résultat quasi immédiat :
 
-* Règle 3 : [Ajoutez et configurez l'en-tête *Expires*](http://developer.yahoo.com/performance/rules.html#expires)
-* Règle 4 : [Compressez avec *gzip*](http://developer.yahoo.com/performance/rules.html#gzip)
+* Règle 3 : [Ajoutez et configurez l'en-tête *Expires*](http://developer.yahoo.com/performance/rules.html#expires)
+* Règle 4 : [Compressez avec *gzip*](http://developer.yahoo.com/performance/rules.html#gzip)
 * Règle 13*:*[Configurez l'entête *ETags*](http://developer.yahoo.com/performance/rules.html#etags)
 
 Dans un premier temps, je vais m'intéresser à la règle 3, je suppose que vous avez déjà un serveur web [Apache2](http://pwet.fr/man/linux/administration_systeme/apache2) actif servant des fichiers (peu importe la technologie autour). La configuration suivante est utilisée sur [ma Dedibox sous Ubuntu](/post/une-dedibox-en-moins-de-temps-qu-il-en-faut-pour-le-dire) avec Apache2 mais doit pouvoir s'appliquer à peu près partout.

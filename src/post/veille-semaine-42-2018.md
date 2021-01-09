@@ -7,7 +7,7 @@ published: 2018-10-18T10:12:15Z
 photos:
     - images/veille_2.jpg
 ---
-* [Les métriques de la Webperf : mon site est-il rapide ?](https://www.youtube.com/watch?v=CFvPsBkrruE&feature=youtu.be) (fr)&nbsp;: une excellente vidéo/présentation sur les métriques de la performances, ce qu'elles signifient, comment les interpréter et éventuellement comment en inventer des pertinentes.
+* [Les métriques de la Webperf : mon site est-il rapide ?](https://www.youtube.com/watch?v=CFvPsBkrruE&feature=youtu.be) (fr)&nbsp;: une excellente vidéo/présentation sur les métriques de la performances, ce qu'elles signifient, comment les interpréter et éventuellement comment en inventer des pertinentes.
 * [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) (en)&nbsp;: le *fameux* modèle maturité REST de Richardson. C'est pas tout récent mais toujours intéressant à (re)lire. L'article fait aussi un lien vers l'excellent [REST APIs must be hypertext-driven](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven) par Roy T. Fielding (*inventeur* de REST)
 * [24 jours de web, sixième !](https://www.24joursdeweb.fr/2018/lancement/) (fr)&nbsp;: appel à contribution du *calendrier de l’avent des gens qui font le web d’après*
 * [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) (en)&nbsp;: *la duplication est bien moins chère que la mauvaise abstraction*

@@ -17,4 +17,4 @@ de trouver le nom d'un insecte ou d'une fleur, je me dis qu'il manque un outil
 permettant d'obtenir une liste d'espèces à partir de quelques critères
 (couleurs, tailles, caractéristiques,…).
 
-Edit : Il s'agit de **Zygènes de la spirée (de la filipendule)** merci lolovroom
+Edit : Il s'agit de **Zygènes de la spirée (de la filipendule)** merci lolovroom

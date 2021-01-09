@@ -1,5 +1,5 @@
 ---
-title: "xzoom : un petit outil bien pratique pour le montage HTML"
+title: "xzoom : un petit outil bien pratique pour le montage HTML"
 tags: linux, html, travail, truc, css
 updated: 2010-07-13T15:52:33.000Z
 lang: "fr"

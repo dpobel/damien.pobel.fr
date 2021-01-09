@@ -11,11 +11,11 @@ photos:
 * [The end of Silex](http://symfony.com/blog/the-end-of-silex) (en)&nbsp;: la fin de vie (maintenance) de Silex est prévu pour juin 2018.
 * [PHP et les résolveurs DNS](https://jolicode.com/blog/php-et-les-resolveurs-dns) (fr)&nbsp;: où comment un DNS lent peut nuire aux performances d'une application (PHP dans ce cas).
 * [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) (en)&nbsp;: Une très bonne introduction à React et Redux avec surtout des réponses à *pourquoi* ces choix et de bonnes explications sur les intérêts de ces 2 technologies.
-* [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/) (en)&nbsp;: Un article sur le triple coût de JavaScript : le téléchargement, l'analyse / la compilation et l’exécution
+* [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/) (en)&nbsp;: Un article sur le triple coût de JavaScript : le téléchargement, l'analyse / la compilation et l’exécution
 * [Simple CQRS - reduce coupling, allow the model(s) to evolve](https://matthiasnoback.nl/2018/01/simple-cqrs-reduce-coupling-allow-the-model-to-evolve/) (en)&nbsp;: une bonne introduction au *pattern* CQRS (Command Query Responsibility Segregation) en PHP
 * [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/) (en)&nbsp;: Un point de vue intéressant sur les architectures à base de Microservices. Pour faire simple, ce type d'architecture vient avec une complexité qui est souvent sous-estimée.
 * [Documenting Composer scripts](http://raphaelstolt.blogspot.fr/2018/01/documenting-composer-scripts.html) (en)&nbsp;: Billet expliquant comment composer 1.6 permet de documenter les scripts avec une nouvelle entrée dans le fichier composer.json.
-* [GDPR : impact sur l'ensemble de vos développements](https://wodric.com/gpdr-impact-sur-vos-developpements/) (fr)&nbsp;: Le point sur la future réglementation européenne sur la protection des données personnelles (GDPR ou General Data Protection Regulation).
+* [GDPR : impact sur l'ensemble de vos développements](https://wodric.com/gpdr-impact-sur-vos-developpements/) (fr)&nbsp;: Le point sur la future réglementation européenne sur la protection des données personnelles (GDPR ou General Data Protection Regulation).
 
 Et un peu hors-sujet&nbsp;:
 

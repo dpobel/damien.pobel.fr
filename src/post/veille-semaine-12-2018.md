@@ -19,7 +19,7 @@ photos:
 Et un peu hors-sujet&nbsp;:
 
 * [Quelles technologies pour une société durable ?](https://atterrissage.org/technologies-societe-durable-65514b474700) (fr)&nbsp;: La retranscription d'une conférence qui devait être passionnante ! Elle fait echo (et/ou s'inpire) [du livre l'Âge des low-tech dont j'ai parlé il y a quelques mois](/post/livre-l-age-des-low-tech/). Franchement, ça vaut largement une petite demie-heure de lecture.
-* [Transport : Elon Musk fait fausse route](https://usbeketrica.com/article/transport-elon-musk-fait-fausse-route) (fr)&nbsp;: 
+* [Transport : Elon Musk fait fausse route](https://usbeketrica.com/article/transport-elon-musk-fait-fausse-route) (fr)&nbsp;: 
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS *veille*](/rss/veille.xml))

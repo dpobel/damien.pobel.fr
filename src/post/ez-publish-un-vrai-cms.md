@@ -12,7 +12,7 @@ J'ai déjà écrit [une quinzaine de billets autour d'eZ publish](/tag/ez-publis
 mais je me rend compte que je n'en ai jamais vraiment parlé par rapport au petit
 monde des CMS. Pourtant, je parcours assez souvent des forums pour webmasters
 sur divers sujets (Développement, Astuces, Standards, Référencement,…) et il
-y a une question qui revient souvent : *quel CMS choisir pour ci ou pour ça ?*
+y a une question qui revient souvent : *quel CMS choisir pour ci ou pour ça ?*
 Et la réponse est quasiment invariablement [SPIP](http://www.spip.net) ou
 [Joomla!](http://www.joomla.org/) alors que je répondrai bien souvent (mais pas
 toujours) **eZ publish** !
@@ -29,7 +29,7 @@ CMS ou plutôt ce sont des **CMS spécialisés**.
 
  
 Ceci n'est **PAS** un troll et ça n'enlève rien aux qualités de ces deux outils
-dans leurs spécialités ; je m'explique : CMS signifie Content Management System
+dans leurs spécialités ; je m'explique : CMS signifie Content Management System
 ou en français SGC, Système de Gestion de Contenu. Ces sigles veulent juste dire
 qu'un CMS est un outil permettant de gèrer et de structurer son contenu et de le
 publier. Comme l'indique [l'introduction de l'article Système de Gestion de

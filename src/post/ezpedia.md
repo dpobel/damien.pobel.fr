@@ -14,5 +14,5 @@ J'ai découvert tout à l'heure, par hasard, en parcourant [les forums ez.no](ht
 Que dire d'autre, à part que c'est vraiment **une superbe idée** et que [je me suis empressé de m'inscrire](http://ezpedia.org/wiki/en/people/damien_pobel) et j'ai même fait [la traduction d'une ébauche d'article sur la sécurité dans eZ publish](http://ezpedia.org/wiki/fr/ez/security_ez_publish_security). C'est certainement là un moyen d'avoir plus de documentations, de tutoriels, de conseils sur eZ publish pour le rendre plus accessible.
 
 
-*Short summary for non french speaking people on the planet : **it's a great idea** ! Perhaps a way to have more documentations, tutorials, advices around eZ publish in order to make it more accessible.*
+*Short summary for non french speaking people on the planet : **it's a great idea** ! Perhaps a way to have more documentations, tutorials, advices around eZ publish in order to make it more accessible.*
 

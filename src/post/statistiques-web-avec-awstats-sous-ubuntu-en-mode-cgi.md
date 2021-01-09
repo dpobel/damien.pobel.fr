@@ -51,15 +51,15 @@ où DOMAINECONSULTATION.TLD est le domaine par lequel les statistiques seront ac
  
 Il faut ensuite éditer ce fichier et modifier quelques paramètres pour les adapter à votre configuration (les commentaires dans ce fichier sont très utiles) :
 
- * `LogFile` : le chemin complet vers le fichier de log d'Apache (par exemple /var/log/apache/access.domaine.tld.log)
- * `LogFormat` : il faut indiquer le format de log, j'utilise *combined* dans Apache, donc 1 est la bonne valeur
- * `SiteDomain` : le domaine principal du site, ici pwet.fr
- * `HostAliases` : toutes les adresses permettant de contacter le site, pour ma part &quot;pwet.fr www.pwet.fr admin.pwet.fr ez.pwet.fr&quot;
- * `DirCgi` : mettre `/stats` car les statistiques seront accessibles via `http://domaine.tld/stats`
- * `DirIcons` : mettre `/icon` cf. la config d'apache plus bas.
- * `AllowFullYearView` : 3 pour pouvoir voir les stats sur une année
- * `AllowAccessFromWebToAuthenticatedUsersOnly` : mettre 1 pour obliger l'identification HTTP
- * `AllowAccessFromWebToFollowingAuthenticatedUsers` : mettre le ou les logins (séparés par des espaces) des personnes ayant accès aux stats.
+ * `LogFile` : le chemin complet vers le fichier de log d'Apache (par exemple /var/log/apache/access.domaine.tld.log)
+ * `LogFormat` : il faut indiquer le format de log, j'utilise *combined* dans Apache, donc 1 est la bonne valeur
+ * `SiteDomain` : le domaine principal du site, ici pwet.fr
+ * `HostAliases` : toutes les adresses permettant de contacter le site, pour ma part &quot;pwet.fr www.pwet.fr admin.pwet.fr ez.pwet.fr&quot;
+ * `DirCgi` : mettre `/stats` car les statistiques seront accessibles via `http://domaine.tld/stats`
+ * `DirIcons` : mettre `/icon` cf. la config d'apache plus bas.
+ * `AllowFullYearView` : 3 pour pouvoir voir les stats sur une année
+ * `AllowAccessFromWebToAuthenticatedUsersOnly` : mettre 1 pour obliger l'identification HTTP
+ * `AllowAccessFromWebToFollowingAuthenticatedUsers` : mettre le ou les logins (séparés par des espaces) des personnes ayant accès aux stats.
  
 Dans le cadre de ce document, le reste des options ne nécessite pas de
 modification ou de valeur particulière. Personnellement, je met mon IP dans

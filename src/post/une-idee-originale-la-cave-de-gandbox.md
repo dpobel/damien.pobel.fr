@@ -1,5 +1,5 @@
 ---
-title: "Une idée originale : la cave de Gandbox"
+title: "Une idée originale : la cave de Gandbox"
 tags: ez publish, web
 lang: "fr"
 node: "67395"

@@ -1,5 +1,5 @@
 ---
-title: "Let's play with eZ Components : Template and SystemInformation"
+title: "Let's play with eZ Components : Template and SystemInformation"
 tags: geek, ez publish, ez components, php
 node: "65759"
 remoteId: "749094a0b6336259a4bd10816a62fce7"

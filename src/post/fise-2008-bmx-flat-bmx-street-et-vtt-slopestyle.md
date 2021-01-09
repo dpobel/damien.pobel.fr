@@ -1,5 +1,5 @@
 ---
-title: "FISE 2008 : BMX Flat, BMX Street et VTT Slopestyle"
+title: "FISE 2008 : BMX Flat, BMX Street et VTT Slopestyle"
 tags: sport, bmx, photo, nikon d50, vtt, fise
 updated: 2009-05-22T15:40:56.000Z
 lang: "fr"

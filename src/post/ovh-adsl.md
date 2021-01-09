@@ -49,7 +49,7 @@ reste [l'offre Pro](http://www.ovh.fr/adsl/pro.xml) qui est peut-être un peu
 moins intéressante financièrement (encore qu'elle comporte quelques services en
 plus) et qui n'est pas réservée aux pros.
 
-**Update de 22h52** je viens de tomber sur [ADSL : FREE VS
+**Update de 22h52** je viens de tomber sur [ADSL : FREE VS
 OVH](http://www.prelude.me/index.php/2013/02/14/adsl-free-vs-ovh/) qui fait une
 comparaison assez précise des deux FAI.
 

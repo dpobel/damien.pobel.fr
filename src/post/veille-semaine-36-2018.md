@@ -19,7 +19,7 @@ C'est la rentrée alors c'est reparti pour la veille hebdomadaire&nbsp;!
 
 Et un peu hors-sujet&nbsp;:
 
-* [STOP PUB : Zero Waste France porte plainte contre des franchises d’Intermarché et Pizza Hut](https://www.zerowastefrance.org/stop-pub-plainte-intermarche-pizzahut-communique/) (fr)&nbsp;: ah tient on peut faire ça! sans aller jusqu'à porter plainte je sens que notamment quelques agences immobilières vont entendre parler de moi :-)
+* [STOP PUB : Zero Waste France porte plainte contre des franchises d’Intermarché et Pizza Hut](https://www.zerowastefrance.org/stop-pub-plainte-intermarche-pizzahut-communique/) (fr)&nbsp;: ah tient on peut faire ça! sans aller jusqu'à porter plainte je sens que notamment quelques agences immobilières vont entendre parler de moi :-)
 * [Retrouver le goût du beau et la patience de l'obtenir](https://lachouetteechoppe.fr/retrouver-gout-beau-patience-obtenir/) (fr)&nbsp;: je me suis récemment mis à rénover quelques meubles anciens récupérés ça et là; cet article exprime bien la satisfaction que j'y trouve
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*

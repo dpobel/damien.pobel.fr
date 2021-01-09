@@ -1,5 +1,5 @@
 ---
-title: "Étude du Planet eZ Publish.fr (2/3) : modules/vues et templates"
+title: "Étude du Planet eZ Publish.fr (2/3) : modules/vues et templates"
 tags: ez publish, php, rss, performances, template, javascript, xml, xhtml, ez components
 lang: "fr"
 node: "67475"
@@ -17,7 +17,7 @@ I. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3
 
 II. [Modules/vues sur mesure et templates](/post/etude-du-planet-ez-publish-fr-2-3-modules-vues-et-templates)
 
-III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
+III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
 
 
 ## Modules / vues sur mesure

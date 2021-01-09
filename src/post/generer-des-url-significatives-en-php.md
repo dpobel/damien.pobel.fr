@@ -34,7 +34,7 @@ plus simple et [optimisée pour les moteurs de
 recherche](http://www.webrankinfo.com/actualites/200704-pas-undescore-dans-les-url.htm).
 
 Pour produire, une URL de ce type j'utilise une fonctionnalité assez peu connue
-de la fonction [iconv()](http://fr.php.net/iconv) : la **translittération**. En
+de la fonction [iconv()](http://fr.php.net/iconv) : la **translittération**. En
 gros, iconv() est capable lors de la conversion d'un jeu de caractères à un
 autre de trouver des équivalences si un caractère ne peut être représenté dans
 le jeu de caractères cible. Par exemple, si on convertit un é en ASCII, iconv()

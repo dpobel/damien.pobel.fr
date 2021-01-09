@@ -34,7 +34,7 @@ beaucoup de gens sont perturbés par des machines dont ils ne connaissent rien
 portable…)
 
  
-Mais le pire est à venir : en France (et peut être ailleurs) on parle de vote
+Mais le pire est à venir : en France (et peut être ailleurs) on parle de vote
 par Internet… De mieux en mieux, qui va garantir que mon voisin n'est pas en
 train de me menacer pendant mon vote ? comment pourrais je vérifier que mon vote
 a bien été pris en compte ? Et qu'en est il du secret du vote ? Bref beaucoup

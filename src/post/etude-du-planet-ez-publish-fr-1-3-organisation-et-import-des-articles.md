@@ -1,5 +1,5 @@
 ---
-title: "Étude du Planet eZ Publish.fr (1/3) : organisation et import des articles"
+title: "Étude du Planet eZ Publish.fr (1/3) : organisation et import des articles"
 tags: ez publish, php, rss, cms, ez components
 updated: 2009-01-28T09:58:46.000Z
 lang: "fr"
@@ -15,7 +15,7 @@ I. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3
 
 II. [Modules/vues sur mesure et templates](/post/etude-du-planet-ez-publish-fr-2-3-modules-vues-et-templates)
 
-III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
+III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
 
 
 ## Organisation

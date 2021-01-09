@@ -14,5 +14,5 @@ Sans pour autant faire appel aux services [de spécialistes en magie blanche ou 
 Dans un autre style, [les photos de Viols le Fort](http://photos.pwet.fr/villes-et-departements/herault-34/viols-le-fort/) et [de Viols en Laval](http://photos.pwet.fr/villes-et-departements/herault-34/viols-en-laval/) ont, semble t il, pas mal de succès, apparemment pas en raison du charme de [ces petits villages héraultais](http://photos.pwet.fr/villes-et-departements/herault-34/) puisque 82 recherches sur une variation de &quot; **photos de viols**&quot; dans les moteurs ont aboutis sur ce site et c'est sans compter la trentaine de hits issue de la simple requête &quot; **viols**&quot;… Internet, quel monde merveilleux ! Pour les curieux et/ou pour relever un peu le niveau, [ViolsLeFort.com](http://www.violslefort.com) nous explique que [l'origine du nom de ces villages est encore à l'heure actuelle incertaine](http://www.violslefort.com/index.php?option=com_content&amp;task=view&amp;id=32&amp;Itemid=48) et on y apprend aussi que les habitants de ce village sont appelés les… Violiens… ouf !
 
  
-Edit : s/de/du/ dans le titre, je devrais pas écrire de billet à 1h du mat'…
+Edit : s/de/du/ dans le titre, je devrais pas écrire de billet à 1h du mat'…
 

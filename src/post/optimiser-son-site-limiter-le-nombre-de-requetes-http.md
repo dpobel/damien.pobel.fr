@@ -1,5 +1,5 @@
 ---
-title: "Optimiser son site : limiter le nombre de requêtes HTTP"
+title: "Optimiser son site : limiter le nombre de requêtes HTTP"
 tags: html, css, javascript, design, performances, http, yahoo
 updated: 2008-08-30T14:41:07.000Z
 lang: "fr"

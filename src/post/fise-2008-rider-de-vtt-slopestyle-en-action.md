@@ -1,5 +1,5 @@
 ---
-title: "FISE 2008 : Rider de VTT Slopestyle en action"
+title: "FISE 2008 : Rider de VTT Slopestyle en action"
 tags: sport, photo, montpellier, nikon d50, fise
 updated: 2009-05-22T15:41:30.000Z
 lang: "fr"

@@ -1,5 +1,5 @@
 ---
-title: "Nokia 5800 : mon nouveau jouet"
+title: "Nokia 5800 : mon nouveau jouet"
 tags: nokia 5800, consommation, web, ergonomie, free, cherry
 lang: "fr"
 node: "67529"

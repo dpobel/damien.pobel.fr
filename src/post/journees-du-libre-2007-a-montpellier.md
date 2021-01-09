@@ -16,7 +16,7 @@ vendredi après midi et peut être samedi aux [Journées du libre
 Chevrel](http://www.chevrel.org/carnet/?post/2007/06/10/664-journees-du-libre-de-montpellier)
 y donne une conférence sur *Mozilla passé, présent et futur*. Il sera suivi par
 Roland Benedetti d'eZ Systems France qui
-animera une conférence intitulée *Intranet : utiliser des outils libres simples,
+animera une conférence intitulée *Intranet : utiliser des outils libres simples,
 fiables et puissants* que j'imagine orienté du côté d'[eZ
 Publish](/tag/ez-publish/) :-)
 

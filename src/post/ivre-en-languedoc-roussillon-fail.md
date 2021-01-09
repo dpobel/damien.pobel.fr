@@ -1,5 +1,5 @@
 ---
-title: "Ivre en Languedoc-Roussillon : FAIL !"
+title: "Ivre en Languedoc-Roussillon : FAIL !"
 tags: photo, nikon d50, amusant, insolite
 updated: 2011-02-06T16:15:05.000Z
 lang: "fr"

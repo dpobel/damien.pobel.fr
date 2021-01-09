@@ -34,7 +34,7 @@ renseignements sur ma facture, elle m'indique que le technicien passera vendredi
 donc dans 6 jours et qu'il m'appellera entre 8h30 et 9h30 pour m'informer de
 l'heure à laquelle il passera le jour même&nbsp;! Je demande (visiblement encore
 une fois bêtement) si il n'est pas possible d'être prévenu un peu plus tôt de
-l'horaire comme je travaille et cette dame me répète sur un ton sec : «&nbsp;*il
+l'horaire comme je travaille et cette dame me répète sur un ton sec : «&nbsp;*il
 vous appellera vendredi entre 8h30 et 9h30. Au revoir*&nbsp;». Oui c'est vrai
 qu'à 8h30 il aura beaucoup plus d'informations sur son planning que la veille à
 17h…

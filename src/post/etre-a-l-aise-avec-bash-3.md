@@ -69,7 +69,7 @@ export HISTIGNORE="cd:ls:[bf]g:clear"
 
 bash propose une syntaxe particulière pour utiliser les commandes déjà taper sans les rechercher interactivement.
 
- **Attention : ces raccourcis sont à utiliser avec parcimonie, car il est facile de rappeler des commandes dans un contexte différent ce qui peut être très dangereux (un [rm](http://pwet.fr/man/linux/commandes/rm) -rf * par exemple…)**
+ **Attention : ces raccourcis sont à utiliser avec parcimonie, car il est facile de rappeler des commandes dans un contexte différent ce qui peut être très dangereux (un [rm](http://pwet.fr/man/linux/commandes/rm) -rf * par exemple…)**
 
 
 !-1 appelle la dernière commande tapée, !-2 l'avant dernière, et ainsi de suite. !! est équivalent à !-1.

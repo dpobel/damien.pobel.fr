@@ -1,5 +1,5 @@
 ---
-title: "PEBKAC : Le problème se situe entre la chaise et le clavier…"
+title: "PEBKAC : Le problème se situe entre la chaise et le clavier…"
 tags: geek, amusant
 updated: 2007-07-13T12:34:44.000Z
 lang: "fr"
@@ -25,8 +25,8 @@ C'est [un vieille adage](http://en.wikipedia.org/wiki/PEBKAC) qui se vérifie qu
 
 
 
-Source : [User Friendly](http://ars.userfriendly.org/cartoons/?id=19980506&amp;mode=classic)
+Source : [User Friendly](http://ars.userfriendly.org/cartoons/?id=19980506&amp;mode=classic)
 
 
-*Edit : oubli de la source…*
+*Edit : oubli de la source…*
 

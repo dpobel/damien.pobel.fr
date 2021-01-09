@@ -18,7 +18,7 @@ photos:
 
 Et un peu hors-sujet&nbsp;:
 
-* [P. Servigne & J. Blamont : Introduction au siècle des menaces](https://www.youtube.com/watch?v=DwD4VhSOoos) (fr)&nbsp;: un débat ou plutôt une discussion passionnante sur ce qui nous menace à relativement court terme. Bon, la vidéo dure 1h33 mais s'écoute plutôt pas mal en 1,5 fois la vitesse normale.
+* [P. Servigne & J. Blamont : Introduction au siècle des menaces](https://www.youtube.com/watch?v=DwD4VhSOoos) (fr)&nbsp;: un débat ou plutôt une discussion passionnante sur ce qui nous menace à relativement court terme. Bon, la vidéo dure 1h33 mais s'écoute plutôt pas mal en 1,5 fois la vitesse normale.
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS correspondant](/rss/veille.xml))

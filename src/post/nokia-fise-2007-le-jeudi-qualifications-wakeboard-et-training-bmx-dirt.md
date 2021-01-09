@@ -1,5 +1,5 @@
 ---
-title: "Nokia FISE 2007 : le jeudi qualifications Wakeboard et training BMX dirt"
+title: "Nokia FISE 2007 : le jeudi qualifications Wakeboard et training BMX dirt"
 tags: sport, bmx, photo, montpellier, nikon d50, fise
 lang: "fr"
 node: "65509"

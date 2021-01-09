@@ -1,5 +1,5 @@
 ---
-title: "Livre : \"High Performances Web Sites\""
+title: "Livre : \"High Performances Web Sites\""
 tags: performances, dns, ajax, livre, yahoo, http, css, javascript
 updated: 2008-10-31T08:46:00.000Z
 lang: "fr"

@@ -1,5 +1,5 @@
 ---
-title: "Mondial de l'automobile 2006 : génial !"
+title: "Mondial de l'automobile 2006 : génial !"
 tags: sport, humeurs, photo, cherry
 lang: "fr"
 node: "61949"
@@ -63,7 +63,7 @@ Peak](http://photos.pwet.fr/villes-et-departements/paris-75/paris/suzuki-grand-v
 
 Enfin dans la rubrique insolite, la palme revient au stand de la chaîne M6
 donnant accès à des PC avec un navigateur web affichant fièrement le site de
-leur ami de toujours : tf1.fr (j'ai pas eu le temps de prendre une photo…).
+leur ami de toujours : tf1.fr (j'ai pas eu le temps de prendre une photo…).
 
 Et dans un autre genre à cette jeune personne (son visage a été flouté par
 respect pour sa famille :) affichant fièrement son adminiration vis à vis de son

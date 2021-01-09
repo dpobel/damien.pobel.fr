@@ -1,5 +1,5 @@
 ---
-title: "Nokia FISE 2007 : Wakeboard, Roller street, BMX mini-spine et BMX Dirt"
+title: "Nokia FISE 2007 : Wakeboard, Roller street, BMX mini-spine et BMX Dirt"
 tags: sport, bmx, photo, montpellier, nikon d50, fise
 updated: 2009-05-22T15:42:18.000Z
 lang: "fr"

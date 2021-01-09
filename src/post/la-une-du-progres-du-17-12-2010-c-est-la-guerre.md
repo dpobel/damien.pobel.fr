@@ -1,5 +1,5 @@
 ---
-title: "La une du Progrès du 17/12/2010 : c'est la guerre !"
+title: "La une du Progrès du 17/12/2010 : c'est la guerre !"
 tags: le progrès, journal, photo
 lang: "fr"
 node: "68987"

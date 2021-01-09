@@ -17,7 +17,7 @@ photos:
 
 Et un peu hors-sujet&nbsp;:
 
-* [Opération COQUELICOT : un sachet de graines gratuit](http://www.lejardinvivant.fr/2019/03/31/operation-coquelicot-gratuit-un-sachet-de-graines/) (fr)&nbsp;: j'adore l'initiative !
+* [Opération COQUELICOT : un sachet de graines gratuit](http://www.lejardinvivant.fr/2019/03/31/operation-coquelicot-gratuit-un-sachet-de-graines/) (fr)&nbsp;: j'adore l'initiative !
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS correspondant](/rss/veille.xml))

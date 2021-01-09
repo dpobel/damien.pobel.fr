@@ -1,5 +1,5 @@
 ---
-title: "X11Forwarding : lancer une application sur un serveur et l'afficher ailleurs avec SSH"
+title: "X11Forwarding : lancer une application sur un serveur et l'afficher ailleurs avec SSH"
 tags: ssh, x11, réseau, sécurité, ubuntu, linux, pense bête, shell
 lang: "fr"
 node: "61447"
@@ -63,7 +63,7 @@ machine distante d'ailleurs) avec la ligne de commande suivante&nbsp;:
 $ ssh -X -C -f login@adresse ton_application
 ```
 
-Explications : cette ligne indique à ssh de se connecter sur le serveur adresse
+Explications : cette ligne indique à ssh de se connecter sur le serveur adresse
 `adresse` sous le login `login` pour y lancer
 `ton_application`. L'option `-X` indique que l'on souhaite utiliser le
 **X11Forwarding** ce qui signifie que ssh va installer toutes les variables

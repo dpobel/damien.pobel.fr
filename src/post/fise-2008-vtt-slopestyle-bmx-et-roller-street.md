@@ -1,5 +1,5 @@
 ---
-title: "FISE 2008 : VTT slopestyle, BMX et roller street"
+title: "FISE 2008 : VTT slopestyle, BMX et roller street"
 tags: sport, bmx, photo, montpellier, nikon d50, vtt
 updated: 2008-10-23T07:30:35.000Z
 lang: "fr"
@@ -9,7 +9,7 @@ published: 2008-05-01T23:28:52+02:00
 ---
 
 Plein de nouveautés au [FISE](http://www.fise-events.com/) cette année à
-commencer par l'apparition d'une nouvelle discipline : le VTT
+commencer par l'apparition d'une nouvelle discipline : le VTT
 Slopestyle avec un parcours à base de
 module en bois exploitant à merveille les dénivelés des bords du Lez. Par
 contre, on a perdu [la méga rampe Red Bull](/images/bmx-rampe.jpg)[de l'année

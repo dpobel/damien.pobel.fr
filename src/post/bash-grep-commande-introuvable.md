@@ -1,5 +1,5 @@
 ---
-title: "bash:  grep : commande introuvable"
+title: "bash:  grep : commande introuvable"
 tags: truc, bash, ubuntu, linux, shell
 lang: "fr"
 node: "61643"

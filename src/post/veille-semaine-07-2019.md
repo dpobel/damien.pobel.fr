@@ -20,7 +20,7 @@ photos:
 Et un peu hors-sujet&nbsp;:
 
 * [Il était une fois… le télétravail !](https://libelilou.github.io/2019/01/06/teletravail.html) (fr)&nbsp;: tout ou presque sur les dispositions légales liées aux télétravail.
-* [La low-tech : un outil de résilience pour l’humanité ?](https://www.greenit.fr/2019/02/07/la-low-tech-un-outil-de-resilience-pour-lhumanite/) (fr)&nbsp;: malheureusement, la _tendance_ actuelle est à l'opposé de la simplicité et des low-tech en général.
+* [La low-tech : un outil de résilience pour l’humanité ?](https://www.greenit.fr/2019/02/07/la-low-tech-un-outil-de-resilience-pour-lhumanite/) (fr)&nbsp;: malheureusement, la _tendance_ actuelle est à l'opposé de la simplicité et des low-tech en général.
 
 (En plus du [flux RSS global](/rss.xml), les billets *veille*
 et uniquement ceux là sont listés dans le [flux RSS correspondant](/rss/veille.xml))

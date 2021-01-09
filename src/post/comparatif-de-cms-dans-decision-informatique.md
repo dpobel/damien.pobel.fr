@@ -44,7 +44,7 @@ défaut](/post/ez-publish-3-9-2-et-3-8-8-et-quelques-reflexions-sur-ez-publish-j
 
 
 Quant à la partie *CMS - Ouverture, pérénité*, elle pointe peut être un vrai
-point faible d'eZ Publish : les pré-requis pour l'hébergement qui sont assez
+point faible d'eZ Publish : les pré-requis pour l'hébergement qui sont assez
 élevés. Il est clair que sur pas mal d'hébergements mutualisés, il est difficile
 de profiter pleinement d'eZ Publish. À côté de ça, avec [une Dedibox pour 35
 euros par mois](/post/une-dedibox-en-moins-de-temps-qu-il-en-faut-pour-le-dire),
