@@ -8,7 +8,7 @@ updated: 2016-02-10 08:40
 ---
 
 Today, I have learned that my [eZ Publish](/tag/ez-publish) extension [Video FLV
-Datatype](http://projects.ez.no/ezvideoflv) is now used in a real site :
+Datatype](http://projects.ez.no/ezvideoflv) is now used in a real site:
 [Zenaba](http://www.zenaba.com/). It's a french community and shopping site
 dedicated to women. Video FLV Datatype is used to provide FLV conversion so that
 user's videos can be viewed by anyone having the flash plugin installed.

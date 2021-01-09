@@ -31,7 +31,7 @@ interface](http://ez.no/doc/ez_publish/technical_manual/4_0/features/packages/in
 and finally activate it. As I have my own design, I don't need the others
 `ezwebin_*` packages. Then, you have to add ezwebin as an additional design, in
 the site.ini.append.php of your front end siteaccess you should have something
-like :
+like:
 
 ``` ini
 [DesignSettings]
@@ -44,7 +44,7 @@ AdditionalSiteDesignList[]=ezwebin
 ## Template modification
 
 
-This step depends on your site. With most designs, you just need to add those lines of code in [the pagelayout template before the <code>{$module_result.content}</code>](http://ez.no/doc/ez_publish/technical_manual/4_0/templates/the_pagelayout#eztoc86799_4_1) :
+This step depends on your site. With most designs, you just need to add those lines of code in [the pagelayout template before the <code>{$module_result.content}</code>](http://ez.no/doc/ez_publish/technical_manual/4_0/templates/the_pagelayout#eztoc86799_4_1):
 
 ```
 {def $current_node_id = first_set( $module_result.node_id, 0 )

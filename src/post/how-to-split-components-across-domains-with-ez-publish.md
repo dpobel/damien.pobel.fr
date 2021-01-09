@@ -21,7 +21,7 @@ Split components across domains is [one of the advices of the Yahoo! Exceptionna
 
 In eZ Publish, it is very easy to implement this advice for JavaScript files and CSS stylesheets provided [the ezjscore operators](http://share.ez.no/learn/ez-publish/ezjscore-ez-publish-javascript-and-ajax-framework/) (<code>ezcss*</code>
  and <code>ezscript*</code>
-) are used to include those files. In fact, the ezjscore extension allows [to specify a custom hosts](http://doc.ez.no/Extensions/eZ-JS-Core/Settings#eztoc113939_2_8) depending the extension of the included files. For instance, it's possible to write the following settings in an override of ezjscore.ini file :
+) are used to include those files. In fact, the ezjscore extension allows [to specify a custom hosts](http://doc.ez.no/Extensions/eZ-JS-Core/Settings#eztoc113939_2_8) depending the extension of the included files. For instance, it's possible to write the following settings in an override of ezjscore.ini file:
 
 ``` ini
 [Packer]

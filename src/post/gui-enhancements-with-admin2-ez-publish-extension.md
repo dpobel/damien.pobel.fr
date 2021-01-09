@@ -13,7 +13,7 @@ The blog post is the continuation of [Frontend performance enhancements with adm
 ## Current features provided by admin2++ extension
 
 
-admin2++ extension currently provides the following features by using [jQueryUI 1.8](http://blog.jqueryui.com/2010/03/jquery-ui-18/) in the new [eZ Publish](/tag/ez-publish) administration interface :
+admin2++ extension currently provides the following features by using [jQueryUI 1.8](http://blog.jqueryui.com/2010/03/jquery-ui-18/) in the new [eZ Publish](/tag/ez-publish) administration interface:
 
 * it improves the dashboard to be easily configurable by each user (drag'n drop of blocks, ability to remove or add blocks)
 * it adds some new dashboard blocks (System infos, Feed reader, Advanced search form)
@@ -23,7 +23,7 @@ admin2++ extension currently provides the following features by using [jQueryUI 
 * it improves default stylesheet (colors in popup menu and dashboard blocks, round corners on all fields, yellow background to highlight currently focused field,…)
 * it adds a date picker for ezdate and ezdatetime attribute (based on jQuery instead of the default YUI2 one)
 
-All those new features are visible in this screencast :
+All those new features are visible in this screencast:
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5QbXiNeSP9Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -32,7 +32,7 @@ All those new features are visible in this screencast :
 ## Future developments
 
 
-I have a lot of ideas :
+I have a lot of ideas:
 
 * [jQueryUI 1.8 now includes an Autocomplete widget](http://jqueryui.com/demos/autocomplete/) that would be useful to type keywords
 * use of AJAX for the several operations (bookmark, add to notifications,…)
