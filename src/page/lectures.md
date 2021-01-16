@@ -5,6 +5,11 @@ updated: 2020-12-28
 
 # Lectures
 
+## 2021
+
+* [La faute de l'orthographe](https://www.editionstextuel.com/livre/la-faute-de-lorthographe) (Arnaud Hoedt / Jérôme Piron)
+* [L'odyssée des gênes](https://editions.flammarion.com/lodyssee-des-genes/9782081428225) (Évelyne Heyer) ([résumé](/post/livre-l-odyssee-des-genes/))
+
 ## 2020
 
 * [Le Vivant comme modèle](https://www.albin-michel.fr/ouvrages/le-vivant-comme-modele-9782226451408) (Gauthier Chapelle / Michèle Decoust)
