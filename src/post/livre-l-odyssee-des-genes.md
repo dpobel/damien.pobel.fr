@@ -56,6 +56,8 @@ population serait dû à un meilleur succès reproducteur…
 
 ---
 
-Bref, si comme moi, l'histoire humaine vous passionne ou vous intrigue, ce
-livre est fait pour vous ! Et même si le sujet est un peu pointu, il reste tout
-à fait accessible sans avoir de connaissances pointues en génétique.
+Bref, si comme moi, l'histoire humaine vous passionne ou vous intrigue, [ce
+livre est fait pour
+vous](https://editions.flammarion.com/lodyssee-des-genes/9782081428225) ! Et
+même si le sujet est un peu pointu, il reste tout à fait accessible sans avoir
+de connaissances pointues en génétique.
