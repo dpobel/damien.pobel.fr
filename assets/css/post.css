@@ -52,7 +52,7 @@
     margin: 0 auto;
 }
 
-.post-content figcaption {
+.post-content figcaption, .post-content footer {
     background: #f0f0f0;
     border: 1px solid #ccc;
     border-top: 0;
