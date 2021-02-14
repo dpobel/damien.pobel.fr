@@ -51,7 +51,7 @@
     "metalsmith-renamer": "^0.5.25",
     "metalsmith-tags": "^2.1.0",
     "minimatch": "^3.0.4",
-    "mocha": "^8.2.1",
+    "mocha": "^8.3.0",
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.2",
     "open": "^7.4.1",
