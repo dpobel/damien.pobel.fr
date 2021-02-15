@@ -7,14 +7,14 @@ remoteId: "13c1ec3de533c98a31fc0bf1a803a979"
 published: 2007-04-15T21:39:34+02:00
 updated: 2016-02-10 18:19
 ---
- 
-Voici la suite du billet [Quelques trucs avec Vim
-#1](/post/quelques-trucs-avec-vim-1) qui, comme le suggèrait le #1, a bien une
+
+Voici la suite du billet [Quelques trucs avec Vim #1](/post/quelques-trucs-avec-vim-1)
+qui, comme le suggèrait le #1, a bien une
 suite :) Voici donc 3 petits trucs qui me simplifient la vie presque tous les
 jours.
 
 ## Mise en valeur de la ligne courante
- 
+
 Une fonctionnalité que l'on voit dans beaucoup d'éditeurs de texte avancés ou
 <abbr title="Integrated Development Environment">IDE</abbr>  est la mise en
 valeur de la ligne courante. Depuis Vim 7, disponible depuis [Ubuntu Edgy
@@ -24,14 +24,13 @@ graphique, il est possible de définir une couleur de fond, pour ma part,
 j'utilise les lignes suivantes dans mon .gvimrc pour avoir une ligne légèrement
 surlignée de bleu/gris dans la version graphique uniquement :
 
-``` 
+```vim
 set cursorline
 hi CursorLine guibg=#e7ebff
 ```
-   
+
 ## Les *folds* sur mesure
 
- 
 Beaucoup d'éditeurs proposent la possibilité de &quot;pliage/dépliage&quot;
 (fold/unfold) des structures de contrôle et/ou des commentaires. Il est possible
 de faire la même chose dans Vim mais j'apprécie assez peu cette fonctionnalités.
@@ -50,22 +49,22 @@ tapant &quot;:set foldcolumn=2&quot;, ce qui donne :
 <figure class="object-center"><a href="/images/fold-dans-vim.gif"><img loading="lazy" src="/images//fold-dans-vim.gif" alt="Fold dans Vim">
 </a></figure>
 
- 
+
 Les zones sont imbricables et beaucoup de raccourcis existent pour les
 manipuler. Plus d'informations [le *folding* dans l'aide de
 Vim](http://vimdoc.sourceforge.net/htmldoc/fold.html).
 
-   
+
 ## Les abbréviations
 
- 
+
 Lorsqu'on écrit du code, on utilise régulièrement les mêmes constructions
 syntaxiques, il peut être avantageux de définir des abbréviations permettant de
 taper rapidement ces séquences. Dans [eZVim](http://projects.ez.no/ezvim), [un
 plugin Vim pour eZ Publish](/post/ezvim-0-1), j'en définis quelques unes, par
 exemple :
 
- ``` 
+```vim
 iabbrev ezfe {foreach __ as $k => $val}<CR><CR>{/foreach}
 match Error / __ /
 ```

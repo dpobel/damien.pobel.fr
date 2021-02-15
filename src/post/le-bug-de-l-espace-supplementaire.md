@@ -17,7 +17,7 @@ Aujourd'hui, j'ai refait quelques tests sur le code Planet eZ Publish.fr qui sou
 
 Il est heureusement possible de désactiver ce comportement en ajoutant les lignes suivantes dans sa configuration de Vim :
 
-```
+```vim
 au BufWritePre * :set binary | set noeol
 au BufWritePost * :set nobinary | set eol
 ```
