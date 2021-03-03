@@ -7,6 +7,7 @@ updated: 2020-12-28
 
 ## 2021
 
+* [Nous rêvions juste de liberté](https://editions.flammarion.com/nous-revions-juste-de-liberte/9782081307285) (Henri Lœvenbruck)
 * [La faute de l'orthographe](https://www.editionstextuel.com/livre/la-faute-de-lorthographe) (Arnaud Hoedt / Jérôme Piron)
 * [L'odyssée des gênes](https://editions.flammarion.com/lodyssee-des-genes/9782081428225) (Évelyne Heyer) ([résumé](/post/livre-l-odyssee-des-genes/))
 
