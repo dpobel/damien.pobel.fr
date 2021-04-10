@@ -1,6 +1,6 @@
 ---
 title: "Firefox OS"
-tags: firefox, firefox os, html5, css, javascript
+tags: firefox, firefox os, html, css, javascript
 lang: "en"
 published: 2013-03-02T19:55:40+01:00
 photos:

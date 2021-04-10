@@ -1,6 +1,6 @@
 ---
 title: "Quelques liens en vrac"
-tags: html5, cache, javascript, performances, livre, navigateur, internet explorer, jquery
+tags: html, cache, javascript, performances, livre, navigateur, internet explorer, jquery
 lang: "fr"
 node: "68976"
 remoteId: "f02dfc61c992d1f11853a6f19fcf74c7"
