@@ -1,6 +1,6 @@
 ---
 title: "eZ Conference 2011"
-tags: conference, ez publish, php, varnish, zeta components
+tags: conférence, ez publish, php, varnish, zeta components
 node: "69191"
 remoteId: "f3239ffa4f9d4a9962d1210ac1b0759d"
 published: 2011-06-18T13:34:32+02:00
