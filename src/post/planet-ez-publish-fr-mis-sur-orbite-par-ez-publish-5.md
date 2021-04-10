@@ -1,6 +1,6 @@
 ---
 title: "Planet eZ Publish.fr mis sur orbite par eZ Publish 5!"
-tags: symfony 2, ez publish 5, ez publish, php, twig, performances, git
+tags: symfony, ez publish 5, ez publish, php, twig, performances, git
 lang: "fr"
 node: "69820"
 remoteId: "edb15bfe7f97834b76478ab34821c0a9"
