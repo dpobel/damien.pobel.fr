@@ -1,6 +1,6 @@
 ---
 title: "Twig pagelayout pour les modules legacy dans eZ Publish 5"
-tags: twig, ez publish, ez publish 5, template, symfony
+tags: twig, ez publish, template, symfony
 lang: "fr"
 published: 2013-05-01T12:59:44+02:00
 updated: 2016-02-12 12:50
