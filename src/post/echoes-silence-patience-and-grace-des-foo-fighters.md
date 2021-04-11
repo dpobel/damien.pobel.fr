@@ -6,6 +6,8 @@ node: "66371"
 remoteId: "5fbfda8ce29c80b6d1361e8932e06643"
 published: 2007-10-13T15:29:17+02:00
 updated: 2016-02-10 23:22
+photos:
+    - images/jacquette-de-echoes-silence-patience-and-grace.jpg
 ---
 <figure class="object-left"><a href="/images/jacquette-de-echoes-silence-patience-and-grace.jpg"><img loading="lazy" src="/images/330x/jacquette-de-echoes-silence-patience-and-grace.jpg" alt="Jacquette de Echoes, Silence, Patience and Grace">
 </a></figure>

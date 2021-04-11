@@ -6,10 +6,12 @@ node: "66404"
 remoteId: "e575677faf861dddbb3827c614c6e595"
 published: 2007-10-23T14:18:21+02:00
 updated: 2016-02-08 21:34
+photos:
+    - images/logo-5-minutes-de-repit-pour-la-planete.jpg
 ---
- 
 
-<figure class="object-left"><img loading="lazy" src="/images//logo-5-minutes-de-repit-pour-la-planete.jpg" alt="Logo 5 minutes de répit pour la planète">
+
+<figure class="object-left"><img loading="lazy" src="/images/logo-5-minutes-de-repit-pour-la-planete.jpg" alt="Logo 5 minutes de répit pour la planète">
 </figure>
 
 
@@ -39,6 +41,6 @@ c'était déjà pourri alors en 2007… En plus ça n'a aucun intérêt à moins
   un lien direct vers l'article &quot;5 minutes, ça change quoi&quot; mais c'est
   techniquement impossible, dommage pour la diffusion de l'information
   réellement importante du site.
- 
+
 Bref, c'est de la m****. C'était le coup de gueule de la journée, vous pouvez reprendre une activité normale (et pensez à éteindre les lumières ce soir entre 19h55 et 20h)
 
