@@ -1,7 +1,7 @@
 ---
 title: "Veille de la semaine #9 de 2019"
 weeklyTech: true
-tags: veille, php, symfony, javascript, typescript, humour, humeur, navigateur, standard, web, performances, css
+tags: veille, php, symfony, javascript, typescript, humour, humeurs, navigateur, standard, web, performances, css
 lang: fr
 published: 2019-02-28T11:12:16Z
 photos:

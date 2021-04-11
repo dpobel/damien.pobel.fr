@@ -1,6 +1,6 @@
 ---
 title: "eZ Community UnConference #2"
-tags: ez publish, conference, montpellier, php, symfony 2
+tags: ez publish, conférence, montpellier, php, symfony
 lang: "fr"
 published: 2013-04-11T14:29:17+02:00
 photos:
