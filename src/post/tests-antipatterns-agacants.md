@@ -209,5 +209,5 @@ j'ai aussi vu pas mal de projets _critiques_ sans aucun test 😀
 Plus sérieusement, tous ces défauts ne sont pas seulement agaçants, ce sont
 surtout des obstacles [pour travailler
 efficacement](/post/maximiser-efficacite-developpeurs/) et pour produire un
-logiciel robuste et de qualité ce qui est même un comble pour une technique
-justement supposée améliorer ces aspects.
+logiciel robuste et de qualité ce qui est quand même un comble pour une
+technique justement supposée améliorer ces aspects.
