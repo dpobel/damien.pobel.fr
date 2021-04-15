@@ -5,6 +5,8 @@ lang: "fr"
 node: "69193"
 remoteId: "c9d1cb9053602110dca0a95410d6f74b"
 published: 2011-06-22T22:51:23+02:00
+photos:
+    - images/screenshot-ez-class-list-1-2.png
 ---
 <a href="/images/screenshot-ez-class-list-1-2.png"><img loading="lazy" src="/images/660x/screenshot-ez-class-list-1-2.png" alt="Screenshot eZ Class List 1.2">
 </a>

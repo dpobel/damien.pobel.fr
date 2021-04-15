@@ -3,6 +3,8 @@ title: "La \"bonne\" idée de Popi…"
 tags: jouet, humeurs, stupides
 lang: "fr"
 published: 2014-02-09T18:44:20+01:00
+photos:
+    - images/bonne-idee-de-popi.jpg
 ---
 
 <figure class="object-center">

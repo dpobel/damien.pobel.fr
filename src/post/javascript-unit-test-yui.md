@@ -3,6 +3,8 @@ title: "JavaScript unit tests with YUI Test"
 tags: yui, unit test, javascript, frontend
 lang: "en"
 published: 2014-02-17T13:45:46+01:00
+photos:
+    - images/unit-test.gif
 ---
 
 <figure class="object-left"><img loading="lazy" src="/images/unit-test.gif"
