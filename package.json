@@ -56,7 +56,7 @@
     "nunjucks": "^3.2.3",
     "open": "^8.0.6",
     "opml-utils": "https://github.com/dpobel/opml-utils.git",
-    "postcss": "^7.0.35",
+    "postcss": "^8.2.13",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
     "static-server": "^3.0.0"
