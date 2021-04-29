@@ -21,7 +21,7 @@
     "async": "^3.2.0",
     "cheerio": "^1.0.0-rc.6",
     "consolidate": "^0.16.0",
-    "cssnano": "^4.1.11",
+    "cssnano": "^5.0.2",
     "detect-port": "^1.3.0",
     "gm": "^1.23.1",
     "highlight.js": "^10.7.2",
@@ -56,7 +56,7 @@
     "nunjucks": "^3.2.3",
     "open": "^8.0.7",
     "opml-utils": "https://github.com/dpobel/opml-utils.git",
-    "postcss": "^7.0.35",
+    "postcss": "^8.2.13",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
     "static-server": "^3.0.0"
