@@ -57,7 +57,7 @@
     "open": "^8.0.7",
     "opml-utils": "https://github.com/dpobel/opml-utils.git",
     "postcss": "^8.2.13",
-    "postcss-import": "^12.0.1",
+    "postcss-import": "^14.0.1",
     "postcss-preset-env": "^6.7.0",
     "static-server": "^3.0.0"
   },
