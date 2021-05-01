@@ -4,5 +4,5 @@ blog](/posts/) et de [mon CV](/page/cv-fr/).
 
 Comme beaucoup, je suis aussi un peu partout sur les Internets notamment sur
 [Twitter](https://twitter.com/dpobel), [Github](https://github.com/dpobel/) ou
-encore [Linkedin](http://fr.linkedin.com/in/dpobel) et probablement plein
+encore [Linkedin](https://www.linkedin.com/in/dpobel/) et probablement plein
 d'autres…
