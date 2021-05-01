@@ -1,207 +1,214 @@
 {
-    "source": "src",
-    "destination": "web",
-    "define": {
-        "site": {
-            "url": "https://damien.pobel.fr",
-            "name": "Damien Pobel",
-            "baseline": "Geek curieux et ingénieur logiciel (parfois) un peu râleur ;-)"
-        },
-        "menu": [
-            {"path": "posts", "name": "blog"},
-            {"path": "tag/veille", "name": "veille techno"},
-            {"path": "page/cv-fr", "name": "cv"},
-            {"path": "page/about", "name": "à propos"}
-        ],
-        "more": {
-            "photo": {"path": "tag/photo", "name": "More photos"}
-        },
-        "sections": {
-            "blog": {
-                "name": "blog",
-                "path": "posts"
-            },
-            "pages": {
-                "name": "pages",
-                "path": "pages"
-            }
-        },
-        "css": "style.css"
+  "source": "src",
+  "destination": "web",
+  "define": {
+    "site": {
+      "url": "https://damien.pobel.fr",
+      "name": "Damien Pobel",
+      "baseline": "Geek curieux et ingénieur logiciel (parfois) un peu râleur ;-)"
     },
-    "fileToMetadata": {
-        "icons": "icons/*.svg",
-        "tags": "tags/*"
-    },
-    "ignore": [
-        "css/*"
+    "menu": [
+      { "path": "posts", "name": "blog" },
+      { "path": "tag/veille", "name": "veille techno" },
+      { "path": "page/cv-fr", "name": "cv" },
+      { "path": "page/about", "name": "à propos" }
     ],
-    "assets": {
-        "source": "./assets",
-        "destination": "."
+    "more": {
+      "photo": { "path": "tag/photo", "name": "More photos" }
     },
-    "fileMetadata": [{
-        "pattern": "posts{.md,/*.html}",
-        "metadata": {
-            "section": "blog",
-            "type": "list"
-        }
-    }, {
-        "pattern": "tag/**",
-        "metadata": {
-            "section": "blog",
-            "type": "list"
-        }
-    }, {
-        "pattern": "pages{.md,/*.html}",
-        "metadata": {
-            "section": "pages",
-            "type": "list"
-        }
-    }, {
-        "pattern": "post/*.md",
-        "metadata": {
-            "layout": "post.njk",
-            "section": "blog",
-            "type": "post"
-        }
-    }, {
-        "pattern": "page/*",
-        "metadata": {
-            "layout": "page.njk",
-            "section": "pages",
-            "type": "page"
-        }
-    },{
-        "pattern": "page/cv*",
-        "metadata": {
-            "layout": "cv.njk"
-        }
-    }, {
-        "pattern": "index.md",
-        "metadata": {
-            "layout": "home.njk",
-            "type": "list"
-        }
-    }, {
-        "pattern": "tags.md",
-        "metadata": {
-            "layout": "tags.njk",
-            "section": "blog",
-            "type": "list"
-        }
-    }],
-    "moment": ["published", "updated"],
-    "tags": {
-        "handle": "tags",
-        "path": "tag/:tag.html",
-        "layout": "tag.njk",
-        "sortBy": "published",
-        "reverse": true,
-        "skipMetadata": false,
-        "metadataKey": "tagsList",
-        "perPage": 5,
-        "pathPage": "tag/:tag/:num.html"
+    "sections": {
+      "blog": {
+        "name": "blog",
+        "path": "posts"
+      },
+      "pages": {
+        "name": "pages",
+        "path": "pages"
+      }
     },
-    "collections": {
-        "top": {
-            "pattern": "post/*",
-            "sortBy": "top-priority",
-            "reverse": true
-        },
-        "posts": {
-            "pattern": "post/*",
-            "sortBy": "published",
-            "reverse": true
-        },
-        "blog": {
-            "pattern": "post/*",
-            "sortBy": "published",
-            "reverse": true
-        },
-        "lastPosts": {
-            "pattern": "post/*",
-            "sortBy": "published",
-            "reverse": true,
-            "limit": 7,
-            "refer": false
-        },
-        "pages": {
-            "pattern": "page/*",
-            "sortBy": "updated",
-            "reverse": true,
-            "refer": false
-        }
+    "css": "style.css"
+  },
+  "fileToMetadata": {
+    "icons": "icons/*.svg",
+    "tags": "tags/*"
+  },
+  "ignore": ["css/*"],
+  "assets": {
+    "source": "./assets",
+    "destination": "."
+  },
+  "fileMetadata": [
+    {
+      "pattern": "posts{.md,/*.html}",
+      "metadata": {
+        "section": "blog",
+        "type": "list"
+      }
     },
-    "pagination": {
-        "collections.blog": {
-            "perPage": 5,
-            "layout": "blog.njk",
-            "first": "posts.md",
-            "noPageOne": true,
-            "path": "posts/:num.html"
-        },
-        "collections.pages": {
-            "perPage": 10,
-            "layout": "pages.njk",
-            "first": "pages.md",
-            "noPageOne": true,
-            "path": "pages/:num.html"
-        }
+    {
+      "pattern": "tag/**",
+      "metadata": {
+        "section": "blog",
+        "type": "list"
+      }
     },
-    "permalinks": {
-        "relative": false
+    {
+      "pattern": "pages{.md,/*.html}",
+      "metadata": {
+        "section": "pages",
+        "type": "list"
+      }
     },
-    "feed": {
-        "collection": "posts",
-        "limit": 10,
-        "destination": "rss.xml",
-        "title": "Derniers posts du blog de Damien Pobel"
+    {
+      "pattern": "post/*.md",
+      "metadata": {
+        "layout": "post.njk",
+        "section": "blog",
+        "type": "post"
+      }
     },
-    "collectPhotos": {
-        "lastPhotosNumber": 3
+    {
+      "pattern": "page/*",
+      "metadata": {
+        "layout": "page.njk",
+        "section": "pages",
+        "type": "page"
+      }
     },
-    "imageVariation": {
-        "concurrency": 2,
-        "siteUrl": "https://damien.pobel.fr"
+    {
+      "pattern": "page/cv*",
+      "metadata": {
+        "layout": "cv.njk"
+      }
     },
-    "tagLangFeed": {
-        "addFrFilter": ["ez publish", "linux"]
+    {
+      "pattern": "index.md",
+      "metadata": {
+        "layout": "home.njk",
+        "type": "list"
+      }
     },
-    "htmlMinifier": {
-        "minifierOptions": {
-            "ignoreCustomFragments": [],
-            "ignoreCustomComments": [],
-            "customEventAttributes": []
-        }
-    },
-    "gzip": {
-        "gzip": {
-            "level": 9
-        }
-    },
-    "cv-pdf": {
-        "pdfize": {
-            "pattern": ["page/cv/*.html", "page/cv-fr/*.html"],
-            "printOptions": {
-                "printBackground": true,
-                "format": "A4",
-                "margin": {
-                    "top": "1cm",
-                    "bottom": "1cm",
-                    "left": "1cm",
-                    "right": "1cm"
-                }
-            }
-        },
-        "rename": {
-            "cv-fr": {
-                "pattern": "page/cv-fr/index.html.pdf",
-                "rename": "cv-fr-damien-pobel.pdf"
-            },
-            "cv": {
-                "pattern": "page/cv/index.html.pdf",
-                "rename": "cv-damien-pobel.pdf"
-            }
-        }
+    {
+      "pattern": "tags.md",
+      "metadata": {
+        "layout": "tags.njk",
+        "section": "blog",
+        "type": "list"
+      }
     }
+  ],
+  "moment": ["published", "updated"],
+  "tags": {
+    "handle": "tags",
+    "path": "tag/:tag.html",
+    "layout": "tag.njk",
+    "sortBy": "published",
+    "reverse": true,
+    "skipMetadata": false,
+    "metadataKey": "tagsList",
+    "perPage": 5,
+    "pathPage": "tag/:tag/:num.html"
+  },
+  "collections": {
+    "top": {
+      "pattern": "post/*",
+      "sortBy": "top-priority",
+      "reverse": true
+    },
+    "posts": {
+      "pattern": "post/*",
+      "sortBy": "published",
+      "reverse": true
+    },
+    "blog": {
+      "pattern": "post/*",
+      "sortBy": "published",
+      "reverse": true
+    },
+    "lastPosts": {
+      "pattern": "post/*",
+      "sortBy": "published",
+      "reverse": true,
+      "limit": 7,
+      "refer": false
+    },
+    "pages": {
+      "pattern": "page/*",
+      "sortBy": "updated",
+      "reverse": true,
+      "refer": false
+    }
+  },
+  "pagination": {
+    "collections.blog": {
+      "perPage": 5,
+      "layout": "blog.njk",
+      "first": "posts.md",
+      "noPageOne": true,
+      "path": "posts/:num.html"
+    },
+    "collections.pages": {
+      "perPage": 10,
+      "layout": "pages.njk",
+      "first": "pages.md",
+      "noPageOne": true,
+      "path": "pages/:num.html"
+    }
+  },
+  "permalinks": {
+    "relative": false
+  },
+  "feed": {
+    "collection": "posts",
+    "limit": 10,
+    "destination": "rss.xml",
+    "title": "Derniers posts du blog de Damien Pobel"
+  },
+  "collectPhotos": {
+    "lastPhotosNumber": 3
+  },
+  "imageVariation": {
+    "concurrency": 2,
+    "siteUrl": "https://damien.pobel.fr"
+  },
+  "tagLangFeed": {
+    "addFrFilter": ["ez publish", "linux"]
+  },
+  "htmlMinifier": {
+    "minifierOptions": {
+      "ignoreCustomFragments": [],
+      "ignoreCustomComments": [],
+      "customEventAttributes": []
+    }
+  },
+  "gzip": {
+    "gzip": {
+      "level": 9
+    }
+  },
+  "cv-pdf": {
+    "pdfize": {
+      "pattern": ["page/cv/*.html", "page/cv-fr/*.html"],
+      "printOptions": {
+        "printBackground": true,
+        "format": "A4",
+        "margin": {
+          "top": "1cm",
+          "bottom": "1cm",
+          "left": "1cm",
+          "right": "1cm"
+        }
+      }
+    },
+    "rename": {
+      "cv-fr": {
+        "pattern": "page/cv-fr/index.html.pdf",
+        "rename": "cv-fr-damien-pobel.pdf"
+      },
+      "cv": {
+        "pattern": "page/cv/index.html.pdf",
+        "rename": "cv-damien-pobel.pdf"
+      }
+    }
+  }
 }
