@@ -82,6 +82,12 @@
       }
     },
     {
+      "pattern": "github/profile.txt",
+      "metadata": {
+        "layout": "github-profile.md.njk"
+      }
+    },
+    {
       "pattern": "index.md",
       "metadata": {
         "layout": "home.njk",
@@ -208,6 +214,10 @@
       "cv": {
         "pattern": "page/cv/index.html.pdf",
         "rename": "cv-damien-pobel.pdf"
+      },
+      "github-profile": {
+        "pattern": "github/profile.txt",
+        "rename": "README.md"
       }
     }
   }
