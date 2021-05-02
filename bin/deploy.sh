@@ -5,7 +5,8 @@ SSH_CMD="ssh -i ssh/id_dsa -o 'StrictHostKeyChecking no'"
 if [ "$TRAVIS_PULL_REQUEST" = "false" ] ; then
     echo "## Pushing main site"
     rsync -avcz --delete -e "$SSH_CMD" web/ dp@damien.pobel.fr:~/web/
-    curl -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" -X POST -d "{\"ref\": \"main\"}" "https://api.github.com/repos/${TRAVIS_REPO_SLUG}/actions/workflows/main.yml/dispatches"
+    # trigger refresh of github profile README
+    curl -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" -X POST -d "{\"ref\": \"main\"}" "https://api.github.com/repos/dpobel/dpobel/actions/workflows/main.yml/dispatches"
 else
     echo "## Pushing to ${TRAVIS_PULL_REQUEST}.damien.pobel.fr"
     rsync -avcz --delete -e "$SSH_CMD" web/ dp@damien.pobel.fr:~/testing/${TRAVIS_PULL_REQUEST}.damien.pobel.fr
