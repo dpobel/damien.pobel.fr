@@ -7,7 +7,7 @@
     * [{{post.title|safe}}]({{post.path|url(site.url)}})
 {% endfor %}
 
-## Les derniers billets ([Flux RSS]({{'rss.xml'|url(site.url)}}))
+## Les derniers billets ([Flux RSS]({{'rss.xml'|url(site.url, true)}}))
 
 {% for post in collections.lastPosts -%}
     * [{{post.title|safe}}]({{post.path|url(site.url)}})
