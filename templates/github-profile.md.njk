@@ -1,0 +1,14 @@
+{{ contents|safe }}
+<hr>
+
+## Quelques billets notables
+
+{% for post in collections.top -%}
+    * [{{post.title|safe}}]({{post.path|url(site.url)}})
+{% endfor %}
+
+## Les derniers billets ([Flux RSS]({{'rss.xml'|url(site.url)}}))
+
+{% for post in collections.lastPosts -%}
+    * [{{post.title|safe}}]({{post.path|url(site.url)}})
+{% endfor %}
