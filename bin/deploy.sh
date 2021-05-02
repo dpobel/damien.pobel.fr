@@ -7,6 +7,8 @@ if [ "$TRAVIS_PULL_REQUEST" = "false" ] ; then
     rsync -avcz --delete -e "$SSH_CMD" web/ dp@damien.pobel.fr:~/web/
     # trigger refresh of github profile README
     curl -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" -X POST -d "{\"ref\": \"main\"}" "https://api.github.com/repos/dpobel/dpobel/actions/workflows/main.yml/dispatches"
+    # trigger refresh of my github page
+    curl -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" -X POST -d "{\"ref\": \"main\"}" "https://api.github.com/repos/dpobel/dpobel.github.io/actions/workflows/main.yml/dispatches"
 else
     echo "## Pushing to ${TRAVIS_PULL_REQUEST}.damien.pobel.fr"
     rsync -avcz --delete -e "$SSH_CMD" web/ dp@damien.pobel.fr:~/testing/${TRAVIS_PULL_REQUEST}.damien.pobel.fr

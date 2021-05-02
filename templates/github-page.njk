@@ -1,0 +1,22 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+<article lang="{{ lang|default('fr') }}" class="post-content">
+    {{ contents|safe }}
+</article>
+
+<h2>Quelques billets notables</h2>
+<ul class="post-list">
+    {% for post in collections.top %}
+        <li>{% include "parts/post_line.njk" %}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
+
+{% block sideMenu %}
+    {% set noSocialNetwork = true %}
+    <aside>
+        {% include "parts/share.njk" %}
+        {% include "parts/last.njk" %}
+    </aside>
+{% endblock %}
