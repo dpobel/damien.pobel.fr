@@ -88,6 +88,13 @@
       }
     },
     {
+      "pattern": "github/page.md",
+      "metadata": {
+        "layout": "github-page.njk",
+        "type": "list"
+      }
+    },
+    {
       "pattern": "index.md",
       "metadata": {
         "layout": "home.njk",
