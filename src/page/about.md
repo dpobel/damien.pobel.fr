@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-updated: 2018-12-31 16:30
+updated: 2021-05-07 09:30
 lang: fr
 ---
 
@@ -13,10 +13,10 @@ Je suis un ingénieur logiciel intéressé par le web et les technologies ouvert
 et de mes expériences passées et présentes.
 
 Dans la vraie vie, je suis l'heureux papa de deux petites filles nommées
-Charline et Clémentine.  J'aime le sport ([vtt](http://vtt.revermont.bike/),
+Charline et Clémentine. J'aime le sport ([vtt](http://vtt.revermont.bike/),
 tennis de table,&nbsp;…), la nature et j'essaie de prendre [des
-photos](/tag/photo/).  J'habite dans un petit village en France appelé [St Paul
-de Varax](http://mairie-saintpauldevarax.fr/).
+photos](/tag/photo/). J'habite dans un petit village en France appelé
+[Saint-Paul de-Varax](http://mairie-saintpauldevarax.fr/).
 
 ## du contenu
 
@@ -29,9 +29,9 @@ J'écris des trucs en ligne [depuis 2006](/post/ouverture) sur plein de sujets
 différents parfois en français, parfois en anglais. Le [bon vieux nuage de
 tags](/tags/) donne un aperçu rapide des sujets traités.
 
-**Avertissements&nbsp;: les opinions et points de vue exprimés sur ce site sont
-totalement PERSONNELS et donc ne reflètent pas ceux de mes employeurs présents
-ou passé ni d'aucune entité à laquelle je suis associé.**
+**Avertissements : les opinions et points de vue exprimés sur ce site sont
+totalement PERSONNELS et donc ne reflètent pas ceux de mes employeurs présent ou
+passés ni d'aucune entité à laquelle je suis associé.**
 
 ## du site
 
