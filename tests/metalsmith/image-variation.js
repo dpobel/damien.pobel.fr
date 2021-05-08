@@ -1,13 +1,13 @@
 /* global describe, it, before */
-var assert = require("assert"),
-  metalsmith = require("metalsmith"),
-  gm = require("gm"),
-  imageVariation = require("../../lib/metalsmith/image-variation");
+const assert = require("assert");
+const metalsmith = require("metalsmith");
+const gm = require("gm");
+const imageVariation = require("../../lib/metalsmith/image-variation");
 
 describe("imageVariation metalsmith plugin", function () {
-  var fixtureDir = "fixtures/image-variation/",
-    buildResult,
-    buildError;
+  const fixtureDir = "fixtures/image-variation/";
+  let buildResult;
+  let buildError;
 
   this.timeout(50000);
   before(function (done) {
@@ -30,7 +30,7 @@ describe("imageVariation metalsmith plugin", function () {
   });
 
   it("should generate with variation", function (done) {
-    var widthVariation = "images/220x/variation1.gif";
+    const widthVariation = "images/220x/variation1.gif";
 
     assert(buildResult[widthVariation]);
     gm(buildResult[widthVariation].contents).size(function (err, size) {
@@ -41,7 +41,7 @@ describe("imageVariation metalsmith plugin", function () {
   });
 
   it("should generate height variation", function (done) {
-    var heightVariation = "images/x300/variation2.gif";
+    const heightVariation = "images/x300/variation2.gif";
 
     assert(buildResult[heightVariation]);
     gm(buildResult[heightVariation].contents).size(function (err, size) {
@@ -52,7 +52,7 @@ describe("imageVariation metalsmith plugin", function () {
   });
 
   it("should generate widthxheight variation", function (done) {
-    var widthxheightVariation = "images/250x250/variation3.gif";
+    const widthxheightVariation = "images/250x250/variation3.gif";
 
     assert(buildResult[widthxheightVariation]);
     gm(buildResult[widthxheightVariation].contents).size(function (err, size) {
@@ -63,25 +63,25 @@ describe("imageVariation metalsmith plugin", function () {
   });
 
   it("should normalize path", function () {
-    var normalizedVariation = "images/330x/variation4.gif";
+    const normalizedVariation = "images/330x/variation4.gif";
 
     assert(buildResult[normalizedVariation]);
   });
 
   it("should recognize absolute URI", function () {
-    var absoluteUriVariation = "images/330x/variation1.gif";
+    const absoluteUriVariation = "images/330x/variation1.gif";
 
     assert(buildResult[absoluteUriVariation]);
   });
 
   it("should recognize meta twitter:image", function () {
-    var absoluteUriVariation = "images/330x/twitter.gif";
+    const absoluteUriVariation = "images/330x/twitter.gif";
 
     assert(buildResult[absoluteUriVariation]);
   });
 
   it("should recognize meta og:image", function () {
-    var absoluteUriVariation = "images/220x/twitter.gif";
+    const absoluteUriVariation = "images/220x/twitter.gif";
 
     assert(buildResult[absoluteUriVariation]);
   });

@@ -1,6 +1,6 @@
 /* global describe, it, beforeEach */
-var assert = require("assert"),
-  filters = require("../../lib/nunjucks/filters");
+const assert = require("assert");
+const filters = require("../../lib/nunjucks/filters");
 
 describe("Nunjucks filters", function () {
   describe("url", function () {
@@ -9,26 +9,28 @@ describe("Nunjucks filters", function () {
     });
 
     it("should add trailing slashes", function () {
-      var path = "path";
+      const path = "path";
 
       assert.equal("/path/", filters.url(path));
     });
 
     it("should use the prefix", function () {
-      var path = "blog",
+      const path = "blog",
         prefix = "http://damien.pobel.fr";
 
       assert.equal("http://damien.pobel.fr/blog/", filters.url(path, prefix));
     });
 
     it("should skip the trailing slash for file", function () {
-      var path = "path/to/file.jpg";
+      const path = "path/to/file.jpg";
 
       assert.equal("/path/to/file.jpg", filters.url(path, "", true));
     });
   });
 
   describe("image_variation", function () {
+    let func;
+
     beforeEach(function () {
       func = filters.image_variation;
     });
@@ -46,7 +48,7 @@ describe("Nunjucks filters", function () {
   });
 
   describe("keys", function () {
-    var func;
+    let func;
 
     beforeEach(function () {
       func = filters.keys;
@@ -57,7 +59,7 @@ describe("Nunjucks filters", function () {
     });
 
     it("should return the array of object keys", function () {
-      var obj = { foo: "", bar: "" };
+      const obj = { foo: "", bar: "" };
 
       assert.deepEqual(["foo", "bar"], func(obj));
     });
@@ -67,6 +69,7 @@ describe("Nunjucks filters", function () {
     const tags = {
       "tag.html": {},
     };
+    let func;
 
     beforeEach(function () {
       func = filters.tag_info;

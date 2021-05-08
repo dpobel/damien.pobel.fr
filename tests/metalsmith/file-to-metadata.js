@@ -1,10 +1,10 @@
 /* global describe, it, beforeEach */
-var assert = require("assert"),
-  metalsmith = require("metalsmith"),
-  fileToMetadata = require("../../lib/metalsmith/file-to-metadata");
+const assert = require("assert");
+const metalsmith = require("metalsmith");
+const fileToMetadata = require("../../lib/metalsmith/file-to-metadata");
 
 describe("fileToMetadata metalsmith plugin", function () {
-  var ms, buildError, buildFiles;
+  let ms, buildError, buildFiles;
 
   beforeEach(function (done) {
     ms = metalsmith(__dirname);
@@ -22,7 +22,7 @@ describe("fileToMetadata metalsmith plugin", function () {
   });
 
   it("should add the matching files in metadata", function () {
-    var metadata = ms.metadata().html;
+    const metadata = ms.metadata().html;
 
     assert(typeof metadata["test1.htm"] === "object");
     assert(typeof metadata["test2.htm"] === "object");
@@ -34,7 +34,7 @@ describe("fileToMetadata metalsmith plugin", function () {
   });
 
   it("should not create the metadata entry", function () {
-    var metadata = ms.metadata().zero;
+    const metadata = ms.metadata().zero;
 
     assert(typeof metadata === "undefined");
   });
