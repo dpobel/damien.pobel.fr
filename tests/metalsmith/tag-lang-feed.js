@@ -1,17 +1,17 @@
 /* global describe, it, before */
-var assert = require("assert"),
-  metalsmith = require("metalsmith"),
-  tags = require("metalsmith-tags"),
-  tagLangFeed = require("../../lib/metalsmith/tag-lang-feed");
+const assert = require("assert");
+const metalsmith = require("metalsmith");
+const tags = require("metalsmith-tags");
+const tagLangFeed = require("../../lib/metalsmith/tag-lang-feed");
 
 describe("tagLangFeed metalsmith plugin", function () {
-  var ms, buildError, buildFiles;
+  let ms, buildError, buildFiles;
 
   before(function (done) {
     ms = metalsmith(__dirname);
     ms.source("fixtures/tag-lang-feed/src")
       .use(function (files, metalsmith, done) {
-        var metadata = metalsmith.metadata();
+        const metadata = metalsmith.metadata();
 
         metadata.collections = { posts: [] };
         Object.keys(files).forEach(function (path) {

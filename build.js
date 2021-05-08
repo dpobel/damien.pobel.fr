@@ -1,46 +1,36 @@
 #! /usr/bin/env node
 
-var metalsmith = require("metalsmith"),
-  conf = require("./build.json"),
-  ms,
-  source = conf.source,
-  destination = conf.destination,
-  consolidate = require("consolidate"),
-  nunjucks = require("nunjucks"),
-  assetsRev = process.env.ASSET_REV,
-  renamedCss,
-  styleRenamePlugin = function () {
-    return function (files, metalsmith, done) {
-      done();
-    };
-  },
-  collectPhotos = require("./lib/metalsmith/collect-photos"),
-  imageVariation = require("./lib/metalsmith/image-variation"),
-  fileToMetadata = require("./lib/metalsmith/file-to-metadata"),
-  tagLangFeed = require("./lib/metalsmith/tag-lang-feed"),
-  renamer = require("metalsmith-renamer"),
-  htmlMinifier = require("metalsmith-html-minifier"),
-  ignore = require("metalsmith-ignore"),
-  postcss = require("metalsmith-postcss2"),
-  assets = require("metalsmith-assets"),
-  define = require("metalsmith-define"),
-  feed = require("metalsmith-feed"),
-  msMoment = require("metalsmith-moment"),
-  fileMetadata = require("metalsmith-filemetadata"),
-  tags = require("metalsmith-tags"),
-  layouts = require("metalsmith-layouts"),
-  markdown = require("metalsmith-markdown"),
-  collections = require("metalsmith-collections"),
-  pagination = require("metalsmith-pagination"),
-  permalinks = require("metalsmith-permalinks"),
-  pdfize = require("metalsmith-pdfize"),
-  brotli = require("metalsmith-brotli"),
-  gzip = require("metalsmith-gzip"),
-  zlib = require("zlib"),
-  open = require("open"),
-  detect = require("detect-port"),
-  spawn = require("child_process").spawn,
-  pluginsConfList;
+const metalsmith = require("metalsmith");
+const conf = require("./build.json");
+const source = conf.source;
+const destination = conf.destination;
+const assetsRev = process.env.ASSET_REV;
+const collectPhotos = require("./lib/metalsmith/collect-photos");
+const imageVariation = require("./lib/metalsmith/image-variation");
+const fileToMetadata = require("./lib/metalsmith/file-to-metadata");
+const tagLangFeed = require("./lib/metalsmith/tag-lang-feed");
+const renamer = require("metalsmith-renamer");
+const htmlMinifier = require("metalsmith-html-minifier");
+const ignore = require("metalsmith-ignore");
+const postcss = require("metalsmith-postcss2");
+const assets = require("metalsmith-assets");
+const define = require("metalsmith-define");
+const feed = require("metalsmith-feed");
+const msMoment = require("metalsmith-moment");
+const fileMetadata = require("metalsmith-filemetadata");
+const tags = require("metalsmith-tags");
+const layouts = require("metalsmith-layouts");
+const markdown = require("metalsmith-markdown");
+const collections = require("metalsmith-collections");
+const pagination = require("metalsmith-pagination");
+const permalinks = require("metalsmith-permalinks");
+const pdfize = require("metalsmith-pdfize");
+const brotli = require("metalsmith-brotli");
+const gzip = require("metalsmith-gzip");
+const zlib = require("zlib");
+const open = require("open");
+const detect = require("detect-port");
+const spawn = require("child_process").spawn;
 
 const DEV_ENV = process.argv.includes("--dev");
 const DEV_PORT = 50112;
@@ -49,8 +39,14 @@ conf.tags.slug = function (tag) {
   return tag.replace(/ /g, "-");
 };
 
+let styleRenamePlugin = function () {
+  return function (files, metalsmith, done) {
+    done();
+  };
+};
+
 if (assetsRev) {
-  renamedCss = "style-" + assetsRev + ".css";
+  const renamedCss = "style-" + assetsRev + ".css";
   console.log("Preparing style.css renaming to " + renamedCss);
 
   styleRenamePlugin = renamer;
@@ -89,7 +85,7 @@ const markdownConf = {
   },
 };
 
-pluginsConfList = [
+const pluginsConfList = [
   { plugin: define, conf: conf.define, name: "define", indev: true },
   { plugin: assets, conf: conf.assets, name: "assets", indev: true },
   { plugin: postcss, conf: undefined, name: "postcss", indev: true },
@@ -201,7 +197,7 @@ function timedPlugin(plugin, name) {
 }
 
 console.log("Generating the site");
-ms = metalsmith(__dirname).source(source);
+const ms = metalsmith(__dirname).source(source);
 
 pluginsConfList.forEach(function (pluginConf) {
   if ((DEV_ENV && pluginConf.indev) || !DEV_ENV) {

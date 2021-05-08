@@ -1,15 +1,15 @@
 /* global describe, it */
-var postCustomElements = require("../../lib/metalsmith/feed-postcustomelements.js"),
-  moment = require("moment"),
-  assert = require("assert");
+const postCustomElements = require("../../lib/metalsmith/feed-postcustomelements.js");
+const moment = require("moment");
+const assert = require("assert");
 
 describe("postCustomElements metalsmith-feed function", function () {
-  var tags = [
-      { name: "tag1", slug: "slug1" },
-      { name: "tag2", slug: "slug2" },
-    ],
-    published = moment(),
-    file = { title: "test", tags: tags, published: published };
+  const tags = [
+    { name: "tag1", slug: "slug1" },
+    { name: "tag2", slug: "slug2" },
+  ];
+  const published = moment();
+  const file = { title: "test", tags: tags, published: published };
 
   it("should return an augmented file", function () {
     const res = postCustomElements(file);
