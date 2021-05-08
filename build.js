@@ -186,20 +186,12 @@ const pluginsConfList = [
   { plugin: gzip, conf: conf.gzip, name: "gzip", indev: false },
 ];
 
-function timedPlugin(plugin, name) {
-  return function (files, metalsmith, done) {
-    console.time(name);
-    plugin(files, metalsmith, function () {
-      console.timeEnd(name);
-      done.apply(this, arguments);
-    });
-  };
-}
-
 console.log("Generating the site");
 const ms = metalsmith(__dirname).source(source);
 
 pluginsConfList.forEach(function (pluginConf) {
+  const timedPlugin = require("./lib/metalsmith/time");
+
   if ((DEV_ENV && pluginConf.indev) || !DEV_ENV) {
     ms.use(timedPlugin(pluginConf.plugin(pluginConf.conf), pluginConf.name));
   }
