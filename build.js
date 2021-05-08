@@ -78,11 +78,11 @@ conf.collections.blog.filterBy = filterOutVeilleFn;
 conf.collections.top.filterBy = keepTopPostFn;
 
 const markdownConf = {
-    highlight: function (code, lang) {
+    highlight: function (code, language) {
         const hljs = require('highlight.js');
 
-        if (lang) {
-            return hljs.highlight(lang, code).value;
+        if (language) {
+            return hljs.highlight(code, {language}).value;
         }
         return hljs.highlightAuto(code).value;
     },
