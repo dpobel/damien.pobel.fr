@@ -35,9 +35,7 @@ const spawn = require("child_process").spawn;
 const DEV_ENV = process.argv.includes("--dev");
 const DEV_PORT = 50112;
 
-conf.tags.slug = function (tag) {
-  return tag.replace(/ /g, "-");
-};
+conf.tags.slug = require("./lib/sluggify");
 
 let styleRenamePlugin = require("./lib/metalsmith/noop.js");
 if (assetsRev) {
