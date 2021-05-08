@@ -1,7 +1,7 @@
 # damien.pobel.fr source code
 
 [![Build
-Status](https://travis-ci.org/dpobel/damien.pobel.fr.svg?branch=master)](https://travis-ci.org/dpobel/damien.pobel.fr)
+Status](https://travis-ci.com/dpobel/damien.pobel.fr.svg?branch=main)](https://travis-ci.com/dpobel/damien.pobel.fr)
 
 Source code of [damien.pobel.fr](https://damien.pobel.fr/), see [Powered by
 Metalsmith (and Github, TravisCI, Myth,
