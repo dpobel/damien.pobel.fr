@@ -62,4 +62,5 @@
     <meta property="og:url" content="{{ path|url(site.url) }}">
     <meta property="og:type" content="article">
     <meta name="description" content="{{ description if description else contents|striptags|truncate(200) }}">
+    <link rel="canonical" href="{{ path|url(site.url) }}">
 {% endblock %}

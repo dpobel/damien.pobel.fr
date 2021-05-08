@@ -15,10 +15,20 @@ describe("Nunjucks filters", function () {
     });
 
     it("should use the prefix", function () {
-      const path = "blog",
-        prefix = "http://damien.pobel.fr";
+      const path = "blog";
+      const prefix = "http://damien.pobel.fr";
 
       assert.equal("http://damien.pobel.fr/blog/", filters.url(path, prefix));
+    });
+
+    it("should simplify multiple /", function () {
+      const path = "//blog/////slashes";
+      const prefix = "http://damien.pobel.fr";
+
+      assert.equal(
+        "http://damien.pobel.fr/blog/slashes/",
+        filters.url(path, prefix)
+      );
     });
 
     it("should skip the trailing slash for file", function () {
