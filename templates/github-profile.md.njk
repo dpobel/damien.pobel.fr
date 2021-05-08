@@ -3,7 +3,7 @@
 
 ## Quelques billets notables
 
-{% for post in collections.top -%}
+{% for post in collections.shortTop -%}
     * [{{post.title|safe}}]({{post.path|url(site.url)}})
 {% endfor %}
 

@@ -128,6 +128,12 @@
       "sortBy": "top-priority",
       "reverse": true
     },
+    "shortTop": {
+      "pattern": "post/*",
+      "sortBy": "top-priority",
+      "reverse": true,
+      "limit": 7
+    },
     "posts": {
       "pattern": "post/*",
       "sortBy": "published",
