@@ -1,128 +1,129 @@
 .cv {
-    line-height: 1.5;
+  line-height: 1.5;
 }
 
 .cv header {
-    display: flex;
+  display: flex;
 }
 
 .cv h1 {
-    border-bottom: 0;
-    font-size: 250%;
-    flex: 1 1 auto;
-    order: 2;
-    text-align: center;
-    align-self: center;
+  border-bottom: 0;
+  font-size: 250%;
+  flex: 1 1 auto;
+  order: 2;
+  text-align: center;
+  align-self: center;
 }
 
 .cv .bio {
-    list-style-type: none;
-    padding: 0;
-    flex: 0 1 auto;
-    order: 1;
+  list-style-type: none;
+  padding: 0;
+  flex: 0 1 auto;
+  order: 1;
 }
 
 .cv h2 {
-    border-bottom: 1px solid #eee;
-    padding-bottom: 3px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 3px;
 }
 
 .cv h3 {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .cv dd {
-    margin: 0;
+  margin: 0;
 }
 
 .cv .summary {
-    line-height: 1.9;
+  line-height: 1.9;
 }
 
 .cv abbr {
-    border-bottom: 1px dotted #333;
+  border-bottom: 1px dotted #333;
 }
 
 .cv .me {
-    font-size: 150%;
+  font-size: 150%;
 }
 
 .cv .address {
-    margin-top: 1em;
+  margin-top: 1em;
 }
 
 .cv .website {
-    margin-bottom: 1em;
+  margin-bottom: 1em;
 }
 
 .cv dl {
-    display: flex;
-    flex-wrap: wrap;
-    margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
 }
 
 .cv dt {
-    width: 20%;
-    font-weight: normal;
-    background: #eee;
-    color: #333;
+  width: 20%;
+  font-weight: normal;
+  background: #eee;
+  color: #333;
 }
 
 .cv dd {
-    width: 80%;
-    padding-left: 1em;
+  width: 80%;
+  padding-left: 1em;
 }
 
-.cv dd, .cv dt {
-    padding: 0.5em;
-    margin-top: 0.3em;
-    box-sizing: border-box;
+.cv dd,
+.cv dt {
+  padding: 0.5em;
+  margin-top: 0.3em;
+  box-sizing: border-box;
 }
 
 .cv dl ul {
-    padding: 0;
-    list-style-position: inside;
+  padding: 0;
+  list-style-position: inside;
 }
 
 .cv dl p {
-    margin: 0;
+  margin: 0;
 }
 
 .cv .tasks {
-    padding-left: 2em;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+  padding-left: 2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 .cv .tech {
-    margin: 0;
+  margin: 0;
 }
 
 .cv .overview {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .cv .keywords {
-    margin-top: 0.3em;
-    list-style-type: none;
-    padding: 0;
-    line-height: 1.6;
+  margin-top: 0.3em;
+  list-style-type: none;
+  padding: 0;
+  line-height: 1.6;
 }
 
 .cv .keywords li {
-    display: inline-block;
+  display: inline-block;
 }
 
 .cv .keywords li:after {
-    display: inline-block;
-    content: "-";
-    margin: 0 0.5em;
+  display: inline-block;
+  content: "-";
+  margin: 0 0.5em;
 }
 
 .cv .keywords li:last-of-type:after {
-    content: "";
+  content: "";
 }
 
 .cv .logo {
-    margin-top: 2em;
+  margin-top: 2em;
 }

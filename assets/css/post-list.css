@@ -1,54 +1,54 @@
 .post-list {
-    list-style-type: none;
-    padding: 0;
+  list-style-type: none;
+  padding: 0;
 }
 
 .post-list > li {
-    border-bottom: 1px solid #eee;
-    padding-bottom: 2em;
-    margin-bottom: 2em;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 2em;
+  margin-bottom: 2em;
 }
 
 .post-list h2 {
-    margin: 0;
-    line-height: 1.4;
-    padding-bottom: 0.5em;
+  margin: 0;
+  line-height: 1.4;
+  padding-bottom: 0.5em;
 }
 
 .post-list h2 a {
-    text-decoration: none;
-    display: block;
-    color: #002b56;
+  text-decoration: none;
+  display: block;
+  color: #002b56;
 }
 
 .post-list .post-meta {
-    padding: 0;
+  padding: 0;
 }
 
 .post-list article {
-    display: flex;
+  display: flex;
 }
 
 .page-list article {
-    display: block;
+  display: block;
 }
 
 .post-list .post-image {
-    flex: none;
-    margin: 0 0.5em 0 0;
-    max-height: 200px;
-    overflow-y: hidden;
+  flex: none;
+  margin: 0 0.5em 0 0;
+  max-height: 200px;
+  overflow-y: hidden;
 }
 
 .post-list .post-info {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
 
 @media (max-width: 550px) {
-    .post-list article {
-        display: block;
-    }
+  .post-list article {
+    display: block;
+  }
 }

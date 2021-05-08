@@ -1,20 +1,21 @@
 .post-meta {
-    padding: 1em 0;
-    display: flex;
-    justify-content: space-between;
+  padding: 1em 0;
+  display: flex;
+  justify-content: space-between;
 }
 
-.post-meta a, .post-meta {
-    text-decoration: none;
-    color: var(--meta-color);
+.post-meta a,
+.post-meta {
+  text-decoration: none;
+  color: var(--meta-color);
 }
 
 .post-meta .post-tags {
-    flex: 1;
+  flex: 1;
 }
 
 .post-meta time {
-    flex: 0;
-    text-align: right;
-    align-self: flex-end;
+  flex: 0;
+  text-align: right;
+  align-self: flex-end;
 }
