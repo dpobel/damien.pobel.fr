@@ -14,7 +14,6 @@ voir mes colis **ouverts** durant la livraison.
 J'ai le souvenir d'au moins un autre colis dans le même cas entre juillet et
 décembre 2013 mais je n'arrive pas à retrouver la photo…
 
-
 ## Coli Amazon du 28/12/2013 ouvert et abîmé pendant la livraison
 
 <figure class="object-center">

@@ -1,19 +1,19 @@
 .tag-cloud {
-    list-style-type: none;
-    padding: 0;
+  list-style-type: none;
+  padding: 0;
 }
 
 .tag-cloud li {
-    display: inline-block;
-    margin-right: 1em;
-    line-height: 1.5;
+  display: inline-block;
+  margin-right: 1em;
+  line-height: 1.5;
 }
 
 .tag-cloud a {
-    text-decoration: none;
-    color: var(--meta-color);
+  text-decoration: none;
+  color: var(--meta-color);
 }
 
 .tag::before {
-    content: '#';
+  content: "#";
 }

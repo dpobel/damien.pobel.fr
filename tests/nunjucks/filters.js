@@ -1,93 +1,87 @@
 /* global describe, it, beforeEach */
-var assert = require('assert'),
-    filters = require('../../lib/nunjucks/filters');
+var assert = require("assert"),
+  filters = require("../../lib/nunjucks/filters");
 
-describe('Nunjucks filters', function () {
-    describe('url', function () {
-        it('should be defined', function () {
-            assert.ok(typeof filters.url === 'function');
-        });
-
-        it('should add trailing slashes', function () {
-            var path = 'path';
-
-            assert.equal('/path/', filters.url(path));
-        });
-
-        it('should use the prefix', function () {
-            var path = 'blog',
-                prefix = 'http://damien.pobel.fr';
-
-            assert.equal('http://damien.pobel.fr/blog/', filters.url(path, prefix));
-        });
-
-        it('should skip the trailing slash for file', function () {
-            var path = 'path/to/file.jpg';
-
-            assert.equal('/path/to/file.jpg', filters.url(path, '', true));
-        });
+describe("Nunjucks filters", function () {
+  describe("url", function () {
+    it("should be defined", function () {
+      assert.ok(typeof filters.url === "function");
     });
 
-    describe('image_variation', function () {
-        beforeEach(function () {
-            func = filters.image_variation;
-        });
+    it("should add trailing slashes", function () {
+      var path = "path";
 
-        it('should be defined', function () {
-            assert.ok(typeof func === 'function');
-        });
-
-        it('should add the variation part', function () {
-            assert.equal(
-                'images/whatever/photo.jpg',
-                func('images/photo.jpg', 'whatever')
-            );
-        });
+      assert.equal("/path/", filters.url(path));
     });
 
-    describe('keys', function () {
-        var func;
+    it("should use the prefix", function () {
+      var path = "blog",
+        prefix = "http://damien.pobel.fr";
 
-        beforeEach(function () {
-            func = filters.keys;
-        });
-
-        it('should be defined', function () {
-            assert.ok(typeof func === 'function');
-        });
-
-        it('should return the array of object keys', function () {
-            var obj = {foo: '', bar: ''};
-
-            assert.deepEqual(
-                ['foo', 'bar'],
-                func(obj)
-            );
-        });
+      assert.equal("http://damien.pobel.fr/blog/", filters.url(path, prefix));
     });
 
-    describe('tag_info', () => {
-        const tags = {
-            'tag.html': {},
-        };
+    it("should skip the trailing slash for file", function () {
+      var path = "path/to/file.jpg";
 
-        beforeEach(function () {
-            func = filters.tag_info;
-        });
-
-        it('should return the tag info', () => {
-            assert.deepEqual(
-                tags['tag.html'],
-                func(tags, 'tag')
-            );
-        });
-
-        it('should return the default tag info', () => {
-            const tagName = 'whatever';
-            const info = func(tags, tagName);
-
-            assert.equal(tagName, info.title);
-            assert.equal("", info.contents);
-        });
+      assert.equal("/path/to/file.jpg", filters.url(path, "", true));
     });
+  });
+
+  describe("image_variation", function () {
+    beforeEach(function () {
+      func = filters.image_variation;
+    });
+
+    it("should be defined", function () {
+      assert.ok(typeof func === "function");
+    });
+
+    it("should add the variation part", function () {
+      assert.equal(
+        "images/whatever/photo.jpg",
+        func("images/photo.jpg", "whatever")
+      );
+    });
+  });
+
+  describe("keys", function () {
+    var func;
+
+    beforeEach(function () {
+      func = filters.keys;
+    });
+
+    it("should be defined", function () {
+      assert.ok(typeof func === "function");
+    });
+
+    it("should return the array of object keys", function () {
+      var obj = { foo: "", bar: "" };
+
+      assert.deepEqual(["foo", "bar"], func(obj));
+    });
+  });
+
+  describe("tag_info", () => {
+    const tags = {
+      "tag.html": {},
+    };
+
+    beforeEach(function () {
+      func = filters.tag_info;
+    });
+
+    it("should return the tag info", () => {
+      assert.deepEqual(tags["tag.html"], func(tags, "tag"));
+    });
+
+    it("should return the default tag info", () => {
+      const tagName = "whatever";
+      const info = func(tags, tagName);
+
+      assert.equal(tagName, info.title);
+      assert.equal("", info.contents);
+    });
+  });
 });

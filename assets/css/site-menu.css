@@ -1,24 +1,24 @@
 .site-menu {
-    background: #333;
+  background: #333;
 }
 
 .site-menu ul {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 0;
-    border-left: 1px solid #ccc;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0;
+  border-left: 1px solid #ccc;
 }
 
 .site-menu li {
-    display: table-cell;
-    vertical-align:middle;
-    list-style-type: none;
-    border-right: 1px solid #ccc;
+  display: table-cell;
+  vertical-align: middle;
+  list-style-type: none;
+  border-right: 1px solid #ccc;
 }
 
 .site-menu a {
-    text-decoration: none;
-    color: #fff;
-    padding: 0.8em 1em;
-    display: block;
+  text-decoration: none;
+  color: #fff;
+  padding: 0.8em 1em;
+  display: block;
 }

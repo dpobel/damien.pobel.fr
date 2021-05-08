@@ -1,24 +1,24 @@
 .rss {
-    background: #FF7400;
+  background: #ff7400;
 }
 
 .share h2 {
-    margin-top: 1em;
+  margin-top: 1em;
 }
 
 .share-networks {
-    padding: 0;
-    list-style-type: none;
+  padding: 0;
+  list-style-type: none;
 }
 
 .share-twitter {
-    background: #1B95E0;
+  background: #1b95e0;
 }
 
 .share-facebook {
-    background: #3F5C9A;
+  background: #3f5c9a;
 }
 
 .share-linkedin {
-    background: #1A85BC;
+  background: #1a85bc;
 }
