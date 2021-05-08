@@ -5,20 +5,20 @@ branches:
         - main
 
 cache:
-    yarn: true
+    npm: true
     directories:
         - web/images
 
 before_script:
-    - yarn run restorecache
+    - npm run restorecache
     - export ASSET_REV=`git log --pretty=%h -1 assets`
 
 script:
-    - yarn test
-    - yarn run build
+    - npm test
+    - npm run build
 
 after_success:
-    - yarn run deploy
+    - npm run deploy
 
 addons:
     apt_packages:
