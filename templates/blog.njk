@@ -21,3 +21,7 @@
         {% include "parts/last.njk" %}
     </aside>
 {% endblock %}
+
+{% block customMeta %}
+    <link rel="canonical" href="{{ path|url(site.url) }}">
+{% endblock %}
