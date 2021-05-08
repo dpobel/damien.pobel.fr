@@ -39,12 +39,7 @@ conf.tags.slug = function (tag) {
   return tag.replace(/ /g, "-");
 };
 
-let styleRenamePlugin = function () {
-  return function (files, metalsmith, done) {
-    done();
-  };
-};
-
+let styleRenamePlugin = require("./lib/metalsmith/noop.js");
 if (assetsRev) {
   const renamedCss = "style-" + assetsRev + ".css";
   console.log("Preparing style.css renaming to " + renamedCss);
