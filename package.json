@@ -18,7 +18,7 @@
   "author": "Damien Pobel",
   "license": "MIT",
   "devDependencies": {
-    "@metalsmith/permalinks": "^2.2.0",
+    "@metalsmith/permalinks": "^2.3.0",
     "async": "^3.2.0",
     "cheerio": "^1.0.0-rc.9",
     "consolidate": "^0.16.0",
