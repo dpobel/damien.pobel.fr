@@ -6,6 +6,7 @@
   --title-color: #444;
   --text-color: #555;
   --gutter-size: 25px;
+  --text-background: #fff;
 }
 
 body {
@@ -62,7 +63,7 @@ hr {
 }
 
 .page-content {
-  background: #fff;
+  background: var(--text-background);
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 1em 0;
@@ -123,7 +124,7 @@ hr {
 }
 
 .side-block .side-block-icon svg {
-  fill: #fff;
+  fill: var(--text-background);
   display: inline-block;
   height: 1.5em;
   width: 1.5em;
