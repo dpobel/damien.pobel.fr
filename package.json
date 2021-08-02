@@ -27,7 +27,7 @@
     "eslint": "^7.32.0",
     "gm": "^1.23.1",
     "highlight.js": "^11.0.1",
-    "imagemin": "^7.0.1",
+    "imagemin": "^8.0.0",
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegoptim": "^7.0.0",
     "imagemin-optipng": "^8.0.0",
