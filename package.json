@@ -19,7 +19,7 @@
   "license": "MIT",
   "devDependencies": {
     "@metalsmith/permalinks": "^2.3.0",
-    "async": "^3.2.0",
+    "async": "^3.2.1",
     "cheerio": "^1.0.0-rc.10",
     "consolidate": "^0.16.0",
     "cssnano": "^5.0.8",
