@@ -26,7 +26,6 @@
   padding: 0.5em;
   overflow: auto;
   word-wrap: normal;
-  white-space: pre;
 }
 
 .post-content p > code,
