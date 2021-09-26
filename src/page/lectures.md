@@ -9,6 +9,7 @@ updated: 2021-09-26
 
 * [L'affaire Caïus](https://www.livredepochejeunesse.com/l-affaire-caius-2138) (Henry Winterfeld)
 * [Utopies réalistes](https://www.seuil.com/ouvrage/utopies-realistes-rutger-bregman/9782021361872) (Rutger Bregman)
+* [L’entraide, l’autre loi de la jungle](http://www.editionslesliensquiliberent.fr/livre-L_Entraide-566-1-1-0-1.html) (Gauthier Chapelle / Pablo Servigne)
 * [Nous rêvions juste de liberté](https://editions.flammarion.com/nous-revions-juste-de-liberte/9782081307285) (Henri Lœvenbruck)
 * [La faute de l'orthographe](https://www.editionstextuel.com/livre/la-faute-de-lorthographe) (Arnaud Hoedt / Jérôme Piron)
 * [L'odyssée des gênes](https://editions.flammarion.com/lodyssee-des-genes/9782081428225) (Évelyne Heyer) ([résumé](/post/livre-l-odyssee-des-genes/))
