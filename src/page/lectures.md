@@ -7,6 +7,9 @@ updated: 2021-09-26
 
 ## 2021
 
+* [La vallée de la peur](https://fr.wikipedia.org/wiki/La_Vall%C3%A9e_de_la_peur) (Conan Doyle)
+* [Voyage au centre de la Terre](https://fr.wikipedia.org/wiki/Voyage_au_centre_de_la_Terre) (Jules Verne)
+* [Les gardiens de la raison](https://www.editionsladecouverte.fr/les_gardiens_de_la_raison-9782348046155) (Stéphane Foucart / Stéphane Horel / Sylvain Laurens)
 * [L'affaire Caïus](https://www.livredepochejeunesse.com/l-affaire-caius-2138) (Henry Winterfeld)
 * [Utopies réalistes](https://www.seuil.com/ouvrage/utopies-realistes-rutger-bregman/9782021361872) (Rutger Bregman)
 * [L’entraide, l’autre loi de la jungle](http://www.editionslesliensquiliberent.fr/livre-L_Entraide-566-1-1-0-1.html) (Gauthier Chapelle / Pablo Servigne)
