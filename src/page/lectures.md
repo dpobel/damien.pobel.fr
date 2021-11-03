@@ -41,7 +41,7 @@ updated: 2021-09-26
     * Tome 12 : L'Homme noir
     * Tome 13 : Adieux et Retrouvailles
 * [Le paradoxe de Fermi](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-SF/Le-paradoxe-de-Fermi) (Jean-Pierre Boudine)
-* [Le médias, le monde et nous](https://www.actes-sud.fr/catalogue/economie/les-medias-le-monde-et-nous) (Anne-Sophie Novel)
+* [Les médias, le monde et nous](https://www.actes-sud.fr/catalogue/economie/les-medias-le-monde-et-nous) (Anne-Sophie Novel)
 
 ## 2019
 
