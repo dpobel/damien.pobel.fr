@@ -7,6 +7,8 @@ updated: 2021-09-26
 
 ## 2021
 
+* [Caïus et le gladiateur](https://www.livredepochejeunesse.com/caius-et-le-gladiateur-2426) (Henry Winterfeld)
+* [Blade Runner](https://www.jailu.com/blade-runner/9782290094495) (Philip K. Dick)
 * [La vallée de la peur](https://fr.wikipedia.org/wiki/La_Vall%C3%A9e_de_la_peur) (Conan Doyle)
 * [Voyage au centre de la Terre](https://fr.wikipedia.org/wiki/Voyage_au_centre_de_la_Terre) (Jules Verne)
 * [Les gardiens de la raison](https://www.editionsladecouverte.fr/les_gardiens_de_la_raison-9782348046155) (Stéphane Foucart / Stéphane Horel / Sylvain Laurens)
