@@ -1,8 +1,6 @@
 sudo: required
 language: node_js
-branches:
-    only:
-        - main
+if: branch = main
 
 cache:
     npm: true
