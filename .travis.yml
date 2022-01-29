@@ -14,6 +14,7 @@ before_script:
     - export ASSET_REV=`git log --pretty=%h -1 assets`
 
 script:
+    - npm run lint
     - npm test
     - npm run build
 

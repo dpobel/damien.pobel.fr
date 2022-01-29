@@ -10,6 +10,7 @@
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --recursive tests",
+    "lint": "eslint && prettier -c .",
     "restorecache": "./bin/restore_cache.sh",
     "deploy": "./bin/deploy.sh",
     "build": "./build.js",
