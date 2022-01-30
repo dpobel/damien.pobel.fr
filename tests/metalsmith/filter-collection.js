@@ -22,9 +22,8 @@ describe("filter collection functions", function () {
   });
 
   describe("excludeWithoutMetadataFn", () => {
-    const excludeWithoutMeta = filterCollection.excludeWithoutMetadataFn(
-      propIdentifier
-    );
+    const excludeWithoutMeta =
+      filterCollection.excludeWithoutMetadataFn(propIdentifier);
 
     it("should keep post with the given meta set to true", function () {
       assert(excludeWithoutMeta({ [propIdentifier]: true }));

@@ -55,13 +55,15 @@ if (assetsRev) {
 conf.feed.preprocess = require("./lib/metalsmith/feed-postcustomelements.js");
 conf.tagLangFeed.preprocess = conf.feed.preprocess;
 
-const filterOutVeilleFn = require("./lib/metalsmith/filter-collection.js").excludeWithMetadataFn(
-  "weeklyTech"
-);
+const filterOutVeilleFn =
+  require("./lib/metalsmith/filter-collection.js").excludeWithMetadataFn(
+    "weeklyTech"
+  );
 
-const keepTopPostFn = require("./lib/metalsmith/filter-collection.js").excludeWithoutMetadataFn(
-  "top-priority"
-);
+const keepTopPostFn =
+  require("./lib/metalsmith/filter-collection.js").excludeWithoutMetadataFn(
+    "top-priority"
+  );
 
 conf.collections.lastPosts.filterBy = filterOutVeilleFn;
 conf.collections.blog.filterBy = filterOutVeilleFn;
