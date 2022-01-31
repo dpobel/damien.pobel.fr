@@ -1,0 +1,56 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.5.1
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Linting
+        run: npm run lint
+
+      - name: Installing graphicsmagick
+        run: sudo apt -y install graphicsmagick
+
+      - name: Test
+        run: npm test
+
+      - uses: actions/cache@v2
+        with:
+          path: web/images
+          key: "dp-images-2022-01-31"
+
+      - name: Restore cache
+        run: npm run restorecache
+
+      - name: Defining ASSET_REV
+        run: echo ASSET_REV=`git log --pretty=%h -1 assets` >> $GITHUB_ENV
+
+      - name: Build
+        run: npm run build
+
+      - name: Deploy
+        run: npm run deploy
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          ENCRYPT_KEY: ${{ secrets.ENCRYPT_KEY }}
