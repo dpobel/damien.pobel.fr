@@ -37,7 +37,7 @@
     "metalsmith": "^2.4.1",
     "metalsmith-assets-2": "dpobel/metalsmith-assets-2#no-more-merge",
     "metalsmith-brotli": "^2.0.0",
-    "metalsmith-collections": "segmentio/metalsmith-collections.git#v1.2.0",
+    "metalsmith-collections": "segmentio/metalsmith-collections.git#v1.2.1",
     "metalsmith-define": "^2.1.3",
     "metalsmith-feed": "^1.0.0",
     "metalsmith-filemetadata": "^2.1.0",
