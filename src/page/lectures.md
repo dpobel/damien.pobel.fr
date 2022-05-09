@@ -1,9 +1,14 @@
 ---
 title: Lectures
-updated: 2021-09-26
+updated: 2022-05-09
 ---
 
 # Lectures
+
+## 2022
+
+* [Le Pouvoir rhétorique](https://www.seuil.com/ouvrage/le-pouvoir-rhetorique-clement-viktorovitch/9782021465877) (Clément Viktorovitch)
+* [Aux origines de la catastrophe](http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html) (sous la direction de Pablo Servigne et Raphaël Stevens)
 
 ## 2021
 
