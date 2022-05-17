@@ -34,7 +34,7 @@
     "imagemin-optipng": "^8.0.0",
     "imagemin-svgo": "^9.0.0",
     "jstransformer-nunjucks": "^1.0.0",
-    "metalsmith": "^2.4.2",
+    "metalsmith": "^2.4.3",
     "metalsmith-assets-2": "dpobel/metalsmith-assets-2#no-more-merge",
     "metalsmith-brotli": "^2.0.0",
     "metalsmith-collections": "segmentio/metalsmith-collections.git#v1.2.1",
