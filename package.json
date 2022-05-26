@@ -21,7 +21,7 @@
   "devDependencies": {
     "@metalsmith/permalinks": "^2.4.0",
     "async": "^3.2.3",
-    "cheerio": "^1.0.0-rc.10",
+    "cheerio": "^1.0.0-rc.11",
     "consolidate": "^0.16.0",
     "cssnano": "^5.1.9",
     "detect-port": "^1.3.0",
