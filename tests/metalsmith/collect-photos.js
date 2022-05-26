@@ -1,7 +1,7 @@
 /* global describe, it, beforeEach */
 const assert = require("assert");
 const metalsmith = require("metalsmith");
-const collections = require("metalsmith-collections");
+const collections = require("@metalsmith/collections");
 const tags = require("metalsmith-tags");
 const collectPhotos = require("../../lib/metalsmith/collect-photos");
 
