@@ -12,7 +12,7 @@ const tagLangFeed = require("./lib/metalsmith/tag-lang-feed");
 const renamer = require("metalsmith-renamer");
 const htmlMinifier = require("metalsmith-html-minifier");
 const ignore = require("@metalsmith/remove");
-const postcss = require("metalsmith-postcss2");
+const postcss = require("@metalsmith/postcss");
 const assets = require("metalsmith-assets-2");
 const define = require("metalsmith-define");
 const feed = require("metalsmith-feed");
@@ -83,7 +83,12 @@ const markdownConf = {
 const pluginsConfList = [
   { plugin: define, conf: conf.define, name: "define", indev: true },
   { plugin: assets, conf: conf.assets, name: "assets", indev: true },
-  { plugin: postcss, conf: undefined, name: "postcss", indev: true },
+  {
+    plugin: postcss,
+    conf: require("./postcss.config.js"),
+    name: "postcss",
+    indev: true,
+  },
   { plugin: ignore, conf: conf.ignore, name: "ignore", indev: true },
   { plugin: msMoment, conf: conf.moment, name: "moment", indev: true },
   { plugin: tags, conf: conf.tags, name: "tags", indev: true },
