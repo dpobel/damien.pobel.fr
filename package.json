@@ -46,7 +46,7 @@
     "metalsmith-filemetadata": "^3.0.0",
     "metalsmith-gzip": "^1.1.0",
     "metalsmith-html-minifier": "^4.0.1",
-    "metalsmith-moment": "^2.2.0",
+    "metalsmith-moment": "^3.0.0",
     "metalsmith-pagination": "^1.5.0",
     "metalsmith-pdfize": "^3.0.0",
     "metalsmith-postcss2": "^2.0.0",
