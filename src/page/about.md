@@ -16,7 +16,7 @@ Dans la vraie vie, je suis l'heureux papa de deux petites filles nommées
 Charline et Clémentine. J'aime le sport ([vtt](http://vtt.revermont.bike/),
 tennis de table,&nbsp;…), la nature et j'essaie de prendre [des
 photos](/tag/photo/). J'habite dans un petit village en France appelé
-[Saint-Paul de-Varax](http://mairie-saintpauldevarax.fr/).
+[Hérépian](https://www.mairieherepian.fr/).
 
 ## du contenu
 
