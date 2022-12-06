@@ -52,7 +52,7 @@
     "metalsmith-pdfize": "^3.0.0",
     "metalsmith-renamer": "^0.5.25",
     "metalsmith-tags": "^2.1.0",
-    "minimatch": "^5.1.0",
+    "minimatch": "^5.1.1",
     "mocha": "^10.1.0",
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.3",
