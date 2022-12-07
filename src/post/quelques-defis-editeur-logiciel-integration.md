@@ -1,6 +1,6 @@
 ---
-title: "Quelques défis lié à l'édition d'un logiciel destiné à être intégré"
-tags: travail, métier
+title: "Quelques défis liés à l'édition d'un logiciel destiné à être intégré"
+tags: travail, métier, code
 lang: fr
 published: 2022-12-07
 photos:
