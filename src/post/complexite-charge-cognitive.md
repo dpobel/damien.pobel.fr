@@ -49,7 +49,7 @@ Ce point est pour une bonne part une question d'état d'esprit.
 > pour pouvoir intervenir sur le projet.
 
 Tout le problème réside dans le fait que la complexité est à la fois très
-attrayante intellectuellement et particulièrement gênante sur le longtemps terme
+attrayante intellectuellement et particulièrement gênante sur le long terme
 dès qu'il s'agira de maintenir et de faire évoluer un bout de code trop
 complexe.
 
