@@ -30,7 +30,7 @@
     "consolidate": "^0.16.0",
     "cssnano": "^5.1.14",
     "detect-port": "^1.5.1",
-    "eslint": "^8.29.0",
+    "eslint": "^8.30.0",
     "gm": "^1.23.1",
     "highlight.js": "^11.7.0",
     "imagemin": "^7.0.1",
