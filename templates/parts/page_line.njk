@@ -4,7 +4,7 @@
         {% set date = page.updated if page.updated else page.published %}
         <a href="{{ page.path|url }}">
             Dernière mise à jour
-            <time datetime="{{ date.format('YYYY-MM-DD') }}">le {{ date.format('DD/MM/YYYY') }}</time>
+            <time datetime="{{ date.format('YYYY-MM-DD') }}">le {{ date.format('DD MMM YYYY') }}</time>
         </a>
     </div>
 </article>

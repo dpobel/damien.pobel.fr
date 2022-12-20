@@ -186,6 +186,8 @@ const pluginsConfList = [
   { plugin: gzip, conf: conf.gzip, name: "gzip", indev: false },
 ];
 
+// TODO: this is probably not the right place for that
+require("moment").locale("fr");
 console.log("Generating the site");
 const ms = metalsmith(__dirname).source(source);
 

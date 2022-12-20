@@ -10,7 +10,7 @@
             {% set tags = post.tags %}
             {% include "parts/tags.njk" %}
             <time datetime="{{ post.published.format('YYYY-MM-DD') }}">
-                <a href="{{ post.path|url }}">{{ post.published.format('DD/MM/YYYY') }}</a>
+                <a href="{{ post.path|url }}">{{ post.published.format('DD MMM YYYY') }}</a>
             </time>
         </div>
     </div>
