@@ -14,7 +14,7 @@
 
     <footer class="post-meta">
         {% include "parts/tags.njk" %}
-        <time datetime="{{ published.format('YYYY-MM-DD') }}">{{ published.format('DD/MM/YYYY') }}</time>
+        <time datetime="{{ published.format('YYYY-MM-DD') }}">{{ published.format('DD MMM YYYY') }}</time>
         <ul class="navigation">
             {# previous / next are inverted #}
             {% if next %}
