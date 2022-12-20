@@ -1,7 +1,7 @@
 /* TEAM */
     Owner: Damien Pobel
     Twitter: dpobel
-    From: St-Paul-de-Varax, France
+    From: Hérépian, France
 
 /* SITE */
     Standards: HTML5, CSS3
