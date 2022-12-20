@@ -14,7 +14,7 @@
       { "path": "page/about", "name": "à propos" }
     ],
     "more": {
-      "photo": { "path": "tag/photo", "name": "More photos" }
+      "photo": { "path": "tag/photo", "name": "Voir plus de photos" }
     },
     "sections": {
       "blog": {
