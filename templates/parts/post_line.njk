@@ -1,7 +1,7 @@
 <article lang="{{ post.lang|default('fr', true) }}">
     {% if post.photos %}
     <figure class="post-image">
-        <a href="{{ post.path|url }}" class="post-image"><img src="/{{ post.photos[0]|image_variation('200x') }}" alt="Miniature de {{ post.title }}" loading="lazy"></a>
+        <a href="{{ post.path|url }}" class="post-image"><img src="/{{ post.photos[0]|image_variation('200x') }}" alt="Miniature de '{{ post.title }}'" loading="lazy"></a>
     </figure>
     {% endif %}
     <div class="post-info">
