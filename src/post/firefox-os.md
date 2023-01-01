@@ -20,8 +20,8 @@ engine behind Firefox). As a result in Firefox OS, almost everything is built
 with HTML5, CSS3 and JavaScript.
 
 From a technical point of view, this is just a brilliant and exciting idea!
-Those technologies are open and standardized. And [to start developping your own
-applications](https://marketplace.firefox.com/developers/docs/quick_start), you
+Those technologies are open and standardized. And to start developping your own
+applications, you
 just need your preferred text editor and a recent version of Firefox!
 
 I'm very happy with Android 4.2 on my Nexus 4 but I'd really like to start using

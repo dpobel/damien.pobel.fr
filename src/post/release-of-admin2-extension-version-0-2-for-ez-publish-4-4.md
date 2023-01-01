@@ -8,9 +8,9 @@ updated: 2016-02-12 12:21
 ---
 
 [As I said on Twitter](http://twitter.com/dpobel/status/8137642751295488), I
-started again to develop [the admin2++ eZ Publish
-extension](http://projects.ez.no/admin2pp), and the result is **[the release of
-the version 0.2](http://projects.ez.no/admin2pp/downloads/admin2_0_2)**. As I
+started again to develop the admin2++ eZ Publish
+extension, and the result is **the release of
+the version 0.2**. As I
 previously wrote in [Frontend performance enhancements with admin2++ eZ Publish
 extension](/post/frontend-performance-enhancements-with-admin2-ez-publish-extension)
 and in [GUI enhancements with admin2++ eZ Publish
@@ -30,6 +30,6 @@ As you can see, the biggest new feature of this release is the preview available
 in the popup menu. Instead of loading a new page with the preview, admin2++
 provides a view of the object in the front end *siteaccesses* without any page
 refresh. I also made a big work to preload as much components as possible on the
-login form to fill the browser's cache. [With the use of the right Apache
-configuration](http://websvn.projects.ez.no/wsvn/admin2pp/trunk/extension/admin2pp/doc/apache2/expires.conf),
+login form to fill the browser's cache. With the use of the right Apache
+configuration,
 this has a great impact on the page loading time.

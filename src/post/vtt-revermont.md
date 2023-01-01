@@ -48,6 +48,5 @@ avec Leaflet et des fonds de cartes IGN,…) mais les détails seront pour de
 futurs billets.
 
 Ah, j'allais oublier, Revermont.bike est évidemment sur
-[Twitter](https://twitter.com/Revermont_bike) et
-[Google+](https://plus.google.com/107813370030366851762/posts) et si certains
+[Twitter](https://twitter.com/Revermont_bike) et si certains
 veulent venir rouler dans le Revermont, faites moi signe&nbsp;!&nbsp;:-)

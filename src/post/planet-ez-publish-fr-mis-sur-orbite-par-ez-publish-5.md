@@ -8,16 +8,12 @@ published: 2012-12-13T12:05:50+01:00
 updated: 2016-02-12 12:13
 ---
 
-([English version available on share.ez.no](http://share.ez.no/blogs/damien-pobel/planet-ez-publish.fr-orbited-by-ez-publish-5))
-
-
-Comme annoncé via
+Comme annoncé *via*
 [Twitter](https://twitter.com/dpobel/status/276627335921414144) il y
 a une semaine, le Planet eZ Publish.fr est
-dorénavant mis sur orbite par [eZ Publish
-5](http://ez.no/fr/Produits/eZ-Publish-5-Platform) (en réalité des *clones*
-github du 04/12/2012 soit quelque part entre la version 5.0 et [les futures
-2012.11/2012.12](http://share.ez.no/downloads/downloads)). Pour autant que je
+dorénavant mis sur orbite par eZ Publish 5 (en réalité des *clones*
+github du 04/12/2012 soit quelque part entre la version 5.0 et les futures
+2012.11/2012.12). Pour autant que je
 sache, il s'agit du premier site utilisant eZ Publish 5 ou au moins qui ne se
 contente pas d'utiliser le *fallback* sur la partie legacy (ie eZ Publish 4.x).
 En effet, j'ai tenté de ré-implémenter au maximum le site dans la nouvelle pile
@@ -47,7 +43,7 @@ Au final, il reste 3 fonctionnalités basées sur la partie *legacy* :
   flemme :-)
 
 À l'inverse, le reste du site n'utilise que les nouvelles API et le moteur de
-template [Twig](http://twig.sensiolabs.org/):
+template Twig:
 
 * [Les différentes
   vues](https://github.com/dpobel/planet-ezpublish.fr/tree/master/planet/src/Planet/PlanetBundle/Resources/views/full)des
@@ -70,7 +66,7 @@ version majeure en point 0, le contraire aurait été très étonnant, mais il y
 aussi des manques plus globaux.
 
 
-D'une manière générale, [l'API publique](http://apidoc.ez.no/) est très
+D'une manière générale, l'API publique est très
 verbeuse. J'ai publié [un gist](https://gist.github.com/3983418) qui compare le
 code nécessaire pour récupérer une liste de nœuds triée par priorité dans
 l'ancienne et la nouvelle API. Je crois que le constat est assez clair. Pour

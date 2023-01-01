@@ -5,6 +5,7 @@ node: "66665"
 remoteId: "ba523002ccdfe9b3b56492e8ea74f056"
 published: 2008-02-16T15:27:29+01:00
 updated: 2016-02-10 08:45
+lang: en
 ---
 
 For me it's probably one of the most expected feature in [eZ
@@ -21,7 +22,7 @@ Gecko](http://en.wikipedia.org/wiki/Gecko_%28layout_engine%29#Usage) (Firefox
 two code bases for two navigator families&nbsp;! It's also more flexible as we can
 add or remove buttons and functionnalities (like an underline button). After
 reading the document and a small test, there is one feature I would like to see,
-it is the hability to easily customize the drop down list (paragraph,
+it is the ability to easily customize the drop down list (paragraph,
 preformatted, headings) with others styles / tags like [the style configuration
 in
 FCKEditor](http://docs.fckeditor.net/FCKeditor_2.x/Developers_Guide/Configuration/Styles).

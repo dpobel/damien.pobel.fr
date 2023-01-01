@@ -7,12 +7,11 @@ remoteId: "2a2911915a6591978b28a019c0fa0f9d"
 published: 2006-11-08T00:54:18+01:00
 updated: 2016-02-09 22:46
 ---
- 
+
 Aaaaaah ça fait deux soirs de suite que je m'arrache les cheveux avec
-[l'extension SOAP de PHP5](http://fr.php.net/manual/en/ref.soap.php). Suite à
-mon billet sur [les idées de
-développements](/post/des-idees-plein-d-idees-trop-d-idees), je me suis dit que
-le logiciel de suivi de référencement pouvait être un projet intéressant. Je me
+[l'extension SOAP de PHP5](http://fr.php.net/manual/en/ref.soap.php). J'étudie
+la possibilité d'écrire un
+logiciel de suivi de référencement. Je me
 suis donc mis en tête de voir la faisabilité du code et comment je pourrais
 organiser tout ça en PHP. Dans un premier temps, il faut pouvoir un interroger
 les moteurs de recherche pour reccueillir des informations. Je me documente donc
@@ -25,7 +24,7 @@ comme je cherche à faire *propre* je n'utilise pas de requêtes [HTTP POST avec
 curl](http://fr.php.net/manual/en/ref.curl.php) voire une socket… Il y a une
 API, autant l'utiliser.
 
- 
+
 J'en suis donc là :
 
  ``` php
@@ -39,7 +38,7 @@ class GoogleAPI extends SearchEngine
     static $name='Google API';
     private $cache;
     private $googleKey;
-    
+
     function __construct()
     {
         $this->cache = array();
@@ -58,7 +57,7 @@ class GoogleAPI extends SearchEngine
         $keyCache = self::key($query);
         $options = array('soap_version'  => SOAP_1_1, 'trace' => true, 'exceptions' => true);
         $soap = new SOAPClient("settings/GoogleSearch.wsdl", $options);
-        try 
+        try
         {
             $result = $soap->doGoogleSearch($this->googleKey, $query, 0, 100, false, '',false, '','','');
         }
@@ -98,7 +97,7 @@ class GoogleAPI extends SearchEngine
 }
 ```
 
- 
+
 Mais ça ne marche pas :(
 
 Après beaucoup d'essais avec différentes syntaxes, je tombe invariablement sur
@@ -110,7 +109,7 @@ seul](http://groups.google.com/groups/search?q=No%20Deserializer%20found%20to%20
 No Deserializer found to deserialize a ':key' using encoding style 'http://schemas.xmlsoap.org/soap/encoding/'.
 ```
 
- 
+
 En comparant le message SOAP fait dans le script shell et celui générer par PHP,
 je me suis rendu compte que les paramètres dans la requête PHP ne sont pas typés
 (avec l'attribute xsi:type) et du coup le web service chez Google n'est pas
@@ -120,18 +119,18 @@ WSDL api.google.com/GoogleSearch.wsdl, il paraîtrait logique que par
 défaut le web service les prenne tel que définit dans celui-ci, mais ce n'est
 pas le cas…
 
- 
+
 En tout cas [ce bug a déjà été reporté](http://bugs.php.net/bug.php?id=37523) et
 même corrigé dans [la version 5.2.0 de PHP](http://fr.php.net/ChangeLog-5.php).
 Pour en revenir au code, si je veux qu'il fonctionne à nouveau en l'état, il me
 faut passer à cette nouvelle version.
 
- 
+
 Une dernier truc amusant en passant, mêmes les ingénieurs de chez Google font
 des fautes de frappe, la preuve dans les entêtes HTTP renvoyées par leur serveur
 on peut lire :
 
- ``` 
+ ```
 HTTP/1.1 500 Internal Server Error
 Content-Type: text/xml; charset=utf-8
 Cache-control: private

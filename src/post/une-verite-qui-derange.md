@@ -7,20 +7,20 @@ node: "61970"
 remoteId: "df16592b48222d8e09f82d55b1c2a4d0"
 published: 2006-10-16T00:24:58+02:00
 ---
- 
+
 
 
 <figure class="object-left"><a href="/images/affiche-du-film-une-verite-qui-derange.jpg"><img loading="lazy" src="/images/330x/affiche-du-film-une-verite-qui-derange.jpg" alt="Affiche du film Une vérité qui dérange">
 </a></figure>
 
 
-Comme [je l'avais annoncé](/post/a-lire-a-voir-a-mediter-environnement) il y'a
+Il y'a
 peu, je suis allé voir le film [Une vérité qui
 dérange](http://www.criseclimatique.fr/) au cinéma. Et c'est vraiment un très
 bon documentaire, très bien fait, facile à comprendre et bourré d'informations
 et de petits détails intéressants.
 
- 
+
 Ce film est en fait calqué sur une conférence d'[Al
 Gore](http://fr.wikipedia.org/wiki/Al_Gore) entrecoupée de passages en relation
 avec son implication pour cette cause. J'y ai appris pas mal de choses et
@@ -28,7 +28,7 @@ pourtant je suis déjà, je pense, assez sensibilisé au problème du réchauffe
 climatique et aux actions à entreprendre pour le contrer. *L'ex-futur président
 des États Unis* reprend point par point les fausses idées et les faux arguments
 autour du réchauffement et les démonte un à un.
- 
+
 Parmis les divers détails et situations précisés dans le film, trois points
 autour du dérèglement climatique ont particulièrement retenu mon attention :
 
@@ -45,8 +45,8 @@ autour du dérèglement climatique ont particulièrement retenu mon attention :
   environnementales était un ex-employé d'une compagnie pétrolière avant de
   démissionner suite à une faute et pour être à nouveau employé d'une autre
   compagnie pétrolière dès le lendemain… ça se passe de commentaire.
- 
- 
+
+
 Ce film réussit aussi à faire passer un message sans tomber dans le
 fatalisme, il finit même par une note plutôt positive sur la possibilité de
 contrer ce phénomène si on y met tous un peu du sien.

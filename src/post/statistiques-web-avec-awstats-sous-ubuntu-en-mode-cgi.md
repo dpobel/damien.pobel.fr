@@ -7,12 +7,8 @@ remoteId: "41b20c2a9e984b76efd4f822590910a7"
 published: 2007-01-23T22:47:36+01:00
 updated: 2016-02-12 13:33
 ---
- 
-Comme je l'écrivais dans [mon précédent billet](/post/migration-sur-dedipwet),
-après avoir migré mon site en [eZ publish](), il me restait (entre autres
-choses) à configurer les statistiques de [pwet.fr]() pour terminer la migration
-de ce site [sur ma
-Dedibox](/post/une-dedibox-en-moins-de-temps-qu-il-en-faut-pour-le-dire). Il
+
+Il
 existe beaucoup d'outils de statistiques web, personnellement j'utilise
 [AWstats](http://awstats.sourceforge.net/) car il est assez précis, il peut être
 consulter via un CGI ou génèrer des pages HTML statiques et il propose pas mal
@@ -21,15 +17,15 @@ CGI et mes statistiques sont mises à jour une fois par jour lors de la rotation
 des logs avec
 [logrotate](http://pwet.fr/man/linux/administration_systeme/logrotate).
 
- 
+
 Cette configuration fonctionne sans problèmes sous Ubuntu Edgy Eft et ne devrait
 pas être très différentes sous les précédentes versions d'Ubuntu, sous Debian et
 moyennant quelques petites modifications sous tout *Unix like*.
 
-  
+
 ## Installation et configuration de AWStats
 
- 
+
 Comme d'habitude sous Ubuntu, il existe un paquet pour installer AWStats, il
 suffit donc de l'installer avec
 [synaptic](http://pwet.fr/man/linux/administration_systeme/synaptic) (ou
@@ -45,10 +41,10 @@ AWStats se configure à l'aide d'un fichier texte stocké dans /etc/awstats. Le 
 $ sudo cp /etc/awstats/awstats.conf /etc/awstats/awstats.DOMAINECONSULTATION.TLD.conf
 ```
 
- 
+
 où DOMAINECONSULTATION.TLD est le domaine par lequel les statistiques seront accessibles. Pour ma part, je les consulte par `http://pwet.fr/stats/`, mon fichier est donc awstats.pwet.fr.conf. Si je les consultais via `http://www.pwet.fr/stats/`, ce serait awstats.www.pwet.fr.conf.
 
- 
+
 Il faut ensuite éditer ce fichier et modifier quelques paramètres pour les adapter à votre configuration (les commentaires dans ce fichier sont très utiles) :
 
  * `LogFile` : le chemin complet vers le fichier de log d'Apache (par exemple /var/log/apache/access.domaine.tld.log)
@@ -60,15 +56,15 @@ Il faut ensuite éditer ce fichier et modifier quelques paramètres pour les ada
  * `AllowFullYearView` : 3 pour pouvoir voir les stats sur une année
  * `AllowAccessFromWebToAuthenticatedUsersOnly` : mettre 1 pour obliger l'identification HTTP
  * `AllowAccessFromWebToFollowingAuthenticatedUsers` : mettre le ou les logins (séparés par des espaces) des personnes ayant accès aux stats.
- 
+
 Dans le cadre de ce document, le reste des options ne nécessite pas de
 modification ou de valeur particulière. Personnellement, je met mon IP dans
 `SkipHosts` pour m'exclure des statistiques.
 
-   
+
 ## Rotation des logs avec logrotate et mise à jour des statistiques
 
- 
+
 Maintenant qu'AWStats est configuré correctement, il faut lui faire génèrer les
 statistiques. Pour cela, il est possible d'utiliser
 [logrotate](http://pwet.fr/man/linux/administration_systeme/logrotate) qui en
@@ -105,7 +101,7 @@ dans /etc/logrotate.d et y mettre&nbsp;:
 }
 ```
 
- 
+
 Il est important de recharger (reload)
 [apache](http://pwet.fr/man/linux/administration_systeme/apache) après le
 changement de fichiers de logs, sinon celui se plaindera de nous pouvoir écrire
@@ -113,7 +109,7 @@ dans ses fichiers. Pour que la mise à jour fonctionne, il faut biensûr que le
 paramètre -config de AWStats soit en accord avec le nommage du fichier de
 configuration.
 
- 
+
 Petite précision sur la génération des statistiques, si vous avez déjà un stock
 de logs, il faudra les traiter avant et dans l'ordre chronologique. Si il sont
 déjà *gzippé* dans un répertoire, ceci peut se faire avec un morceau de
@@ -129,10 +125,10 @@ for f in *.log.gz ; do
 done
 ```
 
-   
+
 ## Consultation en mode CGI
 
- 
+
 Maintenant que les statistiques sont générées, il ne reste plus qu'à permettre
 leur consultation via le web. La configuration suivante incorporée au
 VirtualHost de mon site permet de consulter les statistiques via le /stats&nbsp;:
@@ -157,7 +153,7 @@ Alias /stats /usr/lib/cgi-bin/
 </Directory>
 ```
 
- 
+
 Pour que cela fonctionne, il faut que les modules alias, auth et cgi soit
 activée (utiliser
 [apache-modconf](http://pwet.fr/man/linux/administration_systeme/apache_modconf)

@@ -14,13 +14,13 @@ significative. Par exemple [le CMS eZ Publish](/tag/ez-publish) depuis [sa
 version
 3.10](/post/url-aliases-transformed-into-numbers-when-upgrading-to-ez-publish-3-10-0)
 utilise un système assez complexe (en code) mais très souple permettant de
-produire [des URLs selon le format de son
-choix](http://ez.no/doc/ez_publish/technical_manual/3_10/features/multi_language_support_for_url_aliases)
+produire des URLs selon le format de son
+choix
 (avec ou sans majuscule, en conservant ou non les accents, les espaces, choix du
 séparateur,…). Si, on ne trouve pas son bonheur on peut même écrire une
-extension pour un formatage sur mesure, voir par exemple [celle de Damien Pitard
+extension pour un formatage sur mesure, voir par exemple celle de Damien Pitard
 sur
-ez.no](http://ez.no/developer/contribs/applications/dpgnu_dp_google_news_url)
+ez.no
 optimisant les URLs pour l'indexation de contenu dans Google
 Actualités.
 

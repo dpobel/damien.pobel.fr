@@ -21,11 +21,11 @@ Même si comme le dit Roland Benedetti (Managing Director eZ Systems France),
 telle audience fut une surprise pour tout le monde. Ayant une intervention de
 prévue en fin d'après midi, c'était aussi un peu de challenge en plus pour moi
 :-) Il est aussi agréable de pouvoir mettre un visage sur différents noms
-rencontrés par mail, sur les forums ou via [mon blog](/).
+rencontrés par mail, sur les forums ou via ce site.
 
 
-Pendant la première partie de l'après midi, nous avons donc pu écouter [Paul
-Borgermans](http://walhalla.wordpress.com/) responsable du eZ Labs (la partie
+Pendant la première partie de l'après midi, nous avons donc pu écouter Paul
+Borgermans responsable du eZ Labs (la partie
 R&amp;D d'eZ Systems) nous présenter les orientations et les nouveautés
 techniques autour d'[eZ Publish 4](/tag/ez-publish) et des extensions.
 
@@ -36,19 +36,19 @@ techniques autour d'[eZ Publish 4](/tag/ez-publish) et des extensions.
 Une version beta devrait sortir d'ici quelques jours alors que la version finale
 est attendue pour novembre 2007. [Comme prévu, la version
 4.0](/post/ez-publish-4-alpha-1-et-beaucoup-d-autres-choses) sera un portage de
-la version 3.10 avec la possibilité d'utilisé les [eZ
-Components](http://ezcomponents.org) dans les extensions.
+la version 3.10 avec la possibilité d'utilisé les eZ
+Components dans les extensions.
 
 
 Une version 4.x devrait sortir en début d'année 2008 qui devrait, elle, apporter
 beaucoup de nouveautés avec l'intégration réelle de certains *Components* comme
-[Database](http://ezcomponents.org/docs/tutorials/Database),
-[Template](http://ezcomponents.org/docs/tutorials/Template)
+Database,
+Template
 et peut être
-[Workflow](http://ezcomponents.org/docs/tutorials/Workflow),
-[Authentication](http://ezcomponents.org/docs/tutorials/Authentication)
-ou [Persistent
-Object](http://ezcomponents.org/docs/tutorials/PersistentObject).
+Workflow,
+Authentication
+ou Persistent
+Object.
 Cette version obligera donc à modifier les *templates*. L'ancien système de
 *template* sera abandonné mais pour faciliter la transition, un utilitaire
 devrait être fournit pour transformer les templates conçus avec l'ancienne
@@ -60,14 +60,13 @@ de 4.x sera fonction du degré de rupture par rapport à la version 4.0.
 
 Une autre priorité sera la sortie de produits mieux testés, pour cela, l'équipe
 d'eZ Labs a semble t il mis au point un système de tests poussés basé sur
-[Buildbot](http://buildbot.net/trac) et
+Buildbot et
 [Selenium](http://docs.seleniumhq.org/).
 
 Enfin, Paul nous a confié quelques orientations futures sur le développement,
 j'ai retenu en vrac :
 
-* l'amélioration [du mode
-  Cluster](http://ez.no/doc/ez_publish/technical_manual/3_10/features/clustering)
+* l'amélioration du mode Cluster
   pour permettre l'utilisation de plus de SGBD et permettre le stockage de
   données à différents endroits selon leur type (DB, serveur NAS,…)
 * le support de plus de système de base de données (MSSQL, Oracle, DB2,…)
@@ -87,15 +86,13 @@ PHP5 est à la fois une épreuve et une opportunité pour les développeurs.
 ## Extensions eZ Find et eZ Flow
 
 
-Paul nous a aussi présenter les nouveautés à venir d'[eZ
-Find](https://doc.ez.no/Extensions/eZ-Publish-extensions/eZ-Find), l'extension de recherche pour eZ Publish basé sur
+Paul nous a aussi présenter les nouveautés à venir d'eZ
+Find, l'extension de recherche pour eZ Publish basé sur
 [le projet Solr](http://lucene.apache.org/solr/). Une nouvelle version stable
 (1.1) est attendue pour le mois de novembre avec le support &quot;basique&quot;
 des &quot;facets&quot;. Les &quot;facets&quot; sont en fait des propositions
 automatiques faites à l'internautes permettant de raffiner sa recherche. La
-plupart des sites de e-commerces proposent cette solution (par exemple
-[rechercher &quot;nikon&quot; sur la
-FNAC](http://www3.fnac.com/search/quick.do?text=nikon&amp;category=all))
+plupart des sites de e-commerces proposent cette solution.
 
 
 Bertrand Maugain nous a aussi fait une démonstration de l'extension eZ Flow, une
@@ -141,6 +138,4 @@ aller plus loin :
 Cette journée a vraiment été très instructive et intéressante mais trop courte.
 Je regrette d'avoir du partir aussi précipitamment, certaines discussions qui
 ont suivi cet après midi avaient l'air très intéressantes, vivement le prochain
-évènement de ce type (peut être [un deuxième
-eZCamp](/post/de-retour-du-ezcamp-2007) à Lyon ou ailleurs en début d'année
-prochaine&nbsp;?).
+évènement de ce type.

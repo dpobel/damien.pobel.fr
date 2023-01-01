@@ -33,11 +33,8 @@ l'automobile stationnée sur le côté et améliorer la luminosité.
 
 
 Je suis vraiment content car dans la liste qu'on m'avait fourni, c'était ma
-préférée avec celle [du
-Lez](http://photos.pwet.fr/villes-et-departements/herault-34/prades-le-lez/le-lez-proche-de-sa-source/)
-et la version retouchée est très réussie. Et puis, je dois avouer que c'est une
-grande fierté pour moi de pouvoir lire respectivement en fin et au dos du livre
-:
+préférée et la version retouchée est très réussie. Et puis, je dois avouer que c'est une
+grande fierté pour moi de pouvoir lire respectivement en fin et au dos du livre :
 
  <blockquote>
 

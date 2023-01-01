@@ -8,7 +8,7 @@ remoteId: "c724b73de858aef7db17e15e800ee919"
 published: 2007-04-08T22:13:14+02:00
 ---
 
-Je viens de mettre en ligne la toute première version du [plugin eZVim](http://projects.ez.no/ezvim) sur [la plateforme eZ Projects](http://projects.ez.no) et dans [les contributions externes eZ publish](http://ez.no/community/contribs/3rd_party/ezvim). [vim.org](http://www.vim.org/) est inaccessible au moment où j'écris ces lignes, mais je l'ajouterai aussi là bas dès que possible.
+Je viens de mettre en ligne la toute première version du plugin eZVim sur [la plateforme eZ Projects](http://projects.ez.no). [vim.org](http://www.vim.org/) est inaccessible au moment où j'écris ces lignes, mais je l'ajouterai aussi là bas dès que possible.
 
 
 eZVim est un plugin Vim sous licence GPL qui ajoute à cet éditeur quelques fonctionnalités pour le développeur [eZ Publish](/tag/ez-publish) inspirées du [plugin Smile eZ Plugin](http://smile-ez-plugin.sourceforge.net/). Pour l'utiliser, il faut Vim 6 ou supérieur, avec le support des scripts en python. Sous Ubuntu et Debian, il suffit d'installer le paquet vim-python.
@@ -17,7 +17,7 @@ eZVim est un plugin Vim sous licence GPL qui ajoute à cet éditeur quelques fon
 ### Classes View
 
 
-Une barre verticale, le **Classes View**, permet de voir rapidement, les groupes de classes, les classes et leurs attributs. Cette barre affiche les informations les plus pertinentes (identifiant numérique, identifiant, classe, *datatype*,…). Les attributs obligatoires sont mis en valeur et préfixés par le signe +. Des screenshots sont en ligne sur [la page *gallery* du projet](http://projects.ez.no/ezvim/gallery/screenshots). Plusieurs raccourcis sont utilisables dans cette barre :
+Une barre verticale, le **Classes View**, permet de voir rapidement, les groupes de classes, les classes et leurs attributs. Cette barre affiche les informations les plus pertinentes (identifiant numérique, identifiant, classe, *datatype*,…). Les attributs obligatoires sont mis en valeur et préfixés par le signe +. Plusieurs raccourcis sont utilisables dans cette barre :
 
 <ul>
     <li>+ ouvre l'élément courant</li>

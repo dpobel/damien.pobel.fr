@@ -13,9 +13,9 @@ photos:
 C'est la saison des benchmarks autour d'[eZ Publish](/tag/ez-publish) :)
 Bertrand a fait une intéressante comparaison entre le mode cluster et le mode
 *classique* (page disparue…),
-suivi de près par [un article sur ez.no mettant en évidence le gain apporté par
+suivi de près par un article sur ez.no mettant en évidence le gain apporté par
 le fameux Stale
-Cache](http://ez.no/developer/articles/ez_publish_knowledge_series_stale_cache_or_how_caches_in_ez_publish_4_1_are_handled_in_a_smarter_way)
+Cache (page disparue également…)
 dans la génération du cache de contenu. De mon côté, j'ai adapté les scripts de
 [mon benchmark entre eZ Publish 3.10 et eZ Publish
 4](/post/benchmark-between-ez-publish-4-and-ez-publish-3-10-with-or-without-a-php-opcode-cache)

@@ -36,16 +36,15 @@ fichiers GIF et PNG qui :
 
 
 Il s'agit juste d'automatiser ces opérations. Selon les applications, le gain
-peut être sensible. [La semaine dernière quand j'étais en
-déplacement](/post/traverser-la-gare-saint-lazare-c-est-bon-pour-le-moral) avec
+peut être sensible. La semaine dernière quand j'étais en
+déplacement avec
 une connectivité aléatoire j'aurai bien aimé que tous les sites aient fait cette
 opération…
 Je l'ai d'ailleurs lancé sur [le nouvel Online
 Editor](/post/the-new-online-editor-for-ez-publish-beta) de [eZ
 Publish](/tag/ez-publish) pour optimiser au maximum le futur éditeur <abbr
 title="What You See Is What You Get">WYSIWYG</abbr>  de ce <abbr title="Content
-Management System">CMS</abbr>  ce qui donne [le bug
-#13751](http://issues.ez.no/13751).
+Management System">CMS</abbr>.
 
 ``` bash
 #! /bin/bash

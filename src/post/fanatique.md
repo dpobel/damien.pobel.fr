@@ -14,8 +14,8 @@ photos:
 <a href="/images/coupe-de-cheveux-ubuntu.jpg"><img loading="lazy" src="/images/660x/coupe-de-cheveux-ubuntu.jpg" alt="Coupe de cheveux Ubuntu"></a>
 <figcaption>
 Photo sous <a href="http://creativecommons.org/licenses/by-sa/2.0/">Licence Creative Commons By Sa 2.0</a>
-par <a href="http://www.flickr.com/photos/kubina/">Jeff Kubina</a>
+par Jeff Kubina
 </figcaption>
 </figure>
 
-Vue sur le Planet Ubuntu User chez [Gerry Ilagan](http://igerry.com/desktop/ubuntu/going-loco-over-the-ubuntu-logo.html). Dommage, je sors de chez le coiffeur… :-)
+Vue sur le Planet Ubuntu User chez [Gerry Ilagan](http://igerry.com/). Dommage, je sors de chez le coiffeur… :-)

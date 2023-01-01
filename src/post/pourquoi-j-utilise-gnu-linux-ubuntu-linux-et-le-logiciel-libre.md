@@ -17,10 +17,8 @@ pour toute….
 
 En fait je suis arrivé sous Linux à la fois par curiosité et par conscience
 *professionnelle*. En fait à la base, je dois avouer que j'étais sceptique voire
-je me moquais [d'un collègue de prépa](http://ofaurax.free.fr) qui ne jurait (ne
-jure toujours si j'en crois [son
-blog](http://ofaurax.free.fr/blog/?billet=2006-09-01-00h19-0200.xml)) que par
-[Mandriva](http://www.mandriva.com/fr/community) (Mandrake à l'époque) et
+je me moquais d'un collègue de prépa qui ne jurait  que par
+Mandriva (Mandrake à l'époque) et
 GNU/Linux.
 
 Par la suite j'ai été admis à [l'ENSSAT en cycle
@@ -47,7 +45,7 @@ servers principalement) avec
 [NEdit](http://pwet.fr/man/linux/commandes/nedit) comme éditeur et ça donnait
 ça&nbsp;:
 
-<figure class="object-center"><a href="/images/screenshot-bureau-aout-2002.png"><img loading="lazy" src="/images/330x/screenshot-bureau-aout-2002.png" alt="Screenshot bureau Août 2002">
+<figure class="object-center"><a href="/images/screenshot-bureau-aout-2002.png"><img loading="lazy" src="/images/660x/screenshot-bureau-aout-2002.png" alt="Screenshot bureau Août 2002">
 </a></figure>
 
 Cette capture d'écran date d'août 2002 ! C'était pas terrible :) Entre temps
@@ -65,7 +63,7 @@ Drake](https://lists.ubuntu.com/archives/ubuntu-announce/2006-June/000083.html)
 et à ça :
 
 <figure class="object-center"><a
-href="/images/screenshot-de-mon-bureau-septembre-2006.png"><img loading="lazy" src="/images/330x/screenshot-de-mon-bureau-septembre-2006.png" alt="Screenshot de mon bureau Septembre 2006"></a></figure>
+href="/images/screenshot-de-mon-bureau-septembre-2006.png"><img loading="lazy" src="/images/660x/screenshot-de-mon-bureau-septembre-2006.png" alt="Screenshot de mon bureau Septembre 2006"></a></figure>
 
 ## Pourquoi Ubuntu ?
 

@@ -5,13 +5,14 @@ node: "66538"
 remoteId: "34473393e5dd4aa89a9ba7206cc4aad6"
 published: 2007-12-02T19:36:00+01:00
 updated: 2016-02-10 10:49
+lang: "en"
 ---
 
 After [2 alphas](/post/ez-publish-4-alpha-1-et-beaucoup-d-autres-choses) and one
 beta release, [eZ Publish](/tag/ez-publish) 4 rc1 has been released last
 week. I'm
-trying to upgrade but [I'm facing an encoding
-problem](http://share.ez.no/forums/install-configuration/ez-publish-4-upgrade-3.10.0-site-with-a-latin1-database)
+trying to upgrade but I'm facing an encoding
+problem
 In the meantime, I made a benchmark between eZ Publish 4rc1 with PHP 5.2.5 and
 eZ Publish 3.10.0 with PHP 4.4.7 on a Debian Etch system using [the Dotdeb
 packages](http://dotdeb.org/). I also tested the performances of
@@ -24,8 +25,8 @@ configurations.
 ## Protocol
 
 
-I'm using [the recommended configuration for Virtual Host setup of eZ
-Publish](http://ez.no/doc/ez_publish/technical_manual/3_10/installation/virtual_host_setup/virtual_host_example).
+I'm using the recommended configuration for Virtual Host setup of eZ
+Publish.
 I wrote this shell script to test performances of eZ Publish.
 
 ``` bash
@@ -52,7 +53,7 @@ for ini in $CONF_DIR/* ; do
     touch $DATA_LOG
     # active extension
     ln -s $ini $PHP_CONFD/$INI_BASE
-    /etc/init.d/apache restart > /dev/null  2>&1 
+    /etc/init.d/apache restart > /dev/null  2>&1
     sleep 2
 
     # initialize cache
@@ -80,7 +81,7 @@ makes 5 series of 100 requests with a concurrency of 2 with [ab (Apache
 Benchmark)](http://pwet.fr/man/linux/administration_systeme/ab) and it logs the
 mean number of requests per second. There are pauses between tests. I've run
 those tests on two pages of this site on a dedicated test server, the first one
-is the [/blog](/) page with view cache et cache-block enabled and the second
+is the [/blog](/posts/) page with view cache et cache-block enabled and the second
 one is [/man/linux](http://pwet.fr/man/linux) but with no view cache and no
 cache-block at all in order to see how eZ Publish 4 and 3.10 performs on
 retrieving its cache or on building a page from scratch. The first one makes 6

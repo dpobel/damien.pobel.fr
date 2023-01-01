@@ -9,7 +9,7 @@ updated: 2016-02-12 13:39
 ---
 
 Via
-[PHPIndex](http://www.phpindex.com/index.php/2007/11/15/3935-sitepoint-utilisation-du-cache-pour-resoudre-des-problemes-de-performance-php),
+PHPIndex,
 j'ai lu aujourd'hui [un article très intéressant sur la mise en cache côté
 serveur et la manipulation du cache côté
 client](http://www.sitepoint.com/article/caching-php-performance) en PHP plus

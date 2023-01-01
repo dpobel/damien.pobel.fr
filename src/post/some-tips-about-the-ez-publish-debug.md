@@ -34,10 +34,7 @@ page which is often a very useful information.
 ## Don't show debug to everybody
 
 
-It is also possible to restrict the generation of [the debug by
-IP](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/configuration_files/site_ini/debugsettings/debugbyip)
-or [by user
-id](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/configuration_files/site_ini/debugsettings/debugbyuser).
+It is also possible to restrict the generation of the debug by IP or by user id.
 This feature can be useful to monitor a live sites or to not annoy your
 colleagues when developing a site. With the following settings, the debug is
 only displayed for users visiting the site with the IP 10.2.2.157:
@@ -56,17 +53,15 @@ Comment the line beginning by <code>DebugIPList</code>
 ## What happen before the redirection ?
 
 
-[<code>DebugRedirection</code>
-setting](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/configuration_files/site_ini/debugsettings/debugredirection)
-lets the developer read debug messages before an HTTP redirect. Instead of being
-directly redirected, you have to click on a button to view the next page. It can
-be useful to debug [workflow
-events](http://ezpedia.org/wiki/en/ez/workflow_event_type), content edit
+<code>DebugRedirection</code>
+setting lets the developer read debug messages before an HTTP redirect. Instead
+of being directly redirected, you have to click on a button to view the next
+page. It can be useful to debug workflow events, content edit
 handler (serwatka.net/index.php/blog/ez_publish_3_8_new_custom_edit_handler,
 offline page…)
-or [extensions with modules and views](http://ezpedia.org/wiki/en/ez/module)…
+or extensions with modules and views…
 It is also possible to specify paths in this setting to enable this feature for
-only some pages, but [this feature is undocumented](http://issues.ez.no/12402)
+only some pages, but this feature is undocumented
 for the moment.
 
 ## Place the debug to not break your page
@@ -85,22 +80,20 @@ debug output, so it's easy to comment <code>&lt;!-- DEBUG_REPORT --&gt;</code>
 another time in the pagelayout so that the debug is commented in some special
 pages for example in <abbr title="Asynchronous Javascript And XML">AJAX</abbr>
 parts of a page or in [exports based on a special
-layout](/post/des-fils-rss-sur-mesure-dans-ez-publish). More details in [Disable
-debug for custom layouts (/layout/set/xyz)
-topic](http://ez.no/developer/forum/developer/disable_debug_for_custom_layouts_layout_set_xyz)
-in eZ.no forums.
+layout](/post/des-fils-rss-sur-mesure-dans-ez-publish). More details in Disable
+debug for custom layouts (/layout/set/xyz) topic in eZ.no forums.
 
 
 ## Output something in the debug from a template
 
 
-[debug-log is an undocumented template
-operator](https://jira.ez.no/browse/EZP-12555) that lets the developer output a
+debug-log is an undocumented template
+operator(https://jira.ez.no/browse/EZP-12555) that lets the developer output a
 variable and/or a message to the debug output. It's just an
-[eZDebug::writeDebug](http://pubsvn.ez.no/doxygen/trunk/LS/html/classeZDebug.html#ab592fca0dbbef7601a2c060f02b1e808)
+eZDebug::writeDebug
 call. It is sometimes easier to read and less obtrusive than using the
-[attribute()
-operator](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_operators/miscellaneous/attribute),
+attribute()
+operator,
 I use it in [eZ Class Lists 1.0](/post/ez-class-lists-1-0-for-ez-publish-4-0) to
 display the hash used to filter objects list with something like :
 

@@ -24,11 +24,11 @@ SVN.
 ## Les cache-block qui n'expirent pas
 
 
-Il s'agit du [bug #12175](http://issues.ez.no/12175) qui empêche l'utilisation [des cache-block expirant avec une sous-arborescence](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_functions/miscellaneous/cache_block). Pour règler ce problème sans passer à la version 4.0.1rc1 il faut appliquer [3 patchs](/files/patch_cache_block_12175.tar.gz) successifs sur l'arborescence d'eZ Publish 4.
+Il s'agit du bug #12175 qui empêche l'utilisation des cache-block expirant avec une sous-arborescence. Pour règler ce problème sans passer à la version 4.0.1rc1 il faut appliquer [3 patchs](/files/patch_cache_block_12175.tar.gz) successifs sur l'arborescence d'eZ Publish 4.
 
 ``` bash
 $ cd /tmp
-$ wget http://pwet.fr//files/patch_cache_block_12175.tar.gz
+$ wget http://pwet.fr/files/patch_cache_block_12175.tar.gz
 $ tar -zxvf patch_cache_block_12175.tar.gz
 $ cd /path/to/ez/publish/
 $ patch -p0 < /tmp/01_cache-block.patch
@@ -41,18 +41,17 @@ Les erreurs sur l'application du [patch](http://pwet.fr/man/linux/commandes/posi
 
 ## Les variations des images re-dimensionnées en permanence
 
-Celui la, c'est [un bug vicieux](http://issues.ez.no/12386), on s'en rend compte lors de la mise en production quand la machine est à plat par tous les [convert](http://pwet.fr/man/linux/commandes/convert) (ou apache si on utilise GD) en train de générer [les différentes variations](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/datatypes/image) encore et encore. 80 de [load average](/post/load-average-ou-charge-d-une-machine-unix-linux) sur ma pauvre Dedibox, elle a du avoir chaud ;-)
+Celui la, c'est un bug vicieux, on s'en rend compte lors de la mise en production quand la machine est à plat par tous les [convert](http://pwet.fr/man/linux/commandes/convert) (ou apache si on utilise GD) en train de générer les différentes variations encore et encore. 80 de [load average](/post/load-average-ou-charge-d-une-machine-unix-linux) sur ma pauvre Dedibox, elle a du avoir chaud ;-)
 
 Là [un seul patch](/files/image_variations.patch) est nécessaire et c'est immédiat et magique sur la charge de la machine
 
 ``` bash
 $ cd /tmp
-$ wget http://pwet.fr//files/image_variations.patch
+$ wget http://pwet.fr/files/image_variations.patch
 $ cd /path/to/ez/publish
 $ patch -p0 < /tmp/image_variations.patch
 ```
 
 J'ai pas eu d'autres bugs bloquants (enfin je les ai pas encore remarqué :)),
-j'en ai d'ailleurs découvert un sur [le SmartCacheClear avec les
-keywords](http://issues.ez.no/13449), la correction est dans [le
-rapport](http://issues.ez.no/13449) et tient sur une unique ligne.
+j'en ai d'ailleurs découvert un sur le SmartCacheClear avec les keywords, la
+correction est dans le rapport et tient sur une unique ligne.

@@ -9,11 +9,11 @@ published: 2007-02-24T13:35:02+01:00
 ---
 
 L'optimisation et les performances d'[eZ Publish](/tag/ez-publish) sont des
-sujets qui reviennent [assez régulièrement sur les
-forums](http://ez.no/community/forum/general/ez_publish_performance_optimisation_faq)
-et pas mal d'articles ont été publiés sur ces sujets dont [une série récemment
+sujets qui reviennent assez régulièrement sur les
+forums
+et pas mal d'articles ont été publiés sur ces sujets dont une série récemment
 sur le site
-ez.no](http://ez.no/community/articles/ez_publish_performance_optimization_part_3_of_3_practical_cache_and_template_solutions)
+ez.no
 car Il faut avouer qu'eZ Publish est plutôt gourmand en ressources et qu'il faut
 une (des) machine(s) robustes pour en tirer parti sur des sites à fort trafic.
 
@@ -51,8 +51,8 @@ Les [outils pour webmaster de Google](http://www.google.com/webmasters/sitemaps/
 
 
 Le trait orange correspond au moment ou [mes photos](http://photos.pwet.fr) ont
-été référencées [dans Google
-Image](http://images.google.fr/images?hl=fr&amp;q=site:pwet.fr&amp;btnG=Recherche%20d)
+été référencées dans Google
+Image
 multipliant le nombre de pages vues sur mon site par 1.5 (6500 le 15 janvier,
 10400 le 12 février)! Le trait vert correspond à l'installation d'eAccelerator.
 Je crois que le graphique parle de lui-même. Je n'ai pas de graphique de la
@@ -62,9 +62,9 @@ shell…
 
 J'ai récemment, fait quelques autres optimisations dans les *templates* en
 ajoutant quelques
-[cache-block](http://ez.no/doc/ez_publish/technical_manual/3_8/reference/template_functions/miscellaneous/cache_block)
+cache-block
 pour avoir une gestion plus fine du cache et je compte aussi aussi regarder du
-côté de [l'optimisation de MySQL en
-lecture](http://ez.no/community/articles/tuning_mysql_for_ez_publish/optimizing_for_read_performance)
+côté de l'optimisation de MySQL en
+lecture
 pour voir si je peux améliorer encore un peu les performances.
 

@@ -11,5 +11,5 @@ published: 2009-09-06T10:38:06+02:00
 </a></figure>
 
 
-[Pornstar](/post/pornstar-or-potato), d'après [AWStats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi), est le 10ème mot clef tapé dans les moteurs de recherche pour arriver ici. Déjà, 69 visites depuis le début du mois de septembre, c'est assez fort :)
+Pornstar, d'après [AWStats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi), est le 10ème mot clef tapé dans les moteurs de recherche pour arriver ici. Déjà, 69 visites depuis le début du mois de septembre, c'est assez fort :)
 

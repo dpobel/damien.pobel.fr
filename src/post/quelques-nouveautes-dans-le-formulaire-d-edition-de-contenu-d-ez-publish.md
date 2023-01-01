@@ -8,10 +8,7 @@ remoteId: "0090a3ed0d3f97b3ffea163b3c0d58b2"
 published: 2012-03-30T22:45:46+02:00
 ---
 
-*([English version available on share.ez.no](http://share.ez.no/blogs/damien-pobel/improvements-in-the-content-edit-of-the-admin-interface))*
-
-
-[eZ Publish Community Project 2012.3 est sortie aujourd'hui](http://share.ez.no/blogs/community-project-board/ez-publish-community-project-2012.3-unveiled-today). L'extension ezautosave est embarquée et activée par défaut, elle ajoute un nouveau *widget* pour faciliter la prévisualisation de contenu depuis le formulaire d'édition. J'ai ajouté cette fonctionnalité via [une pull request](https://github.com/ezsystems/ezautosave/pull/2) faite avec mon chapeau de membre de la communauté; j'en suis plutôt fier ;-)
+eZ Publish Community Project 2012.3 est sortie aujourd'hui. L'extension ezautosave est embarquée et activée par défaut, elle ajoute un nouveau *widget* pour faciliter la prévisualisation de contenu depuis le formulaire d'édition. J'ai ajouté cette fonctionnalité via [une pull request](https://github.com/ezsystems/ezautosave/pull/2) faite avec mon chapeau de membre de la communauté; j'en suis plutôt fier ;-)
 
 
 En plus de cela, plusieurs améliorations du formulaire d'édition dans l'interface d'administration avaient déjà été ajoutées dans les dernières versions:

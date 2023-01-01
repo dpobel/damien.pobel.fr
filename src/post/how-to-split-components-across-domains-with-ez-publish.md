@@ -7,7 +7,7 @@ remoteId: "f4c1198bab74a1f833c3f4c7a574e0c4"
 published: 2011-02-23T09:37:17+01:00
 ---
 
-﻿The starting point of this post is [an interesting asking of Marty_Nim](http://twitter.com/MartY_NiM/status/39783968240971776) (aka [Nicolas Martinez](http://www.nicolas-martinez.info/)) on Twitter about the ability to split static components across domains with [eZ Publish](/tag/ez-publish) to improve frontend performances.
+The starting point of this post is [an interesting asking from Marty_Nim](http://twitter.com/MartY_NiM/status/39783968240971776) on Twitter about the ability to split static components across domains with [eZ Publish](/tag/ez-publish) to improve frontend performances.
 
 
 ## Why split components across domains ?
@@ -30,9 +30,9 @@ CustomHosts[.css]=http://media2.pwet.fr
 ```
 
 
-With those settings, eZ Publish will include the JavaScript file(s) from <code>http://media1.pwet.fr</code>
-, while CSS stylesheets will be included from <code>http://media2.pwet.fr</code>
+With those settings, eZ Publish will include the JavaScript file(s) from `http://media1.pwet.fr`
+, while CSS stylesheets will be included from `http://media2.pwet.fr`
 . The later case has an interesting side effect, because the background images used in the CSS files will also be fetched from the custom host.
 
-And what about others components that are directly embed in templates ? Currently, there's no out of the box solution, but as explained by [Gaetano on Twitter](http://twitter.com/gggeek/status/40067054245519360), [since eZ Publish 4.4, it's possible to override template operators](/post/how-to-override-a-default-ez-publish-template-operator) so it's possible to write something similar for images, flash,… embed with ezimage, ezdesign or ezroot template operators even if [this should probably be a native feature](http://issues.ez.no/18036).
+And what about others components that are directly embed in templates ? Currently, there's no out of the box solution, but as explained by [Gaetano on Twitter](http://twitter.com/gggeek/status/40067054245519360), [since eZ Publish 4.4, it's possible to override template operators](/post/how-to-override-a-default-ez-publish-template-operator) so it's possible to write something similar for images, flash,… embed with ezimage, ezdesign or ezroot template operators even if this should probably be a native feature.
 

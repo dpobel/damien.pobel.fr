@@ -12,8 +12,8 @@ Il y a quelques temps je parlais [des ressources francophones autour d'eZ
 Publish](/post/des-sites-francophones-sur-ez-publish). Aujourd'hui j'ai
 découvert sur Developpez.com [la traduction en
 français](http://alain-sahli.developpez.com/tutoriels/php/ez/publish/configurer-site/)
-de l'article [How to Configure an eZ Publish
-Site](http://share.ez.no/learn/ez-publish/how-to-configure-an-ez-publish-site) de
+de l'article How to Configure an eZ Publish
+Site de
 Peter Keung publié sur eZ.no. La traduction a été faite par Alain Sahli.
 
 

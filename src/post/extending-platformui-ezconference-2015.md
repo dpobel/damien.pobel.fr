@@ -10,14 +10,14 @@ photos:
 <figure class="object-center">
     <a href="/images/extending-platformui-ezconference-2015.jpg"><img loading="lazy" src="/images/660x/extending-platformui-ezconference-2015.jpg" alt="Extending PlatformUI eZ Conference Workshop"></a>
     <figcaption>
-    Photo by <a href="https://plus.google.com/+BertrandDunogier">Bertrand Dunogier</a>
+    Photo by Bertrand Dunogier
     </figcaption>
 </figure>
 
-This morning I was leading the *Extending PlatformUI* [eZ Conference
-2015](http://conference.ez.no) workshop. In this workshop, I explained how to
-extend PlatformUI (the editorial and admin interface for [eZ
-Platform](http://ezplatform.com)). To do that, I created a sample bundle and
+This morning I was leading the *Extending PlatformUI* eZ Conference
+2015 workshop. In this workshop, I explained how to
+extend PlatformUI (the editorial and admin interface for eZ
+Platform). To do that, I created a sample bundle and
 explained step by steps how to add a new *page* in the application. This example
 basically replicates [the good old ezclasslist eZ Publish legacy
 extension](/tag/ez-class-lists).

@@ -13,12 +13,12 @@ people telling me that this edition was at the same level than [the 2007
 one](/post/ez-conference-2007) which is the reference for me. I'm very happy to
 have seen some (french) friends from the eZ ecosystem and to have met new people
 and even some stars from the PHP world like Rasmus Lerdorf and Derick Rethans
-;-) As a new comer in [eZ Systems](http://ez.no), I also met some of my new
+;-) As a new comer in eZ Systems, I also met some of my new
 colleagues, I'm pleased to be able to put a face on some names!
 
 As always, the eZ Award evening was fun and even if the following morning was a
 bit tough ;-) Congratulation to all winners, especially to
-[Jérôme](http://www.lolart.net/) and [Gilles](http://gandbox.fr/), you deserve
+Jérôme and Gilles, you deserve
 this price.
 
 On the talks side, there were some really nice presentations. My top 3 is :

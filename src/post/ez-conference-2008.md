@@ -11,7 +11,7 @@ updated: 2016-02-10 22:55
 </a></figure>
 
 
-La semaine dernière se déroulait l'[eZ Conference 2008](http://conference.ez.no)
+La semaine dernière se déroulait l'eZ Conference 2008
 à [Skien en
 Norvège](http://maps.google.fr/maps?f=q&amp;hl=fr&amp;geocode=&amp;q=skien,+norway&amp;ie=UTF8&amp;t=h&amp;z=9)
 autour du [CMS](/tag/cms) Open source [eZ Publish](/tag/ez-publish). Cette
@@ -42,9 +42,8 @@ La branche 4.x se focalisera en plus des corrections de bug, sur des
 améliorations de performances avec la base de code actuelle. Cette version
 conservera en particulier le moteur de *template* actuel. Le but de cette
 branche est de conserver la compatibilité ascendante. Il semble que le principal
-soucis au niveau de l'intégration du [composant Template des eZ
-Components](http://ezcomponents.org/docs/tutorials/Template) soit [le système
-d'override](http://ez.no/doc/ez_publish/technical_manual/4_0/templates/the_template_override_system).
+soucis au niveau de l'intégration du composant Template des eZ
+Components soit le système d'override.
 
 La branche 5.x (project V) vise à réécrire quasi complètement le noyau sous
 forme de micro kernel avec un maximum de fonctionnalité sous forme d'extensions.
@@ -56,11 +55,11 @@ stockées dans eZ Publish.
 comprendra&nbsp;:
 
 * [le nouvel Online Editor](/post/the-new-online-editor-for-ez-publish-beta)
-* le multi file upload via un flash (alternative très intéressante au [WebDav](http://ez.no/doc/ez_publish/technical_manual/4_0/features/webdav))
-* [l'extension Oracle](http://projects.ez.no/ezoracle) pour Oracle 10 ou 11 supportant aussi [le mode cluster d'eZ Publish](http://ez.no/doc/ez_publish/technical_manual/4_0/features/clustering)
+* le multi file upload via un flash (alternative très intéressante au WebDav)
+* l'extension Oracle pour Oracle 10 ou 11 supportant aussi le mode cluster d'eZ Publish
 * Le support de Solaris 10
 * L'expiration des mots de passe
-* la correction de + de 300 bugs dont [les bugs des URL Aliases](http://issues.ez.no/12785)
+* la correction de + de 300 bugs dont les bugs des URL Aliases
 
 Pour ces derniers bugs, le dernier obstacle est l'écriture d'un script pour tenter de récupérer un maximum de données.
 
@@ -88,18 +87,12 @@ images de fond, police,…)
 
 eZ Publish est de plus en plus employé pour de gros sites que ce soit en terme
 d'audience, de volumétrie ou de technicité. Par exemple eZ Publish est utilisé
-sur [Sport24.com](http://www.sport24.com) (site que je connais bien :)),
-[Europe1.fr](http://www.europe1.fr) ou [Car and
-Driver](http://www.caranddriver.com/) sites à fort trafic où sont
-utilisées différentes techniques pour tenir la charge comme le mode cluster, de
-[la prégénération statiques avec des
-SSI](http://blog.smile.fr/ez-publish-a-tres-hautes-performances) ou les
-[ESI](http://www.w3.org/TR/esi-lang) avec
-[Akamaï](http://www.akamai.com/html/support/esi.html) (ou bientôt
-[Varnish](http://varnish.projects.linpro.no/wiki/ESIfeatures)). En terme de
-volumétrie, [Première](http://www.premiere.fr) remporte probablement la palme
-avec 700 000 objets de contenus. En terme de technicité nous avons pu assister à
-la présentation d'un projet de banque d'images avancée pour
-[SanomaWSOY](http://www.sanoma.com/) mettant en oeuvre eZ
-Publish avec eZ Find pour l'indexation de 400 000 images et de [leurs meta
-données XMP](http://fr.wikipedia.org/wiki/Extensible_Metadata_Platform).
+sur Sport24.com (site que je connais bien :)), Europe1.fr ou Car and Driver
+sites à fort trafic où sont utilisées différentes techniques pour tenir la
+charge comme le mode cluster, de la prégénération statiques avec des SSI ou les
+[ESI](http://www.w3.org/TR/esi-lang) avec Akamaï (ou bientôt Varnish). En terme
+de volumétrie, Première remporte probablement la palme avec 700 000 objets de
+contenus. En terme de technicité nous avons pu assister à la présentation d'un
+projet de banque d'images avancée pour SanomaWSOY mettant en oeuvre eZ Publish
+avec eZ Find pour l'indexation de 400 000 images et de [leurs meta données
+XMP](http://fr.wikipedia.org/wiki/Extensible_Metadata_Platform).

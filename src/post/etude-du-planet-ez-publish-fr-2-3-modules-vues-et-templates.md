@@ -13,11 +13,9 @@ Publish.fr avec dans celui ci quelques notes
 sur les modules/vues spécifiques ainsi que sur la réalisation des templates.
 
 
-I. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles)
-
-II. [Modules/vues sur mesure et templates](/post/etude-du-planet-ez-publish-fr-2-3-modules-vues-et-templates)
-
-III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
+1. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles)
+1. [Modules/vues sur mesure et templates](/post/etude-du-planet-ez-publish-fr-2-3-modules-vues-et-templates)
+1. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
 
 
 ## Modules / vues sur mesure
@@ -29,16 +27,16 @@ Pour le moment, seuls deux vues spécifiques sont utilisées sur le site.
 ### feed/planet
 
 
-Cette vue sert à générer [le flux RSS du
-Planet](http://www.planet-ezpublish.fr/feed/planet). Comme pour [l'import
-RSS](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles#eztoc220094_2),
+Cette vue sert à générer le flux RSS du
+Planet. Comme pour [l'import
+RSS](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles),
 [le composant Feed des eZ Components est
 utilisé](http://ezcomponents.org/docs/api/trunk/classtrees_Feed.html). L'intérêt
 principal par rapport à l'export RSS de base est la possibilité d'ajouter la
 balise <code>dc:author</code> avec le nom du site (l'objet parent dans le cas du
 Planet). Cette vue implémente également un système de cache sur le même principe
-que [le cache de
-vue](http://ez.no/doc/ez_publish/technical_manual/4_0/features/view_caching). Ce
+que le cache de
+vue. Ce
 cache est vidé et est re-généré par le script d'import RSS alors que le cache de
 l'export RSS par défaut expire au bout d'un temps fixe.
 
@@ -47,8 +45,8 @@ l'export RSS par défaut expire au bout d'un temps fixe.
 
 Cette vue reproduit la vue de recherche par défaut en forçant la recherche dans
 une sous-arborescence sans avoir besoin de passer le paramètre
-<code>SubTreeArray</code> . [Contrairement à
-content/search](http://issues.ez.no/14295), elle permet également l'utilisation
+<code>SubTreeArray</code> . Contrairement à
+content/search, elle permet également l'utilisation
 des *persistent variables* comme sur content/view.
 
 ## Templates et opérateur
@@ -57,7 +55,7 @@ des *persistent variables* comme sur content/view.
 Les templates pour ce site sont assez classiques et plutôt simples compte tenu
 de la charte graphique basique. Seule « astuce », chaque vue *full* fixe deux
 entrées dans les *persistent variables* ce qui permet de générer un titre et une
-description pertinents sans aucun <code>fetch</code> supplémentaire dans le
+description pertinentes sans aucun <code>fetch</code> supplémentaire dans le
 <code>pagelayout</code> qui serait synonyme de requêtes SQL et/ou de cache
 supplémentaire à gérer (voir [les dernières lignes du template
 planet.tpl](https://github.com/dpobel/planet-ezpublish.fr/blob/master/legacy/extensions/planete/design/planete/override/templates/full/planet.tpl)
@@ -69,9 +67,9 @@ par exemple).
 Le seul opérateur spécifique est [l'opérateur
 <code>clean_rewrite_xhtml</code>](https://github.com/dpobel/planet-ezpublish.fr/blob/master/legacy/extensions/planete/autoloads/planeteutils.php)
 utilisé à la place de
-[l'opérateur](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_operators/strings/wash)<code>[wash](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_operators/strings/wash)</code>
-pour afficher [les attributs Text
-block](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/datatypes/text_block)
+l'opérateur <code>[wash]</code>
+pour afficher les attributs Text
+block
 contenant le texte issu des flux RSS. Cet opérateur a plusieurs fonctions :
 
 * rendre valide le code XHTML avec [le module PHP Tidy](http://fr.php.net/tidy)

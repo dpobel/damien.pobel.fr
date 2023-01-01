@@ -20,8 +20,7 @@ big needs are already covered in the document but there are some small details
 that miss in the current admin interface that I would like to see in the future
 one:
 
-* [Labels of each field should be linked to their related input with the
-<code>for</code> attribute](http://issues.ez.no/13503). That's a very small
+* Labels of each field should be linked to their related input with the <code>for</code> attribute. That's a very small
 addition but I find it more than useful in web applications.
 * The focused
 <code>input</code> should be highlighted with a different colour. This is
@@ -36,21 +35,21 @@ provide the best interface. For instance, the edit template of a datetime
 attribute should provide a JavaScript calendar (like with the ezwebin package),
 the template of a time attribute a button to fill inputs field with the current
 time, the keyword datatype an *autocomplete* input (like with the
-[ezkeywords_autocomplete](http://projects.ez.no/ezkeyword_autocomplete)
+ezkeywords_autocomplete
 extension),… Beside an advanced edit interface for each attribute, the data
 entered in the edit form should also be checked with JavaScript (required or
 not, valid syntax,…). In case of errors, fields that do not validate should
 be highlighted with a message until a new valid value is entered. Obviously, if
 JavaScript is disabled, a server side check should do the same thing. On this
-topic, there's also [a very old feature request in the issue tracker about the
-ability to add an help text](http://issues.ez.no/1895) in the class definition
+topic, there's also a very old feature request in the issue tracker about the
+ability to add an help text in the class definition
 that would be displayed under the edit interface of the attribute.
 
 
 Finally, a great improvement would be to apply [general rules on performances
 frontend](/post/livre-high-performances-web-sites). I think of packing and
 minifying CSS et JavaScript files (with
-[ezjscore](http://projects.ez.no/ezjscore)!), using CSS Sprites for design
+ezjscore!), using CSS Sprites for design
 images and use optimized PNG files instead of GIF files. This would improve the
 user experience by speeding up response time and making the admin interface
 usable with a slow Internet line
