@@ -7,7 +7,7 @@ remoteId: "13c17827eb870c4bc0d40b3cdbd73c21"
 published: 2010-03-28T23:10:01+02:00
 ---
 
-The blog post is the continuation of [Frontend performance enhancements with admin2++ eZ Publish extension](/post/frontend-performance-enhancements-with-admin2-ez-publish-extension) published a few days ago. This one is about the additions of the [admin2++ eZ Publish extension](http://projects.ez.no/admin2pp) in terms of <abbr title="Graphical User Interface">GUI</abbr>  and new features.
+The blog post is the continuation of [Frontend performance enhancements with admin2++ eZ Publish extension](/post/frontend-performance-enhancements-with-admin2-ez-publish-extension) published a few days ago. This one is about the additions of the admin2++ eZ Publish extension in terms of <abbr title="Graphical User Interface">GUI</abbr>  and new features.
 
 
 ## Current features provided by admin2++ extension
@@ -39,5 +39,5 @@ I have a lot of ideas:
 * implement [JavaScript validation on edit form as written earlier here](/post/some-thougths-about-the-admin-interface-refresh-of-ez-publish)
 * drag'n drop in content tree
 * add new dashboard blocks (personal note, inline search,…)
-* improve style for [a more clear separations between areas](http://share.ez.no/forums/discussions/administration-interface-refresh-take-2-tell-us-more-of-what-you-think/(offset)/20#comment57448)
-*… and many more !
+* improve style for a more clear separations between areas
+* … and many more !

@@ -7,7 +7,7 @@ published: 2008-08-23T19:45:12+02:00
 updated: 2016-02-11 13:41
 ---
 
-[eZWebin](http://ez.no/doc/extensions/website_interface) is an extension
+eZWebin is an extension
 providing a toolbar that lets you manage your content directly in the front-end
 of an [eZ Publish](/tag/ez-publish) site. When [refreshing the design of this
 site](/post/pwet-2-0), integrating the toolbar was one of my goals. Łukasz
@@ -22,12 +22,12 @@ all developers!). That's why I use the following steps on my blog.
 
 
 If you don't have the ezwebin extension installed, you have to download and
-install it. Retrieve [the ezwebin extension as a
-package](http://packages.ez.no/ezpublish/4.0/4.0.0/ezwebin_extension.ezpkg) on
+install it. Retrieve the ezwebin extension as a
+package on
 the eZ Publish 4.0 packages
 page
-(it should work with eZ Publish 4.0.1 to) and [install it through the admin
-interface](http://ez.no/doc/ez_publish/technical_manual/4_0/features/packages/installing_packages)
+(it should work with eZ Publish 4.0.1 to) and install it through the admin
+interface
 and finally activate it. As I have my own design, I don't need the others
 `ezwebin_*` packages. Then, you have to add ezwebin as an additional design, in
 the site.ini.append.php of your front end siteaccess you should have something
@@ -44,7 +44,7 @@ AdditionalSiteDesignList[]=ezwebin
 ## Template modification
 
 
-This step depends on your site. With most designs, you just need to add those lines of code in [the pagelayout template before the <code>{$module_result.content}</code>](http://ez.no/doc/ez_publish/technical_manual/4_0/templates/the_pagelayout#eztoc86799_4_1):
+This step depends on your site. With most designs, you just need to add those lines of code in the pagelayout template before the <code>{$module_result.content}</code>:
 
 ```
 {def $current_node_id = first_set( $module_result.node_id, 0 )
@@ -87,15 +87,15 @@ need to adjust your stylesheet(s) to have a nice edit form.
 
 I also have two small problems:
 
-1. It's not possible to make [an override
-condition](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_override_conditions)
+1. It's not possible to make an override
+condition
 to use a special pagelayout for edit mode. Depending on your layout, you may
 need to add some conditions to have only one column (or enough space) in edit
 mode. For instance, the toolbar of [the new Online
 Editor](/post/the-new-online-editor-for-ez-publish-beta) needs 750px to be
 displayed on a single line (even if it works well when the toobar is displayed
 on many lines)
-1. [content/versionview has a bug](http://issues.ez.no/13529) when
+1. content/versionview has a bug when
 it is used from the ezwebin toolbar. It doesn't use the right pagelayout if you
 have some override rules on it. I propose a patch in the bug report which works
 well for me.

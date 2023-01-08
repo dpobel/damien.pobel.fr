@@ -7,21 +7,19 @@ published: 2010-02-06T00:05:40+01:00
 updated: 2016-02-12 12:13
 ---
 
-The slides of my talk *Frontend performance with eZ Publish* at [the eZ Winter
+The slides of my talk *Frontend performance with eZ Publish* at the eZ Winter
 Conference 2010 at
-Geneva](http://share.ez.no/blogs/ez/wrap-up-and-slides-of-the-2010-ez-winter-conference-in-geneva)
-are now online [on Smile website
-(fr)](http://www.smile.fr/actualites/nos-actualites/front-end-performances) and
-on slideshare.net:
+Geneva
+are now online on slideshare:
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/qj6xKHqjxD78DV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/qj6xKHqjxD78DV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 This talk gives some details on the application of [some of the Yahoo! best
 practices for speeding up your web
 site](http://developer.yahoo.com/performance/rules.html) with [eZ
-Publish](/tag/ez-publish) like limiting the number of HTTP requests with [the
+Publish](/tag/ez-publish) like limiting the number of HTTP requests with the
 ezjscore extension's template
-operators](http://share.ez.no/articles/ez-publish/ezjscore-ez-publish-javascript-and-ajax-framework/),
+operators,
 [the optimization of the images uploaded in the CMS
 (fr)](/post/optimisation-des-images-generees-par-ez-publish) or [the ability to
 set far future expires headers for ressources in the storage

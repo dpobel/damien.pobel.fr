@@ -18,9 +18,9 @@ post as a memo for me but I'm sure some people will find it useful as well.
 
 The whole REST API v2 is specified in [the ezpublish-kernel git
 repository](https://github.com/ezsystems/ezpublish-kernel/blob/master/doc/specifications/rest/REST-API-V2.rst).
-Yes, that's a huge document, because the REST API is huge :-) [A shorter
+Yes, that's a huge document, because the REST API is huge :-) A shorter
 introduction/documentation is also available in the eZ Publish
-documentation](https://confluence.ez.no/display/EZP/REST+API).
+documentation.
 
 *Note: to keep this post short and readable, the command results are not in the
 post itself but the whole command line session is available [on this
@@ -41,7 +41,7 @@ which is the default authentication method.
 By default, the response is formatted in XML. If you prefer to get the result as
 JSON, you have to specify it by setting the `Accept` header with the `-H` parameter:
 
-```                                                                             
+```
 curl -u "admin:ezpublish" -i -H "Accept: application/json" \
 http://ezpublish5.loc/api/ezp/v2/
 ```

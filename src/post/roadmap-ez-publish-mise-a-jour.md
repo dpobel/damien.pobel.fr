@@ -8,8 +8,8 @@ published: 2009-06-18T21:35:13+02:00
 updated: 2016-02-08 18:31
 ---
 
-Je viens de voir un peu par hasard *via* [un post sur le
-forum](http://ez.no/developer/forum/suggestions/ez_components_templating_engine)
+Je viens de voir un peu par hasard *via* un post sur le
+forum
 que la roadmap d'eZ Publish a été mise à jour
 (le 12 juin apparemment) avec les nouveautés pour les deux prochaines versions
 majeures (4.2 et 4.3). Deux grosses tendances se dessinent dans cette roadmap :

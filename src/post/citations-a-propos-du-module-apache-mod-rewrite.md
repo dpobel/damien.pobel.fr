@@ -8,7 +8,7 @@ remoteId: "8cb8a81211309403ecd4ea8c62ebc93a"
 published: 2007-03-29T00:15:10+02:00
 ---
 
-J'ai lu plusieurs en fois en l'espace de quelques jours ces 2 citations (ce soir encore dans l'article sur [mod_rewrite dans eZpedia](http://ezpedia.org/wiki/ez/mod_rewrite)) et à chaque fois, elles me font marrer tellement elles sont pleines de vérité :
+J'ai lu plusieurs en fois en l'espace de quelques jours ces 2 citations et à chaque fois, elles me font marrer tellement elles sont pleines de vérité :
 
 <blockquote>
 

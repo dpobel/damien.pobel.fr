@@ -7,7 +7,7 @@ remoteId: "4af9aa2688a8a03073ff09b127214d92"
 published: 2010-11-26T23:06:28+01:00
 ---
 
-I answered this question by email some weeks ago, it's not a good practice but sometimes it's the only solution… In fact, overriding a default eZ Publish template operator is possible since [eZ Publish](/tag/ez-publish) Fuji (4.4) with a patch I proposed in [the issue #16265](http://issues.ez.no/16265). It removes the [include_once](http://www.php.net/include_once) calls to let eZ Publish uses the autoload system. So it's now possible to override the PHP class that provides one or several template operators like any other class in the system. Here's a quick tutorial on how to override a template operator:
+I answered this question by email some weeks ago, it's not a good practice but sometimes it's the only solution… In fact, overriding a default eZ Publish template operator is possible since [eZ Publish](/tag/ez-publish) Fuji (4.4) with a patch I proposed in the issue #16265. It removes the [include_once](http://www.php.net/include_once) calls to let eZ Publish uses the autoload system. So it's now possible to override the PHP class that provides one or several template operators like any other class in the system. Here's a quick tutorial on how to override a template operator:
 
 
 1. Enable the kernel override by putting the following line in the <code>config.php</code>

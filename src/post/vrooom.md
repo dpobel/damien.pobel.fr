@@ -8,7 +8,7 @@ remoteId: "ecf631411ec7f12e9a24be13e70d10e2"
 published: 2008-11-11T00:32:02+01:00
 ---
 
-Conduire 6 tours sur [le circuit de Bresse](http://www.circuitdebresse.fr) au volant d'une [Ferrari F360 Modena](http://www.autoweb-france.com/essais/Ferrari/essai_84_Ferrari_360_Modena_F1.php) est un chouette cadeau et une expérience mémorable. Merci [Cherry](http://t-ka.net) pour ce cadeau (et pour les photos).
+Conduire 6 tours sur [le circuit de Bresse](http://www.circuitdebresse.fr) au volant d'une [Ferrari F360 Modena](https://fr.wikipedia.org/wiki/Ferrari_360_Modena) est un chouette cadeau et une expérience mémorable. Merci Cherry pour ce cadeau (et pour les photos).
 
 
 *Ça se conduit facilement* dixit l'instructeur à ma droite, mais bon 400 chevaux sur les roues arrières avec une boîte séquentielle sur une piste légèrement humide, j'ai quand même besoin de quelques instructions avant de partir !

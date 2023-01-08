@@ -5,16 +5,10 @@ lang: "fr"
 published: 2013-06-13T14:50:02+02:00
 ---
 
-([English version available on
-share.ez.no](http://share.ez.no/blogs/damien-pobel/rest-api-demo-application-at-the-ez-unconf-2))
-
-[Comme je l'écrivais
-dernièrement](/post/ez-community-unconference-2), j'étais
-à la [eZ Unconference
-2013](http://share.ez.no/blogs/ez/ez-unconference-2-look-back-at-the-event-slides-and-pics)
+J'étais à la eZ Unconference 2013
 à proximité de Montpellier. Pendant l'atelier API publique et API REST, j'ai
-présenté une utilisation concrète [l'API REST v2 d'eZ
-Publish](https://confluence.ez.no/display/EZP/REST+API). J'ai choisi de
+présenté une utilisation concrète l'API REST v2 d'eZ
+Publish. J'ai choisi de
 construire une petite application en HTML5/JavaScript statique pour montrer qu'il est possible
 de faire une application assez amusante avec très peu de lignes de code.
 
@@ -66,7 +60,6 @@ temps d'écrire une version plus propre et plus avancée prochainement.
 
 ## Ressources au sujet de l'API REST v2 d'eZ Publish
 
-* [La documentation officielle](https://confluence.ez.no/display/EZP/REST+API)
 * [Les spécfications de l'API REST
   v2](https://github.com/ezsystems/ezpublish-kernel/blob/master/doc/specifications/rest/REST-API-V2.rst)
 * [createcontent.sh](https://gist.github.com/bdunogier/3918294) par [Bertrand Dunogier](http://share.ez.no/community/profile/10106)

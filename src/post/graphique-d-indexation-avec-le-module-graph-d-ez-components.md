@@ -7,12 +7,8 @@ remoteId: "612b67a015d219bbbb3fb0cc3171868b"
 published: 2006-11-01T23:37:42+01:00
 updated: 2016-02-10 08:21
 ---
- 
-Comme je le disais dans l'un de mes derniers billets sur [le parallèle au niveau
-indexation entre Yahoo! et
-Google](/post/parallele-etonnant-entre-yahoo-et-google), cela fait un moment que
-je lorgne du côté d'[eZ components](http://ezcomponents.org) pour
-(entre autres) génèrer un graphique comparatif. Pour rappel, eZ components est
+
+eZ components est
 un framework sous license BSD développé par eZ systems qui, à terme, devrait
 servir de base au futur eZ publish, nom de code
 Telemark (ez.no/community/articles/platform_and_solutions_strategy/ez_platform,
@@ -20,9 +16,6 @@ page hors ligne depuis…)
 La dernière version (2006 2 beta1) de ce framework vient de sortir en version
 beta, c'est donc un bon
 moyen de tester cet outil prometteur qui semble particulièrement bien conçu.
-[L'installation depuis le
-SVN](http://share.ez.no/learn/ez-publish/an-introduction-to-ez-components/)
-est très simple et est détaillée dans la documentation.
 
 [Le tutoriel sur le module
 Graph](http://ezcomponents.org/docs/tutorials/Graph)
@@ -66,7 +59,7 @@ $graph->yAxis->label = 'Nombre de pages indexées';
 $graph->render( 800, 800, 'indexed_page.svg' );
 ?>
 ```
- 
+
 L'avant dernière ligne du script est commentée car visiblement l'utilisation du
 moteur de rendu basé sur la bibliothèque GD permettant de génèrer des PNG fait
 planter le programme. Comme je n'ai que la version 5.1.2 de PHP alors que la
@@ -76,5 +69,3 @@ dont voici une version PNG&nbsp;:
 
 <figure class="object-center"><a href="/images/comparaison-de-l-indexation-dans-google-et-dans-yahoo.png"><img loading="lazy" src="/images//comparaison-de-l-indexation-dans-google-et-dans-yahoo.png" alt="Comparaison de l'indexation dans Google et dans Yahoo!">
 </a></figure>
-
-Et comme je le disais hier, Yahoo! et Google semblent vraiment avoir les mêmes tendances quasiment en même temps, même si les derniers chiffres sont largement supérieurs pour Google.

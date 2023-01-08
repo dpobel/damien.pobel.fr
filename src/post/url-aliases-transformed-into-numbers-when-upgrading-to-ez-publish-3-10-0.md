@@ -14,15 +14,15 @@ translation](/post/apache-rewrite-rules-to-replace-wildcard-based-url-translatio
 (these problems are corrected in the future 3.10.1
 release),
 [eZ Publish](/tag/ez-publish) 3.10.0 gives me another problem when I try to
-upgrade [a 3.9.0 site](http://t-ka.net/blog). Running the updateniceurls.php PHP
+upgrade a 3.9.0 site. Running the updateniceurls.php PHP
 script transforms the nice URL aliases into numbers. Another developer seemed to
-have [the same problem in the
-forum](http://share.ez.no/forums/install-configuration/upgrade-to-3.10-change-urls-to-numbers),
+have the same problem in the
+forum,
 but no solution was provided…
 
 
-In fact, for this site I configured [one var
-directory](http://ez.no/doc/ez_publish/technical_manual/3_10/reference/configuration_files/site_ini/filesettings/vardir)
+In fact, for this site I configured one var
+directory
 for each siteaccess (I don't know why…), so when I cleared the cache using
 ezcache.php script only the cache of the default siteaccess was really cleared
 and obviously I specified the one with a dirty cache to run upgrade scripts !

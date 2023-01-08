@@ -17,8 +17,8 @@ diff](https://github.com/dpobel/SummerCamp2013RestApiBundle/compare/master…wor
 gives the expected `curl` command lines and the JavaScript code to complete the
 rough admin interface prototype.
 
-Unfortunately, it seems like [eZ Publish Community Project
-2013.07](http://share.ez.no/downloads/downloads/ez-publish-community-project-2013.07)
+Unfortunately, it seems like eZ Publish Community Project
+2013.07
 is affected by the bug [EZP-21522](https://jira.ez.no/browse/EZP-21522) which
 prevents any publication of a content with an image… That's why I also added
 an alternative JSON file to use as the body of the create draft request so that

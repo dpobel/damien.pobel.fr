@@ -16,9 +16,4 @@ première année de l'[ENSSAT](http://www.enssat.fr/), je n'avais alors aucune
 idée de ce qu'était un CMS ni un framework de développement même si j'utilisais
 PHP depuis déjà quelques années. La mise en page est faite à partir de tableaux
 imbriqués, elle est d'ailleurs foireuse. Le code PHP derrière est tout aussi
-foireux, je me demande même comment certaines portions fonctionnent encore… À
-l'occasion il faudrait que je donne un vrai coup de peinture à ce site qui ne
-reflète pas [l'esprit et le
-charme](http://photos.pwet.fr/villes-et-departements/ain-01/coligny//) de ce
-petit village entre Bresse et
-Revermont.
+foireux, je me demande même comment certaines portions fonctionnent encore…

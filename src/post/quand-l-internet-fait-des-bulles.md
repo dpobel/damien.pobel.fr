@@ -8,7 +8,7 @@ remoteId: "002f17327d58bc47afff1003f3b9f0fe"
 published: 2008-09-15T00:04:54+02:00
 ---
 
-J'ai vu sur [la chaîne 13eme rue samedi soir un documentaire intitulé *Quand l'Internet fait des bulles*](http://www.13emerue.fr/13emerue/cache/programmes/quand-linternet-fait-des-bulles.htm) sur la fameuse (fumeuse ?) [bulle Internet](http://fr.wikipedia.org/wiki/Bulle_Internet) des années 2000. J'ai raté la première partie, mais fort heureusement on trouve assez facilement l'ensemble du documentaire sur les plateformes de partage de vidéos et sur le site de la chaîne ([partie 1](http://www.youtube.com/watch?v=Hj7KoLITX0k) et [partie 2](http://www.youtube.com/watch?v=7AzOPqJdcIM) par exemple).
+J'ai vu sur la chaîne 13eme rue samedi soir un documentaire intitulé *Quand l'Internet fait des bulles* sur la fameuse (fumeuse ?) [bulle Internet](http://fr.wikipedia.org/wiki/Bulle_Internet) des années 2000. J'ai raté la première partie, mais fort heureusement on trouve assez facilement l'ensemble du documentaire sur les plateformes de partage de vidéos…
 
 <figure class="object-left"><a href="/images/orianne-garcia-dans-quand-l-internet-fait-des-bulles.jpg"><img loading="lazy" src="/images/330x/orianne-garcia-dans-quand-l-internet-fait-des-bulles.jpg" alt="Orianne Garcia dans Quand l'Internet fait des bulles">
 </a></figure>

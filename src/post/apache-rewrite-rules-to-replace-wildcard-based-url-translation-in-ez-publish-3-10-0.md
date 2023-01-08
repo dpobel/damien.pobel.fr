@@ -5,14 +5,15 @@ updated: 2010-07-13T15:53:34.000Z
 node: "66474"
 remoteId: "a58484c380ac4b4ef1d3d8ba7bf49543"
 published: 2007-11-15T22:14:41+01:00
+lang: "en"
 ---
 
 Wildcard based URL translation has been removed in [eZ Publish](/tag/ez-publish)
-3.10.0. In [the upgrading from eZ Publish 3.9.x to 3.10.0
-documentation](http://ez.no/doc/ez_publish/upgrading/upgrading_to_3_10/from_3_9_x_to_3_10_0)
+3.10.0. In the upgrading from eZ Publish 3.9.x to 3.10.0
+documentation
 on eZ.no, we can now read (I think this note was not there when [I
 upgrade](/post/upgrading-a-large-site-from-ez-publish-3-9-2-to-ez-publish-3-10)
-at the beginning of October…) :
+at the beginning of October…):
 
 <blockquote>
 Before continuing, note that eZ Publish 3.10.0 does not support
@@ -31,10 +32,10 @@ feeds](/post/des-fils-rss-sur-mesure-dans-ez-publish) for instance.
 
 
 Wildcard rules are still in the database, so I wrote a small script that
-transforms eZ Publish wildcard rules into [apache rewrite
-rules](http://httpd.apache.org/docs/1.3/mod/mod_rewrite.html). You can [download
+transforms eZ Publish wildcard rules into apache rewrite
+rules. You can [download
 the script](/files/wildcard_apache_rules.php.txt), you just have to run it from
-eZ Publish root directory. For me, it generates something like :
+eZ Publish root directory. For me, it generates something like:
 
 ``` apache
 #### Auto-generated rules ####
@@ -55,10 +56,10 @@ RewriteRule rss/feed/commentaires/(.*) layout/set/rss/content/view/rsstb/$1 [P,L
 You can put the generated code in the apache configuration, but you'll probably
 have [to tweak rewrite
 rules](/post/citations-a-propos-du-module-apache-mod-rewrite). Of course
-mod_rewrite has to be loaded in apache (you already have it in a [Virtual host
-setup](http://ez.no/doc/ez_publish/technical_manual/3_10/installation/virtual_host_setup))
+mod_rewrite has to be loaded in apache (you already have it in a Virtual host
+setup)
 and for direct rules (kind of alias without redirect) you also need
-[mod_proxy](http://httpd.apache.org/docs/1.3/mod/mod_proxy.html) to be loaded.
+mod_proxy to be loaded.
 As I use apache 1.3 under Ubuntu, I run these commands as root :
 
 ``` bash

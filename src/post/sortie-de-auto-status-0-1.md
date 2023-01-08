@@ -8,19 +8,17 @@ published: 2009-10-31T17:55:25+01:00
 updated: 2016-02-12 13:33
 ---
 
-[Auto status](http://projects.ez.no/autostatus) est une extension [eZ
+Auto status est une extension [eZ
 Publish](/tag/ez-publish) qui permet de mettre à jour son statut sur les réseaux
 sociaux Twitter ou Identi.ca en fonction de la publication d'un objet dans eZ
-Publish. Techniquement parlant, cette extension fournit un [workflow event
-type](http://ezpedia.org/en/ez/workflow_event_type) destiné à se déclencher
+Publish. Techniquement parlant, cette extension fournit un workflow event
+type destiné à se déclencher
 après la publication d'un objet et qui va utiliser un attribut de l'objet pour
 mettre à jour le statut. La mise à jour sur Twitter est faite grâce à
 [Zend_Service_Twitter](http://framework.zend.com/manual/1.12/en/zend.service.twitter.html),
 Identi.ca est également supporté grâce [quelques
 adaptations](https://github.com/dpobel/autostatus/blob/master/classes/autostatusidentica.php)
-de cette classe également. Si vous voulez ajouter le support pour d'autres
-réseaux, [n'hésitez pas à rejoindre le
-projet](http://projects.ez.no/autostatus/team/members).
+de cette classe également.
 
 <figure class="object-center"><a href="/images/configuration-du-workflow-event-type-auto-status.png"><img loading="lazy" src="/images//configuration-du-workflow-event-type-auto-status.png" alt="Configuration du workflow event type Auto status">
 </a></figure>

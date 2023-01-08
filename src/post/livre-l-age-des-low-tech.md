@@ -30,9 +30,9 @@ permettre de rouler à des vitesses largement supérieures aux limitations ou se
 demande pourquoi tout le verre n'est pas blanc, de manière à simplifier et
 améliorer l'efficacité du recyclage. Il évoque également certaines habitudes et
 certains blocages culturels notamment sur la gestion de nos déchets corporels;
-oui je parle ici [du pipi et du caca qui constituera bientôt notre seul réserve
+oui je parle ici du pipi et du caca qui constituera bientôt notre seul réserve
 de
-phosphore](http://www.lejardinvivant.fr/2017/11/08/phosphore-or-des-pauvres-dechets-corporels/).
+phosphore.
 À ce sujet, je ne résiste pas à l'envie de citer le passage suivant&nbsp;:
 
 > Les fleurs coupées ne concernent pas, d’ailleurs, que les rites amoureux. Je

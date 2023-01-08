@@ -11,11 +11,9 @@ published: 2009-01-27T23:09:00+01:00
 Suite et fin de la série d'articles sur la réalisation du Planet eZ Publish.fr avec les questions de performances et de caches.
 
 
-I. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles)
-
-II. [Modules/vues sur mesure et templates](/post/etude-du-planet-ez-publish-fr-2-3-modules-vues-et-templates)
-
-III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
+1. [Organisation et Import des articles](/post/etude-du-planet-ez-publish-fr-1-3-organisation-et-import-des-articles)
+1. [Modules/vues sur mesure et templates](/post/etude-du-planet-ez-publish-fr-2-3-modules-vues-et-templates)
+1. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3-3-performances-caches-et-compagnie)
 
 
 ## Performances
@@ -30,8 +28,8 @@ III. [Performances : caches et compagnie](/post/etude-du-planet-ez-publish-fr-3
 La gestion des caches «&nbsp;standards&nbsp;» est un point important pour les
 performances. La vue *full* (zone entourée de jaune dans la capture d'écran
 ci-dessus) est assez logiquement l'affichage de la liste des articles, elle est
-automatiquement mise en cache ([cache de
-vue](http://ez.no/doc/ez_publish/technical_manual/4_0/features/view_caching) ou
+automatiquement mise en cache (cache de
+vue ou
 cache de contenu). Pour que la page d'accueil et les pages Blogs et Planétarium
 soient à jour sans opération manuelle, il m'a fallu ajouter [deux règles dans
 une surcharge du fichier
@@ -41,8 +39,8 @@ pour que le cache de vue soit vidé lors de l'ajout d'un objet de la classe
 
 
 Les menus (menu horizontal, liste des blogs, liste des planets) sont chacun
-entourés d'[une instruction
-<code>cache-block</code>](http://ez.no/doc/ez_publish/technical_manual/4_0/reference/template_functions/miscellaneous/cache_block)
+entourés d'une instruction
+<code>cache-block</code>
 (cadres rouge) expirant avec la partie de l'arborescence qu'ils affichent. Et
 pour aller encore un peu plus loin, chaque article est lui-même individuellement
 mis en cache par un <code>cache-block</code> . Cela permet de limiter le nombre
@@ -54,8 +52,8 @@ recherche.
 ### Cache statique
 
 
-Compte tenu du faible nombre de pages, j'ai choisi d'ajouter [du cache
-statique](http://ez.no/developer/articles/ez_publish_performance_optimization_part_3_of_3_practical_cache_and_template_solutions/static_cache)
+Compte tenu du faible nombre de pages, j'ai choisi d'ajouter du cache
+statique
 en plus des caches classiques sur l'ensemble du site. Une des limitations du cache statique est l'impossibilité de pré-générer les
 pages avec paramètres (par exemple <code>/page/(offset)/10</code>), pour éviter
 ce problème, j'ai ajouté les pages principales (avec ou sans paramètres) dans

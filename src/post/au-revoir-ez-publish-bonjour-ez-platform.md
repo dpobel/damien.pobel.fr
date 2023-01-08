@@ -13,17 +13,17 @@ photos:
 Rocket Launch">
 </figure>
 
-[eZ Platform 15.12 est sorti le 15
-décembre](http://ez.no/Blog/Introducing-the-first-releases-of-eZ-Platform-and-eZ-Studio)&nbsp;!
+eZ Platform 15.12 est sorti le 15
+décembre&nbsp;!
 La sortie d'une nouvelle version est toujours au moins un petit évènement mais
 celle-ci représente *un peu* plus que ça. En effet, il s'agit de la première
 version *stable* d'eZ Platform, techniquement il s'agit de [la
 1.0.1](https://github.com/ezsystems/ezplatform/releases/tag/v1.0.1), eh **oui
 1.0.x**&nbsp;!
 
-Au dela de ce numéro symbolique, quelque part [eZ Publish est en
+Au dela de ce numéro symbolique, quelque part eZ Publish est en
 train de tirer sa
-révérence](http://share.ez.no/blogs/ez/community-versions-of-ez-publish-no-longer-receiving-ez-support-patches)
+révérence
 après un bon paquet d'années de service. Et je dois dire que ce changement
 signifie quelque chose pour moi, je suis [utilisateur d'eZ Publish depuis plus
 de 10 ans maintenant](https://twitter.com/dpobel/status/656387581618298880) (!)
@@ -50,8 +50,5 @@ n'est ni exhaustive, ni une promesse. Aussi, eZ Platform est un logiciel
 libre, toutes les contributions (sur ces sujets comme sur d'autres) sont comme
 toujours les bienvenues que ce soit par [un rapport de
 bug](https://jira.ez.no/browse/EZP), un bout de code dans une *pull request* ou
-simplement du *feedback* sur [la
-documentation](https://doc.ez.no/display/TECHDOC), les rapports de bug existants
-ou [sur
-Slack](http://share.ez.no/blogs/ivo-lukac/faster-communication-with-ez-communtiy-on-slack-for-developers-who-just-love-slack)
-par exemple. Alors, à vos claviers.
+simplement du *feedback* sur la
+documentation, les rapports de bug existants par exemple. Alors, à vos claviers.

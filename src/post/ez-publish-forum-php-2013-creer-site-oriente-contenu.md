@@ -4,9 +4,6 @@ tags: ez publish, forum php, afup, php
 lang: "fr"
 published: 2013-11-22T12:15:48+01:00
 ---
-*An english version of this post is available [on
-share.ez.no](http://share.ez.no/blogs/damien-pobel/conference-at-the-forum-php-2013-create-an-ez-publish-website-in-45-minutes)*
-
 Avec [Patrick Allaert](http://patrickallaert.blogspot.be/), nous avons présenté
 une conférence intitulée *eZ Publish : un CMS pour créer un site orienté
 contenu en 45 minutes* au [the Forum PHP
@@ -16,9 +13,9 @@ contenu en 45 minutes* au [the Forum PHP
 ligne](https://patrickallaert.github.io/create-site-from-scratch.html) avec [le
 code associé, le
 ForumPhp2013DemoBundle](https://github.com/dpobel/ForumPhp2013DemoBundle) sur Github.
-L'idée était de présenter quelques uns des principaux concepts [du CMS
-eZ Publish 5](http://ez.no/Products/The-eZ-Publish-Platform) (au passage
-[la version 5.2](http://ez.no/5.2) est sortie cette semaine):
+L'idée était de présenter quelques uns des principaux concepts du CMS
+eZ Publish 5 (au passage
+la version 5.2 est sortie cette semaine):
 
 * les types de contenu
 * eZ Publish 5 est une application Symfony2
@@ -38,12 +35,6 @@ Github)
 
 Après ces étapes, nous avons aussi modifié un type de contenu pendant la
 conférence et [adapté le template pour prendre en compte le nouvel attribut](https://github.com/dpobel/ForumPhp2013DemoBundle/commit/0342db41f50f7a3885379a8687bd1699266c507c) (Un fichier à télécharger).
-
-Biensûr, ces sujets sont documentés:
-
-* [La configuration des *view provider* (en)](https://confluence.ez.no/display/EZP52/View+provider+configuration) (~override rules)
-* [Comment utiliser un controller spécifique pour afficher du contenu (en)](https://confluence.ez.no/display/EZP52/How+to+use+a+custom+controller+to+display+a+content+or+location)
-* [Les fonctions Twig (en)](https://confluence.ez.no/display/EZP52/Twig+functions) (`ez_render_field`, `ez_content_name`,…)
 
 Si vous étiez présent, merci [de noter et commenter notre présentation sur
 joind.in](https://joind.in/talk/view/9358) et dans le cas contraire, ~~la vidéo

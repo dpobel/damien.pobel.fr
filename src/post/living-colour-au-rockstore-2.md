@@ -25,7 +25,7 @@ mecs](http://www.myspace.com/livingcolourmusic) sont vraiment bons (je savais
 pas qu'on pouvait faire autant de truc avec une basse) en plus ils ne se
 prennent pas la tête, ils viennent taper dans les mains du public à la fin du
 concert&nbsp;! J'ai adoré leur reprise de [Should I Stay or Should I
-Go](http://fr.wikipedia.org/wiki/Should_I_Stay_or_Should_I_Go)[des
+Go](http://fr.wikipedia.org/wiki/Should_I_Stay_or_Should_I_Go) [des
 Clash](http://fr.wikipedia.org/wiki/The_Clash) et le court extrait de [Talkin'
 Bout A revolution](http://en.wikipedia.org/wiki/Talkin%27_Bout_a_Revolution) de
 [Tracy Chapman](http://fr.wikipedia.org/wiki/Tracy_chapman) en attendant de

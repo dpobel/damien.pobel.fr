@@ -15,8 +15,8 @@ Paris](/post/ez-publish-developer-day-a-paris-le-31-10-2007) et encore hier avec
 [mon benchmark entre eZ Publish 3.10 et eZ Publish
 4](/post/benchmark-between-ez-publish-4-and-ez-publish-3-10-with-or-without-a-php-opcode-cache)
 avec différentes configurations de PHP. Maintenant il n'y a plus qu'à
-l'utiliser. Mais surprise intéressante, l'extension [eZ
-Flow](https://doc.ez.no/Extensions/eZ-Publish-extensions/eZ-Flow) annoncée et présentée lors du *developper day* est
+l'utiliser. Mais surprise intéressante, l'extension eZ
+Flow annoncée et présentée lors du *developper day* est
 intégrée à cette version. J'ai regardé avec attention la vidéo de
 présentation (ez.no/ezflow/ez_flow_product_demonstration, page hors ligne
 depuis…) qui reprend

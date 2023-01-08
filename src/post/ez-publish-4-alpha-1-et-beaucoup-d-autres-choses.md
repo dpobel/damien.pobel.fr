@@ -14,8 +14,8 @@ updated: 2016-02-10 22:15
 [eZ Publish](/tag/ez-publish) 4 arrive enfin, une première version alpha est
 sortie jeudi dernier basée sur le portage
 communautaire débuté par
-[Kristof Coomans](http://blog.coomanskristof.be/) et [Paul
-Borgermans](http://walhalla.wordpress.com/). En terme fonctionnel ce ne sera
+Kristof Coomans et Paul
+Borgermans. En terme fonctionnel ce ne sera
 probablement pas une révolution mais le principal atout de cette version est
 évidemment [le support tant attendu de PHP5](/post/ez-publish-et-php5) (les
 utilisateurs de distribution Linux ne supportant que PHP5 vont apprécier). En

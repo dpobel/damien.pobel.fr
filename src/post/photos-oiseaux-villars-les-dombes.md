@@ -8,7 +8,7 @@ published: 2013-09-01T21:48:09+02:00
 évidemment, comme <a href="/post/parc-des-oiseaux">les précédents</a>, ils sont
 pensionnaires du parc des oiseaux de Villars-les-Dombes. Comme d'habitude les
 photos sont aussi visible dans [le *set* Flickr
-dédié](http://www.flickr.com/photos/tigr0u/sets/72157627802960454/) et également sur <a href="http://500px.com/tigrou">500px</a> où un petit *Like* fait toujours plaisir ;-)
+dédié](http://www.flickr.com/photos/tigr0u/sets/72157627802960454/).
 
 <figure class="object-center"><a href="/images/lori-arc-en-ciel.jpg"><img
 src="/images/660x/lori-arc-en-ciel.jpg" alt="Lori arc en ciel"></a><figcaption>Lori arc-en-ciel (<a href="http://www.flickr.com/photos/tigr0u/9647807914/">Flickr</a>)</figcaption></figure>

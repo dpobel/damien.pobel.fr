@@ -13,13 +13,13 @@ photos:
     </a>
 </figure>
 
-[eZ Platform 16.02 was
-released](http://ez.no/Blog/Discover-eZ-Platform-and-eZ-Studio-16.02) last week.
+eZ Platform 16.02 was
+released last week.
 As far as I'm concerned, I did quite some changes mostly in Online Editor (the
 rich text editor) to improve the handling of *embeds* and images in RichText
 fields. And I'm happy to see my *I can haz aligned image* cat (generated with
-[memegenerator.net](http://memegenerator.net/instance/66845943)) in [the release
-notes](https://doc.ez.no/display/TECHDOC/eZ+Platform+16.02+Release+notes) :-)
+[memegenerator.net](http://memegenerator.net/instance/66845943)) in the release
+notes :-)
 
 Also, thanks to [this patch to the eZ Platform JavaScript REST
 Client](https://github.com/ezsystems/ez-js-rest-client/pull/72), it's now
