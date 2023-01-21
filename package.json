@@ -23,7 +23,7 @@
     "@metalsmith/layouts": "^2.6.0",
     "@metalsmith/markdown": "^1.8.0",
     "@metalsmith/permalinks": "^2.4.1",
-    "@metalsmith/postcss": "^5.1.0",
+    "@metalsmith/postcss": "^5.2.0",
     "@metalsmith/remove": "^1.3.0",
     "async": "^3.2.4",
     "cheerio": "^1.0.0-rc.12",
