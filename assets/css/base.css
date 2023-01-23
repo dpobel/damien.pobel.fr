@@ -119,8 +119,11 @@ hr {
 .side-block .side-block-icon {
   display: block;
   text-decoration: none;
-  color: #fff;
-  padding: 0.7em 0.5em 0.5em 0.5em;
+  padding: 0.2em 0.5em;
+}
+
+.side-block .side-block-icon span {
+  text-decoration: underline;
 }
 
 .side-block .side-block-icon svg {
@@ -129,11 +132,9 @@ hr {
   height: 1.5em;
   width: 1.5em;
   vertical-align: middle;
-  margin: 0 0.5em 0.2em 0;
-}
-
-.side-block .side-block-icon a:visited {
-  color: #fff;
+  margin: 0 0.5em 0 0;
+  padding: 0.4em;
+  border-radius: 5px;
 }
 
 @media (max-width: 960px) {

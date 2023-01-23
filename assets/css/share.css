@@ -1,4 +1,4 @@
-.rss {
+.rss svg {
   background: #ff7400;
 }
 
@@ -11,14 +11,14 @@
   list-style-type: none;
 }
 
-.share-twitter {
+.share-twitter svg {
   background: #1b95e0;
 }
 
-.share-facebook {
+.share-facebook svg {
   background: #3f5c9a;
 }
 
-.share-linkedin {
+.share-linkedin svg {
   background: #1a85bc;
 }
