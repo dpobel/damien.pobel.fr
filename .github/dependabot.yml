@@ -12,10 +12,3 @@ updates:
       - dependency-name: metalsmith-renamer
         versions:
           - "> 0.5.25, < 0.6"
-      - dependency-name: highlight.js
-        versions:
-          - 10.7.0
-      - dependency-name: open
-        versions:
-          - 8.0.0
-          - 8.0.1
