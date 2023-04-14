@@ -54,7 +54,7 @@
     "metalsmith-tags": "^2.1.0",
     "mocha": "^10.2.0",
     "normalize.css": "^8.0.1",
-    "nunjucks": "^3.2.3",
+    "nunjucks": "^3.2.4",
     "open": "^8.4.2",
     "postcss": "^8.4.21",
     "postcss-import": "^15.1.0",
