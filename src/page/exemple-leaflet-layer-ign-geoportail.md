@@ -35,7 +35,7 @@ Leaflet](/post/cartographie-api-geoportail-ign-leaflet).
 
     layer = L.tileLayer(
         layerUrl(
-            "uohuygcpn5772t43fh8350g3", "GEOGRAPHICALGRIDSYSTEMS.MAPS"
+            "edg4e42kavupobo7kvcrrr09", "GEOGRAPHICALGRIDSYSTEMS.MAPS"
         ),
         {attribution: '&copy; <a href="http://www.ign.fr/">IGN</a>'}
     );
