@@ -1,5 +1,7 @@
 #! /bin/sh
 
+# ⚠️ ENCRYPT_KEY and PERSONAL_TOKEN are defined in both Actions secrets **and** Dependabot secrets
+# so when updating it don't forget to set both.
 echo $ENCRYPT_KEY|gpg --batch --yes --passphrase-fd 0 --output ssh/id_ecdsa --decrypt ssh/id_ecdsa.enc
 chmod 600 ssh/id_ecdsa
 
