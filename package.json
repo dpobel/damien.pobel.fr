@@ -27,7 +27,7 @@
     "@metalsmith/remove": "^1.4.0",
     "async": "^3.2.5",
     "cheerio": "^1.0.0-rc.12",
-    "consolidate": "^0.16.0",
+    "consolidate": "^1.0.3",
     "cssnano": "^6.0.1",
     "detect-port": "^1.5.1",
     "eslint": "^8.54.0",
