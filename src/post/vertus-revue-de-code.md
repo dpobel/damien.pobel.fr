@@ -60,11 +60,12 @@ Ensuite, j'ai l'habitude (et je conseille vivement) de faire une auto-revue
 juste avant ou juste après la soumission. Le fait de voir les changements dans
 un autre contexte permet souvent de détecter des défauts passés inaperçus jusque
 là. Le plus souvent ce sont des aspects relativement mineurs comme le nommage
-d'une variable, un commentaire en trop ou au contraire manquant, un
-`console.log` oublié, quelques fautes d'orthograhe… Là encore avant même la
-revue, l'amélioration peut-être significative même si l'idée est surtout de
-faire place nette pour les futur·es réviseur·ses (*reviewers*) pour les laisser se
-concentrer sur l'essentiel.
+d'une variable, [un commentaire en trop ou au contraire
+manquant](/post/juste-dose-commentaires-dans-le-code/), un `console.log` oublié,
+quelques fautes d'orthograhe… Là encore avant même la revue, l'amélioration
+peut-être significative même si l'idée est surtout de faire place nette pour les
+futur·es réviseur·ses (*reviewers*) pour les laisser se concentrer sur
+l'essentiel.
 
 ## Place aux robots
 

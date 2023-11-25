@@ -50,8 +50,8 @@ générique* sur l'ajout d'une nouvelle fonctionnalité. Dans ce genre de cas je
 cherche même pas à débattre de la réutilisabilité ou de la généricité, je fais
 simplement observer qu'effectivement le changement vise à résoudre un problème
 pas à proposer une solution générique et que, tant que le besoin générique
-n'existe pas, essayer d'y répondre n'est qu'une perte de temps et un nid à bugs
-par la complexité que cela implique.
+n'existe pas, essayer d'y répondre n'est qu'une perte de temps et [un nid à bugs
+par la complexité que cela implique](/post/complexite-charge-cognitive/).
 
 D'ailleurs le découpage en composants, modules, services, fonctions… ne vise pas
 à préparer une éventuelle réutilisation (même si à l'occasion, cela peut se

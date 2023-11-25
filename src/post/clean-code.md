@@ -57,7 +57,7 @@ la maintenabilité.
 
 ## Astuces pour la compréhensibilité
 
-1. Soyez **cohérent**. Si vous faites quelque chose d'une certaines manière,
+1. Soyez **cohérent**. Si vous faites quelque chose d'une certaine manière,
    toutes les choses similaires devraient être faites de la même manière.
 1. Utilisez **des noms de variables explicites**.
 1. **Encapsulez les conditions limites** : elles sont compliquées à suivre. Il
@@ -84,7 +84,7 @@ la maintenabilité.
 1. **Ne fait qu'une chose** et la fait bien.
 1. Utilisez **des noms descriptifs**.
 1. Préférez les avec **le moins d'arguments possibles**, idéalement pas plus de 3.
-1. **Sans effets de bord**.
+1. **Sans effet de bord**.
 1. [N'utilisez pas de
    _flag_](https://ariya.io/2011/08/hall-of-api-shame-boolean-trap) : écrivez
    plutôt plusieurs méthodes sans ce type d'argument.
@@ -148,12 +148,12 @@ la maintenabilité.
 
 1. **Rigidité** : le logiciel est difficile à faire évoluer. Une petite
    modification peut causer une cascade de changements.
-1. **Fragilité** : le logiciel dysfonctionnement en plusieurs endroits en
+1. **Fragilité** : le logiciel dysfonctionne en plusieurs endroits en
    réponse à un unique changement.
 1. **Immobilité** : vous ne pouvez pas réutiliser une partie du code dans
    d'autres projets car cette opération est risquée ou nécessite un grand
    effort.
-1. **Complexité inutile**.
+1. [**Complexité inutile**](/post/complexite-charge-cognitive/).
 1. **Répétition inutile**.
 1. **Opacité** : le code est difficile à comprendre.
 
