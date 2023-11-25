@@ -1,5 +1,5 @@
 .cv {
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .cv header {
@@ -29,6 +29,7 @@
 
 .cv h3 {
   margin-top: 0;
+  font-weight: bold;
 }
 
 .cv dd {
