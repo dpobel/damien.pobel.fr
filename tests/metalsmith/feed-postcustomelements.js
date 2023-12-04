@@ -29,7 +29,7 @@ describe("postCustomElements metalsmith-feed function", function () {
 
     assert.equal(
       file.published.format("ddd, DD MMM YYYY HH:mm:ss [GMT]"),
-      res.date
+      res.date,
     );
   });
 });
