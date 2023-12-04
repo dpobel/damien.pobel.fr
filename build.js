@@ -57,12 +57,12 @@ conf.tagLangFeed.preprocess = conf.feed.preprocess;
 
 const filterOutVeilleFn =
   require("./lib/metalsmith/filter-collection.js").excludeWithMetadataFn(
-    "weeklyTech"
+    "weeklyTech",
   );
 
 const keepTopPostFn =
   require("./lib/metalsmith/filter-collection.js").excludeWithoutMetadataFn(
-    "top-priority"
+    "top-priority",
   );
 
 conf.collections.lastPosts.filterBy = filterOutVeilleFn;

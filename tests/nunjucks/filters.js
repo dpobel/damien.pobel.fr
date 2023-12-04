@@ -27,7 +27,7 @@ describe("Nunjucks filters", function () {
 
       assert.equal(
         "http://damien.pobel.fr/blog/slashes/",
-        filters.url(path, prefix)
+        filters.url(path, prefix),
       );
     });
 
@@ -52,7 +52,7 @@ describe("Nunjucks filters", function () {
     it("should add the variation part", function () {
       assert.equal(
         "images/whatever/photo.jpg",
-        func("images/photo.jpg", "whatever")
+        func("images/photo.jpg", "whatever"),
       );
     });
   });
