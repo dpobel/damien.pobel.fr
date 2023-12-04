@@ -42,7 +42,7 @@ $ sudo cp /etc/awstats/awstats.conf /etc/awstats/awstats.DOMAINECONSULTATION.TLD
 ```
 
 
-où DOMAINECONSULTATION.TLD est le domaine par lequel les statistiques seront accessibles. Pour ma part, je les consulte par `http://pwet.fr/stats/`, mon fichier est donc awstats.pwet.fr.conf. Si je les consultais via `http://www.pwet.fr/stats/`, ce serait awstats.www.pwet.fr.conf.
+où DOMAINECONSULTATION.TLD est le domaine par lequel les statistiques seront accessibles. Pour ma part, je les consulte par `http://pwet.fr/stats/`, mon fichier est donc awstats.pwet.fr.conf. Si je les consultais via `http://www.pwet.fr/stats/`, ce serait `awstats.www.pwet.fr.conf`.
 
 
 Il faut ensuite éditer ce fichier et modifier quelques paramètres pour les adapter à votre configuration (les commentaires dans ce fichier sont très utiles) :
