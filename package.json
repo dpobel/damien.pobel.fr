@@ -34,7 +34,7 @@
     "eslint": "^8.55.0",
     "gm": "^1.25.0",
     "highlight.js": "^11.9.0",
-    "imagemin": "^7.0.1",
+    "imagemin": "^8.0.1",
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegoptim": "^7.0.0",
     "imagemin-optipng": "^8.0.0",
