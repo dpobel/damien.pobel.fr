@@ -8,6 +8,7 @@
   "directories": {
     "test": "tests"
   },
+  "type": "module",
   "scripts": {
     "test": "./node_modules/.bin/mocha --recursive tests",
     "lint": "eslint && prettier -c .",

@@ -1,7 +1,11 @@
 /* global describe, it, beforeEach */
-const assert = require("assert");
-const metalsmith = require("metalsmith");
-const fileToMetadata = require("../../lib/metalsmith/file-to-metadata");
+import assert from "assert";
+import metalsmith from "metalsmith";
+import fileToMetadata from "../../lib/metalsmith/file-to-metadata.js";
+import { dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("fileToMetadata metalsmith plugin", function () {
   let ms, buildError, buildFiles;
