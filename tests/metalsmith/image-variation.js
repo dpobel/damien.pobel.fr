@@ -1,8 +1,12 @@
 /* global describe, it, before */
-const assert = require("assert");
-const metalsmith = require("metalsmith");
-const gm = require("gm");
-const imageVariation = require("../../lib/metalsmith/image-variation");
+import assert from "assert";
+import metalsmith from "metalsmith";
+import gm from "gm";
+import imageVariation from "../../lib/metalsmith/image-variation.js";
+import { dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("imageVariation metalsmith plugin", function () {
   const fixtureDir = "fixtures/image-variation/";

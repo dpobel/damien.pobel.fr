@@ -1,9 +1,13 @@
 /* global describe, it, beforeEach */
-const assert = require("assert");
-const metalsmith = require("metalsmith");
-const collections = require("@metalsmith/collections");
-const tags = require("metalsmith-tags");
-const collectPhotos = require("../../lib/metalsmith/collect-photos");
+import assert from "assert";
+import metalsmith from "metalsmith";
+import collections from "@metalsmith/collections";
+import tags from "metalsmith-tags";
+import collectPhotos from "../../lib/metalsmith/collect-photos.js";
+import { dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("collectPhotos metalsmith plugin", function () {
   let ms;

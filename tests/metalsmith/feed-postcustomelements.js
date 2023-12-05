@@ -1,7 +1,7 @@
 /* global describe, it */
-const postCustomElements = require("../../lib/metalsmith/feed-postcustomelements.js");
-const moment = require("moment");
-const assert = require("assert");
+import postCustomElements from "../../lib/metalsmith/feed-postcustomelements.js";
+import moment from "moment";
+import assert from "assert";
 
 describe("postCustomElements metalsmith-feed function", function () {
   const tags = [

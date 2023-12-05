@@ -1,8 +1,12 @@
 /* global describe, it, before */
-const assert = require("assert");
-const metalsmith = require("metalsmith");
-const tags = require("metalsmith-tags");
-const tagLangFeed = require("../../lib/metalsmith/tag-lang-feed");
+import assert from "assert";
+import metalsmith from "metalsmith";
+import tags from "metalsmith-tags";
+import tagLangFeed from "../../lib/metalsmith/tag-lang-feed.js";
+import { dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("tagLangFeed metalsmith plugin", function () {
   let ms, buildError, buildFiles;

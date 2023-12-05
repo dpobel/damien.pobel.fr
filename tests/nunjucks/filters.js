@@ -1,6 +1,6 @@
 /* global describe, it, beforeEach */
-const assert = require("assert");
-const filters = require("../../lib/nunjucks/filters");
+import assert from "assert";
+import filters from "../../lib/nunjucks/filters.js";
 
 describe("Nunjucks filters", function () {
   describe("url", function () {

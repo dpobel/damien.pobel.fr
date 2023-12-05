@@ -1,43 +1,60 @@
 #! /usr/bin/env node
 
-const metalsmith = require("metalsmith");
-const conf = require("./build.json");
+import metalsmith from "metalsmith";
+import collectPhotos from "./lib/metalsmith/collect-photos.js";
+import imageVariation from "./lib/metalsmith/image-variation.js";
+import fileToMetadata from "./lib/metalsmith/file-to-metadata.js";
+import tagLangFeed from "./lib/metalsmith/tag-lang-feed.js";
+import renamer from "metalsmith-renamer";
+import htmlMinifier from "metalsmith-html-minifier";
+import ignore from "@metalsmith/remove";
+import postcss from "@metalsmith/postcss";
+import assets from "metalsmith-assets-2";
+import define from "metalsmith-define";
+import feed from "metalsmith-feed";
+import msMoment from "metalsmith-moment";
+import fileMetadata from "metalsmith-filemetadata";
+import tags from "metalsmith-tags";
+import layouts from "@metalsmith/layouts";
+import markdown from "@metalsmith/markdown";
+import collections from "@metalsmith/collections";
+import pagination from "metalsmith-pagination";
+import permalinks from "@metalsmith/permalinks";
+import pdfize from "metalsmith-pdfize";
+import brotli from "metalsmith-brotli";
+import gzip from "metalsmith-gzip";
+import zlib from "zlib";
+import open from "open";
+import detect from "detect-port";
+import { spawn } from "child_process";
+import sluggify from "./lib/sluggify.js";
+import noopPlugin from "./lib/metalsmith/noop.js";
+import timedPlugin from "./lib/metalsmith/time.js";
+import feedPostCustomElement from "./lib/metalsmith/feed-postcustomelements.js";
+import {
+  excludeWithMetadataFn,
+  excludeWithoutMetadataFn,
+} from "./lib/metalsmith/filter-collection.js";
+import hljs from "highlight.js";
+import postCssConfig from "./postcss.config.js";
+import nunjuckFilters from "./lib/nunjucks/filters.js";
+import moment from "moment";
+import fsPromises from "node:fs/promises";
+
+const conf = JSON.parse(
+  await fsPromises.readFile("./build.json", { encoding: "utf-8" }),
+);
+
 const source = conf.source;
 const destination = conf.destination;
 const assetsRev = process.env.ASSET_REV;
-const collectPhotos = require("./lib/metalsmith/collect-photos");
-const imageVariation = require("./lib/metalsmith/image-variation");
-const fileToMetadata = require("./lib/metalsmith/file-to-metadata");
-const tagLangFeed = require("./lib/metalsmith/tag-lang-feed");
-const renamer = require("metalsmith-renamer");
-const htmlMinifier = require("metalsmith-html-minifier");
-const ignore = require("@metalsmith/remove");
-const postcss = require("@metalsmith/postcss");
-const assets = require("metalsmith-assets-2");
-const define = require("metalsmith-define");
-const feed = require("metalsmith-feed");
-const msMoment = require("metalsmith-moment");
-const fileMetadata = require("metalsmith-filemetadata");
-const tags = require("metalsmith-tags");
-const layouts = require("@metalsmith/layouts");
-const markdown = require("@metalsmith/markdown");
-const collections = require("@metalsmith/collections");
-const pagination = require("metalsmith-pagination");
-const permalinks = require("@metalsmith/permalinks");
-const pdfize = require("metalsmith-pdfize");
-const brotli = require("metalsmith-brotli");
-const gzip = require("metalsmith-gzip");
-const zlib = require("zlib");
-const open = require("open");
-const detect = require("detect-port");
-const spawn = require("child_process").spawn;
 
 const DEV_ENV = process.argv.includes("--dev");
 const DEV_PORT = 50112;
 
-conf.tags.slug = require("./lib/sluggify");
+conf.tags.slug = sluggify;
 
-let styleRenamePlugin = require("./lib/metalsmith/noop.js");
+let styleRenamePlugin = noopPlugin;
 if (assetsRev) {
   const renamedCss = "style-" + assetsRev + ".css";
   console.log("Preparing style.css renaming to " + renamedCss);
@@ -52,18 +69,11 @@ if (assetsRev) {
   conf.define.css = renamedCss;
 }
 
-conf.feed.preprocess = require("./lib/metalsmith/feed-postcustomelements.js");
+conf.feed.preprocess = feedPostCustomElement;
 conf.tagLangFeed.preprocess = conf.feed.preprocess;
 
-const filterOutVeilleFn =
-  require("./lib/metalsmith/filter-collection.js").excludeWithMetadataFn(
-    "weeklyTech",
-  );
-
-const keepTopPostFn =
-  require("./lib/metalsmith/filter-collection.js").excludeWithoutMetadataFn(
-    "top-priority",
-  );
+const filterOutVeilleFn = excludeWithMetadataFn("weeklyTech");
+const keepTopPostFn = excludeWithoutMetadataFn("top-priority");
 
 conf.collections.lastPosts.filterBy = filterOutVeilleFn;
 conf.collections.blog.filterBy = filterOutVeilleFn;
@@ -71,8 +81,6 @@ conf.collections.top.filterBy = keepTopPostFn;
 
 const markdownConf = {
   highlight: function (code, language) {
-    const hljs = require("highlight.js");
-
     if (language) {
       return hljs.highlight(code, { language }).value;
     }
@@ -85,7 +93,7 @@ const pluginsConfList = [
   { plugin: assets, conf: conf.assets, name: "assets", indev: true },
   {
     plugin: postcss,
-    conf: require("./postcss.config.js"),
+    conf: postCssConfig,
     name: "postcss",
     indev: true,
   },
@@ -146,7 +154,7 @@ const pluginsConfList = [
     plugin: layouts,
     conf: {
       directory: "templates",
-      engineOptions: { filters: require("./lib/nunjucks/filters") },
+      engineOptions: { filters: nunjuckFilters },
     },
     name: "layouts",
     indev: true,
@@ -187,13 +195,11 @@ const pluginsConfList = [
 ];
 
 // TODO: this is probably not the right place for that
-require("moment").locale("fr");
+moment.locale("fr");
 console.log("Generating the site");
-const ms = metalsmith(__dirname).source(source);
+const ms = metalsmith(process.cwd()).source(source);
 
 pluginsConfList.forEach(function (pluginConf) {
-  const timedPlugin = require("./lib/metalsmith/time");
-
   if ((DEV_ENV && pluginConf.indev) || !DEV_ENV) {
     ms.use(timedPlugin(pluginConf.plugin(pluginConf.conf), pluginConf.name));
   }

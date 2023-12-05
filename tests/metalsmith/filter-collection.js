@@ -1,12 +1,15 @@
 /* global describe, it */
-const filterCollection = require("../../lib/metalsmith/filter-collection.js");
-const assert = require("assert");
+import {
+  excludeWithMetadataFn,
+  excludeWithoutMetadataFn,
+} from "../../lib/metalsmith/filter-collection.js";
+import assert from "assert";
 
 describe("filter collection functions", function () {
   const propIdentifier = "metaPropIdentifier";
 
   describe("excludeWithMetadataFn", () => {
-    const excludeMeta = filterCollection.excludeWithMetadataFn(propIdentifier);
+    const excludeMeta = excludeWithMetadataFn(propIdentifier);
 
     it("should exclude post with the given meta set to true", function () {
       assert(!excludeMeta({ [propIdentifier]: true }));
@@ -22,8 +25,7 @@ describe("filter collection functions", function () {
   });
 
   describe("excludeWithoutMetadataFn", () => {
-    const excludeWithoutMeta =
-      filterCollection.excludeWithoutMetadataFn(propIdentifier);
+    const excludeWithoutMeta = excludeWithoutMetadataFn(propIdentifier);
 
     it("should keep post with the given meta set to true", function () {
       assert(excludeWithoutMeta({ [propIdentifier]: true }));
