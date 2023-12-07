@@ -12,7 +12,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 describe("collectPhotos metalsmith plugin", function () {
   let ms;
   let buildError;
-  let lastPhotosNumber = 2;
+  const lastPhotosNumber = 2;
 
   beforeEach(function (done) {
     ms = metalsmith(__dirname);
