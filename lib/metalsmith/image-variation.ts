@@ -6,6 +6,7 @@ import imageminJpegoptim from "imagemin-jpegoptim";
 import imageminOptipng from "imagemin-optipng";
 import imageminGifsicle from "imagemin-gifsicle";
 import imageminSvgo from "imagemin-svgo";
+import { Plugin } from "metalsmith";
 
 const imagePath = "/images/";
 const multipleSlash = /\/+/g;
@@ -100,7 +101,12 @@ function handleImageAttribute(
   }
 }
 
-export default function (options) {
+type ImageVariationOption = {
+  siteUrl: string;
+  concurrency: number;
+}
+
+export default function (options : ImageVariationOption): Plugin {
   const siteUrl = options.siteUrl,
     localRegexp = new RegExp(`(${imagePath}|${siteUrl}${imagePath})`);
 

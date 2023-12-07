@@ -1,4 +1,4 @@
-import { File } from "metalsmith";
+import { File, Plugin } from "metalsmith";
 import feed from "metalsmith-feed";
 
 const rssSize = 10;
@@ -16,7 +16,7 @@ function isFr(file: File) {
   return !file.lang || file.lang === "fr";
 }
 
-export default function (options) {
+export default function (options) : Plugin {
   return function (files, metalsmith, done) {
     const metadata = metalsmith.metadata();
     const tagsWithFrFilter = {};

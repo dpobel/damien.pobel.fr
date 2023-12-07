@@ -6,12 +6,13 @@ import tags from "metalsmith-tags";
 import collectPhotos from "../../lib/metalsmith/collect-photos.js";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
+import Metalsmith from "metalsmith";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("collectPhotos metalsmith plugin", function () {
-  let ms;
-  let buildError;
+  let ms : Metalsmith;
+  let buildError : Error | null;
   const lastPhotosNumber = 2;
 
   beforeEach(function (done) {

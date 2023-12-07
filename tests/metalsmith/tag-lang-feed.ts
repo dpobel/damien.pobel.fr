@@ -1,15 +1,16 @@
 /* global describe, it, before */
 import assert from "assert";
-import metalsmith from "metalsmith";
+import metalsmith, { Files } from "metalsmith";
 import tags from "metalsmith-tags";
 import tagLangFeed from "../../lib/metalsmith/tag-lang-feed.js";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
+import Metalsmith from "metalsmith";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("tagLangFeed metalsmith plugin", function () {
-  let ms, buildError, buildFiles;
+  let ms : Metalsmith, buildError: Error | null, buildFiles: Files;
 
   before(function (done) {
     ms = metalsmith(__dirname);

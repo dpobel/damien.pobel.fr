@@ -2,6 +2,7 @@
 import postCustomElements from "../../lib/metalsmith/feed-postcustomelements.js";
 import moment from "moment";
 import assert from "assert";
+import { File } from "metalsmith"
 
 describe("postCustomElements metalsmith-feed function", function () {
   const tags = [
@@ -9,7 +10,7 @@ describe("postCustomElements metalsmith-feed function", function () {
     { name: "tag2", slug: "slug2" },
   ];
   const published = moment();
-  const file = { title: "test", tags: tags, published: published };
+  const file : File = { title: "test", tags: tags, published: published, contents: Buffer.from("") };
 
   it("should return an augmented file", function () {
     const res = postCustomElements(file);

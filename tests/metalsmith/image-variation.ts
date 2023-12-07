@@ -1,6 +1,6 @@
 /* global describe, it, before */
 import assert from "assert";
-import metalsmith from "metalsmith";
+import metalsmith, { Files } from "metalsmith";
 import gm from "gm";
 import imageVariation from "../../lib/metalsmith/image-variation.js";
 import { dirname } from "path";
@@ -10,8 +10,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("imageVariation metalsmith plugin", function () {
   const fixtureDir = "fixtures/image-variation/";
-  let buildResult;
-  let buildError;
+  let buildResult : Files;
+  let buildError : Error | null;
 
   this.timeout(50000);
   before(function (done) {

@@ -83,10 +83,10 @@ const markdownConf = {
 };
 
 type PluginConfiguration = {
-  plugin: Plugin,
+  plugin: () => Plugin,
   name: string,
   indev: boolean,
-  conf: any,
+  conf: unknown,
 }
 
 const pluginsConfList: PluginConfiguration[] = [

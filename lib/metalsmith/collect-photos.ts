@@ -28,7 +28,11 @@ function isPhotoPost(file) {
   return file.tags && toTagArray(file.tags).indexOf("photo") !== -1;
 }
 
-export default function (options): Plugin {
+type CollectPhotosOptions = {
+  lastPhotosNumber: number;
+}
+
+export default function (options: CollectPhotosOptions): Plugin {
   return function (files, metalsmith, done) {
     const metadata = metalsmith.metadata();
     let lastPhotosCount = 0;

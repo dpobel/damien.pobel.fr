@@ -1,14 +1,15 @@
 /* global describe, it, beforeEach */
 import assert from "assert";
-import metalsmith from "metalsmith";
+import metalsmith, { Files } from "metalsmith";
 import fileToMetadata from "../../lib/metalsmith/file-to-metadata.js";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
+import Metalsmith from "metalsmith";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("fileToMetadata metalsmith plugin", function () {
-  let ms, buildError, buildFiles;
+  let ms : Metalsmith, buildError : Error | null, buildFiles : Files;
 
   beforeEach(function (done) {
     ms = metalsmith(__dirname);

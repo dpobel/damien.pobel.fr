@@ -1,4 +1,6 @@
-export default function (file: File) {
+import { File } from "metalsmith"
+
+export default function (file: File): File {
   return {
     ...file,
     categories: file.tags.map((tag) => tag.name),
