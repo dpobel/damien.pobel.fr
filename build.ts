@@ -1,4 +1,4 @@
-import metalsmith from "metalsmith";
+import metalsmith, { Plugin } from "metalsmith";
 import collectPhotos from "./lib/metalsmith/collect-photos";
 import imageVariation from "./lib/metalsmith/image-variation";
 import fileToMetadata from "./lib/metalsmith/file-to-metadata";
@@ -74,7 +74,7 @@ conf.collections.blog.filterBy = filterOutVeilleFn;
 conf.collections.top.filterBy = keepTopPostFn;
 
 const markdownConf = {
-  highlight: function (code, language) {
+  highlight: function (code: string, language: string) {
     if (language) {
       return hljs.highlight(code, { language }).value;
     }
@@ -82,7 +82,14 @@ const markdownConf = {
   },
 };
 
-const pluginsConfList = [
+type PluginConfiguration = {
+  plugin: Plugin,
+  name: string,
+  indev: boolean,
+  conf: any,
+}
+
+const pluginsConfList: PluginConfiguration[] = [
   { plugin: define, conf: conf.define, name: "define", indev: true },
   { plugin: assets, conf: conf.assets, name: "assets", indev: true },
   {

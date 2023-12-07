@@ -1,4 +1,4 @@
-export default function (file) {
+export default function (file: File) {
   return {
     ...file,
     categories: file.tags.map((tag) => tag.name),

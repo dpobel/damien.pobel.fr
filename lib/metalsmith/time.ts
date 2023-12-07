@@ -8,4 +8,4 @@ export default function timedPlugin(plugin: Plugin, name: string): Plugin {
       done(...args);
     });
   };
-};
+}

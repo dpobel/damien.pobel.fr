@@ -1,14 +1,15 @@
 import cheerio from "cheerio";
+import { File, Plugin } from "metalsmith";
 
-function isLocalImage(src) {
+function isLocalImage(src: string) {
   return src.startsWith("/images/");
 }
 
-function normalizeImageSrc(src) {
+function normalizeImageSrc(src: string) {
   return src.replace("/images/", "images/").replace(/\/+/g, "/");
 }
 
-function getOriginalPath(src) {
+function getOriginalPath(src: string) {
   const tmp = src.split("/");
 
   if (tmp.length < 3) {
@@ -27,14 +28,14 @@ function isPhotoPost(file) {
   return file.tags && toTagArray(file.tags).indexOf("photo") !== -1;
 }
 
-export default function (options) {
+export default function (options): Plugin {
   return function (files, metalsmith, done) {
     const metadata = metalsmith.metadata();
     let lastPhotosCount = 0;
 
     metadata.lastPhotos = [];
-    metadata.posts.forEach(function (file) {
-      const photos = [];
+    metadata.posts.forEach(function (file: File) {
+      const photos: string[] = [];
 
       if (!isPhotoPost(file)) {
         return;
@@ -43,7 +44,7 @@ export default function (options) {
       $("img").each(function () {
         const src = $(this).attr("src");
 
-        if (!isLocalImage(src)) {
+        if (!src || !isLocalImage(src)) {
           return;
         }
         const original = getOriginalPath(normalizeImageSrc(src));

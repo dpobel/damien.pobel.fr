@@ -1,3 +1,4 @@
+import { File } from "metalsmith";
 import feed from "metalsmith-feed";
 
 const rssSize = 10;
@@ -11,7 +12,7 @@ function addFileToCollection(metadata, file, collection) {
   }
 }
 
-function isFr(file) {
+function isFr(file: File) {
   return !file.lang || file.lang === "fr";
 }
 
