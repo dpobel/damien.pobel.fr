@@ -1,10 +1,8 @@
-#! /usr/bin/env node
-
-import metalsmith from "metalsmith";
-import collectPhotos from "./lib/metalsmith/collect-photos.js";
-import imageVariation from "./lib/metalsmith/image-variation.js";
-import fileToMetadata from "./lib/metalsmith/file-to-metadata.js";
-import tagLangFeed from "./lib/metalsmith/tag-lang-feed.js";
+import metalsmith, { Plugin } from "metalsmith";
+import collectPhotos from "./lib/metalsmith/collect-photos";
+import imageVariation from "./lib/metalsmith/image-variation";
+import fileToMetadata from "./lib/metalsmith/file-to-metadata";
+import tagLangFeed from "./lib/metalsmith/tag-lang-feed";
 import renamer from "metalsmith-renamer";
 import htmlMinifier from "metalsmith-html-minifier";
 import ignore from "@metalsmith/remove";
@@ -27,30 +25,26 @@ import zlib from "zlib";
 import open from "open";
 import detect from "detect-port";
 import { spawn } from "child_process";
-import sluggify from "./lib/sluggify.js";
-import noopPlugin from "./lib/metalsmith/noop.js";
-import timedPlugin from "./lib/metalsmith/time.js";
-import feedPostCustomElement from "./lib/metalsmith/feed-postcustomelements.js";
+import sluggify from "./lib/sluggify";
+import noopPlugin from "./lib/metalsmith/noop";
+import timedPlugin from "./lib/metalsmith/time";
+import feedPostCustomElement from "./lib/metalsmith/feed-postcustomelements";
 import {
   excludeWithMetadataFn,
   excludeWithoutMetadataFn,
-} from "./lib/metalsmith/filter-collection.js";
+} from "./lib/metalsmith/filter-collection";
 import hljs from "highlight.js";
-import postCssConfig from "./postcss.config.js";
-import nunjuckFilters from "./lib/nunjucks/filters.js";
+import postCssConfig from "./postcss.config";
+import nunjuckFilters from "./lib/nunjucks/filters";
 import moment from "moment";
-import fsPromises from "node:fs/promises";
-
-const conf = JSON.parse(
-  await fsPromises.readFile("./build.json", { encoding: "utf-8" }),
-);
+import conf from "./build.json";
 
 const source = conf.source;
 const destination = conf.destination;
 const assetsRev = process.env.ASSET_REV;
 
 const DEV_ENV = process.argv.includes("--dev");
-const DEV_PORT = 50112;
+const DEV_PORT = "50112";
 
 conf.tags.slug = sluggify;
 
@@ -80,7 +74,7 @@ conf.collections.blog.filterBy = filterOutVeilleFn;
 conf.collections.top.filterBy = keepTopPostFn;
 
 const markdownConf = {
-  highlight: function (code, language) {
+  highlight: function (code: string, language: string) {
     if (language) {
       return hljs.highlight(code, { language }).value;
     }
@@ -88,7 +82,14 @@ const markdownConf = {
   },
 };
 
-const pluginsConfList = [
+type PluginConfiguration = {
+  plugin: () => Plugin,
+  name: string,
+  indev: boolean,
+  conf: unknown,
+}
+
+const pluginsConfList: PluginConfiguration[] = [
   { plugin: define, conf: conf.define, name: "define", indev: true },
   { plugin: assets, conf: conf.assets, name: "assets", indev: true },
   {

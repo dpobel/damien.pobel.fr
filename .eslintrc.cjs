@@ -2,11 +2,16 @@ module.exports = {
   env: {
     node: true,
     es2022: true,
+    mocha: true,
   },
-  extends: "eslint:recommended",
+  extends: [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended-type-checked",
+  ],
+  parser: "@typescript-eslint/parser",
+  root: true,
   parserOptions: {
-    ecmaVersion: 2022,
-    sourceType: "module",
+    project: true,
+    tsconfigRootDir: __dirname,
   },
-  rules: {},
 };

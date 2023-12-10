@@ -1,3 +1,4 @@
+import { File, Plugin } from "metalsmith";
 import feed from "metalsmith-feed";
 
 const rssSize = 10;
@@ -11,11 +12,13 @@ function addFileToCollection(metadata, file, collection) {
   }
 }
 
-function isFr(file) {
+function isFr(file: File) {
   return !file.lang || file.lang === "fr";
 }
 
-export default function (options) {
+type TagLangFeedOptions = { addFrFilter: string[] };
+
+export default function (options: TagLangFeedOptions) : Plugin {
   return function (files, metalsmith, done) {
     const metadata = metalsmith.metadata();
     const tagsWithFrFilter = {};

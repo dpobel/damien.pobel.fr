@@ -1,8 +1,12 @@
 import path from "path";
+import type { Plugin, File } from "metalsmith";
 
-export default function (options) {
+type FileWildcard = string;
+type FileToMetadataOptions = { [metadataName: string]: FileWildcard};
+
+export default function (options: FileToMetadataOptions): Plugin {
   return function (files, metalsmith, done) {
-    const metadata = metalsmith.metadata();
+    const metadata = metalsmith.metadata() as Record<string, unknown>;
 
     Object.keys(options).forEach(function (metaName) {
       const toMoveFileNames = metalsmith.match(options[metaName]);
@@ -12,7 +16,8 @@ export default function (options) {
       }
       metadata[metaName] = {};
       toMoveFileNames.forEach(function (filePath) {
-        metadata[metaName][path.basename(filePath)] = files[filePath];
+        const meta = metadata[metaName] as Record<string, File>;
+        meta[path.basename(filePath)] = files[filePath];
         delete files[filePath];
       });
     });

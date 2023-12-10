@@ -1,6 +1,5 @@
-/* global describe, it, beforeEach */
 import assert from "assert";
-import filters from "../../lib/nunjucks/filters.js";
+import filters from "../../lib/nunjucks/filters";
 
 describe("Nunjucks filters", function () {
   describe("url", function () {
@@ -39,39 +38,23 @@ describe("Nunjucks filters", function () {
   });
 
   describe("image_variation", function () {
-    let func;
-
-    beforeEach(function () {
-      func = filters.image_variation;
-    });
-
-    it("should be defined", function () {
-      assert.ok(typeof func === "function");
-    });
+    const imageVariation = filters.image_variation;
 
     it("should add the variation part", function () {
       assert.equal(
         "images/whatever/photo.jpg",
-        func("images/photo.jpg", "whatever"),
+        imageVariation("images/photo.jpg", "whatever"),
       );
     });
   });
 
   describe("keys", function () {
-    let func;
-
-    beforeEach(function () {
-      func = filters.keys;
-    });
-
-    it("should be defined", function () {
-      assert.ok(typeof func === "function");
-    });
+    const keys = filters.keys;
 
     it("should return the array of object keys", function () {
       const obj = { foo: "", bar: "" };
 
-      assert.deepEqual(["foo", "bar"], func(obj));
+      assert.deepEqual(["foo", "bar"], keys(obj));
     });
   });
 
@@ -79,11 +62,7 @@ describe("Nunjucks filters", function () {
     const tags = {
       "tag.html": {},
     };
-    let func;
-
-    beforeEach(function () {
-      func = filters.tag_info;
-    });
+    const func = filters.tag_info;
 
     it("should return the tag info", () => {
       assert.deepEqual(tags["tag.html"], func(tags, "tag"));
