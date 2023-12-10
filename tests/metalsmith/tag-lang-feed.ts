@@ -1,4 +1,3 @@
-/* global describe, it, before */
 import assert from "assert";
 import metalsmith, { Files } from "metalsmith";
 import tags from "metalsmith-tags";

@@ -1,4 +1,3 @@
-/* global describe, it */
 import postCustomElements from "../../lib/metalsmith/feed-postcustomelements.js";
 import moment from "moment";
 import assert from "assert";

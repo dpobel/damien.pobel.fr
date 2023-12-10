@@ -1,4 +1,3 @@
-/* global describe, it */
 import { File } from "metalsmith";
 import {
   excludeWithMetadataFn,

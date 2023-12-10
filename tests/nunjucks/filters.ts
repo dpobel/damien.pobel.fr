@@ -1,4 +1,3 @@
-/* global describe, it, beforeEach */
 import assert from "assert";
 import filters from "../../lib/nunjucks/filters.js";
 
