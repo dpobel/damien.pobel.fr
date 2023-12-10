@@ -18,7 +18,7 @@ function getOriginalPath(src: string) {
   return tmp[0] + "/" + tmp[2];
 }
 
-function isPhotoPost(file) {
+function isPhotoPost(file: File) {
   const toTagArray = function (tags) {
     return tags.map(function (obj) {
       return obj.name;
@@ -45,8 +45,8 @@ export default function (options: CollectPhotosOptions): Plugin {
         return;
       }
       const $ = cheerio.load(file.contents);
-      $("img").each(function () {
-        const src = $(this).attr("src");
+      $("img").each(function (index, element: cheerio.TagElement) {
+        const src = element.attribs.src;
 
         if (!src || !isLocalImage(src)) {
           return;

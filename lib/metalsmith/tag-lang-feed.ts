@@ -16,7 +16,9 @@ function isFr(file: File) {
   return !file.lang || file.lang === "fr";
 }
 
-export default function (options) : Plugin {
+type TagLangFeedOptions = { addFrFilter: string[] };
+
+export default function (options: TagLangFeedOptions) : Plugin {
   return function (files, metalsmith, done) {
     const metadata = metalsmith.metadata();
     const tagsWithFrFilter = {};
