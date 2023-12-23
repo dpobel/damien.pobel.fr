@@ -1,9 +1,17 @@
 ---
 title: Lectures
-updated: 2022-05-09
+updated: 2023-12-23
 ---
 
 # Lectures
+
+## 2023
+
+* [Panorama](https://www.librairie-gallimard.com/livre/9782073035059-panorama-lilia-hassaine/) (Lilia Hassaine)
+* [Effective TypeScript](https://effectivetypescript.com/) (Dan Vanderkam)
+* [Femmes de la Préhistoire](https://www.tallandier.com/livre/femmes-de-la-prehistoire/) (Claudine Cohen)
+* [L'énigme de la chambre 622](https://www.rosiewolfe.com/catalogue/joel-dicker/lenigme-de-la-chambre-622) (Joël Dicker)
+* [La forêt comestible](https://www.terran.fr/produit/101/9782359811476/la-foret-comestible) (Damien Dekarz)
 
 ## 2022
 
