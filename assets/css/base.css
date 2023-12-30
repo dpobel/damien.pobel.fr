@@ -74,7 +74,6 @@ hr {
 .page-content.type-post,
 .page-content.type-list {
   display: flex;
-  align-content: flex-start;
 }
 
 .page-content.type-post main,

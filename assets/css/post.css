@@ -9,9 +9,7 @@
 
 .post-content h2,
 .post-content h3,
-.post-content h4,
-.post-content h5,
-.post-content h6 {
+.post-content h4 {
   line-height: 1.4;
 }
 
@@ -73,11 +71,6 @@
 .post-content .object-left {
   float: left;
   margin: 0 1em 0 0;
-}
-
-.post-content .object-right {
-  float: right;
-  margin: 0 0 0 1em;
 }
 
 .post-content .object-center {
