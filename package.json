@@ -1,7 +1,10 @@
 {
   "name": "damien.pobel.fr",
   "version": "1.0.0",
-  "repository": "git://github.com/dpobel/damien.pobel.fr.git",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dpobel/damien.pobel.fr.git"
+  },
   "description": "",
   "main": "build.js",
   "private": true,
@@ -10,7 +13,7 @@
   },
   "type": "module",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --recursive tests",
+    "test": "mocha --recursive tests",
     "lint": "eslint . && prettier -c .",
     "restorecache": "./bin/restore_cache.sh",
     "deploy": "./bin/deploy.sh",
@@ -41,7 +44,7 @@
     "imagemin-svgo": "^10.0.1",
     "jstransformer-nunjucks": "^1.2.0",
     "metalsmith": "^2.6.2",
-    "metalsmith-assets-2": "dpobel/metalsmith-assets-2#no-more-merge",
+    "metalsmith-assets-2": "github:dpobel/metalsmith-assets-2#no-more-merge",
     "metalsmith-brotli": "^2.0.0",
     "metalsmith-define": "^2.1.3",
     "metalsmith-feed": "^1.0.0",
