@@ -13,7 +13,7 @@ Je suis un ingénieur logiciel intéressé par le web et les technologies ouvert
 et de mes expériences passées et présentes.
 
 Dans la vraie vie, je suis l'heureux papa de deux petites filles nommées
-Charline et Clémentine. J'aime le sport ([vtt](http://vtt.revermont.bike/),
+Charline et Clémentine. J'aime le sport (vtt,
 tennis de table,&nbsp;…), la nature et j'essaie de prendre [des
 photos](/tag/photo/). J'habite dans un petit village en France appelé
 [Hérépian](https://www.mairieherepian.fr/).

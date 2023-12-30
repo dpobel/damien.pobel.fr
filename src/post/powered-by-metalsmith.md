@@ -17,7 +17,7 @@ in a different context than at my daily job at eZ Systems.
 
 The fundamental change this time is that it is now statically generated. To do
 that, I use a tool called [Metalsmith](http://metalsmith.io/). I've already used
-Metalsmith to publish [my mountain bike website](http://vtt.revermont.bike/) and
+Metalsmith to publish [my mountain bike website](/post/vtt-revermont) and
 I still find it brillant. It is at the same time super simple and powerful
 thanks to its plugins. By the way, [the full source code is on
 Github](https://github.com/dpobel/damien.pobel.fr/), each and every new version of
@@ -45,7 +45,7 @@ rebuilding this website:
   prefer to write future proof CSS and post-process it to get a working CSS in
   current browsers. [PostCSS](https://github.com/postcss/postcss) is clearly the
   tool in this area right now but on the other hand
-  [Myth](http://www.myth.io/) has been there for a while, it is much
+  Myth has been there for a while, it is much
   more simple and there's already [a plugin for
   Metalsmith](https://github.com/kasperisager/metalsmith-myth), so for now the
   winner is… Myth :-)

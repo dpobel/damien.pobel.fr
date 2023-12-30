@@ -51,8 +51,8 @@ services suivants&nbsp;:
 besoin et très occasionnellement Google Doc et Spreadsheet
 * Youtube&nbsp;: sans être un accro aux vidéos en ligne, j'en consulte pas
 mal et j'en ai publié quelques-unes soit des *screencasts* des fonctionnalités
-que je développais dans mon ancien travail, soit des vidéos [des sentiers
-du Revermont que j'adore emprunter à VTT](http://vtt.revermont.bike/single-tracks/).
+que je développais dans mon ancien travail, soit des vidéos des sentiers
+du Revermont que j'adore emprunter à VTT.
 * Je suis identifié *via* Google sur quelques applications/services en ligne
 dont certains que j'utilise activemment notamment sur [le lecteur RSS
 Feedly](https://feedly.com) qui est l'outil principal derrière [ma veille
@@ -62,7 +62,7 @@ Liés à mes différents sites, je suis aussi un utilisateur des plusieurs servi
 pour *webmaster*&nbsp;:
 
 * Analytics&nbsp;: sur [pwet.fr](http://pwet.fr/man/linux/) et
-[vtt.revermont.bike](http://vtt.revermont.bike/) des statistiques que je n'ai
+vtt.revermont.bike des statistiques que je n'ai
 pas consultées depuis des mois et où [un bête traitement des logs du serveur
 avec
 AWStats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi/) me serait

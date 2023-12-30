@@ -14,25 +14,25 @@ http://vtt.revermont.bike/"></a>
 
 Il y a trois semaines j'ai mis en ligne mon dernier projet personnel&nbsp;:
 Revermont.bike&nbsp;! Comme le titre de ce post le suggère, il s'agit d'un site
-proposant [des traces GPS pour le VTT dans le
-Revermont](http://vtt.revermont.bike/). Plus particulièrement, ce site propose
-des [parcours de randonnées](http://vtt.revermont.bike/randonnees/) et tente de
-répertorier [les plus beaux single tracks du Revermont pour le
-VTT](http://vtt.revermont.bike/single-tracks/)
+proposant des traces GPS pour le VTT dans le
+Revermont (`http://vtt.revermont.bike/` hors ligne depuis). Plus particulièrement, ce site propose
+des parcours de randonnées et tente de
+répertorier les plus beaux single tracks du Revermont pour le
+VTT.
 
 Single track&nbsp;? Revermont&nbsp;? Mais qu'est ce que c'est que tout ça&nbsp;?
-[Single track](http://vtt.revermont.bike/tags/single-track/) est un terme du
-[jargon du VTT](http://vtt.revermont.bike/glossaire/) (ou plus largement des
+Single track est un terme du
+jargon du VTT (ou plus largement des
 sports de nature) qui désigne un chemin (très) étroit; la plupart des VTTétistes
 adorent ça mais il n'est pas toujours aisé de les découvrir.
 
-Et le Revermont alors&nbsp;? [Le
-Revermont](http://vtt.revermont.bike/tags/revermont/) est une région naturelle
+Et le Revermont alors&nbsp;? Le
+Revermont est une région naturelle
 vallonnée à cheval sur les départements de l'Ain et du Jura; en gros entre
 Lons-le-Saunier au nord ouest, Point d'Ain au sud, la vallée de l'Ain à l'est et
 l'axe Bourg-en-Bresse/Lons-le-Saunier à l'ouest. De mon point de vue, il s'agit
-d'une super région pour pratiquer le VTT, mais [étant originaire de cette
-région](http://vtt.revermont.bike/posts/sortie-vintage/), je suis peut-être un
+d'une super région pour pratiquer le VTT, mais étant originaire de cette
+région, je suis peut-être un
 peu subjectif ;-)
 
 Pour le côté geek et plomberie, il s'agit d'un site entièrement statique (c'est

@@ -17,8 +17,8 @@ Rosy">
 
 Comme je le mentionnais dans [mon dernier billet](/post/vtt-revermont), les
 cartes sont un élément central dans mon
-dernier projet personnel sur [le VTT dans le
-Revermont](http://vtt.revermont.bike/) et j'ai cherché (et je cherche encore) à
+dernier projet personnel sur le VTT dans le
+Revermont et j'ai cherché (et je cherche encore) à
 soigner au maximum cet aspect. J'ai donc choisi d'utiliser les fonds de carte
 fournis par l'IGN / Géoportail pour la précision mais je me suis tourné vers
 [Leaflet](http://leafletjs.com/) pour l'affichage des cartes, rien de bien
@@ -85,14 +85,14 @@ chose comme&nbsp;:
         zoom: 15,
         center: [46.381661, 5.349518],
         // and maybe some others options see
-        // http://leafletjs.com/reference.html#map-options       
+        // http://leafletjs.com/reference.html#map-options
     });
 })(window, L);
 ```
 
 [Le résultat est visible en ligne](/page/exemple-leaflet-layer-ign-geoportail)
-et il devrait normalement afficher une carte de [mon village
-natal](http://vtt.revermont.bike/tags/coligny/) à un niveau de zoom où le fond
+et il devrait normalement afficher une carte de mon village
+natal à un niveau de zoom où le fond
 de carte est le même que les cartes IGN Top25. C'est d'ailleurs un truc pénible
 avec la couche *WMTS-Géoportail - Cartes IGN* (`GEOGRAPHICALGRIDSYSTEMS.MAPS`),
 en fonction du niveau de zoom, le rendu est complètement différent. À partir de
