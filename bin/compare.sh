@@ -40,4 +40,11 @@ echo '```diff'
 diff -us custom-hooks-react.html ../web/post/custom-hooks-react/index.html
 echo '```'
 
+echo "### CV"
+echo ""
+wget https://damien.pobel.fr/page/cv-fr/cv-fr-damien-pobel.pdf -O cv-fr.pdf > /dev/null 2>&1
+du -sb cv-fr.pdf ../web/page/cv-fr/cv*pdf
+wget https://damien.pobel.fr/page/cv/cv-damien-pobel.pdf -O cv-en.pdf > /dev/null 2>&1
+du -sb cv-en.pdf ../web/page/cv/cv*pdf
+
 cd ..
