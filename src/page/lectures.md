@@ -1,9 +1,13 @@
 ---
 title: Lectures
-updated: 2023-12-23
+updated: 2024-01-03
 ---
 
 # Lectures
+
+## 2024
+
+* [Get Your Hands Dirty on Clean Architecture (Second Edition)](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture-second-edition/9781805128373) (Tom Hombergs)
 
 ## 2023
 
