@@ -29,8 +29,8 @@ jobs:
       - name: Linting
         run: npm run lint
 
-      - name: Installing graphicsmagick
-        run: sudo apt -y install graphicsmagick
+      - name: Installing graphicsmagick, xmllint and pdftohtml
+        run: sudo apt -y install graphicsmagick libxml2-utils poppler-utils
 
       - name: Test
         run: npm test
