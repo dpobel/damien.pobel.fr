@@ -27,6 +27,10 @@ format_pdf () {
   pdftohtml -s -stdout "$1" | grep -v '<title>' | grep -v '<meta name="date" '
 }
 
+no_format () {
+  cat "$1"
+}
+
 check_css () {
   ONLINE_CSS_FILE=`wget --quiet $ONLINE_URL/ -O - | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
   LOCAL_CSS_FILE=`cat ../web/index.html | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
@@ -89,19 +93,28 @@ echo " ---- | :---: | :---: | ----------- | ---------- | :---:"
 
 check_file "Homepage" "/" "../web/index.html" "diff" "format_html"
 check_css
+echo " **Blog** "
 check_file "Blog" "/posts/" "../web/posts/index.html" "diff" "format_html"
 check_file "RSS" "/rss.xml" "../web/rss.xml" "diff" "format_xml"
 check_file "RSS tag" "/rss/métier.xml" "../web/rss/métier.xml" "diff" "format_xml"
 check_file "RSS tag fr" "/rss/linux/fr.xml" "../web/rss/linux/fr.xml" "diff" "format_xml"
 check_file "Post" "/post/custom-hooks-react/" "../web/post/custom-hooks-react/index.html" "diff" "format_html"
+check_file "Tag page (veille)" "/tag/veille/" "../web/tag/veille/index.html" "diff" "format_html"
+check_file "Tag page pagination (javascript, page 5)" "/tag/javascript/5/" "../web/tag/javascript/5/index.html" "diff" "format_html"
+check_file "Tag page (lecteur d'écran)" "/tag/lecteur-d'écran/" "../web/tag/lecteur-d'écran/index.html" "diff" "format_html"
+check_file "Tags" "/tags/" "../web/tags/index.html" "diff" "format_html"
+echo " **CV** "
 check_file "CV fr" "/page/cv-fr/" "../web/page/cv-fr/index.html" "diff" "format_html"
 check_file "CV fr pdf" "/page/cv-fr/cv-fr-damien-pobel.pdf" "../web/page/cv-fr/cv-fr-damien-pobel.pdf" "diff" "format_pdf"
 check_file "CV" "/page/cv/" "../web/page/cv/index.html" "diff" "format_html"
 check_file "CV en pdf" "/page/cv/cv-damien-pobel.pdf" "../web/page/cv/cv-damien-pobel.pdf" "diff" "format_pdf"
-check_file "Tag page (veille)" "/tag/veille/" "../web/tag/veille/index.html" "diff" "format_html"
-check_file "Tags" "/tags/" "../web/tags/index.html" "diff" "format_html"
+echo " **Pages** "
 check_file "Page list" "/pages/" "../web/pages/index.html" "diff" "format_html"
 check_file "About" "/page/about/" "../web/page/about/index.html" "diff" "format_html"
+echo " **Misc** "
+check_file "Github profile", "/github/README.md" "../web/github/README.md" "diff" "no_format"
+check_file "Github page", "/github/page/" "../web/github/page/index.html" "diff" "format_html"
+echo " **Photos** "
 check_file "Resized Photo (660x)" "/images/660x/syrphe-phacelie.jpg" "../web/images/660x/syrphe-phacelie.jpg"
 check_file "Resized Photo (200x)" "/images/200x/syrphe-au-coeur-coquelicot.jpg" "../web/images/200x/syrphe-au-coeur-coquelicot.jpg"
 
