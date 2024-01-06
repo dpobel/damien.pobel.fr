@@ -17,8 +17,7 @@ else
     PR_ID=`echo $GITHUB_REF_NAME|cut -d '/' -f 1`
     echo "## Pushing to ${PR_ID}.damien.pobel.fr"
     rsync -avcz --delete -e "$SSH_CMD" web/ dp@damien.pobel.fr:testing/${PR_ID}.damien.pobel.fr
-    COMPARE=`./bin/compare.sh`
-    COMMENT=`echo "Test it at https://${PR_ID}.damien.pobel.fr/\n\n---\n\n$COMPARE"`
-    PAYLOAD=`jq -n --arg BODY "$COMMENT" '{body: $BODY}'`
-    curl -H "Authorization: token $PERSONAL_TOKEN" -X POST -d "$PAYLOAD" https://api.github.com/repos/${GITHUB_REPOSITORY}/issues/${PR_ID}/comments
+    ./bin/compare.sh "https://${PR_ID}.damien.pobel.fr" > comparison.txt
+    jq -n --rawfile BODY comparison.txt '{body: $BODY}' > payload.json
+    curl -H "Authorization: token $PERSONAL_TOKEN" -X POST -d @payload.json https://api.github.com/repos/${GITHUB_REPOSITORY}/issues/${PR_ID}/comments
 fi
