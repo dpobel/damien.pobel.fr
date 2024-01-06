@@ -97,4 +97,25 @@ describe("Nunjucks filters", function () {
       assert.equal("", info.contents);
     });
   });
+
+  describe("tag_url", () => {
+    const tagCollection = [
+      { tag: "tag1" },
+      { tag: "tag2", path: "/path/to/tag2" },
+      { tag: "tag3" },
+    ];
+
+    it("should return a tag url", () => {
+      assert.equal(
+        filters.tag_url({ name: "tag2" }, tagCollection),
+        "/path/to/tag2",
+      );
+    });
+
+    it("should throw if it does not find the tag", () => {
+      assert.throws(() => {
+        filters.tag_url({ name: "whatever" }, tagCollection);
+      });
+    });
+  });
 });

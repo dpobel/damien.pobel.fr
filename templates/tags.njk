@@ -5,10 +5,9 @@
     <h1>{{ title }}</h1>
 
     <ul class="tag-cloud">
-        {% for tag in tagsList|keys()|sort() %}
-            {% set weight = tagsList[tag].length * 400/total %}
-            {# TODO: make a PR on metalsmith-tags to avoid building again the page URI #}
-            <li><a href="{{ ('tag/' + tagsList[tag].urlSafe)|url }}" style="font-size: {{ 90 + weight }}%">{{ tag }}</a></li>
+        {% for tag in collections.tags %}
+            {% set weight = tagsList[tag.tag].length * 400/total %}
+            <li><a href="{{ tag.permalink|url }}" style="font-size: {{ 90 + weight }}%">{{ tag.tag }}</a></li>
         {% endfor %}
     </ul>
 {% endblock %}
