@@ -2,12 +2,12 @@
 <ul class="navigation">
     <li class="navigation-prev">
     {% if pagination.previous %}
-        <a href="{{ pagination.previous.path|url }}">&laquo;&nbsp;Page précédente</a>
+        <a href="{{ pagination.previous.permalink|url }}">&laquo;&nbsp;Page précédente</a>
     {% endif %}
     </li>
     <li class="navigation-next">
     {% if pagination.next %}
-        <a href="{{ pagination.next.path|url }}">Page suivante&nbsp;&raquo;</a>
+        <a href="{{ pagination.next.permalink|url }}">Page suivante&nbsp;&raquo;</a>
     {% endif %}
     </li>
 </ul>

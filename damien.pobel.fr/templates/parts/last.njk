@@ -2,7 +2,7 @@
     <h2>Derniers billets</h2>
     <ul>
         {% for post in collections.lastPosts %}
-        <li><a href="{{ post.path|url }}" lang="{{ post.lang|default('fr', true) }}">{{ post.title }}</a></li>
+        <li><a href="{{ post.permalink|url }}" lang="{{ post.lang|default('fr', true) }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 </div>
