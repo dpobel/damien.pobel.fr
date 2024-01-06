@@ -151,6 +151,11 @@
       "limit": 7,
       "refer": false
     },
+    "tags": {
+      "pattern": "tag/*",
+      "sortBy": "tag",
+      "refer": false
+    },
     "pages": {
       "pattern": "page/*",
       "sortBy": "updated",
