@@ -133,11 +133,19 @@ const pluginsConfList = [
   },
   {
     plugin: permalinks,
-    conf: conf.permalinks,
+    conf: {
+      ...conf.permalinks,
+      slug: (url) => sluggify(url).replace("'", "-"),
+    },
     name: "permalinks",
     indev: true,
   },
-  { plugin: feed, conf: conf.feed, name: "feed", indev: true },
+  {
+    plugin: feed,
+    conf: conf.feed,
+    name: "feed",
+    indev: true,
+  },
   {
     plugin: tagLangFeed,
     conf: conf.tagLangFeed,

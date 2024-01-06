@@ -179,9 +179,7 @@
       "path": "pages/:num.html"
     }
   },
-  "permalinks": {
-    "relative": false
-  },
+  "permalinks": {},
   "feed": {
     "collection": "posts",
     "limit": 10,
