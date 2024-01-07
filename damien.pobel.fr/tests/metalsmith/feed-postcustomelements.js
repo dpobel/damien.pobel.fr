@@ -28,13 +28,10 @@ describe("postCustomElements metalsmith-feed function", function () {
     assert.equal(["tag1", "tag2"].join(","), res.categories.join(","));
   });
 
-  it("should add a date element with the formated published date", function () {
+  it("should add a date element", function () {
     const res = postCustomElements(file);
 
-    assert.equal(
-      file.published.format("ddd, DD MMM YYYY HH:mm:ss [GMT]"),
-      res.date,
-    );
+    assert.equal(file.published.toDate().toISOString(), res.date.toISOString());
   });
 
   it("should add a url element", function () {
