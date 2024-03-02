@@ -1,6 +1,6 @@
 ---
 title: "La maintenabilité comme critère de décision"
-tags: bonnes pratiques, métier, travail, qualité, code
+tags: bonnes pratiques, métier, travail, qualité, code, veille
 lang: fr
 published: 2024-03-02
 photos:
