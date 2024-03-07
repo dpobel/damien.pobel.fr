@@ -46,5 +46,5 @@ avec d'autres _code smells_, notamment :
 
 C'est pourquoi, en ce qui me concerne, chaque mention d'un _utils_ ou d'un
 _helper_ me rend plus que méfiant. Quasiment systématiquement il existe une
-meilleure solution en terme d'expressivité, de qualité de code et de
-maintenabilité.
+meilleure solution en terme d'expressivité, de qualité de code et [de
+maintenabilité](/post/la-maintenabilite-comme-critere-de-decision/).

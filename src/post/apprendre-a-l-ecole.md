@@ -65,7 +65,7 @@ avis, un·e néo-diplômé·e en informatique aurait tout intérêt à avoir app
   des algorithmes, différents *modes* de programmation avec des trucs plutôt
   originaux comme [Prolog](https://fr.wikipedia.org/wiki/Prolog) et d'autres qui
   se sont révélés très utiles comme XSLT. Mais finalement, on nous a très peu
-  voire pas du tout parlé [de *bonnes pratiques*](/tag/bonnes-pratiques/), de maintenabilité, de gestion
+  voire pas du tout parlé [de *bonnes pratiques*](/tag/bonnes-pratiques/), [de maintenabilité](/post/la-maintenabilite-comme-critere-de-decision/), de gestion
   de versions, [de tests unitaires/d'intégration/fonctionnels… automatisés](/post/bon-test-unitaire-integration-fonctionnel/),
   d'intégration continue, [de revue de code](/post/vertus-revue-de-code/), d'injection de dépendances, [de
   travail en équipe](/post/travail-d-equipe/) et j'en passe…

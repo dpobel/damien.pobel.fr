@@ -22,7 +22,7 @@ Du code est propre (_clean_) si il peut être compris facilement - par chaque
 personne de l'équipe. Un code propre (_Clean code_) peut être lu et amélioré par
 un·e développeur·se autre que la personne qui l'a écrit. Avec la
 compréhensibilité vient la lisibilité, la facilité à changer, l'extensibilité et
-la maintenabilité.
+[la maintenabilité](/post/la-maintenabilite-comme-critere-de-decision/).
 
 <figure class="object-center bordered">
     <img loading="lazy" src="/images/660x/water-drop.jpg" alt="Une goutte d'eau">
