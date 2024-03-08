@@ -35,7 +35,7 @@ _scalabilité_, la robustesse, la flexibilité et bien d'autres… Et comme
 l'explique très bien l'auteur, la maintenabilité a ceci de spécial qu'elle est
 une qualité qui permet d'atteindre toutes les autres. En effet, dès qu'un
 logiciel est maintenable, il est facile à faire évoluer pour atteindre certaines
-qualités dès que le besoin émerge. Évidemment, l'ajout de
+qualités [dès que le besoin émerge](/post/au-cas-ou/). Évidemment, l'ajout de
 fonctionnalités et la correction des bugs sont également d'autant plus simples que le
 code est maintenable. En d'autres termes, la maintenabilité aide à la fois à
 atteindre des objectifs fonctionnels et non fonctionnels.
