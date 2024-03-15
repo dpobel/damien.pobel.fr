@@ -44,7 +44,7 @@ check_css () {
     CSS_DIFF_SUMMARY="\`$ONLINE_CSS_FILE\` ⮕ \`$LOCAL_CSS_FILE\`"
   fi
   format_css "$ONLINE_CSS_FILE" > "$ONLINE_CSS_FILE.pretty"
-  format_css "$LOCAL_CSS_FILE" > "$LOCAL_CSS_FILE.pretty"
+  format_css "../web/$LOCAL_CSS_FILE" > "$LOCAL_CSS_FILE.pretty"
   DIFF=`diff -u "$ONLINE_CSS_FILE.pretty" "$LOCAL_CSS_FILE.pretty"`
   if [ ! -z "$DIFF" ] ; then
     IDENTICAL="❌️"
