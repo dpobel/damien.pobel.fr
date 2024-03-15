@@ -17,7 +17,7 @@ abbr[title] {
 .page-header,
 .site-menu,
 .page-footer,
-.version {
+.alternative {
   display: none;
 }
 
@@ -40,4 +40,8 @@ abbr[title] {
 
 .cv .bio {
   margin: 0;
+}
+
+.cv .website {
+  display: block;
 }

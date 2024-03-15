@@ -44,7 +44,7 @@ check_css () {
     CSS_DIFF_SUMMARY="\`$ONLINE_CSS_FILE\` ⮕ \`$LOCAL_CSS_FILE\`"
   fi
   format_css "$ONLINE_CSS_FILE" > "$ONLINE_CSS_FILE.pretty"
-  format_css "$LOCAL_CSS_FILE" > "$LOCAL_CSS_FILE.pretty"
+  format_css "../web/$LOCAL_CSS_FILE" > "$LOCAL_CSS_FILE.pretty"
   DIFF=`diff -u "$ONLINE_CSS_FILE.pretty" "$LOCAL_CSS_FILE.pretty"`
   if [ ! -z "$DIFF" ] ; then
     IDENTICAL="❌️"
@@ -109,8 +109,8 @@ echo " **Pages** "
 check_file "Page list" "/pages/" "../web/pages/index.html" "diff" "format_html"
 check_file "About" "/page/about/" "../web/page/about/index.html" "diff" "format_html"
 echo " **Misc** "
-check_file "Github profile", "/github/README.md" "../web/github/README.md" "diff" "no_format"
-check_file "Github page", "/github/page/" "../web/github/page/index.html" "diff" "format_html"
+check_file "Github profile" "/github/README.md" "../web/github/README.md" "diff" "no_format"
+check_file "Github page" "/github/page/" "../web/github/page/index.html" "diff" "format_html"
 echo " **Photos** "
 check_file "Resized Photo (660x)" "/images/660x/syrphe-phacelie.jpg" "../web/images/660x/syrphe-phacelie.jpg"
 check_file "Resized Photo (200x)" "/images/200x/syrphe-au-coeur-coquelicot.jpg" "../web/images/200x/syrphe-au-coeur-coquelicot.jpg"

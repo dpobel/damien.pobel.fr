@@ -15,11 +15,9 @@
   align-self: center;
 }
 
-.cv .bio {
+.cv .bio ul {
   list-style-type: none;
   padding: 0;
-  flex: 0 1 auto;
-  order: 1;
 }
 
 .cv h2 {
@@ -48,12 +46,20 @@
   font-size: 150%;
 }
 
-.cv .address {
+.cv .contact {
   margin-top: 1em;
 }
 
+.cv .phone {
+  white-space: nowrap;
+}
+
 .cv .website {
-  margin-bottom: 1em;
+  display: none;
+}
+
+.cv .alternative {
+  margin-top: 1em;
 }
 
 .cv dl {
@@ -112,19 +118,61 @@
 }
 
 .cv .keywords li {
-  display: inline-block;
+  display: inline;
+  padding-right: 1.2em;
 }
 
-.cv .keywords li:after {
-  display: inline-block;
-  content: "-";
-  margin: 0 0.5em;
-}
-
-.cv .keywords li:last-of-type:after {
-  content: "";
+.cv .keywords li:last-of-type {
+  padding-right: 0;
 }
 
 .cv .logo {
   margin-top: 2em;
+}
+
+@media (max-width: 600px) {
+  .cv header {
+    display: block;
+  }
+
+  .cv .bio {
+    display: flex;
+    flex-flow: wrap;
+    align-items: baseline;
+  }
+
+  .cv .base,
+  .cv .contact {
+    width: 50%;
+  }
+
+  .cv .alternative {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 450px) {
+  .cv .bio {
+    display: block;
+  }
+}
+
+@media (max-width: 600px) {
+  .cv dl {
+    display: block;
+  }
+
+  .cv dt,
+  .cv dd {
+    width: 100%;
+  }
+
+  .cv dd {
+    padding: 0;
+    margin-bottom: 1em;
+  }
+
+  .cv .logo {
+    display: none;
+  }
 }
