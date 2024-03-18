@@ -60,7 +60,7 @@
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.4",
     "open": "^10.1.0",
-    "postcss": "^8.4.35",
+    "postcss": "^8.4.36",
     "postcss-import": "^16.0.1",
     "postcss-preset-env": "^9.5.1",
     "prettier": "^3.2.5",
