@@ -173,7 +173,7 @@ hr {
 
   .side-block {
     box-sizing: border-box;
-    width: 33%;
+    width: 50%;
   }
 }
 
@@ -182,7 +182,7 @@ hr {
     width: 50%;
   }
 
-  .side-block.last {
+  .side-block.last, .side-block.post-side {
     width: 100%;
   }
 }

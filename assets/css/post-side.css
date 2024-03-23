@@ -1,0 +1,14 @@
+.post-side dl {
+  margin-top: 0;
+}
+
+.post-side dt, .post-side dd {
+  display: inline;
+  margin: 0;
+}
+
+.post-side dd::after {
+  content: "";
+  display: block;
+  margin-top: 0.3em;
+}
