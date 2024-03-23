@@ -1,6 +1,6 @@
 ---
 title: "La qualité est systémique"
-tags: veille, métier, bonnes pratiques, qualité, code, architecture
+tags: veille, métier, bonnes pratiques, qualité, code, architecture, unit test
 lang: fr
 published: 2024-03-23
 photos:
