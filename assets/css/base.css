@@ -182,7 +182,8 @@ hr {
     width: 50%;
   }
 
-  .side-block.last, .side-block.post-side {
+  .side-block.last,
+  .side-block.post-side {
     width: 100%;
   }
 }

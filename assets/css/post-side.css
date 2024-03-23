@@ -2,7 +2,8 @@
   margin-top: 0;
 }
 
-.post-side dt, .post-side dd {
+.post-side dt,
+.post-side dd {
   display: inline;
   margin: 0;
 }
