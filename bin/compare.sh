@@ -51,7 +51,7 @@ check_css () {
     CSS_DIFF_SUMMARY="$CSS_DIFF_SUMMARY\n\n\`\`\`diff\n$DIFF\n\`\`\`\n"
   fi
   if [ ! -z "$CSS_DIFF_SUMMARY" ] ; then
-    DIFF_SUMMARY="$DIFF_SUMMARY\n\n#### CSS\n\n$CSS_DIFF_SUMMARY"
+    DIFF_SUMMARY="$DIFF_SUMMARY\n\n<details>\n<summary>\n<h3>CSS</h3>\n</summary>\n\n$CSS_DIFF_SUMMARY\n\n</details>"
   fi
   echo "CSS | [Open]($ONLINE_URL$ONLINE_CSS_FILE) | [Open]($PR_URL$LOCAL_CSS_FILE) | $SIZE_ONLINE | $SIZE_LOCAL | $IDENTICAL"
 }
@@ -74,7 +74,7 @@ check_file () {
     DIFF=`diff -u "$TEMPORARY.pretty" "$BUILD_LOCAL.pretty"`
     if [ ! -z "$DIFF" ] ; then
       IDENTICAL="❌️"
-      DIFF_SUMMARY="$DIFF_SUMMARY\n\n#### $NAME\n\n\`\`\`diff\n$DIFF\n\`\`\`\n"
+      DIFF_SUMMARY="$DIFF_SUMMARY\n<details>\n<summary>\n<h3>$NAME</h3>\n</summary>\n\n\`\`\`diff\n$DIFF\n\`\`\`\n\n</details>\n"
     fi
     rm "$TEMPORARY.pretty" "$BUILD_LOCAL.pretty"
   else
