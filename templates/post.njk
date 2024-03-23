@@ -13,8 +13,6 @@
     </div>
 
     <footer class="post-meta">
-        {% include "parts/tags.njk" %}
-        <time datetime="{{ published.format('YYYY-MM-DD') }}">{{ published.format('DD MMM YYYY') }}</time>
         <ul class="navigation">
             {# previous / next are inverted #}
             {% if next %}
@@ -44,6 +42,15 @@
     </footer>
 </article>
 {% endblock %}
+
+  {% block sideMenu %}
+  <aside>
+      {% include "parts/post_side.njk" %}
+      {% include "parts/share.njk" %}
+      {% include "parts/last_photos.njk" %}
+      {% include "parts/last.njk" %}
+  </aside>
+  {% endblock %}
 
 {% block customMeta %}
     {% if photos %}
