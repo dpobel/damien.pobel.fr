@@ -1,16 +1,16 @@
 <article lang="{{ post.lang|default('fr', true) }}">
     {% if post.photos %}
     <figure class="post-image">
-        <a href="{{ post.path|url }}" class="post-image"><img src="/{{ post.photos[0]|image_variation('200x') }}" alt="Miniature de '{{ post.title }}'" loading="lazy"></a>
+        <a href="{{ post.permalink|url }}" class="post-image"><img src="/{{ post.photos[0]|image_variation('200x') }}" alt="Miniature de '{{ post.title }}'" loading="lazy"></a>
     </figure>
     {% endif %}
     <div class="post-info">
-        <h2><a href="{{ post.path|url }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ post.permalink|url }}">{{ post.title }}</a></h2>
         <div class="post-meta">
             {% set tags = post.tags %}
             {% include "parts/tags.njk" %}
             <time datetime="{{ post.published.format('YYYY-MM-DD') }}">
-                <a href="{{ post.path|url }}">{{ post.published.format('DD MMM YYYY') }}</a>
+                <a href="{{ post.permalink|url }}">{{ post.published.format('DD MMM YYYY') }}</a>
             </time>
         </div>
     </div>

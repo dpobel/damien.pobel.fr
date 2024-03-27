@@ -17,7 +17,7 @@
             {# previous / next are inverted #}
             {% if next %}
             <li class="navigation-prev">
-                <a href="{{ next.path|url }}">
+                <a href="{{ next.permalink|url }}">
                     &laquo;&nbsp;Billet précédent
                     <br>
                     {{ next.title }}
@@ -28,7 +28,7 @@
             {% endif %}
             {% if previous %}
             <li class="navigation-next">
-                <a href="{{ previous.path|url }}">
+                <a href="{{ previous.permalink|url }}">
                     Billet suivant&nbsp;&raquo;
                     <br>
                     {{ previous.title }}
@@ -66,8 +66,8 @@
     <meta property="og:title" content="{{ title }}">
     <meta name="twitter:description" content="{{ description if description else contents|striptags|truncate }}">
     <meta property="og:description" content="{{ description if description else contents|striptags|truncate }}">
-    <meta property="og:url" content="{{ path|url(site.url) }}">
+    <meta property="og:url" content="{{ permalink|url(site.url) }}">
     <meta property="og:type" content="article">
     <meta name="description" content="{{ description if description else contents|striptags|truncate(200) }}">
-    <link rel="canonical" href="{{ path|url(site.url) }}">
+    <link rel="canonical" href="{{ permalink|url(site.url) }}">
 {% endblock %}
