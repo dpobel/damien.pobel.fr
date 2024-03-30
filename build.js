@@ -10,7 +10,6 @@ import htmlMinifier from "metalsmith-html-minifier";
 import ignore from "@metalsmith/remove";
 import postcss from "@metalsmith/postcss";
 import assets from "metalsmith-assets-2";
-import define from "metalsmith-define";
 import feed from "metalsmith-feed";
 import msMoment from "metalsmith-moment";
 import fileMetadata from "metalsmith-filemetadata";
@@ -62,11 +61,11 @@ if (assetsRev) {
   styleRenamePlugin = renamer;
   conf.styleRenamePlugin = {
     "style.css": {
-      pattern: conf.define.css,
+      pattern: conf.metadata.css,
       rename: renamedCss,
     },
   };
-  conf.define.css = renamedCss;
+  conf.metadata.css = renamedCss;
 }
 
 conf.feed.preprocess = feedPostCustomElement;
@@ -89,7 +88,6 @@ const markdownConf = {
 };
 
 const pluginsConfList = [
-  { plugin: define, conf: conf.define, name: "define", indev: true },
   { plugin: assets, conf: conf.assets, name: "assets", indev: true },
   {
     plugin: postcss,
@@ -205,26 +203,28 @@ pluginsConfList.forEach(function (pluginConf) {
   }
 });
 
-ms.destination(destination).build(function (error, res) {
-  if (error) {
-    console.error("Build failed: " + error.message);
-    console.log(error.stack);
-    process.exit(1);
-  }
-  if (DEV_ENV) {
-    detect(DEV_PORT, (err, port) => {
-      if (port === DEV_PORT) {
-        spawn("npx", ["static-server", "-p", DEV_PORT], {
-          cwd: destination,
-          detached: true,
-          stdio: "ignore",
-        }).unref();
-      }
-      open(`http://localhost:${DEV_PORT}`, { wait: false });
+ms.destination(destination)
+  .metadata(conf.metadata)
+  .build(function (error, res) {
+    if (error) {
+      console.error("Build failed: " + error.message);
+      console.log(error.stack);
+      process.exit(1);
+    }
+    if (DEV_ENV) {
+      detect(DEV_PORT, (err, port) => {
+        if (port === DEV_PORT) {
+          spawn("npx", ["static-server", "-p", DEV_PORT], {
+            cwd: destination,
+            detached: true,
+            stdio: "ignore",
+          }).unref();
+        }
+        open(`http://localhost:${DEV_PORT}`, { wait: false });
+      });
+    }
+    console.log("Build successful in " + destination + ", wrote:");
+    Object.keys(res).forEach(function (key) {
+      console.log("- " + key);
     });
-  }
-  console.log("Build successful in " + destination + ", wrote:");
-  Object.keys(res).forEach(function (key) {
-    console.log("- " + key);
   });
-});
