@@ -1,7 +1,7 @@
 {
   "source": "src",
   "destination": "web",
-  "define": {
+  "metadata": {
     "site": {
       "url": "https://damien.pobel.fr",
       "name": "Damien Pobel",
