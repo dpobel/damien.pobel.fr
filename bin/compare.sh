@@ -36,7 +36,7 @@ check_css () {
   LOCAL_CSS_FILE=`cat ../damien.pobel.fr/web/index.html | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
   wget --quiet "$ONLINE_URL/$ONLINE_CSS_FILE"
   SIZE_ONLINE=`stat -c "%s" "$ONLINE_CSS_FILE"`
-  SIZE_LOCAL=`stat -c "%s" "../web/$LOCAL_CSS_FILE"`
+  SIZE_LOCAL=`stat -c "%s" "../damien.pobel.fr/web/$LOCAL_CSS_FILE"`
   IDENTICAL="✅️"
   CSS_DIFF_SUMMARY=""
   if [ "$ONLINE_CSS_FILE" != "$LOCAL_CSS_FILE" ] ; then
