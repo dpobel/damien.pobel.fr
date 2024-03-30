@@ -1,7 +1,7 @@
 #! /bin/sh
 
 OPML="$1"
-PAGE="src/page/flux-rss-tech.html"
+PAGE="damien.pobel.fr/src/page/flux-rss-tech.html"
 OPML_TECH="src/files/tech.opml"
 
 help() {
