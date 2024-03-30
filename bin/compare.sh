@@ -33,7 +33,7 @@ no_format () {
 
 check_css () {
   ONLINE_CSS_FILE=`wget --quiet $ONLINE_URL/ -O - | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
-  LOCAL_CSS_FILE=`cat ../web/index.html | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
+  LOCAL_CSS_FILE=`cat ../damien.pobel.fr/web/index.html | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
   wget --quiet "$ONLINE_URL/$ONLINE_CSS_FILE"
   SIZE_ONLINE=`stat -c "%s" "$ONLINE_CSS_FILE"`
   SIZE_LOCAL=`stat -c "%s" "../web/$LOCAL_CSS_FILE"`
