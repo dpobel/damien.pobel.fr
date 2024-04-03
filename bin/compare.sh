@@ -33,10 +33,10 @@ no_format () {
 
 check_css () {
   ONLINE_CSS_FILE=`wget --quiet $ONLINE_URL/ -O - | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
-  LOCAL_CSS_FILE=`cat ../web/index.html | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
+  LOCAL_CSS_FILE=`cat ../damien.pobel.fr/web/index.html | sed -e 's@.*<link rel=stylesheet href=/\(.*\)><title>.*@\1@g'`
   wget --quiet "$ONLINE_URL/$ONLINE_CSS_FILE"
   SIZE_ONLINE=`stat -c "%s" "$ONLINE_CSS_FILE"`
-  SIZE_LOCAL=`stat -c "%s" "../web/$LOCAL_CSS_FILE"`
+  SIZE_LOCAL=`stat -c "%s" "../damien.pobel.fr/web/$LOCAL_CSS_FILE"`
   IDENTICAL="✅️"
   CSS_DIFF_SUMMARY=""
   if [ "$ONLINE_CSS_FILE" != "$LOCAL_CSS_FILE" ] ; then
@@ -44,7 +44,7 @@ check_css () {
     CSS_DIFF_SUMMARY="\`$ONLINE_CSS_FILE\` ⮕ \`$LOCAL_CSS_FILE\`"
   fi
   format_css "$ONLINE_CSS_FILE" > "$ONLINE_CSS_FILE.pretty"
-  format_css "../web/$LOCAL_CSS_FILE" > "$LOCAL_CSS_FILE.pretty"
+  format_css "../damien.pobel.fr/web/$LOCAL_CSS_FILE" > "$LOCAL_CSS_FILE.pretty"
   DIFF=`diff -u "$ONLINE_CSS_FILE.pretty" "$LOCAL_CSS_FILE.pretty"`
   if [ ! -z "$DIFF" ] ; then
     IDENTICAL="❌️"
@@ -91,33 +91,33 @@ check_file () {
 echo " Page | Online | PR version | Size online | Size local | Identical?"
 echo " ---- | :---: | :---: | ----------- | ---------- | :---:"
 
-check_file "Homepage" "/" "../web/index.html" "diff" "format_html"
+check_file "Homepage" "/" "../damien.pobel.fr/web/index.html" "diff" "format_html"
 check_css
 echo " **Blog** "
-check_file "Blog" "/posts/" "../web/posts/index.html" "diff" "format_html"
-check_file "Post" "/post/custom-hooks-react/" "../web/post/custom-hooks-react/index.html" "diff" "format_html"
-check_file "Enhanced tag page (veille)" "/tag/veille/" "../web/tag/veille/index.html" "diff" "format_html"
-check_file "Tag page pagination (javascript, page 5)" "/tag/javascript/5/" "../web/tag/javascript/5/index.html" "diff" "format_html"
-check_file "Tag page (lecteur d'écran)" "/tag/lecteur-d'écran/" "../web/tag/lecteur-d'écran/index.html" "diff" "format_html"
-check_file "Tags" "/tags/" "../web/tags/index.html" "diff" "format_html"
+check_file "Blog" "/posts/" "../damien.pobel.fr/web/posts/index.html" "diff" "format_html"
+check_file "Post" "/post/custom-hooks-react/" "../damien.pobel.fr/web/post/custom-hooks-react/index.html" "diff" "format_html"
+check_file "Enhanced tag page (veille)" "/tag/veille/" "../damien.pobel.fr/web/tag/veille/index.html" "diff" "format_html"
+check_file "Tag page pagination (javascript, page 5)" "/tag/javascript/5/" "../damien.pobel.fr/web/tag/javascript/5/index.html" "diff" "format_html"
+check_file "Tag page (lecteur d'écran)" "/tag/lecteur-d'écran/" "../damien.pobel.fr/web/tag/lecteur-d'écran/index.html" "diff" "format_html"
+check_file "Tags" "/tags/" "../damien.pobel.fr/web/tags/index.html" "diff" "format_html"
 echo " **CV** "
-check_file "CV fr" "/page/cv-fr/" "../web/page/cv-fr/index.html" "diff" "format_html"
-check_file "CV fr pdf" "/page/cv-fr/cv-fr-damien-pobel.pdf" "../web/page/cv-fr/cv-fr-damien-pobel.pdf" "diff" "format_pdf"
-check_file "CV" "/page/cv/" "../web/page/cv/index.html" "diff" "format_html"
-check_file "CV en pdf" "/page/cv/cv-damien-pobel.pdf" "../web/page/cv/cv-damien-pobel.pdf" "diff" "format_pdf"
+check_file "CV fr" "/page/cv-fr/" "../damien.pobel.fr/web/page/cv-fr/index.html" "diff" "format_html"
+check_file "CV fr pdf" "/page/cv-fr/cv-fr-damien-pobel.pdf" "../damien.pobel.fr/web/page/cv-fr/cv-fr-damien-pobel.pdf" "diff" "format_pdf"
+check_file "CV" "/page/cv/" "../damien.pobel.fr/web/page/cv/index.html" "diff" "format_html"
+check_file "CV en pdf" "/page/cv/cv-damien-pobel.pdf" "../damien.pobel.fr/web/page/cv/cv-damien-pobel.pdf" "diff" "format_pdf"
 echo " **Pages** "
-check_file "Page list" "/pages/" "../web/pages/index.html" "diff" "format_html"
-check_file "About" "/page/about/" "../web/page/about/index.html" "diff" "format_html"
+check_file "Page list" "/pages/" "../damien.pobel.fr/web/pages/index.html" "diff" "format_html"
+check_file "About" "/page/about/" "../damien.pobel.fr/web/page/about/index.html" "diff" "format_html"
 echo " **Misc** "
-check_file "Github profile" "/github/README.md" "../web/github/README.md" "diff" "no_format"
-check_file "Github page" "/github/page/" "../web/github/page/index.html" "diff" "format_html"
+check_file "Github profile" "/github/README.md" "../damien.pobel.fr/web/github/README.md" "diff" "no_format"
+check_file "Github page" "/github/page/" "../damien.pobel.fr/web/github/page/index.html" "diff" "format_html"
 echo " **Photos** "
-check_file "Resized Photo (660x)" "/images/660x/syrphe-phacelie.jpg" "../web/images/660x/syrphe-phacelie.jpg"
-check_file "Resized Photo (200x)" "/images/200x/syrphe-au-coeur-coquelicot.jpg" "../web/images/200x/syrphe-au-coeur-coquelicot.jpg"
+check_file "Resized Photo (660x)" "/images/660x/syrphe-phacelie.jpg" "../damien.pobel.fr/web/images/660x/syrphe-phacelie.jpg"
+check_file "Resized Photo (200x)" "/images/200x/syrphe-au-coeur-coquelicot.jpg" "../damien.pobel.fr/web/images/200x/syrphe-au-coeur-coquelicot.jpg"
 echo " **RSS feeds** (build date should be updated)"
-check_file "RSS" "/rss.xml" "../web/rss.xml" "diff" "format_xml"
-check_file "RSS tag" "/rss/métier.xml" "../web/rss/métier.xml" "diff" "format_xml"
-check_file "RSS tag fr" "/rss/linux/fr.xml" "../web/rss/linux/fr.xml" "diff" "format_xml"
+check_file "RSS" "/rss.xml" "../damien.pobel.fr/web/rss.xml" "diff" "format_xml"
+check_file "RSS tag" "/rss/métier.xml" "../damien.pobel.fr/web/rss/métier.xml" "diff" "format_xml"
+check_file "RSS tag fr" "/rss/linux/fr.xml" "../damien.pobel.fr/web/rss/linux/fr.xml" "diff" "format_xml"
 
 if [ ! -z "$DIFF_SUMMARY" ] ; then
   echo "---"

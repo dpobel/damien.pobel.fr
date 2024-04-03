@@ -13,12 +13,14 @@
   },
   "type": "module",
   "scripts": {
-    "test": "mocha --recursive tests",
+    "test": "mocha --recursive damien.pobel.fr/tests",
     "lint": "eslint . && prettier -c .",
+    "dp:restorecache": "SITE=damien.pobel.fr npm run restorecache",
     "restorecache": "./bin/restore_cache.sh",
+    "dp:deploy": "SITE=damien.pobel.fr npm run deploy",
     "deploy": "./bin/deploy.sh",
-    "build": "./build.js",
-    "build:dev": "./build.js --dev"
+    "dp:build": "damien.pobel.fr/build.js",
+    "dp:build:dev": "damien.pobel.fr/build.js --dev"
   },
   "author": "Damien Pobel",
   "license": "MIT",

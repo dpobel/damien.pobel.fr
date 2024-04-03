@@ -39,9 +39,13 @@ import postCssConfig from "./postcss.config.js";
 import nunjuckFilters from "./lib/nunjucks/filters.js";
 import moment from "moment";
 import fsPromises from "node:fs/promises";
+import { fileURLToPath } from "node:url";
+import { dirname } from "path";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const conf = JSON.parse(
-  await fsPromises.readFile("./build.json", { encoding: "utf-8" }),
+  await fsPromises.readFile(`${__dirname}/build.json`, { encoding: "utf-8" }),
 );
 
 const source = conf.source;
@@ -195,7 +199,7 @@ const pluginsConfList = [
 // TODO: this is probably not the right place for that
 moment.locale("fr");
 console.log("Generating the site");
-const ms = metalsmith(process.cwd()).source(source);
+const ms = metalsmith(__dirname).source(source);
 
 pluginsConfList.forEach(function (pluginConf) {
   if ((DEV_ENV && pluginConf.indev) || !DEV_ENV) {

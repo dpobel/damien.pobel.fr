@@ -13,7 +13,7 @@ npm...)](https://damien.pobel.fr/post/powered-by-metalsmith/) for some details.
 ## Tasks
 
 - `npm test` to run the unit tests
-- `npm run build` to build the website (or `npm run build:dev`)
-- `npm run restorecache` to put the image variations in the src directory from a
+- `npm run dp:build` to build the website (or `npm run dp:build:dev`)
+- `npm run dp:restorecache` to put the image variations in the src directory from a
   previous build
-- `npm run deploy` to deploy the site (requires the SSH key to be decoded)
+- `npm run dp:deploy` to deploy the site (requires the SSH key to be decoded)
