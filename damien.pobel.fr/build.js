@@ -40,7 +40,7 @@ import nunjuckFilters from "./lib/nunjucks/filters.js";
 import moment from "moment";
 import fsPromises from "node:fs/promises";
 import { fileURLToPath } from "node:url";
-import { dirname } from "path";
+import { dirname, join } from "path";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -219,7 +219,7 @@ ms.destination(destination)
       detect(DEV_PORT, (err, port) => {
         if (port === DEV_PORT) {
           spawn("npx", ["static-server", "-p", DEV_PORT], {
-            cwd: destination,
+            cwd: join(__dirname, destination),
             detached: true,
             stdio: "ignore",
           }).unref();
