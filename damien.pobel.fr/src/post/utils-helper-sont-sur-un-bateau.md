@@ -1,6 +1,6 @@
 ---
 title: "Utils et helper sont sur un bateau…"
-tags: bonnes pratiques, métier, travail, qualité, code
+tags: bonnes pratiques, métier, travail, qualité, code, ingénierie logicielle
 lang: fr
 published: 2024-02-23
 photos:

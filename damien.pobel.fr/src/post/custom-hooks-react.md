@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi utiliser des hooks sur-mesure dans vos composants React"
-tags: veille, bonnes pratiques, react, javascript, code
+tags: veille, bonnes pratiques, react, javascript, code, ingénierie logicielle
 lang: fr
 published: 2021-03-15
 photos:

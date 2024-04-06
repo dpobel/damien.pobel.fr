@@ -1,6 +1,6 @@
 ---
 title: "Tests : mon top 8 des anti-patrons les plus agaçants"
-tags: bonnes pratiques, unit test, qualité, code, behaviour driven development, tdd, php, javascript
+tags: bonnes pratiques, unit test, qualité, code, behaviour driven development, tdd, php, javascript, ingénierie logicielle
 lang: fr
 published: 2021-04-08
 photos:

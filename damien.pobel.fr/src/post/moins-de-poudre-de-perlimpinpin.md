@@ -1,6 +1,6 @@
 ---
 title: "Moins de poudre de perlimpinpin, plus de contexte"
-tags: performances, code, bonnes pratiques, traduction
+tags: performances, code, bonnes pratiques, traduction, ingénierie logicielle
 lang: fr
 published: 2018-11-11 22:59
 photos:

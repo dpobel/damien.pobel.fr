@@ -1,6 +1,6 @@
 ---
 title: "La complexité…"
-tags: veille, complexité, métier, qualité, code, bonnes pratiques
+tags: veille, complexité, métier, qualité, code, bonnes pratiques, ingénierie logicielle
 lang: fr
 published: 2020-05-12 18:16
 photos:

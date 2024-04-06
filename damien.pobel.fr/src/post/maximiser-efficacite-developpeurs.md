@@ -1,6 +1,6 @@
 ---
 title: "Maximiser l'efficacité des développeur·ses"
-tags: veille, métier, bonnes pratiques
+tags: veille, métier, bonnes pratiques, ingénierie logicielle
 lang: fr
 published: 2021-02-07
 top-priority: 110

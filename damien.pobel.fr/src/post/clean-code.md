@@ -1,6 +1,6 @@
 ---
 title: "« Clean Code » résumé en quelques lignes"
-tags: complexité, métier, qualité, code, bonnes pratiques, traduction, clean code, unit test
+tags: complexité, métier, qualité, code, bonnes pratiques, traduction, clean code, unit test, ingénierie logicielle
 lang: fr
 published: 2020-06-16 23:28
 top-priority: 50
