@@ -1,8 +1,9 @@
 ---
 title: "Au fait, c'est quoi un bon test unitaire, d'intégration ou fonctionnel ?"
-tags: bonnes pratiques, unit test, travis ci, métier, travail, qualité
+tags: bonnes pratiques, unit test, travis ci, métier, travail, qualité, ingénierie logicielle
 lang: fr
 published: 2018-03-27 23:20
+updated: 2024-04-09
 top-priority: 100
 photos:
     - images/testing.jpg
@@ -23,7 +24,7 @@ stratégie de tests rend le travail plus efficient (à plusieurs niveaux) tout e
 apportant une certaine sérénité dans la durée. On s'habitue vite à son petit
 confort 😀 mais pour un confort maximal, il faut non seulement écrire des tests
 mais aussi écrire de bons de tests. Mais au fait, qu'est ce qui caractérise un
-*bon* test&nbsp;?
+*bon* test ?
 
 ## Automatisé
 
@@ -33,7 +34,7 @@ tests ne sont pas lancée(s) automatiquement, arrivera forcément le moment où 
 va oublier… Les plateformes d'intégration continue sont là pour ça, alors à vos
 [Travis CI](https://travis-ci.com/), [Gitab
 CI](https://about.gitlab.com/features/gitlab-ci-cd/),
-[Jenkins](https://jenkins.io/), ou que sais-je encore.
+[Jenkins](https://jenkins.io/), ou que sais je encore.
 
 ## Rapide et facile à lancer
 
@@ -63,7 +64,7 @@ plus, ce type de problème diminue (à raison) la confiance accordée aux tests 
 En dehors de bugs, les échecs en apparence aléatoires sont souvent dûs à une
 mauvaise gestion des dates ou à l'utilisation de ressources externes. En
 principe, sur un test unitaire, il n'y a pas vraiment de ressources externes,
-elles sont simulées avec des bouchons (*mocks*, *stubs*,&nbsp;…), sinon ce n'est pas
+elles sont simulées avec des bouchons (*mocks*, *stubs*, …), sinon ce n'est pas
 un test unitaire. En revanche, l'utilisation de ressources externes est le
 principe même des tests d'intégration ou fonctionnels mais même là, pour des
 questions de fiabilité (et de temps d'exécution), il vaut mieux que le serveur
@@ -81,7 +82,7 @@ peu de contexte, plutôt qu'un lancinant et un peu énigmatique:
 Failed asserting that 43 matches expected 42.
 ```
 
-Que signifie `42`&nbsp;? Quel rapport avec la classe `MagicResponse`&nbsp;? En
+Que signifie `42` ? Quel rapport avec la classe `MagicResponse` ? En
 premier lieu, le nommage des tests est important. Dans un test unitaire, une
 convention pratique et facile à mettre en place consiste à nommer les méthodes
 de test d'après les méthodes publiques ou les fonctions testées, en suffixant
@@ -98,7 +99,7 @@ d'assertions acceptent un message optionnel utilisé lorsque une assertion écho
 (par exemple avec
 [PHPUnit](https://phpunit.readthedocs.io/en/latest/assertions.html#assertequals)
 ou [Node.js
-Assert](https://nodejs.org/dist/latest-v8.x/docs/api/assert.html#assert_assert_value_message)
+Assert](https://docs.phpunit.de/en/11.1/assertions.html#assertequals)
 ou [Chai.js](http://www.chaijs.com/guide/styles/#assert) ou…). Ça n'a l'air de
 rien mais préciser ce message peut totalement transformer l'effort
 d'interprétation d'un test qui échoue surtout lorsque celui-ci procède à
@@ -119,12 +120,12 @@ avec [un peu trop de zèle](https://hackernoon.com/this-is-not-the-dry-you-are-l
 et parfois, ce type de dépendance est plus subtile. Dans ce cas, je crois que le
 meilleur remède est une bonne nuit de sommeil et un peu de patience.
 
-## Alors, confortablement installé·e&nbsp;?
+## Alors, confortablement installé·e ?
 
 Voila ma petite recette pour un confort maximal avec des tests logiciels 😀 Oui
 ça paraît un peu long et pourtant, avec un tout petit peu de bonne volonté, de
 pratique et de rigueur, il n'y a rien de vraiment compliqué. En fait, souvent le
-plus compliqué est de démarrer la démarche de tests (automatisés&nbsp;!) et de
+plus compliqué est de démarrer la démarche de tests (automatisés !) et de
 la poursuivre pour arriver à une couverture fonctionnelle suffisante, et même
 sans forcément suivre toutes les bonnes pratiques (celles-ci ou d'autres), cet
 investissement est déjà largement rentable.

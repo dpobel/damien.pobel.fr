@@ -3,6 +3,7 @@ title: "Tests : mon top 8 des anti-patrons les plus agaçants"
 tags: bonnes pratiques, unit test, qualité, code, behaviour driven development, tdd, php, javascript, ingénierie logicielle
 lang: fr
 published: 2021-04-08
+updated: 2024-04-09
 photos:
     - images/angry-cat.jpg
 ---
@@ -125,8 +126,8 @@ et oui des tests écrits en Gherkin mais [sans l'aspect
 comportement ni la plupart du temps le moindre bout de domaine](https://blog.ippon.fr/2021/02/24/4-idees-recues-sur-le-bdd-behavior-driven-development/)
 et je parle pas de l'implémentation des phrases…
 
-Bref, qu'on fasse du BDD ou non, en lisant les tests, le ou la développeur·se
-doit pouvoir comprendre ce que fait le composant/la fonction/l'API testée et
+Bref, qu'on fasse du BDD ou non, [en lisant les tests, le ou la développeur·se
+doit pouvoir comprendre ce que fait le composant/la fonction/l'API testée](/post/structurer-tests-lisibles-describe/) et
 comment elle est supposée être utilisée. C'est pourquoi le nommage doit être
 particulièrement soigné. Il est aussi évident que les tests sont des bouts de
 code qui vont nécessiter de la maintenance. Dans ces conditions appliquer [les
@@ -139,14 +140,14 @@ En contrôlant la verbosité et en soignant le nommage, on évite pas mal d'écu
 à ce niveau. Malgré tout, lorsqu'on écrit des tests, il faut toujours avoir à
 l'esprit que le but est qu'ils échouent en communiquant clairement le problème.
 Par exemple, si vous utilisez [les assertions de
-PHPUnit](https://phpunit.readthedocs.io/en/9.5/assertions.html), il est plus que
+PHPUnit](https://docs.phpunit.de/en/11.1/assertions.html), il est plus que
 probable que vous devriez penser à utiliser le paramètre optionnel `$message`
 pour améliorer cet aspect. Toujours avec PHPUnit, l'utilisation de _data
 provider_ permet généralement de tester rapidement un grand nombre combinaisons
 mais dans ce cas,
 [bien nommer chaque combinaison améliorera grandement la compréhensibilité d'un
 éventuel
-échec](https://phpunit.readthedocs.io/en/9.5/writing-tests-for-phpunit.html#writing-tests-for-phpunit-data-providers-examples-datatest1-php)
+échec](https://docs.phpunit.de/en/11.1/writing-tests-for-phpunit.html#data-providers)
 et en bonus devoir trouver un nom à chaque combinaison, vous forcera peut-être à
 [simplifier votre API](/post/au-cas-ou/) et/ou à détecter des cas qui n'ont
 aucun sens dans votre domaine.
@@ -202,7 +203,7 @@ encore, c'est l'effet château de cartes au moindre bug.
 
 ---
 
-Tout ceci est du vécu; heureusement pour ma santé
+Tout ceci est du vécu ; heureusement pour ma santé
 mentale, j'ai jamais vu de projet qui cumulait tous ces _antipatterns_, après
 j'ai aussi vu pas mal de projets _critiques_ sans aucun test 😀
 
