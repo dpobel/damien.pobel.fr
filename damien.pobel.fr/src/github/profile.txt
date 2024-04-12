@@ -1,5 +1,5 @@
 Hi, I'm Damien and this is my personal Github profile. You can also find me on
-[Twitter](https://twitter.com/dpobel),
+[Mastodon](https://piaille.fr/@dpobel) or
 [Linkedin](https://www.linkedin.com/in/dpobel/). I have a website as well with [a
 blog](https://damien.pobel.fr/posts/) (mostly in French) and [my
 résumé](https://damien.pobel.fr/page/cv/).
