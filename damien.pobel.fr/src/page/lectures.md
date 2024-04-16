@@ -1,13 +1,14 @@
 ---
 title: Lectures
-updated: 2024-01-03
+updated: 2024-04-16
 ---
 
 # Lectures
 
 ## 2024
 
-* [Technopolitique : comment la technologie fait de nous des soldats](https://www.seuil.com/ouvrage/technopolitique-asma-mhalla/9782021548549) (Asma Mhalla)
+* [Sans transition Une nouvelle histoire de l'énergie](https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557) (Jean-Baptiste Fressoz)
+* [Technopolitique : Jean-Baptiste Fressozcomment la technologie fait de nous des soldats](https://www.seuil.com/ouvrage/technopolitique-asma-mhalla/9782021548549) (Asma Mhalla)
 * [La Guerre des salamandres](https://fr.m.wikipedia.org/wiki/La_Guerre_des_salamandres) (Karel Čapek)
 * [Dix âmes, pas plus](https://www.editionspoints.com/ouvrage/dix-ames-pas-plus-ragnar-jonasson/9782757896778) (Ragnar Jónasson)
 * [Get Your Hands Dirty on Clean Architecture (Second Edition)](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture-second-edition/9781805128373) (Tom Hombergs)
