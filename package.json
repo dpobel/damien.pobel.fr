@@ -14,7 +14,7 @@
   "type": "module",
   "scripts": {
     "test": "mocha --recursive damien.pobel.fr/tests",
-    "lint": "eslint . && prettier -c .",
+    "lint": "ESLINT_USE_FLAT_CONFIG=false eslint . && prettier -c .",
     "dp:restorecache": "SITE=damien.pobel.fr npm run restorecache",
     "restorecache": "./bin/restore_cache.sh",
     "dp:deploy": "SITE=damien.pobel.fr npm run deploy",
@@ -36,7 +36,7 @@
     "consolidate": "^1.0.3",
     "cssnano": "^6.1.2",
     "detect-port": "^1.5.1",
-    "eslint": "^8.57.0",
+    "eslint": "^9.1.1",
     "gm": "^1.25.0",
     "highlight.js": "^11.9.0",
     "imagemin": "^8.0.1",
