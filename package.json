@@ -14,7 +14,7 @@
   "type": "module",
   "scripts": {
     "test": "mocha --recursive damien.pobel.fr/tests",
-    "lint": "eslint . && prettier -c .",
+    "lint": "ESLINT_USE_FLAT_CONFIG=false eslint . && prettier -c .",
     "dp:restorecache": "SITE=damien.pobel.fr npm run restorecache",
     "restorecache": "./bin/restore_cache.sh",
     "dp:deploy": "SITE=damien.pobel.fr npm run deploy",
