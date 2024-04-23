@@ -1,4 +1,3 @@
-/* global describe, it, beforeEach */
 import assert from "assert";
 import metalsmith from "metalsmith";
 import fileToMetadata from "../../lib/metalsmith/file-to-metadata.js";
