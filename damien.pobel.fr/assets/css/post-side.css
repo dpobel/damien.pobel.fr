@@ -8,6 +8,10 @@
   margin: 0;
 }
 
+.post-side dt:after {
+  content: " ";
+}
+
 .post-side dd::after {
   content: "";
   display: block;
