@@ -25,6 +25,6 @@ export default {
     if (!tagPageObject) {
       throw new Error(`"${tag.name}" not found`);
     }
-    return tagPageObject.path;
+    return tagPageObject.permalink;
   },
 };

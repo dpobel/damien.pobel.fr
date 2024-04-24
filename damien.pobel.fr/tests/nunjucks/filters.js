@@ -100,7 +100,7 @@ describe("Nunjucks filters", function () {
   describe("tag_url", () => {
     const tagCollection = [
       { tag: "tag1" },
-      { tag: "tag2", path: "/path/to/tag2" },
+      { tag: "tag2", permalink: "/path/to/tag2" },
       { tag: "tag3" },
     ];
 
