@@ -98,7 +98,7 @@ check_file "Blog" "/posts/" "../damien.pobel.fr/web/posts/index.html" "diff" "fo
 check_file "Post" "/post/custom-hooks-react/" "../damien.pobel.fr/web/post/custom-hooks-react/index.html" "diff" "format_html"
 check_file "Enhanced tag page (veille)" "/tag/veille/" "../damien.pobel.fr/web/tag/veille/index.html" "diff" "format_html"
 check_file "Tag page pagination (javascript, page 5)" "/tag/javascript/5/" "../damien.pobel.fr/web/tag/javascript/5/index.html" "diff" "format_html"
-check_file "Tag page (lecteur d'écran)" "/tag/lecteur-d'écran/" "../damien.pobel.fr/web/tag/lecteur-d'écran/index.html" "diff" "format_html"
+check_file "Tag page (lecteur d'écran)" "/tag/lecteur-d-écran/" "../damien.pobel.fr/web/tag/lecteur-d-écran/index.html" "diff" "format_html"
 check_file "Tags" "/tags/" "../damien.pobel.fr/web/tags/index.html" "diff" "format_html"
 echo " **CV** "
 check_file "CV fr" "/page/cv-fr/" "../damien.pobel.fr/web/page/cv-fr/index.html" "diff" "format_html"
