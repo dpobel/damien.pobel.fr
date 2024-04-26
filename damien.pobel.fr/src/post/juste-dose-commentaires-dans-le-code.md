@@ -1,6 +1,6 @@
 ---
 title: "La juste dose de commentaires ?"
-tags: bonnes pratiques, métier, code, qualité, citation, ingénierie logicielle
+tags: bonnes pratiques, métier, code, qualité, citation, ingénierie logicielle, clean code
 lang: fr
 published: 2019-02-18
 top-priority: 30

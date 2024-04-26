@@ -1,6 +1,6 @@
 ---
 title: "Quand de mauvaises pratiques causent un bug"
-tags: php, bonnes pratiques, métier, code, qualité, ingénierie logicielle, ingénierie logicielle
+tags: php, bonnes pratiques, métier, code, qualité, ingénierie logicielle, ingénierie logicielle, clean code
 lang: fr
 published: 2019-02-25
 top-priority: 50

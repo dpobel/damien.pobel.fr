@@ -1,6 +1,6 @@
 ---
 title: "« Au cas où »"
-tags: bonnes pratiques, métier, code, qualité, citation, ingénierie logicielle
+tags: bonnes pratiques, métier, code, qualité, citation, ingénierie logicielle, clean code
 lang: fr
 published: 2018-10-16 18:22
 top-priority: 10
