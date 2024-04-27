@@ -10,7 +10,7 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
-User-agent:  CCBot
+User-agent: CCBot
 Disallow: /
 
 User-agent: anthropic-ai
