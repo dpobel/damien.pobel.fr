@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2024-04-16
+updated: 2024-04-27
 ---
 
 # Lectures
 
 ## 2024
 
+* [Ralentir ou périr : l'économie de la décroissance](https://www.seuil.com/ouvrage/ralentir-ou-perir-timothee-parrique/9782021508093) (Timothée Parrique)
 * [Sans transition Une nouvelle histoire de l'énergie](https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557) (Jean-Baptiste Fressoz)
 * [Technopolitique : comment la technologie fait de nous des soldats](https://www.seuil.com/ouvrage/technopolitique-asma-mhalla/9782021548549) (Asma Mhalla)
 * [La Guerre des salamandres](https://fr.m.wikipedia.org/wiki/La_Guerre_des_salamandres) (Karel Čapek)
