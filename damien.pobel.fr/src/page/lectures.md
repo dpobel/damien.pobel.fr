@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2024-04-27
+updated: 2024-05-14
 ---
 
 # Lectures
 
 ## 2024
 
+* [Le cycle des robots - Un défilé de robots](https://www.jailu.com/un-defile-de-robots/9782290311257) (Isaac Asimov)
 * [Ralentir ou périr : l'économie de la décroissance](https://www.seuil.com/ouvrage/ralentir-ou-perir-timothee-parrique/9782021508093) (Timothée Parrique)
 * [Sans transition Une nouvelle histoire de l'énergie](https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557) (Jean-Baptiste Fressoz)
 * [Technopolitique : comment la technologie fait de nous des soldats](https://www.seuil.com/ouvrage/technopolitique-asma-mhalla/9782021548549) (Asma Mhalla)
@@ -53,8 +54,7 @@ updated: 2024-04-27
 * [La guerre des mondes](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-plus/La-Guerre-des-mondes) (H. G. Wells)
 * [Pourquoi](https://www.livredepoche.com/livre/pourquoi-9782253135487) (Philippe Vandel)
 * [Habitations imaginaires](https://www.editions-allia.com/fr/livre/110/habitations-imaginaires) (Edgar Allan Poe)
-* Le cycle des robots
-    * Tome 1 : [Les robots](https://www.jailu.com/Catalogue/science-fiction/le-cycle-des-robots-1-les-robots)
+* [Le cycle des robots - Les robots](https://www.jailu.com/les-robots/9782290227268) (Isaac Asimov)
 * [Et le monde devint silencieux](https://www.seuil.com/ouvrage/et-le-monde-devint-silencieux-stephane-foucart/9782021427424) (Stéphane Foucart)
 * [Propaganda](https://www.editionsladecouverte.fr/catalogue/index-Propaganda-9782355220012.html) (Edward Bernays)
 * [Le Petit Prince](https://fr.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry) (Antoine de Saint-Exupéry)
