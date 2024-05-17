@@ -74,7 +74,7 @@ updated: 2024-05-14
 * [Pour une écologie numérique](https://www.lespetitsmatins.fr/collections/pour-une-ecologie-numerique/) (Eric Vidalenc)
 * [L'homme invisible](https://fr.wikipedia.org/wiki/L%27Homme_invisible_(roman)) (H. G. Wells)
 * [La Nuit du renard](https://fr.wikipedia.org/wiki/La_Nuit_du_renard) (Mary Higgins Clark)
-* [L'Urine, de l'or liquide au jardin](https://www.terran.fr/catalogue/jardiner-naturel/urine-or-liquide-jardin-de-looze-livre-editions-terran.html) (Renaud de Looze)
+* [L'Urine, de l'or liquide au jardin](https://www.terran.fr/produit/71/9782359811001/l-urine-de-l-or-liquide-au-jardin) (Renaud de Looze)
 * [La Place](https://fr.wikipedia.org/wiki/La_Place) (Annie Ernaux)
 * [L'Île du docteur Moreau](https://fr.wikipedia.org/wiki/L'%C3%8Ele_du_docteur_Moreau) (H. G. Wells)
 * [Mort aux cons](https://www.livredepoche.com/livre/mort-aux-cons-9782253124870) (Carl Aderhold)
@@ -86,7 +86,7 @@ updated: 2024-05-14
 * [La Disparition de Stephanie Mailer](https://www.editionsdefallois.com/livre/disparition-de-stephanie-mailer/) (Joël Dicker)
 * [Le livre noir de l'agriculture](https://www.fayard.fr/documents-temoignages/le-livre-noir-de-lagriculture-9782213656038) (Isabelle Saporta)
 * [Une autre fin du monde est possible - Vivre l'effondrement (et pas seulement y survivre)](http://www.seuil.com/ouvrage/une-autre-fin-du-monde-est-possible-pablo-servigne/9782021332582) (Pablo Servigne)
-* [Cro-Magnon toi-même](http://www.seuil.com/ouvrage/cro-magnon-toi-meme-michel-raymond/9782757821503) (Michel Raymond)
+* [Cro-Magnon toi-même](https://www.seuil.com/ouvrage/cro-magnon-toi-meme-michel-raymond/9782020947367) (Michel Raymond)
 * [Le plus grand défi de l'histoire de l'humanité](http://www.michel-lafon.fr/livre/2255-Le_plus_grand_defi_de_l_histoire_de_l_humanite.html) (Aurélien Barrau)
 * [L'Assassin royal](https://fr.wikipedia.org/wiki/L%27Assassin_royal) (Robin Hobb)
     * Tome 1 : L'apprenti assassin
