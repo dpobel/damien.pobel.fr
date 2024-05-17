@@ -1,13 +1,13 @@
 {{ contents|safe }}
 <hr>
 
-## Quelques billets notables
+## ✨️ Quelques billets notables ✨️
 
 {% for post in collections.shortTop -%}
     * [{{post.title|safe}}]({{post.permalink|url(site.url)}})
 {% endfor %}
 
-## Les derniers billets ([Flux RSS]({{'rss.xml'|url(site.url, true)}}))
+## ✍️  Les derniers billets ([Flux RSS]({{'rss.xml'|url(site.url, true)}}))
 
 {% for post in collections.lastPosts -%}
     * [{{post.title|safe}}]({{post.permalink|url(site.url)}})
