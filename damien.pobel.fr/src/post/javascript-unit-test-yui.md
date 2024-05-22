@@ -225,7 +225,7 @@ be root to install it globally):
 Once installed, you can then run the unit tests with:
 
 ```
-$ grover --server tests/moveitview.html 
+$ grover --server tests/moveitview.html
 Starting Grover on 1 files with PhantomJS@1.6.0
   Running 15 concurrent tests at a time.
   starting grover server
@@ -295,7 +295,7 @@ with a build script like [Grunt](http://gruntjs.com/) or
 And after that, the coverage can be generated with:
 
 ```
-$ grover --server --coverage -S '?filter=coverage' tests/moveitview.html 
+$ grover --server --coverage -S '?filter=coverage' tests/moveitview.html
 […]
 --------------------+-----------+-----------+-----------+-----------+
 File                |   % Stmts |% Branches |   % Funcs |   % Lines |
