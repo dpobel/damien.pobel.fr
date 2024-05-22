@@ -21,7 +21,7 @@ nom de son inventeur. Les revues de code que je pratique ou vues pratiquer sont 
 peu moins formellement structurées mais finalement pas tellement éloignées des
 inspections de Fagan. Il faut dire que depuis les années 70 les outils ont *un
 peu* évolué. Les gestionnaires de versions décentralisés comme git associés à
-des plateformes comme GitHub ou Gitlab rendent la pratique des revues de code
+des plateformes comme GitHub ou GitLab rendent la pratique des revues de code
 super simple et quasi sans autre contrainte que la nécessité de travailler sur
 une branche dédiée et de cliquer sur un bouton pour créer une Pull ou Merge
 Request après avoir poussé la branche en question. Il y a d'autres manières de
