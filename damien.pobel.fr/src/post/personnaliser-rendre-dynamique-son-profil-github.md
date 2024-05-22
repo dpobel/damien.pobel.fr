@@ -1,5 +1,5 @@
 ---
-title: "Personaliser et rendre dynamique son profil GitHub"
+title: "Personnaliser et rendre dynamique son profil GitHub"
 published: 2024-05-22
 tags: github, github actions, architecture, blog
 photos:
