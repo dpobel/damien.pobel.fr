@@ -18,9 +18,9 @@ contenu dans l'année&nbsp;:
 * [Hello metalsmith-pdfize](/post/metalsmith-pdfize/) qui présente un plugin
   basé sur Chrome Headless/Puppeteer permettant de générer des PDF avec le
   générateur de site statique Metalsmith
-* [Comment a Github pull request from Travis CI](/post/github-api-from-travisci/)
+* [Comment a GitHub pull request from Travis CI](/post/github-api-from-travisci/)
   ou comment faire parler la plateforme d'intégration continue Travis CI sur
-  Github ;-)
+  GitHub ;-)
 * [L'âge des low tech](/post/livre-l-age-des-low-tech/) l'un des meilleurs
   livres que j'ai lu en 2017
 
@@ -31,7 +31,7 @@ et aussi 3 photos (de Syrphes)&nbsp;:
 
 Sur ce blog les billets les plus lus de l'année ont été dans l'ordre&nbsp;:
 
-1. [Embed a Youtube video in Github markdown](/post/youtube-video-github/)
+1. [Embed a Youtube video in GitHub markdown](/post/youtube-video-github/)
 1. [Un mois avec la liseuse Touch Lux 3 Tea](/post/liseuse-touch-lux-3-tea/)
 1. [Passer de Vim à Neovim](/post/vim-neovim/)
 

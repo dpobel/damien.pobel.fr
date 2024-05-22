@@ -34,13 +34,13 @@ tutorial](https://www.polymer-project.org/1.0/docs/start/first-element/intro.htm
 which is a simple way to start but maybe a bit too simple. In any case, the best
 way to learn a technology is to really experiment it. That's why I decided to
 build a component called `github-user-events` which displays the public events of
-a user on Github after fetching them with [the Gitub Events
+a user on GitHub after fetching them with [the Gitub Events
 API](https://developer.github.com/v3/activity/events/). The idea behind this
 exercice is also to do it the right way&trade; with the tools, the documentation,
 the unit tests and almost everything I would do in a real project. As [the demo
 shows](http://dpobel.github.io/github-user-events/components/github-user-events/demo/),
 the component is working :-) [The code is on
-Github](https://github.com/dpobel/github-user-events) but if I don't
+GitHub](https://github.com/dpobel/github-user-events) but if I don't
 really plan to maintain nor further develop that project.
 
 ## In Practice
@@ -87,7 +87,7 @@ either in the document structure or even the rendered version. Still, this is
 very handy and somehow I now see that as the injection of a dependency to do an AJAX
 request. After thinking about it, I've also come to the conclusion that I should
 have divided my component into two different components: one to deal with the
-Github API and an other one to display the event list.
+GitHub API and an other one to display the event list.
 
 One last handy detail, [the
 `seed-element`](https://github.com/polymerelements/seed-element) (the

@@ -37,11 +37,11 @@ En plus de ces billets, j'ai publié 12 articles originaux et 2 traductions&nbsp
 
 Les 3 billets les plus lus de l'année ont été dans l'ordre&nbsp;:
 
-1. [Embed a Youtube video in Github markdown](/post/youtube-video-github/)
+1. [Embed a Youtube video in GitHub markdown](/post/youtube-video-github/)
 1. [Au fait, c'est quoi un bon test unitaire, d'intégration ou fonctionnel&nbsp;?](/post/bon-test-unitaire-integration-fonctionnel/)
 1. [«&nbsp;Au cas où&nbsp;»](/post/au-cas-ou/)
 
-Amusant de voir que ce vieux billet sur l'insertion d'une vidéo sur Github est
+Amusant de voir que ce vieux billet sur l'insertion d'une vidéo sur GitHub est
 toujours en tête.
 
 ## Lectures

@@ -12,7 +12,7 @@ contenu en 45 minutes* au [the Forum PHP
 [Les slides sont disponibles en
 ligne](https://patrickallaert.github.io/create-site-from-scratch.html) avec [le
 code associé, le
-ForumPhp2013DemoBundle](https://github.com/dpobel/ForumPhp2013DemoBundle) sur Github.
+ForumPhp2013DemoBundle](https://github.com/dpobel/ForumPhp2013DemoBundle) sur GitHub.
 L'idée était de présenter quelques uns des principaux concepts du CMS
 eZ Publish 5 (au passage
 la version 5.2 est sortie cette semaine):
@@ -23,7 +23,7 @@ la version 5.2 est sortie cette semaine):
 
 Dans la partie pratique, nous avons construit le site d'une conférence PHP comme
 le Forum PHP pour montrer les fonctionnalités suivantes: (les liens pointent vers la diff correspondant sur
-Github)
+GitHub)
 
 1. [Comment écrire une règle d'override pour la vue full pour utilisé un
    template spécifique](https://github.com/dpobel/ForumPhp2013DemoBundle/commit/dd8329485118944514372e91e70973a699f0045c)

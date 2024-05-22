@@ -7,7 +7,7 @@ published: 2018-07-05T10:12:18Z
 photos:
     - images/veille_5.jpg
 ---
-* [GitHub Tips and Tricks](https://laravel-news.com/github-tips-tricks) (en)&nbsp;: Quelques bonnes astuces à utiliser sur Github
+* [GitHub Tips and Tricks](https://laravel-news.com/github-tips-tricks) (en)&nbsp;: Quelques bonnes astuces à utiliser sur GitHub
 * [Testing actual behavior](https://matthiasnoback.nl/2018/06/testing-actual-behavior/) (en)&nbsp;: pour résumer, il ne faut pas écrire de code pour les tests ou encore dit autrement, il ne faut ajouter que le code qui sert vraiment à quelque chose
 * [PHP 2^3](https://externals.io/message/102415) (en)&nbsp;: PHP8 pourrait avoir une [compilation *Just In Time*](https://en.wikipedia.org/wiki/Just-in-time_compilation) ([démo en vidéo](https://www.youtube.com/watch?v=dWH65pmnsrI)). Avec l'utilisation actuelle typique de PHP, ça ne fera pas une grosse différence en terme de performance, en revanche comme dit dans le message, PHP pourrait alors être utilisé différemment.
 * [Three Distinct Mind-sets in TDD](http://www.davefarley.net/?p=260) (en)&nbsp;: ou le *Test Driven Development* expliqué simplement.

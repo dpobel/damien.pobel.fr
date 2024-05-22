@@ -9,7 +9,7 @@ lang: en
 If you see this page, it's probably because you wanted to reach a page on
 http://projects.pwet.fr. Unfortunately, I decided to shut it down.
 
-I'm sorry for the inconvience. I'm moved most of the interesting code under [my Github account](http://github.com/dpobel):
+I'm sorry for the inconvience. I'm moved most of the interesting code under [my GitHub account](http://github.com/dpobel):
 
 * [the Planet eZ Publish.fr](http://github.com/dpobel/planet-ezpublish.fr/)
 * [the autostatus extension for eZ Publish

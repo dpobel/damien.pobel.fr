@@ -33,4 +33,4 @@ Cette extension est maintenant disponible en 5 langues, je te tiens à remercier
 ## Et après ?
 
 
-Le fichier TODO contient pas mal d'améliorations possibles. Le support de Linkedin et de Facebook sont plus ou moins prévu, pour le reste (ou toute autre idée), les contributions sont les bienvenues :-) Je vais probablement migrer vers Github ce qui permettra d'avoir un bug tracker et de faciliter les contributions.
+Le fichier TODO contient pas mal d'améliorations possibles. Le support de Linkedin et de Facebook sont plus ou moins prévu, pour le reste (ou toute autre idée), les contributions sont les bienvenues :-) Je vais probablement migrer vers GitHub ce qui permettra d'avoir un bug tracker et de faciliter les contributions.

@@ -1,5 +1,5 @@
 ---
-title: Comment a Github pull request from Travis CI
+title: Comment a GitHub pull request from Travis CI
 tags:  travis ci, github, shell, rest
 published: 2017-11-04 14:51
 lang: en
@@ -15,7 +15,7 @@ photos:
 platform](https://docs.travis-ci.com/user/for-beginners/) which means it is used
 to run various processes after code changes like unit tests, code style checks,
 build releases… Most of the time, you are only interested in the end result
-(ie did unit/code style/whatever tests pass?) and in that case Github displays
+(ie did unit/code style/whatever tests pass?) and in that case GitHub displays
 that nicely in the page (and even in the page icon lately). However, from time
 to time, it might be useful to get a little more info for instance to see an
 overview of the code coverage of the tests or where you don't respect the
@@ -57,9 +57,9 @@ if [ "$TRAVIS_PULL_REQUEST" != "false" ] ; then
 fi
 ```
 
-## Post a comment with the Github API
+## Post a comment with the GitHub API
 
-Remains to actually post the comment. For that, I use [the Github REST API
+Remains to actually post the comment. For that, I use [the GitHub REST API
 v3](https://developer.github.com/v3/) because when I set up this system, it was
 the only available solution. To use the API, you'll need to create a *Personal
 access token* as described in [the user a
@@ -81,7 +81,7 @@ In both cases, the environment variable is made available in the build process
 in a *secured* way (at least it's not displayed in the build log). I use the
 second option and the environment variable is called  `GITHUB_TOKEN`.
 
-With that in place, we can now call the Github API. If you look at [the API
+With that in place, we can now call the GitHub API. If you look at [the API
 documentation for pull requests](https://developer.github.com/v3/pulls/), you
 won't find any resource to post a comment, but there's [one to comment an
 issue](https://developer.github.com/v3/issues/comments/#create-a-comment) which

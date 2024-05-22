@@ -17,5 +17,5 @@ Voila, [à force d'y penser](/post/des-sites-francophones-sur-ez-publish), j'ai 
 À ma connaissance, il s'agit du troisième [Planet](http://fr.wikipedia.org/wiki/Planet) utilisant [eZ Publish](/tag/ez-publish) après PlaneteZPublish.org (l'orginal :)) et le [planet Fedora-fr](http://planet.fedora-fr.org/). Si vous avez un blog francophone parlant d'eZ Publish, n'hésitez pas à inscrire votre flux (RSS ou Atom) !
 
 
-Pour les curieux, [le code est accessible sur Github](https://github.com/dpobel/planet-ezpublish.fr). Je ferai certainement un article plus technique dans les jours qui viennent.
+Pour les curieux, [le code est accessible sur GitHub](https://github.com/dpobel/planet-ezpublish.fr). Je ferai certainement un article plus technique dans les jours qui viennent.
 

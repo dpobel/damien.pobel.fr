@@ -39,7 +39,7 @@ Pour le côté geek et plomberie, il s'agit d'un site entièrement statique (c'e
 à la mode ces derniers temps) généré avec
 [Metalsmith](http://www.metalsmith.io/).  Metalsmith est un petit outil écrit en
 JavaScript que je trouve absolument brillant. Pour les plus curieux, les sources
-du site sont entièrement libres et disponibles sur Github dans le dépôt
+du site sont entièrement libres et disponibles sur GitHub dans le dépôt
 [dpobel/revermont.bike](https://github.com/dpobel/revermont.bike/).
 Techniquement parlant, il y a pas mal de choses à dire et je suis plutôt fier du
 système complet (avec du grunt, bower, metalsmith, gpsbabel, des tests unitaires

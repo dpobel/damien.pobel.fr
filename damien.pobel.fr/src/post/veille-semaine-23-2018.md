@@ -15,7 +15,7 @@ photos:
 * [Jest 23: 🔥 Blazing Fast Delightful Testing](https://facebook.github.io/jest/blog/2018/05/29/jest-23-blazing-fast-delightful-testing.html) (en)&nbsp;: avec pas mal de nouveautés sympas et notamment Jest Each
 * [Symfony vs Laravel vs Nette - Which PHP Framework Should You Choose](https://www.tomasvotruba.cz/blog/2018/05/31/symfony-vs-laravel-vs-nette-which-php-framework-you-should-choose/) (en)&nbsp;: _There are no solutions. There are only trade-offs._ répond presque entièrement à la question.
 * [7 grands principes pour piloter sans dériver](https://blog.octo.com/whats-up-agile-les-7-grands-principes-pour-piloter-sans-deriver/) (fr)&nbsp;: certains s'appliquent tout le temps, par exemple agile ou pas, je ne suis PAS une _ressource_
-* [👋 Hello, GitHub](https://natfriedman.github.io/hello/) (en)&nbsp;: bonjour M le futur CEO de Github version Microsoft
+* [👋 Hello, GitHub](https://natfriedman.github.io/hello/) (en)&nbsp;: bonjour M le futur CEO de GitHub version Microsoft
 * [PHP Tour Montpellier 2018](https://www.youtube.com/playlist?list=PL9zDdgiGjkIdNGlZUJZZswe4DcyPJc_KI) (fr)&nbsp;: Les vidéos du PHP Tour 2018 à Montpellier sont en ligne
 
 Et un peu hors-sujet&nbsp;:

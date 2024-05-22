@@ -14,7 +14,7 @@ de faire une application assez amusante avec très peu de lignes de code.
 
 ## L'application
 
-Le code de cette application est disponible [sur Github dans le dépôt
+Le code de cette application est disponible [sur GitHub dans le dépôt
 eZunConf2013-REST-API-demo](https://github.com/ezunconference/eZunConf2013-REST-API-demo)
 et [elle est installable](https://github.com/ezunconference/eZunConf2013-REST-API-demo#install)
 sur n'importe quel eZ Publish 5 suffisament récent. Avec [un navigateur moderne

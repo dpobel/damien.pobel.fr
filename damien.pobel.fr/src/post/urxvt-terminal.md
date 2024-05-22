@@ -24,7 +24,7 @@ urxvt](http://pwet.fr/man/linux/commandes/urxvt)) and I realized that you can
 add plugins to it and through some of them, it supports tabs and URL detection
 and more! So I switched to URXVT. My configuration (to put in
 `~/.Xdefaults`) is [available on
-Github](https://github.com/dpobel/config/blob/248249a19ce653afc7a9b547c7a5c784e0061e5c/.Xdefaults). To get the
+GitHub](https://github.com/dpobel/config/blob/248249a19ce653afc7a9b547c7a5c784e0061e5c/.Xdefaults). To get the
 tabs, you need to put the [tabbedex
 plugin](https://git.fsfe.org/mina86/urxvt-tabbedex) in the directory
 `~/.urxvt/`. This plugin replaces the default one (called tabbed); it

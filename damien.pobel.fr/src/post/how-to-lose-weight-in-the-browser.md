@@ -27,7 +27,7 @@ try to apply as much as possible those practices, it is not that difficult and
 the results are usually very visible.
 
 Another cool thing, the code and the content are [available on
-Github](https://github.com/zenorocha/browser-diet), so if you are not fine with
+GitHub](https://github.com/zenorocha/browser-diet), so if you are not fine with
 the content or the design, it's easy to fix the issue with a simple pull
 request; and yes [the fully yellow background was
 ugly](https://github.com/zenorocha/browser-diet/issues/46) ;-)

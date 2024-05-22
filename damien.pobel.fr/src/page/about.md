@@ -37,5 +37,5 @@ passés ni d'aucune entité à laquelle je suis associé.**
 
 Ce site est construit avec [Metalsmith et quelques autres outils et
 services](/post/powered-by-metalsmith/). Les icônes proviennent du projet
-[Simple Icons](http://simpleicons.org/). Tout le code source est sur Github dans
+[Simple Icons](http://simpleicons.org/). Tout le code source est sur GitHub dans
 [le dépôt dpobel/damien.pobel.fr](https://github.com/dpobel/damien.pobel.fr).

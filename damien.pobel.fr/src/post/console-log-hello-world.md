@@ -20,12 +20,12 @@ also removed the comments, I don't know yet if it's definitive or not.
 Lastly, it's not based on [eZ Publish](/tag/ez-publish) anymore. It's built with a
 tool called [Lectroid](https://github.com/rgrove/lectroid) which is a *really
 boring blog engine* written in JavaScript by [Ryan Grove](http://wonko.com/). I
-discovered this tool while randomly browsing repositories on Github and I found
+discovered this tool while randomly browsing repositories on GitHub and I found
 it very closed to what I had in mind for a potential new blog for months now.
 It's also a good occasion to dive a bit more into the server side JavaScript. I will
 probably explain more in details in an other post why Lectroid is far less boring
 than what its tagline suggests. But in any case, I want to thank Ryan for publishing
-it on Github.
+it on GitHub.
 
 For the people interested in eZ Publish, don't worry, I will still write blog
 posts on this fantastic <abbr title="Content Management

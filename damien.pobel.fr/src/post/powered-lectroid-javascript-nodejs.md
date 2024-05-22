@@ -6,7 +6,7 @@ published: 2013-03-06T21:40:40+01:00
 
 [This blog is now powered by Lectroid](/post/console-log-hello-world), a very
 nice blog engine found by chance on
-[Github](https://github.com/rgrove/lectroid). In short:
+[GitHub](https://github.com/rgrove/lectroid). In short:
 
 * it is written in JavaScript for Node.js
 * it does not need any database

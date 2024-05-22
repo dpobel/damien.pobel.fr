@@ -26,13 +26,13 @@ de générer une version de base. Le fichier généré inclut le fichier
 `~/.gtkrc-2.0.mine` dans lequel il est possible faire [des
 ajustements](https://developer.gnome.org/gtk2/stable/GtkSettings.html#GtkSettings.properties)
 par rapport au thème. [Le mien est disponible sur
-Github](https://github.com/dpobel/config/blob/master/gtkrc-2.0.mine).
+GitHub](https://github.com/dpobel/config/blob/master/gtkrc-2.0.mine).
 
 Pour Gtk3, le fichier `~/.config/gtk-3.0/settings.ini` permet de
 régler le thème à utiliser et [divers
 paramètres](https://developer.gnome.org/gtk3/3.1/GtkSettings.html#GtkSettings.properties).
 Là encore, [mon fichier de configuration est disponible sur
-Github](https://github.com/dpobel/config/blob/master/config/gtk-3.0/settings.ini).
+GitHub](https://github.com/dpobel/config/blob/master/config/gtk-3.0/settings.ini).
 
 Enfin pour Qt4, le fichier de configuration est
 `~/.config/Trolltech.conf` mais celui-ci assez compliqué… Le plus

@@ -1,17 +1,17 @@
 ---
-title: Embed a Youtube video in Github markdown
+title: Embed a Youtube video in GitHub markdown
 tags: github, javascript, web, greasemonkey, firefox
 published: 2016-02-14 19:45
-metadescription: A Greasemonkey script that helps to embed Youtube videos in a better way in Github pull request, comment or issue.
+metadescription: A Greasemonkey script that helps to embed Youtube videos in a better way in GitHub pull request, comment or issue.
 lang: en
 photos:
     - images/greasemonkey-javascript-youtube-github.png
 ---
 
-It's not really possible to properly embed a video in a Github comment, pull
+It's not really possible to properly embed a video in a GitHub comment, pull
 request or issue like [it's possible for
 images](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/)
-for instance. So if you want to put a video in a Github pull request (I do that
+for instance. So if you want to put a video in a GitHub pull request (I do that
 quite often), you have to upload it to a video hosting service like Youtube and
 then you can put the link in the description. This is not what I would call
 *embedding a video* but at least it's simple and effective.
@@ -34,16 +34,16 @@ simplify that. Actually, at first I wanted to write a super simple
 [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet) but Firefox has [a very
 annoying issue where bookmarklets are broken on Content Security Policy enabled
 website](https://bugzilla.mozilla.org/show_bug.cgi?id=866522) like [on
-Github](https://github.com/blog/1477-content-security-policy) :-(
+GitHub](https://github.com/blog/1477-content-security-policy) :-(
 
-Anyway, the Greasemonkey script is available [on Github in
+Anyway, the Greasemonkey script is available [on GitHub in
 `dpobel/github-add-youtube-video`](https://github.com/dpobel/github-add-youtube-video/).
 To use it, you first need [to install
 Greasemonkey](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/) and
 then just load the
 [`addvideo.user.js`](https://raw.githubusercontent.com/dpobel/github-add-youtube-video/master/addvideo.user.js)
 in your browser, it should ask if you want to install that script. After doing
-that, [the Github markdown
+that, [the GitHub markdown
 editor](https://github.com/blog/2097-improved-commenting-with-markdown) should
 get a shiny new button that is able to transform any Youtube URL to the previous code
 snippet, here is the script in action:

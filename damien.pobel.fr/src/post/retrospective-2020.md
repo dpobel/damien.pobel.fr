@@ -26,7 +26,7 @@ Pas de grosse activité de ce côté avec seulement 3 billets :
 Les 3 billets les plus lus de l'année ont été dans l'ordre&nbsp;:
 
 1. [« Clean Code » résumé en quelques lignes](/post/clean-code/)
-1. [Embed a Youtube video in Github markdown](/post/youtube-video-github/)
+1. [Embed a Youtube video in GitHub markdown](/post/youtube-video-github/)
 1. [Comment je fais ma veille technologique](/post/comment-je-fais-ma-veille-technologique/)
 
 ## Professionnellement

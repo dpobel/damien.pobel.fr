@@ -31,8 +31,8 @@ does not do much:
 1. when the user *taps* on the button, it disables the button and adds a class
    which makes it in movements.
 
-You can test it on [my Github pages](http://dpobel.github.io/yui-test-example/)
-and look at [the source code on Github as
+You can test it on [my GitHub pages](http://dpobel.github.io/yui-test-example/)
+and look at [the source code on GitHub as
 well](https://github.com/dpobel/yui-test-example/blob/master/moveitview.js). I
 know, the only way to stop the movement is to refresh the page, it's because *I
 like to move it* ;-) More seriously, this small list of features gives us what
@@ -202,7 +202,7 @@ mandatory (it took me a while to figure that out):
 ```
 
 [The full source of the test can be found on
-Github](https://github.com/dpobel/yui-test-example/blob/master/tests/moveitview-tests.js)
+GitHub](https://github.com/dpobel/yui-test-example/blob/master/tests/moveitview-tests.js)
 
 ## Running the tests
 
@@ -324,7 +324,7 @@ coverage will still be 100%!
 
 grover is also able to generate a fully browseable HTML coverage with the
 `--coverdir` option. [The report for the *Move it view* is available in the
-Github
+GitHub
 pages](http://dpobel.github.io/yui-test-example/coverage/lcov-report/yui-unit-test/).
 
 ## The end (for now)

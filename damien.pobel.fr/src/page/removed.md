@@ -15,7 +15,7 @@ légère](/post/cool-uris-dont-change/).
 
 Avec un peu de chance, elle est peut être disponible dans [les archives
 d'Internet](http://web.archive.org/web/*/http://pwet.fr) ou [dans l'historique
-sur Github](https://github.com/dpobel/damien.pobel.fr/pull/663/files) mais vous pouvez aussi
+sur GitHub](https://github.com/dpobel/damien.pobel.fr/pull/663/files) mais vous pouvez aussi
 visiter [mon blog](/blog/), [le nuage de tags](/tags/) ou [les simples
 pages](/pages/) pour trouver du contenu intéressant :-)
 </div>
@@ -27,7 +27,7 @@ it's probably because it was completely broken or outdated or simply because I
 wanted to remove for various *good* reasons…
 
 With some luck, you might be able to find it on [the Internet
-archive](http://web.archive.org/web/*/http://pwet.fr) or [in the Github history](https://github.com/dpobel/damien.pobel.fr/pull/663/files) or you can browse [my
+archive](http://web.archive.org/web/*/http://pwet.fr) or [in the GitHub history](https://github.com/dpobel/damien.pobel.fr/pull/663/files) or you can browse [my
 blog](/), the [tag cloud](/tags) or [the available plain pages](/pages) to find
 some good alternative readings :-)
 </div>

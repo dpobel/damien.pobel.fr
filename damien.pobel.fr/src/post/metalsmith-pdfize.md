@@ -16,7 +16,7 @@ photos:
 
 Yesterday I published the very first version of
 [metalsmith-pdfize](https://www.npmjs.com/package/metalsmith-pdfize) on npm (and
-of course on [Github](https://www.github.com/dpobel/metalsmith-pdfize) as well).
+of course on [GitHub](https://www.github.com/dpobel/metalsmith-pdfize) as well).
 As its name suggests, it is a [Metalsmith](http://metalsmith.io/) plugin to
 generate PDF files as part of the build process (Metalsmith is among other
 things a static site generator [I use to generate this website](/post/powered-by-metalsmith/)). To do so, this plugin uses
