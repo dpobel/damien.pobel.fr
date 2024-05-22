@@ -1,7 +1,7 @@
 ---
 title: "Structurer les tests pour les rendre plus lisibles et maintenables"
 published: 2024-04-09
-tags: unit test, bonne pratique, qualité, code, javascript, typescript, ingénierie logicielle, behaviour driven development
+tags: unit test, bonnes pratiques, qualité, code, javascript, typescript, ingénierie logicielle, behaviour driven development
 photos:
     - images/structure.jpg
 ---
