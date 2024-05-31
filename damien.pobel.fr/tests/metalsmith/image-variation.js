@@ -1,6 +1,6 @@
 import assert from "assert";
 import metalsmith from "metalsmith";
-import gm from "gm";
+import sharp from "sharp";
 import imageVariation from "../../lib/metalsmith/image-variation.js";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
@@ -37,33 +37,39 @@ describe("imageVariation metalsmith plugin", function () {
       const widthVariation = "images/220x/GIF.gif";
 
       assert(buildResult[widthVariation]);
-      gm(buildResult[widthVariation].contents).size(function (err, size) {
-        assert.equal(220, size.width);
-        assert.equal(161, size.height);
-        done();
-      });
+      sharp(buildResult[widthVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(220, metadata.width);
+          assert.equal(161, metadata.height);
+          done();
+        },
+      );
     });
 
     it("should generate a PNG", function (done) {
       const widthVariation = "images/220x/PNG.png";
 
       assert(buildResult[widthVariation]);
-      gm(buildResult[widthVariation].contents).size(function (err, size) {
-        assert.equal(220, size.width);
-        assert.equal(220, size.height);
-        done();
-      });
+      sharp(buildResult[widthVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(220, metadata.width);
+          assert.equal(220, metadata.height);
+          done();
+        },
+      );
     });
 
     it("should generate a JPG", function (done) {
       const widthVariation = "images/220x/JPG.jpg";
 
       assert(buildResult[widthVariation]);
-      gm(buildResult[widthVariation].contents).size(function (err, size) {
-        assert.equal(220, size.width);
-        assert.equal(147, size.height);
-        done();
-      });
+      sharp(buildResult[widthVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(220, metadata.width);
+          assert.equal(147, metadata.height);
+          done();
+        },
+      );
     });
   });
 
@@ -72,33 +78,39 @@ describe("imageVariation metalsmith plugin", function () {
       const heightVariation = "images/x300/GIF.gif";
 
       assert(buildResult[heightVariation]);
-      gm(buildResult[heightVariation].contents).size(function (err, size) {
-        assert.equal(300, size.height);
-        assert.equal(410, size.width);
-        done();
-      });
+      sharp(buildResult[heightVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(300, metadata.height);
+          assert.equal(410, metadata.width);
+          done();
+        },
+      );
     });
 
     it("should generate a PNG", function (done) {
       const heightVariation = "images/x300/PNG.png";
 
       assert(buildResult[heightVariation]);
-      gm(buildResult[heightVariation].contents).size(function (err, size) {
-        assert.equal(300, size.height);
-        assert.equal(301, size.width);
-        done();
-      });
+      sharp(buildResult[heightVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(300, metadata.height);
+          assert.equal(301, metadata.width);
+          done();
+        },
+      );
     });
 
     it("should generate a JPG", function (done) {
       const heightVariation = "images/x300/JPG.jpg";
 
       assert(buildResult[heightVariation]);
-      gm(buildResult[heightVariation].contents).size(function (err, size) {
-        assert.equal(300, size.height);
-        assert.equal(450, size.width);
-        done();
-      });
+      sharp(buildResult[heightVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(300, metadata.height);
+          assert.equal(450, metadata.width);
+          done();
+        },
+      );
     });
   });
 
@@ -107,10 +119,10 @@ describe("imageVariation metalsmith plugin", function () {
       const widthxheightVariation = "images/250x250/GIF.gif";
 
       assert(buildResult[widthxheightVariation]);
-      gm(buildResult[widthxheightVariation].contents).size(
-        function (err, size) {
-          assert.equal(183, size.height);
-          assert.equal(250, size.width);
+      sharp(buildResult[widthxheightVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(183, metadata.height);
+          assert.equal(250, metadata.width);
           done();
         },
       );
@@ -120,10 +132,10 @@ describe("imageVariation metalsmith plugin", function () {
       const widthxheightVariation = "images/250x250/PNG.png";
 
       assert(buildResult[widthxheightVariation]);
-      gm(buildResult[widthxheightVariation].contents).size(
-        function (err, size) {
-          assert.equal(250, size.height);
-          assert.equal(250, size.width);
+      sharp(buildResult[widthxheightVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(250, metadata.height);
+          assert.equal(250, metadata.width);
           done();
         },
       );
@@ -133,10 +145,10 @@ describe("imageVariation metalsmith plugin", function () {
       const widthxheightVariation = "images/250x250/JPG.jpg";
 
       assert(buildResult[widthxheightVariation]);
-      gm(buildResult[widthxheightVariation].contents).size(
-        function (err, size) {
-          assert.equal(167, size.height);
-          assert.equal(250, size.width);
+      sharp(buildResult[widthxheightVariation].contents).metadata(
+        function (err, metadata) {
+          assert.equal(167, metadata.height);
+          assert.equal(250, metadata.width);
           done();
         },
       );
@@ -165,5 +177,29 @@ describe("imageVariation metalsmith plugin", function () {
     const absoluteUriVariation = "images/220x/twitter.png";
 
     assert(buildResult[absoluteUriVariation]);
+  });
+
+  describe("file size optimization", () => {
+    it("should optimize png file", function () {
+      const pngVariation = "images/660x/profile.png";
+
+      // console.log("PNG SIZE", buildResult[pngVariation].contents.length);
+      const acceptableSize = 69155;
+      assert(
+        buildResult[pngVariation].contents.length <= acceptableSize,
+        `png file size not optimized (${buildResult[pngVariation].contents.length} > ${acceptableSize})`,
+      );
+    });
+
+    it("should optimize jpg file", function () {
+      const jpgVariation = "images/660x/syrphe.jpg";
+
+      // console.log("JPG SIZE", buildResult[jpgVariation].contents.length);
+      const acceptableSize = 31210;
+      assert(
+        buildResult[jpgVariation].contents.length <= acceptableSize,
+        `jpg file size not optimized (${buildResult[jpgVariation].contents.length} > ${acceptableSize})`,
+      );
+    });
   });
 });

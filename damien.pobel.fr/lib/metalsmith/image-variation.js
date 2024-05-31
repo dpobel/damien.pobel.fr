@@ -1,11 +1,6 @@
 import cheerio from "cheerio";
 import async from "async";
-import gm from "gm";
-import imagemin from "imagemin";
-import imageminJpegoptim from "imagemin-jpegoptim";
-import imageminOptipng from "imagemin-optipng";
-import imageminGifsicle from "imagemin-gifsicle";
-import imageminSvgo from "imagemin-svgo";
+import sharp from "sharp";
 
 const imagePath = "/images/";
 const multipleSlash = /\/+/g;
@@ -35,43 +30,40 @@ function getOriginalImageFile(files, src, variation) {
 function getVariationSize(variation) {
   const tmp = variation.split("x");
 
-  return { width: tmp[0], height: tmp[1] };
+  return {
+    width: tmp[0] ? Number(tmp[0]) : undefined,
+    height: tmp[1] ? Number(tmp[1]) : undefined,
+  };
 }
 
-function generateVariation(variation, src, files, done) {
-  const origFile = getOriginalImageFile(files, src, variation),
-    size = getVariationSize(variation);
+async function generateVariation(variation, src, files, done) {
+  const origFile = getOriginalImageFile(files, src, variation);
+  const size = getVariationSize(variation);
+  const image = sharp(origFile.contents);
 
-  gm(origFile.contents)
-    .resize(size.width, size.height)
-    .toBuffer(function (err, buffer) {
-      if (err) {
-        return done(err);
-      }
-      imagemin
-        .buffer(buffer, {
-          plugins: [
-            imageminJpegoptim({
-              progressive: true,
-              stripAll: false,
-              stripCom: true,
-              stripExif: true,
-              stripIptc: true,
-              stripIcc: false, // keep that otherwise colors are insipid
-              stripXmp: true,
-              quality: 90,
-            }),
-            imageminOptipng({ optimizationLevel: 3 }),
-            imageminGifsicle({ interlaced: true }),
-            imageminSvgo(),
-          ],
-        })
-        .then(function (content) {
-          files[src].contents = Buffer.from(content);
-          done();
-        })
-        .catch(done);
-    });
+  image
+    .jpeg({
+      quality: 80,
+      progressive: true,
+      mozjpeg: true,
+      force: false,
+    })
+    .png({
+      compressionLevel: 9,
+      quality: 100,
+      effort: 10,
+      force: false,
+    })
+    .gif({ progressive: true, force: false });
+  try {
+    const buffer = await image
+      .resize(size.width, size.height, { fit: "inside" })
+      .toBuffer();
+    files[src].contents = buffer;
+    done();
+  } catch (error) {
+    done(error);
+  }
 }
 
 function handleImageAttribute(
