@@ -45,7 +45,7 @@
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegoptim": "^8.0.0",
     "imagemin-optipng": "^8.0.0",
-    "imagemin-svgo": "^10.0.1",
+    "imagemin-svgo": "^11.0.0",
     "jstransformer-nunjucks": "^1.2.0",
     "metalsmith": "^2.6.3",
     "metalsmith-assets-2": "github:dpobel/metalsmith-assets-2#no-more-merge",
