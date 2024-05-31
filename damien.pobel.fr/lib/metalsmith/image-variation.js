@@ -67,7 +67,7 @@ function generateVariation(variation, src, files, done) {
           ],
         })
         .then(function (content) {
-          files[src].contents = content;
+          files[src].contents = Buffer.from(content);
           done();
         })
         .catch(done);
