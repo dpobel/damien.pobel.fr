@@ -116,6 +116,7 @@ check_file "Resized JPG (660x)" "/images/660x/syrphe-phacelie.jpg" "../damien.po
 check_file "Resized JPG (200x)" "/images/200x/syrphe-au-coeur-coquelicot.jpg" "../damien.pobel.fr/web/images/200x/syrphe-au-coeur-coquelicot.jpg"
 check_file "Resized PNG (660x)" "/images/660x/profil-github-personnalise.png" "../damien.pobel.fr/web/images/660x/profil-github-personnalise.png"
 check_file "Resized PNG (200x)" "/images/200x/tetris.png" "../damien.pobel.fr/web/images/200x/tetris.png"
+check_file "Resized GIF (200x)" "/images/200x/unit-test.gif" "../damien.pobel.fr/web/images/200x/unit-test.gif"
 echo " **RSS feeds** (build date should be updated)"
 check_file "RSS" "/rss.xml" "../damien.pobel.fr/web/rss.xml" "diff" "format_xml"
 check_file "RSS tag" "/rss/métier.xml" "../damien.pobel.fr/web/rss/métier.xml" "diff" "format_xml"
