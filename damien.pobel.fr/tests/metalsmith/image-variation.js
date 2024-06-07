@@ -184,7 +184,12 @@ describe("imageVariation metalsmith plugin", function () {
       const pngVariation = "images/660x/profile.png";
 
       // console.log("PNG SIZE", buildResult[pngVariation].contents.length);
-      const acceptableSize = 69155;
+      const acceptableSize = 52491;
+      const originalSize = buildResult["images/profile.png"].contents.length;
+      assert(
+        buildResult[pngVariation].contents.length <= originalSize,
+        `png file size not optimized, original is smaller… (${buildResult[pngVariation].contents.length} > ${originalSize})`,
+      );
       assert(
         buildResult[pngVariation].contents.length <= acceptableSize,
         `png file size not optimized (${buildResult[pngVariation].contents.length} > ${acceptableSize})`,

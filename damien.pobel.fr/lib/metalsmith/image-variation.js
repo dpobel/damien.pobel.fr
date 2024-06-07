@@ -50,7 +50,7 @@ async function generateVariation(variation, src, files, done) {
     })
     .png({
       compressionLevel: 9,
-      quality: 100,
+      quality: 70,
       effort: 10,
       force: false,
     })
