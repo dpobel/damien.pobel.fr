@@ -6,10 +6,6 @@ Source code of [damien.pobel.fr](https://damien.pobel.fr/), see [Powered by
 Metalsmith (and Github, TravisCI, Myth,
 npm...)](https://damien.pobel.fr/post/powered-by-metalsmith/) for some details.
 
-## Requirements
-
-- `apt-get install graphicsmagick`
-
 ## Tasks
 
 - `npm test` to run the unit tests
