@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2024-05-14
+updated: 2024-06-11
 ---
 
 # Lectures
 
 ## 2024
 
+* [Staff Engineer: Leadership beyond the management track](https://staffeng.com/book) (Will Larson)
 * [Le cycle des robots - Un défilé de robots](https://www.jailu.com/un-defile-de-robots/9782290311257) (Isaac Asimov)
 * [Ralentir ou périr : l'économie de la décroissance](https://www.seuil.com/ouvrage/ralentir-ou-perir-timothee-parrique/9782021508093) (Timothée Parrique)
 * [Sans transition Une nouvelle histoire de l'énergie](https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557) (Jean-Baptiste Fressoz)
