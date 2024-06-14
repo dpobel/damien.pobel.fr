@@ -30,6 +30,7 @@ jobs:
         run: npm run lint
 
       - name: Installing xmllint and pdftohtml
+        if: ${{ github.ref_name != 'main' }}
         run: |
           sudo apt -y update
           sudo apt -y install libxml2-utils poppler-utils
