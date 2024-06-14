@@ -1,6 +1,6 @@
 #! /bin/sh
 
-[ ! -d "$SITE"] && echo "SITE environment variable is incorrect ('$SITE')" && exit 1
+[ ! -d "$SITE" ] && echo "SITE environment variable is incorrect ('$SITE')" && exit 1
 
 # ⚠️ ENCRYPT_KEY and PERSONAL_TOKEN are defined in both Actions secrets **and** Dependabot secrets
 # so when updating it don't forget to set both.

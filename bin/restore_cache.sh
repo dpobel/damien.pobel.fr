@@ -1,6 +1,6 @@
 #! /bin/sh
 
-[ ! -d "$SITE"] && echo "SITE environment variable is incorrect ('$SITE')" && exit 1
+[ ! -d "$SITE" ] && echo "SITE environment variable is incorrect ('$SITE')" && exit 1
 
 CACHE_IMAGES=`find $SITE/web/images -mindepth 1 -type d`
 
