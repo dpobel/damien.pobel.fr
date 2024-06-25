@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2024-06-11
+updated: 2024-06-25
 ---
 
 # Lectures
 
 ## 2024
 
+* [Brèche dans l'espace](https://www.jailu.com/breche-dans-lespace/9782290365199) (Philip K. Dick)
 * [Staff Engineer: Leadership beyond the management track](https://staffeng.com/book) (Will Larson)
 * [Le cycle des robots - Un défilé de robots](https://www.jailu.com/un-defile-de-robots/9782290311257) (Isaac Asimov)
 * [Ralentir ou périr : l'économie de la décroissance](https://www.seuil.com/ouvrage/ralentir-ou-perir-timothee-parrique/9782021508093) (Timothée Parrique)
