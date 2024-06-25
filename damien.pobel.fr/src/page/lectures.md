@@ -22,6 +22,7 @@ updated: 2024-06-25
 * [Panorama](https://www.librairie-gallimard.com/livre/9782073035059-panorama-lilia-hassaine/) (Lilia Hassaine)
 * [Effective TypeScript](https://effectivetypescript.com/) (Dan Vanderkam)
 * [Femmes de la Préhistoire](https://www.tallandier.com/livre/femmes-de-la-prehistoire/) (Claudine Cohen)
+* [Le Maître du Haut Château](https://www.jailu.com/le-maitre-du-haut-chateau/9782290238646) (Philip K. Dick)
 * [L'énigme de la chambre 622](https://www.rosiewolfe.com/catalogue/joel-dicker/lenigme-de-la-chambre-622) (Joël Dicker)
 * [La forêt comestible](https://www.terran.fr/produit/101/9782359811476/la-foret-comestible) (Damien Dekarz)
 
