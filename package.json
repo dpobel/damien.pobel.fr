@@ -59,7 +59,7 @@
     "open": "^10.1.0",
     "postcss": "^8.4.39",
     "postcss-import": "^16.1.0",
-    "postcss-preset-env": "^9.5.14",
+    "postcss-preset-env": "^9.5.15",
     "prettier": "^3.3.2",
     "sharp": "^0.33.4",
     "static-server": "^3.0.0"
