@@ -37,7 +37,7 @@
     "consolidate": "^1.0.3",
     "cssnano": "^7.0.3",
     "detect-port": "^1.6.1",
-    "eslint": "^9.5.0",
+    "eslint": "^9.6.0",
     "globals": "^15.8.0",
     "highlight.js": "^11.10.0",
     "jstransformer-nunjucks": "^1.2.0",
