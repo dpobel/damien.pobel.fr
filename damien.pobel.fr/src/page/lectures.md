@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2024-07-25
+updated: 2024-08-20
 ---
 
 # Lectures
 
 ## 2024
 
+* [L'Univers à Portée de Main](https://editions.flammarion.com/lunivers-a-portee-de-main/9782081422209) (Christophe Galfard)
 * [Et l'évolution créa la femme](https://www.odilejacob.fr/catalogue/sciences-humaines/anthropologie-ethnologie/et-l-evolution-crea-la-femme_9782738152138.php) (Pascal Picq)
 * [Brèche dans l'espace](https://www.jailu.com/breche-dans-lespace/9782290365199) (Philip K. Dick)
 * [Staff Engineer: Leadership beyond the management track](https://staffeng.com/book) (Will Larson)
