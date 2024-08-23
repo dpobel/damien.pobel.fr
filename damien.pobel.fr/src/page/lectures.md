@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2024-08-20
+updated: 2024-08-23
 ---
 
 # Lectures
 
 ## 2024
 
+* [Comme une larme d'étoile](https://complices-editions.eu/p/comme-une-larme-d-etoile) (Jérôme Gasulla)
 * [L'Univers à Portée de Main](https://editions.flammarion.com/lunivers-a-portee-de-main/9782081422209) (Christophe Galfard)
 * [Et l'évolution créa la femme](https://www.odilejacob.fr/catalogue/sciences-humaines/anthropologie-ethnologie/et-l-evolution-crea-la-femme_9782738152138.php) (Pascal Picq)
 * [Brèche dans l'espace](https://www.jailu.com/breche-dans-lespace/9782290365199) (Philip K. Dick)
