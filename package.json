@@ -35,7 +35,7 @@
     "async": "^3.2.6",
     "cheerio": "^1.0.0",
     "consolidate": "^1.0.4",
-    "cssnano": "^7.0.5",
+    "cssnano": "^7.0.6",
     "detect-port": "^1.6.1",
     "eslint": "^9.9.1",
     "globals": "^15.9.0",
