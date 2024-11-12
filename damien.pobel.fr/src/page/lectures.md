@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2024-09-14
+updated: 2024-11-12
 ---
 
 # Lectures
 
 ## 2024
 
+* [Le Problème à trois corps](https://www.actes-sud.fr/catalogue/science-fiction-fantasy/le-probleme-trois-corps) (Cixin Liu)
 * [Nature et préjugés](https://www.actes-sud.fr/catalogue/sciences-humaines-et-sociales-sciences/nature-et-prejuges) (Marc-André Selosse)
 * [Comme une larme d'étoile](https://complices-editions.eu/p/comme-une-larme-d-etoile) (Jérôme Gasulla)
 * [L'Univers à Portée de Main](https://editions.flammarion.com/lunivers-a-portee-de-main/9782081422209) (Christophe Galfard)
