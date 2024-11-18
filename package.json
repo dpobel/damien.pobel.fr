@@ -45,7 +45,7 @@
     "metalsmith-assets-2": "github:dpobel/metalsmith-assets-2#no-more-merge",
     "metalsmith-brotli": "^2.0.0",
     "metalsmith-feed": "^1.0.0",
-    "metalsmith-filemetadata": "^4.0.0",
+    "metalsmith-filemetadata": "^5.1.0",
     "metalsmith-gzip": "^2.0.0",
     "metalsmith-html-minifier": "^4.0.1",
     "metalsmith-moment": "^4.0.0",
