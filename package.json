@@ -25,7 +25,7 @@
   "author": "Damien Pobel",
   "license": "MIT",
   "devDependencies": {
-    "@eslint/js": "^9.13.0",
+    "@eslint/js": "^9.15.0",
     "@metalsmith/collections": "^1.3.1",
     "@metalsmith/layouts": "^2.7.0",
     "@metalsmith/markdown": "^1.10.0",
