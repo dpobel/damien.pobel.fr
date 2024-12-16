@@ -39,7 +39,7 @@
     "detect-port": "^1.6.1",
     "eslint": "^9.16.0",
     "globals": "^15.13.0",
-    "highlight.js": "^11.10.0",
+    "highlight.js": "^11.11.0",
     "jstransformer-nunjucks": "^1.2.0",
     "metalsmith": "^2.6.3",
     "metalsmith-assets-2": "github:dpobel/metalsmith-assets-2#no-more-merge",
