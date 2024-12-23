@@ -7,6 +7,7 @@ updated: 2024-11-12
 
 ## 2024
 
+* [La nuit des temps](https://www.jailu.com/la-nuit-des-temps/9782290317587) (René Barjavel)
 * [Le Problème à trois corps](https://www.actes-sud.fr/catalogue/science-fiction-fantasy/le-probleme-trois-corps) (Cixin Liu)
 * [Nature et préjugés](https://www.actes-sud.fr/catalogue/sciences-humaines-et-sociales-sciences/nature-et-prejuges) (Marc-André Selosse)
 * [Comme une larme d'étoile](https://complices-editions.eu/p/comme-une-larme-d-etoile) (Jérôme Gasulla)
