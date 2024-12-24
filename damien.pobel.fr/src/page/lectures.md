@@ -1,6 +1,6 @@
 ---
 title: Lectures
-updated: 2024-11-12
+updated: 2024-12-22
 ---
 
 # Lectures
