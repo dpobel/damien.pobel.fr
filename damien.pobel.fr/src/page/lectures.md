@@ -1,12 +1,15 @@
 ---
 title: Lectures
-updated: 2024-12-22
+updated: 2024-12-29
 ---
 
 # Lectures
 
 ## 2024
 
+* [Une idée dans la tête](https://www.odilejacob.fr/catalogue/sciences/neurosciences/une-idee-dans-la-tete_9782415010416.php) (Stanislas Dehaene)
+* [Résister](https://www.payot-rivages.fr/payot/livre/r%C3%A9sister-9782228937597) (Salomé Saqué)
+* [En finir avec les idées fausses sur l'école](https://editionsatelier.com/boutique/nouveautes/414-en-finir-avec-les-idees-fausses-sur-l-ecole-9782708254350.html) (Louise Tourret)
 * [La nuit des temps](https://www.jailu.com/la-nuit-des-temps/9782290317587) (René Barjavel)
 * [Le Problème à trois corps](https://www.actes-sud.fr/catalogue/science-fiction-fantasy/le-probleme-trois-corps) (Cixin Liu)
 * [Nature et préjugés](https://www.actes-sud.fr/catalogue/sciences-humaines-et-sociales-sciences/nature-et-prejuges) (Marc-André Selosse)
