@@ -1,9 +1,13 @@
 ---
 title: Lectures
-updated: 2024-12-29
+updated: 2025-01-02
 ---
 
 # Lectures
+
+## 2025
+
+* [Gagner - Pour que la politique change (vraiment) nos vies](https://audiable.com/boutique/cat_litterature-francaise/gagner/) (Priscillia Ludosky, Mahaut Chaudouët-Delmas et Samuel Grzybowski)
 
 ## 2024
 
