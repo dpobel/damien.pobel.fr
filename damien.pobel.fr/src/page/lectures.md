@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2025-01-03
+updated: 2025-01-09
 ---
 
 # Lectures
 
 ## 2025
 
+* [L'affaire Alaska Sanders](https://www.rosiewolfe.com/catalogue/joel-dicker/laffaire-alaska-sanders) (Joël Dicker)
 * [Le monde sans fin](https://www.dargaud.com/bd/le-monde-sans-fin-bda5378080) (Christophe Blain et Jean-Marc Jancovici)
 * [Gagner - Pour que la politique change (vraiment) nos vies](https://audiable.com/boutique/cat_litterature-francaise/gagner/) (Priscillia Ludosky, Mahaut Chaudouët-Delmas et Samuel Grzybowski)
 
