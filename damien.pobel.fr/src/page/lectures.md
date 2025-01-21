@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2025-01-09
+updated: 2025-01-20
 ---
 
 # Lectures
 
 ## 2025
 
+* [Les seigneurs de Bohen](https://www.estellefaye.fr/butitsmyonlyline/romans/les-seigneurs-de-bohen/) (Estelle Faye)
 * [L'affaire Alaska Sanders](https://www.rosiewolfe.com/catalogue/joel-dicker/laffaire-alaska-sanders) (Joël Dicker)
 * [Le monde sans fin](https://www.dargaud.com/bd/le-monde-sans-fin-bda5378080) (Christophe Blain et Jean-Marc Jancovici)
 * [Gagner - Pour que la politique change (vraiment) nos vies](https://audiable.com/boutique/cat_litterature-francaise/gagner/) (Priscillia Ludosky, Mahaut Chaudouët-Delmas et Samuel Grzybowski)
