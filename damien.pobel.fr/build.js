@@ -171,6 +171,7 @@ const pluginsConfList = [
     name: "layouts",
     indev: true,
   },
+  { plugin: pdfize, conf: conf["cv-pdf"].pdfize, name: "pdfize", indev: true },
   {
     plugin: renamer,
     conf: conf["cv-pdf"].rename,
@@ -189,7 +190,6 @@ const pluginsConfList = [
     name: "imageVariation",
     indev: true,
   },
-  { plugin: pdfize, conf: conf["cv-pdf"].pdfize, name: "pdfize", indev: true },
   {
     plugin: brotli,
     conf: {
