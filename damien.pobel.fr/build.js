@@ -172,6 +172,12 @@ const pluginsConfList = [
     indev: true,
   },
   {
+    plugin: renamer,
+    conf: conf["cv-pdf"].rename,
+    name: "renamer",
+    indev: true,
+  },
+  {
     plugin: htmlMinifier,
     conf: conf.htmlMinifier,
     name: "htmlMinifier",
@@ -184,12 +190,6 @@ const pluginsConfList = [
     indev: true,
   },
   { plugin: pdfize, conf: conf["cv-pdf"].pdfize, name: "pdfize", indev: true },
-  {
-    plugin: renamer,
-    conf: conf["cv-pdf"].rename,
-    name: "renamer",
-    indev: true,
-  },
   {
     plugin: brotli,
     conf: {
