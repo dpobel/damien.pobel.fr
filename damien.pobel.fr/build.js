@@ -164,7 +164,9 @@ const pluginsConfList = [
     plugin: layouts,
     conf: {
       directory: "templates",
+      transform: "nunjucks",
       engineOptions: { filters: nunjuckFilters },
+      pattern: "**/*.html",
     },
     name: "layouts",
     indev: true,
