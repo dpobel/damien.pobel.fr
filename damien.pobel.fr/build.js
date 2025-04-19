@@ -1,46 +1,46 @@
 #! /usr/bin/env node
 
-import metalsmith from "metalsmith";
-import collectPhotos from "./lib/metalsmith/collect-photos.js";
-import imageVariation from "./lib/metalsmith/image-variation.js";
-import fileToMetadata from "./lib/metalsmith/file-to-metadata.js";
-import tagLangFeed from "./lib/metalsmith/tag-lang-feed.js";
-import renamer from "metalsmith-renamer";
-import htmlMinifier from "metalsmith-html-minifier";
-import ignore from "@metalsmith/remove";
-import postcss from "@metalsmith/postcss";
-import assets from "metalsmith-assets-2";
-import feed from "metalsmith-feed";
-import msMoment from "metalsmith-moment";
-import fileMetadata from "metalsmith-filemetadata";
-import tags from "metalsmith-tags";
+import { spawn } from "child_process";
+import fsPromises from "node:fs/promises";
+import { fileURLToPath } from "node:url";
+import { dirname, join } from "path";
+import zlib from "zlib";
+import collections from "@metalsmith/collections";
 import layouts from "@metalsmith/layouts";
 import markdown from "@metalsmith/markdown";
-import collections from "@metalsmith/collections";
-import pagination from "metalsmith-pagination";
 import permalinks from "@metalsmith/permalinks";
-import pdfize from "metalsmith-pdfize";
-import brotli from "metalsmith-brotli";
-import gzip from "metalsmith-gzip";
-import zlib from "zlib";
-import open from "open";
+import postcss from "@metalsmith/postcss";
+import ignore from "@metalsmith/remove";
 import detect from "detect-port";
-import { spawn } from "child_process";
-import sluggify from "./lib/sluggify.js";
-import noopPlugin from "./lib/metalsmith/noop.js";
-import timedPlugin from "./lib/metalsmith/time.js";
+import hljs from "highlight.js";
+import metalsmith from "metalsmith";
+import assets from "metalsmith-assets-2";
+import brotli from "metalsmith-brotli";
+import feed from "metalsmith-feed";
+import fileMetadata from "metalsmith-filemetadata";
+import gzip from "metalsmith-gzip";
+import htmlMinifier from "metalsmith-html-minifier";
+import msMoment from "metalsmith-moment";
+import pagination from "metalsmith-pagination";
+import pdfize from "metalsmith-pdfize";
+import renamer from "metalsmith-renamer";
+import tags from "metalsmith-tags";
+import moment from "moment";
+import open from "open";
+import collectPhotos from "./lib/metalsmith/collect-photos.js";
 import feedPostCustomElement from "./lib/metalsmith/feed-postcustomelements.js";
+import fileToMetadata from "./lib/metalsmith/file-to-metadata.js";
 import {
   excludeWithMetadataFn,
   excludeWithoutMetadataFn,
 } from "./lib/metalsmith/filter-collection.js";
-import hljs from "highlight.js";
-import postCssConfig from "./postcss.config.js";
+import imageVariation from "./lib/metalsmith/image-variation.js";
+import noopPlugin from "./lib/metalsmith/noop.js";
+import tagLangFeed from "./lib/metalsmith/tag-lang-feed.js";
+import timedPlugin from "./lib/metalsmith/time.js";
 import nunjuckFilters from "./lib/nunjucks/filters.js";
-import moment from "moment";
-import fsPromises from "node:fs/promises";
-import { fileURLToPath } from "node:url";
-import { dirname, join } from "path";
+import sluggify from "./lib/sluggify.js";
+import postCssConfig from "./postcss.config.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -83,7 +83,7 @@ conf.collections.blog.filterBy = filterOutVeilleFn;
 conf.collections.top.filterBy = keepTopPostFn;
 
 const markdownConf = {
-  highlight: function (code, language) {
+  highlight: (code, language) => {
     if (language) {
       return hljs.highlight(code, { language }).value;
     }
@@ -164,9 +164,18 @@ const pluginsConfList = [
     plugin: layouts,
     conf: {
       directory: "templates",
+      transform: "nunjucks",
       engineOptions: { filters: nunjuckFilters },
+      pattern: "**/*",
     },
     name: "layouts",
+    indev: true,
+  },
+  { plugin: pdfize, conf: conf["cv-pdf"].pdfize, name: "pdfize", indev: true },
+  {
+    plugin: renamer,
+    conf: conf["cv-pdf"].rename,
+    name: "renamer",
     indev: true,
   },
   {
@@ -179,13 +188,6 @@ const pluginsConfList = [
     plugin: imageVariation,
     conf: conf.imageVariation,
     name: "imageVariation",
-    indev: true,
-  },
-  { plugin: pdfize, conf: conf["cv-pdf"].pdfize, name: "pdfize", indev: true },
-  {
-    plugin: renamer,
-    conf: conf["cv-pdf"].rename,
-    name: "renamer",
     indev: true,
   },
   {
@@ -209,7 +211,7 @@ moment.locale("fr");
 console.log("Generating the site");
 const ms = metalsmith(__dirname).source(source);
 
-pluginsConfList.forEach(function (pluginConf) {
+pluginsConfList.forEach((pluginConf) => {
   if ((DEV_ENV && pluginConf.indev) || !DEV_ENV) {
     ms.use(timedPlugin(pluginConf.plugin(pluginConf.conf), pluginConf.name));
   }
@@ -217,14 +219,14 @@ pluginsConfList.forEach(function (pluginConf) {
 
 ms.destination(destination)
   .metadata(conf.metadata)
-  .build(function (error, res) {
+  .build((error, res) => {
     if (error) {
       console.error("Build failed: " + error.message);
       console.log(error.stack);
       process.exit(1);
     }
     if (DEV_ENV) {
-      detect(DEV_PORT, (err, port) => {
+      detect(DEV_PORT, (_err, port) => {
         if (port === DEV_PORT) {
           spawn("npx", ["static-server", "-p", DEV_PORT], {
             cwd: join(__dirname, destination),
@@ -236,7 +238,7 @@ ms.destination(destination)
       });
     }
     console.log("Build successful in " + destination + ", wrote:");
-    Object.keys(res).forEach(function (key) {
+    Object.keys(res).forEach((key) => {
       console.log("- " + key);
     });
   });

@@ -235,7 +235,7 @@
         "rename": "cv-damien-pobel.pdf"
       },
       "github-profile": {
-        "pattern": "github/profile.txt",
+        "pattern": "github/profile.html",
         "rename": "README.md"
       }
     }
