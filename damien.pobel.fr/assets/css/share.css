@@ -5,20 +5,3 @@
 .share h2 {
   margin-top: 1em;
 }
-
-.share-networks {
-  padding: 0;
-  list-style-type: none;
-}
-
-.share-twitter svg {
-  background: #1b95e0;
-}
-
-.share-facebook svg {
-  background: #3f5c9a;
-}
-
-.share-linkedin svg {
-  background: #1a85bc;
-}

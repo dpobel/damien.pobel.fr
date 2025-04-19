@@ -1,18 +1,3 @@
 <div class="side-block share">
     <a href="/rss.xml" class="rss side-block-icon">{{ icons['rss.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}<span>Flux RSS du blog</span></a>
-
-    {% if not noSocialNetwork %}
-        <h2>Partager cette page</h2>
-        <ul class="share-networks">
-            <li>
-                <a href="https://twitter.com/share?url={{ permalink|url(site.url)|urlencode }}&amp;text={{ title|urlencode }}&amp;via=dpobel" class="share-twitter side-block-icon" target="_blank">{{ icons['twitter.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}<span>Twitter</span></a>
-            </li>
-            <li>
-                <a href="https://www.facebook.com/sharer.php?u={{ permalink|url(site.url)|urlencode }}&amp;t={{ title|urlencode }}" class="share-facebook side-block-icon" target="_blank">{{ icons['facebook.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}<span>Facebook</span></a>
-            </li>
-            <li>
-                <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ permalink|url(site.url)|urlencode }}&amp;title={{ title|urlencode }}" class="share-linkedin side-block-icon" target="_blank">{{ icons['linkedin.svg'].contents|safe|replace(' xmlns="http://www.w3.org/2000/svg"', '') }}<span>Linkedin</span></a>
-            </li>
-        </ul>
-    {% endif %}
 </div>
