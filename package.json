@@ -37,7 +37,6 @@
     "consolidate": "^1.0.4",
     "cssnano": "^7.0.6",
     "detect-port": "^2.1.0",
-    "globals": "^16.0.0",
     "highlight.js": "^11.11.1",
     "jstransformer-nunjucks": "^1.2.0",
     "metalsmith": "^2.6.3",
