@@ -1,66 +1,66 @@
-import assert from "assert";
-import metalsmith from "metalsmith";
+import assert from "node:assert";
+import { dirname } from "node:path";
+import { fileURLToPath } from "node:url";
 import collections from "@metalsmith/collections";
+import metalsmith from "metalsmith";
 import tags from "metalsmith-tags";
 import collectPhotos from "../../lib/metalsmith/collect-photos.js";
-import { dirname } from "path";
-import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-describe("collectPhotos metalsmith plugin", function () {
+describe("collectPhotos metalsmith plugin", () => {
   let ms;
   let buildError;
-  let lastPhotosNumber = 2;
+  const lastPhotosNumber = 2;
 
-  beforeEach(function (done) {
+  beforeEach((done) => {
     ms = metalsmith(__dirname);
     ms.source("fixtures/collect-photos/src")
       .use(collections({ posts: { pattern: "*.html", sortBy: "test" } }))
       .use(tags({ handle: "tags" }))
       .use(collectPhotos({ lastPhotosNumber: lastPhotosNumber }))
-      .build(function (error) {
+      .build((error) => {
         buildError = error;
         done();
       });
   });
 
-  it("should not throw any error", function () {
+  it("should not throw any error", () => {
     assert.ifError(buildError);
   });
 
-  it("should add the `photos` list", function () {
+  it("should add the `photos` list", () => {
     const file = ms.metadata().posts[0];
 
     assert(Array.isArray(file.photos));
     assert.equal(2, file.photos.length);
   });
 
-  it("should not add an empty photos list", function () {
+  it("should not add an empty photos list", () => {
     const file = ms.metadata().posts[1];
 
     assert.strictEqual(undefined, file.photos);
   });
 
-  it("should normalize the path", function () {
+  it("should normalize the path", () => {
     const file = ms.metadata().posts[2];
 
     assert.equal("images/photo.jpg", file.photos[0]);
   });
 
-  it("should add the original path to the list", function () {
+  it("should add the original path to the list", () => {
     const file = ms.metadata().posts[3];
 
     assert.equal("images/photo.jpg", file.photos[0]);
   });
 
-  it("should ignore non photo post", function () {
+  it("should ignore non photo post", () => {
     const file = ms.metadata().posts[4];
 
     assert.strictEqual(undefined, file.photos);
   });
 
-  it("should collect the last photos", function () {
+  it("should collect the last photos", () => {
     const last = ms.metadata().lastPhotos;
     const files = ms.metadata().posts;
 

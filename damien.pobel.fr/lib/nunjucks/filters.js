@@ -1,24 +1,22 @@
 export default {
-  url: function (path, prefix, isFile) {
+  url: (path, prefix, isFile) => {
     const resolvedPath = `/${path}${isFile ? "" : "/"}`;
 
     return `${prefix ? prefix : ""}${resolvedPath.replace(/\/\/+/g, "/")}`;
   },
-  image_variation: function (imgPath, variation) {
+  image_variation: (imgPath, variation) => {
     const tmp = imgPath.split("/");
 
-    return tmp[0] + "/" + variation + "/" + tmp[1];
+    return `${tmp[0]}/${variation}/${tmp[1]}`;
   },
 
-  keys: function (object) {
-    return Object.keys(object);
-  },
-  tag_info: function (tags, tagName) {
+  keys: (object) => Object.keys(object),
+  tag_info: (tags, tagName) => {
     const file = `${tagName}.html`;
 
     return tags[file] ? tags[file] : { title: tagName, contents: "" };
   },
-  tag_url: function (tag, tagCollection) {
+  tag_url: (tag, tagCollection) => {
     const tagPageObject = tagCollection.find((tagPageObject) => {
       return tag.name === tagPageObject.tag;
     });

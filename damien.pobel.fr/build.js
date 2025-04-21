@@ -1,10 +1,10 @@
 #! /usr/bin/env node
 
-import { spawn } from "child_process";
+import { spawn } from "node:child_process";
 import fsPromises from "node:fs/promises";
+import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { dirname, join } from "path";
-import zlib from "zlib";
+import zlib from "node:zlib";
 import collections from "@metalsmith/collections";
 import layouts from "@metalsmith/layouts";
 import markdown from "@metalsmith/markdown";
@@ -59,8 +59,8 @@ conf.tags.slug = sluggify;
 
 let styleRenamePlugin = noopPlugin;
 if (assetsRev) {
-  const renamedCss = "style-" + assetsRev + ".css";
-  console.log("Preparing style.css renaming to " + renamedCss);
+  const renamedCss = `style-${assetsRev}.css`;
+  console.log(`Preparing style.css renaming to ${renamedCss}`);
 
   styleRenamePlugin = renamer;
   conf.styleRenamePlugin = {
@@ -221,7 +221,7 @@ ms.destination(destination)
   .metadata(conf.metadata)
   .build((error, res) => {
     if (error) {
-      console.error("Build failed: " + error.message);
+      console.error(`Build failed: ${error.message}`);
       console.log(error.stack);
       process.exit(1);
     }
@@ -237,8 +237,8 @@ ms.destination(destination)
         open(`http://localhost:${DEV_PORT}`, { wait: false });
       });
     }
-    console.log("Build successful in " + destination + ", wrote:");
+    console.log(`Build successful in ${destination}, wrote:`);
     Object.keys(res).forEach((key) => {
-      console.log("- " + key);
+      console.log(`- ${key}`);
     });
   });

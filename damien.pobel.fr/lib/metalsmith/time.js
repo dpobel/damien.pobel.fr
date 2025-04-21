@@ -1,9 +1,9 @@
 export default function timedPlugin(plugin, name) {
-  return function (files, metalsmith, done) {
+  return (files, metalsmith, done) => {
     console.time(name);
-    plugin(files, metalsmith, function () {
+    plugin(files, metalsmith, function (...rest) {
       console.timeEnd(name);
-      done.apply(this, arguments);
+      done.apply(this, rest);
     });
   };
 }
