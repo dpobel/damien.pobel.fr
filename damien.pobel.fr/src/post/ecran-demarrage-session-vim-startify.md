@@ -57,7 +57,7 @@ trois blocs alors que [vim-startify en propose d'autres par
 défaut](https://github.com/mhinz/vim-startify#screenshot). Je garde aussi la
 citation, elle est souvent plutôt pertinente 😉
 
-<figure class="object-center">
+<figure class="object-center bordered">
     <a href="/images/neovim-ecran-de-demarrage-startify.png">
         <img loading="lazy" src="/images/neovim-ecran-de-demarrage-startify-660x.png" alt="Capture d'écran de Neovim présentant un écran de démarrage généré par vim-startify">
     </a>
@@ -97,7 +97,7 @@ Par exemple avec l'écran présenté ci-dessus, la séquence `V28S9<cr>` permet
 d'ouvir dans 2 volets verticaux les fichiers numérotés 2 et 8 puis de séparer
 horizontalement ce fichier 8 pour ouvrir le numéro 9, ce qui donne :
 
-<figure class="object-center">
+<figure class="object-center bordered">
     <a href="/images/neovim-layout.png">
         <img loading="lazy" src="/images/neovim-layout-660x.png" alt="Capture d'écran de Neovim écran partagé après l'utilisation de vim-startify">
     </a>
