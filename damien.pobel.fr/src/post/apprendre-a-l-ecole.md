@@ -7,7 +7,7 @@ photos:
     - images/school-is-out-forever.jpg
 ---
 
-<figure class="object-center">
+<figure class="object-center bordered">
     <img loading="lazy" src="/images/660x/school-is-out-forever.jpg" alt="Salle de classe en ruine avec
     au tableau un graphiti 'School's out Forever'">
     <figcaption>
