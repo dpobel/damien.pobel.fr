@@ -98,8 +98,8 @@ encore le superflu peut peser lourd.
 
 ---
 
-Bref, sans surprise, _chasser le superflu_ est un exercice bénéfique pour la
-qualité d'un projet logiciel et la productivité des développeur·ses.  Plus
-qu'une simple habitude, pour moi, **cette démarche doit être active et
-systématique**. Je la considère comme une clé dans l'obtention d'un code
-maintenable sur le long terme et dans l'efficience au quotidien.
+Bref, sans surprise, identifier et _chasser le superflu_ est un exercice
+bénéfique pour la qualité d'un projet logiciel et la productivité des
+développeur·ses. Plus qu'une simple habitude, pour moi, **cette démarche doit
+être active et systématique**. Je la considère comme une clé dans l'obtention
+d'un code maintenable sur le long terme et dans l'efficience au quotidien.
