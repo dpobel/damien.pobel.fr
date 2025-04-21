@@ -17,7 +17,7 @@ de mon expérience.
   <a href="/images/superflu-superheros-inutile.png">
     <img loading="lazy" src="/images/660x/superflu-superheros-inutile.png" alt="Superflu, le superhéros inutile">
   </a>
-  <footer>Extrait de <a href="https://editions.ptilouk.net/superflu/">Les aventures inutiles de Superflu</a> par <a href="https://ptilouk.net/">Gee</a></footer>
+  <footer>Extrait de <a href="https://editions.ptilouk.net/superflu/">Les aventures inutiles de Superflu</a> par <a href="https://ptilouk.net/">Gee</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/2.0/fr/">CC BY-SA 2.0</a></footer>
 </figure>
 
 Je commence donc par le premier qui me vient à l'esprit que j'aime bien exprimé
@@ -56,7 +56,7 @@ moins de dette technique](/post/dette-technique-partie-tetris/) !
   <a href="/images/superflu-manque-rien.png">
     <img loading="lazy" src="/images/660x/superflu-manque-rien.png" alt="Superflu, le superhéros inutile">
   </a>
-  <footer>Extrait de <a href="https://editions.ptilouk.net/superflu/">Les aventures inutiles de Superflu</a> par <a href="https://ptilouk.net/">Gee</a></footer>
+  <footer>Extrait de <a href="https://editions.ptilouk.net/superflu/">Les aventures inutiles de Superflu</a> par <a href="https://ptilouk.net/">Gee</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/2.0/fr/">CC BY-SA 2.0</a></footer>
 </figure>
 
 Si on prend un peu de hauteur, appliquer ce principe dans le design d'une API
