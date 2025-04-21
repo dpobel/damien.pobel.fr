@@ -1,5 +1,5 @@
-import * as cheerio from "cheerio";
 import async from "async";
+import * as cheerio from "cheerio";
 import sharp from "sharp";
 
 const imagePath = "/images/";
@@ -86,20 +86,20 @@ function handleImageAttribute(
   }
   if (!files[src]) {
     files[src] = {};
-    tasks.push(function (done) {
+    tasks.push((done) => {
       generateVariation(variation, src, files, done);
     });
   }
 }
 
 export default function (options) {
-  const siteUrl = options.siteUrl,
-    localRegexp = new RegExp(`(${imagePath}|${siteUrl}${imagePath})`);
+  const siteUrl = options.siteUrl;
+  const localRegexp = new RegExp(`(${imagePath}|${siteUrl}${imagePath})`);
 
-  return function (files, metalsmith, done) {
+  return (files, metalsmith, done) => {
     const tasks = [];
 
-    Object.keys(files).forEach(function (filePath) {
+    Object.keys(files).forEach((filePath) => {
       if (
         !filePath.endsWith(".html") ||
         (filePath.startsWith("tag") && !filePath.startsWith("tag/veille"))

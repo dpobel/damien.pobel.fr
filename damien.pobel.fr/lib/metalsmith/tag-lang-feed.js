@@ -16,40 +16,40 @@ function isFr(file) {
 }
 
 export default function (options) {
-  return function (files, metalsmith, done) {
+  return (files, metalsmith, done) => {
     const metadata = metalsmith.metadata();
     const tagsWithFrFilter = {};
 
-    metadata.collections.posts.forEach(function (file) {
+    metadata.collections.posts.forEach((file) => {
       if (file.tags) {
-        file.tags.forEach(function (tagObject) {
+        file.tags.forEach((tagObject) => {
           const tag = tagObject.name;
 
           addFileToCollection(metadata, file, tag);
           if (options.addFrFilter.indexOf(tag) !== -1 && isFr(file)) {
             tagsWithFrFilter[tag] = true;
-            addFileToCollection(metadata, file, tag + "/fr");
+            addFileToCollection(metadata, file, `${tag}/fr`);
           }
         });
       }
     });
 
-    Object.keys(metadata.tagsList).forEach(function (tag) {
+    Object.keys(metadata.tagsList).forEach((tag) => {
       feed({
         collection: tag,
         limit: rssSize,
-        destination: "rss/" + metadata.tagsList[tag].urlSafe + ".xml",
+        destination: `rss/${metadata.tagsList[tag].urlSafe}.xml`,
         preprocess: options.preprocess,
         title: tag,
-      }).call(null, files, metalsmith, function () {});
+      }).call(null, files, metalsmith, () => {});
       if (tagsWithFrFilter[tag]) {
         feed({
-          collection: tag + "/fr",
+          collection: `${tag}/fr`,
           limit: rssSize,
-          destination: "rss/" + metadata.tagsList[tag].urlSafe + "/fr.xml",
+          destination: `rss/${metadata.tagsList[tag].urlSafe}/fr.xml`,
           preprocess: options.preprocess,
           title: tag,
-        }).call(null, files, metalsmith, function () {});
+        }).call(null, files, metalsmith, () => {});
       }
     });
     done();

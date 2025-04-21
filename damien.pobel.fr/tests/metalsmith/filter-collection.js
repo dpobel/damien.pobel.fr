@@ -1,24 +1,24 @@
+import assert from "node:assert";
 import {
   excludeWithMetadataFn,
   excludeWithoutMetadataFn,
 } from "../../lib/metalsmith/filter-collection.js";
-import assert from "assert";
 
-describe("filter collection functions", function () {
+describe("filter collection functions", () => {
   const propIdentifier = "metaPropIdentifier";
 
   describe("excludeWithMetadataFn", () => {
     const excludeMeta = excludeWithMetadataFn(propIdentifier);
 
-    it("should exclude post with the given meta set to true", function () {
+    it("should exclude post with the given meta set to true", () => {
       assert(!excludeMeta({ [propIdentifier]: true }));
     });
 
-    it("should keep post without the given meta", function () {
+    it("should keep post without the given meta", () => {
       assert(excludeMeta({}));
     });
 
-    it("should keep post with the given meta set to false", function () {
+    it("should keep post with the given meta set to false", () => {
       assert(excludeMeta({ [propIdentifier]: false }));
     });
   });
@@ -26,15 +26,15 @@ describe("filter collection functions", function () {
   describe("excludeWithoutMetadataFn", () => {
     const excludeWithoutMeta = excludeWithoutMetadataFn(propIdentifier);
 
-    it("should keep post with the given meta set to true", function () {
+    it("should keep post with the given meta set to true", () => {
       assert(excludeWithoutMeta({ [propIdentifier]: true }));
     });
 
-    it("should exclude the post without the given meta", function () {
+    it("should exclude the post without the given meta", () => {
       assert(!excludeWithoutMeta({}));
     });
 
-    it("should exclude post with the given meta set to false", function () {
+    it("should exclude post with the given meta set to false", () => {
       assert(!excludeWithoutMeta({ [propIdentifier]: false }));
     });
   });

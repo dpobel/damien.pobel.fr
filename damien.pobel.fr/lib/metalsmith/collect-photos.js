@@ -14,26 +14,22 @@ function getOriginalPath(src) {
   if (tmp.length < 3) {
     return src;
   }
-  return tmp[0] + "/" + tmp[2];
+  return `${tmp[0]}/${tmp[2]}`;
 }
 
 function isPhotoPost(file) {
-  const toTagArray = function (tags) {
-    return tags.map(function (obj) {
-      return obj.name;
-    });
-  };
+  const toTagArray = (tags) => tags.map((obj) => obj.name);
 
   return file.tags && toTagArray(file.tags).indexOf("photo") !== -1;
 }
 
 export default function (options) {
-  return function (files, metalsmith, done) {
+  return (files, metalsmith, done) => {
     const metadata = metalsmith.metadata();
     let lastPhotosCount = 0;
 
     metadata.lastPhotos = [];
-    metadata.posts.forEach(function (file) {
+    metadata.posts.forEach((file) => {
       const photos = [];
 
       if (!isPhotoPost(file)) {

@@ -1,26 +1,26 @@
-import assert from "assert";
+import assert from "node:assert";
 import filters from "../../lib/nunjucks/filters.js";
 
-describe("Nunjucks filters", function () {
-  describe("url", function () {
-    it("should be defined", function () {
+describe("Nunjucks filters", () => {
+  describe("url", () => {
+    it("should be defined", () => {
       assert.ok(typeof filters.url === "function");
     });
 
-    it("should add trailing slashes", function () {
+    it("should add trailing slashes", () => {
       const path = "path";
 
       assert.equal("/path/", filters.url(path));
     });
 
-    it("should use the prefix", function () {
+    it("should use the prefix", () => {
       const path = "blog";
       const prefix = "http://damien.pobel.fr";
 
       assert.equal("http://damien.pobel.fr/blog/", filters.url(path, prefix));
     });
 
-    it("should simplify multiple /", function () {
+    it("should simplify multiple /", () => {
       const path = "//blog/////slashes";
       const prefix = "http://damien.pobel.fr";
 
@@ -30,25 +30,25 @@ describe("Nunjucks filters", function () {
       );
     });
 
-    it("should skip the trailing slash for file", function () {
+    it("should skip the trailing slash for file", () => {
       const path = "path/to/file.jpg";
 
       assert.equal("/path/to/file.jpg", filters.url(path, "", true));
     });
   });
 
-  describe("image_variation", function () {
+  describe("image_variation", () => {
     let func;
 
-    beforeEach(function () {
+    beforeEach(() => {
       func = filters.image_variation;
     });
 
-    it("should be defined", function () {
+    it("should be defined", () => {
       assert.ok(typeof func === "function");
     });
 
-    it("should add the variation part", function () {
+    it("should add the variation part", () => {
       assert.equal(
         "images/whatever/photo.jpg",
         func("images/photo.jpg", "whatever"),
@@ -56,18 +56,18 @@ describe("Nunjucks filters", function () {
     });
   });
 
-  describe("keys", function () {
+  describe("keys", () => {
     let func;
 
-    beforeEach(function () {
+    beforeEach(() => {
       func = filters.keys;
     });
 
-    it("should be defined", function () {
+    it("should be defined", () => {
       assert.ok(typeof func === "function");
     });
 
-    it("should return the array of object keys", function () {
+    it("should return the array of object keys", () => {
       const obj = { foo: "", bar: "" };
 
       assert.deepEqual(["foo", "bar"], func(obj));
@@ -80,7 +80,7 @@ describe("Nunjucks filters", function () {
     };
     let func;
 
-    beforeEach(function () {
+    beforeEach(() => {
       func = filters.tag_info;
     });
 

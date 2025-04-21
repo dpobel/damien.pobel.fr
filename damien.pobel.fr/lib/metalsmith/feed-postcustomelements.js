@@ -1,4 +1,4 @@
-import url from "url";
+import url from "node:url";
 
 export default function (file) {
   return {
