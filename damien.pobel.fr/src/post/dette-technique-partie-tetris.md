@@ -1,6 +1,6 @@
 ---
 title: "La dette technique est comme une partie de Tetris"
-tags: traduction, métier, code, qualité, ingénierie logicielle
+tags: traduction, métier, code, qualité, ingénierie logicielle, dette technique
 lang: fr
 published: 2019-03-15
 top-priority: 60
