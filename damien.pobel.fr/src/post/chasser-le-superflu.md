@@ -4,7 +4,7 @@ tags: code, métier, bonnes pratiques, ingénierie logicielle, qualité, complex
 lang: fr
 published: 2025-04-21
 photos:
-    - images/superflu-superheros-inutile.png
+    - images/superflu-et-toi.png
 ---
 
 Il y a quelques jours, je suis tombé sur [Developer
