@@ -1,6 +1,6 @@
 ---
 title: "Chasser le superflu"
-tags: code, métier, bonnes pratiques, ingénierie logicielle, qualité, complexité
+tags: code, métier, bonnes pratiques, ingénierie logicielle, qualité, complexité, dette technique
 lang: fr
 published: 2025-04-21
 photos:
@@ -14,8 +14,10 @@ j'appellerais plutôt des principes qui me semblent essentiels et qui sont issus
 de mon expérience.
 
 <figure class="object-center bordered">
+  <a href="/images/superflu-superheros-inutile.png">
     <img loading="lazy" src="/images/660x/superflu-superheros-inutile.png" alt="Superflu, le superhéros inutile">
-    <footer>Extrait de <a href="https://editions.ptilouk.net/superflu/">Les aventures inutiles de Superflu</a> par <a href="https://ptilouk.net/">Gee</a></footer>
+  </a>
+  <footer>Extrait de <a href="https://editions.ptilouk.net/superflu/">Les aventures inutiles de Superflu</a> par <a href="https://ptilouk.net/">Gee</a></footer>
 </figure>
 
 Je commence donc par le premier qui me vient à l'esprit que j'aime bien exprimé
@@ -46,12 +48,15 @@ initial était surtout de faciliter le _refactoring_ (sans mot clé `export`, on
 est certain d'avoir un périmètre limité au fichier) et au final, cet exercice
 a permis de déterrer une quantité de code mort plus que conséquente (plusieurs
 milliers de lignes de code 😮) qui n'était là que être exporté sans être
-utilisé et qui occasionnait de la confusion et zéro valeur ajoutée.
+utilisé et qui occasionnait de la confusion et zéro valeur ajoutée. Hop [un peu
+moins de dette technique](/post/dette-technique-partie-tetris/) !
 
 
 <figure class="object-center bordered">
+  <a href="/images/superflu-manque-rien.png">
     <img loading="lazy" src="/images/660x/superflu-manque-rien.png" alt="Superflu, le superhéros inutile">
-    <footer>Extrait de <a href="https://editions.ptilouk.net/superflu/">Les aventures inutiles de Superflu</a> par <a href="https://ptilouk.net/">Gee</a></footer>
+  </a>
+  <footer>Extrait de <a href="https://editions.ptilouk.net/superflu/">Les aventures inutiles de Superflu</a> par <a href="https://ptilouk.net/">Gee</a></footer>
 </figure>
 
 Si on prend un peu de hauteur, appliquer ce principe dans le design d'une API
@@ -95,6 +100,6 @@ encore le superflu peut peser lourd.
 
 Bref, sans surprise, _chasser le superflu_ est un exercice bénéfique pour la
 qualité d'un projet logiciel et la productivité des développeur·ses.  Plus
-qu'une simple habitude, pour moi, c'est une démarche active et systématique que
-je considère comme une clé dans l'obtention d'un code maintenable sur le long
-terme et dans l'efficience au quotidien.
+qu'une simple habitude, pour moi, **cette démarche doit être active et
+systématique**. Je la considère comme une clé dans l'obtention d'un code
+maintenable sur le long terme et dans l'efficience au quotidien.
