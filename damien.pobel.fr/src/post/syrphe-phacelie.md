@@ -5,7 +5,7 @@ lang: "fr"
 published: 2017-11-09 15:15
 ---
 
-<figure class="object-center">
+<figure class="object-center bordered">
     <a href="/images/syrphe-phacelie.jpg"><img loading="lazy" src="/images/660x/syrphe-phacelie.jpg" alt="Syrphe sur une fleur de phacélie"></a>
     <figcaption>
     Syrphe sur une fleur de phacélie
