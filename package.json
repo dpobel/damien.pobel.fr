@@ -54,7 +54,7 @@
     "mocha": "^11.2.2",
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.4",
-    "open": "^10.1.1",
+    "open": "^10.1.2",
     "postcss": "^8.5.3",
     "postcss-import": "^16.1.0",
     "postcss-preset-env": "^10.1.6",
