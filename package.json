@@ -58,7 +58,7 @@
     "postcss": "^8.5.3",
     "postcss-import": "^16.1.0",
     "postcss-preset-env": "^10.1.6",
-    "sharp": "^0.34.1",
+    "sharp": "^0.34.2",
     "static-server": "^3.0.0"
   }
 }
