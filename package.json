@@ -57,7 +57,7 @@
     "open": "^10.1.2",
     "postcss": "^8.5.3",
     "postcss-import": "^16.1.0",
-    "postcss-preset-env": "^10.1.6",
+    "postcss-preset-env": "^10.2.0",
     "sharp": "^0.34.2",
     "static-server": "^3.0.0"
   }
