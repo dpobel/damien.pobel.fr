@@ -51,7 +51,7 @@
     "metalsmith-pdfize": "^5.0.0",
     "metalsmith-renamer": "^0.5.25",
     "metalsmith-tags": "^2.1.0",
-    "mocha": "^11.7.0",
+    "mocha": "^11.7.1",
     "normalize.css": "^8.0.1",
     "nunjucks": "^3.2.4",
     "open": "^10.1.2",
