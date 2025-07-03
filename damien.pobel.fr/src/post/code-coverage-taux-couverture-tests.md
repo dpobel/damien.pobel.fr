@@ -68,8 +68,9 @@ taux de couverture va donc mécaniquement et progressivement augmenter. Dans cet
 exercice, le rapport de couverture constitue un outil précieux en permettant de
 naviguer dans le code source tout en différenciant les parties couvertes du code
 qui ne l'est pas. D'ailleurs, viser un maximum de couverture pour chaque (petit)
-changement a aussi la vertu de pousser vers une certaine simplification du code
-pour éliminer du code inutile et donc difficilement testable.
+changement a aussi la vertu de pousser vers [une certaine simplification du code
+pour éliminer du code inutile](/post/chasser-le-superflu/) et donc difficilement
+testable.
 
 ---
 
