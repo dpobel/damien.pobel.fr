@@ -41,7 +41,7 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: damien.pobel.fr/web/images
-          key: "dp-images-2024-06-08-fix-847"
+          key: "dp-images-2025-07-16-update-sharp"
 
       - name: Restore cache
         run: npm run dp:restorecache
