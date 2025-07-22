@@ -33,7 +33,7 @@
     "@metalsmith/postcss": "^5.4.1",
     "@metalsmith/remove": "^1.4.0",
     "async": "^3.2.6",
-    "cheerio": "^1.1.0",
+    "cheerio": "^1.1.2",
     "consolidate": "^1.0.4",
     "cssnano": "^7.1.0",
     "detect-port": "^2.1.0",
