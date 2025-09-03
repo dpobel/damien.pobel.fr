@@ -2,7 +2,7 @@
 title: "React est horrible (React is awful)"
 tags: veille, métier, react, bonnes pratiques, qualité, code, ingénierie logicielle
 lang: fr
-published: 2025-08-29
+published: 2025-09-03
 photos:
     - images/react-est-horrible-tout-va-bien.png
 ---
