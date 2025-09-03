@@ -56,4 +56,4 @@ tout seul 🫠
 
 Bref, [React-is-Awful](https://github.com/cloudstreet-dev/React-is-Awful) est à
 la fois un ovni dans le paysage des livres techniques et un bon ouvrage pour
-approfondir la compréhension de React.
+approfondir la compréhension de React et des compromis qu'il impose.
