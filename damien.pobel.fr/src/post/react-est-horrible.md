@@ -45,7 +45,7 @@ Je serais quand même curieux de voir le ou les prompts qui permettent d'obtenir
 ce résultat.
 
 Sur le fond, le livre vise plutôt juste dans ses critiques de React (en tout cas
-cohérente avec ma propre expérience) et dans [ses préconisations pour _faire
+cohérentes avec ma propre expérience) et dans [ses préconisations pour _faire
 avec_](https://github.com/cloudstreet-dev/React-is-Awful/blob/main/18-chapter-acceptance.md).
 Et contrairement à ce que pourrait suggèrer le titre, le livre reconnaît tout de
 même quelques mérites à React. Il n'y a guère que [le chapitre sur les
