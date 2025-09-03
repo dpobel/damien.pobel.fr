@@ -8,7 +8,7 @@ photos:
 ---
 <figure class="object-center bordered">
   <a href="/images/react-est-horrible-tout-va-bien.png">
-    <img loading="lazy" src="/images/660x/react-est-horrible-tout-va-bien.png" alt="Mème : à gauche, un lapin au milieu d'un appartement en feu, avec pour légende « React est horrible », est serein sur son tabouret. À droite, le lapin dit « Tout va bien. » en souriant, avec pour légende." />
+    <img loading="lazy" src="/images/660x/react-est-horrible-tout-va-bien.png" alt="Mème : à gauche, un lapin au milieu d'un appartement en feu, avec pour légende « React est horrible », est serein sur son tabouret. À droite, le lapin dit « Tout va bien. » en souriant." />
   </a>
   <footer>Généré par <a href="https://framamemes.org/?meme=this_is_fine">Framamèmes</a></footer>
 </figure>
