@@ -11,7 +11,7 @@
       { "path": "posts", "name": "blog" },
       { "path": "tag/veille", "name": "veille techno" },
       { "path": "page/cv-fr", "name": "cv" },
-      { "path": "page/about", "name": "à propos" }
+      { "path": "page/about", "name": "à propos" }
     ],
     "more": {
       "photo": { "path": "tag/photo", "name": "Voir plus de photos" }
