@@ -13,6 +13,7 @@
   display: table-cell;
   list-style-type: none;
   border-right: 1px solid #ccc;
+  vertical-align: middle;
 }
 
 .site-menu a {
