@@ -7,7 +7,8 @@ updated: 2025-05-10
 
 ## 2025
 
-* [La Constante Macabre ou comment a-t-on découragé des générations d'élèves ?](http://mclcmnew.free.fr/?page_id=381) (André Antibi) 
+* [Le grand détournement](https://allary-editions.fr/products/matthieu-aron-et-caroline-michel-aguirre-le-grand-detournement) (Caroline Michel-Aguirre et Matthieu Aron)
+* [La Constante Macabre ou comment a-t-on découragé des générations d'élèves ?](http://mclcmnew.free.fr/?page_id=381) (André Antibi)
 * [Les révoltés de Bohen](https://www.estellefaye.fr/butitsmyonlyline/romans/les-revoltes-de-bohen/) (Estelle Faye)
 * [Les seigneurs de Bohen](https://www.estellefaye.fr/butitsmyonlyline/romans/les-seigneurs-de-bohen/) (Estelle Faye)
 * [L'affaire Alaska Sanders](https://www.rosiewolfe.com/catalogue/joel-dicker/laffaire-alaska-sanders) (Joël Dicker)
