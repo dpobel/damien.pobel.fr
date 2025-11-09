@@ -11,6 +11,16 @@
   --text-background: #fff;
 }
 
+/*
+ * This website was initially build with normalize.css and later switched to modern-normalize that
+ * sets box-sizing to border-box by default. So this brings back content-box for all elements.
+ */
+*,
+*::before,
+*::after {
+  box-sizing: content-box;
+}
+
 body {
   font-family: var(--sans-serif-font);
   font-size: 17px;
