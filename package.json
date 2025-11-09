@@ -52,7 +52,7 @@
     "metalsmith-renamer": "^0.5.25",
     "metalsmith-tags": "^2.1.0",
     "mocha": "^11.7.5",
-    "normalize.css": "^8.0.1",
+    "modern-normalize": "^3.0.1",
     "nunjucks": "^3.2.4",
     "open": "^10.2.0",
     "postcss": "^8.5.6",
