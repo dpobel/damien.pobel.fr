@@ -7,12 +7,12 @@ remoteId: "3379fca1e1df71801e38319d8f7f81ba"
 published: 2007-03-11T22:19:12+01:00
 updated: 2016-02-08 18:13
 ---
- 
+
 Comme [je l'indiquais dernièrement](/page/about), j'ai décidé de placer [mes
 photos](http://photos.pwet.fr) et [mes billets](/) sous [Licence Creative
 Commons CC-By-Sa](http://creativecommons.org/licenses/by-sa/2.0/fr/) ce qui
 implique de citer mon nom (ou je me contente de l'adresse d'origine du site)
-lors de l'utilisation de ces contenus. Mais je me rend compte en regardant [mes
+lors de l'utilisation de ces contenus. Mais je me rends compte en regardant [mes
 statistiques générées avec
 AWStats](/post/statistiques-web-avec-awstats-sous-ubuntu-en-mode-cgi) que
 beaucoup de gens *hotlink* mes photos sur divers blogs, page myspace ou divers

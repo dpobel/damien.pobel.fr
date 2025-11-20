@@ -39,7 +39,7 @@ Bon il y a quand même quelques trucs bêtes/idiots :
 * On peut choisir 3 types d'écran accueil, un &quot;nu&quot;, un avec des
   raccourcis vers ses contacts, un avec des raccourcis vers des applications
   mais impossible de faire un mix dommage…
-* Le téléphone dispose de 3 boutons, je ne comprend pas pourquoi celui du milieu
+* Le téléphone dispose de 3 boutons, je ne comprends pas pourquoi celui du milieu
   (qui sert à faire apparaître le menu principal) n'est pas aussi disponible sur
   l'écran tactile, quand on a le stylet en main, ce serait tellement plus
   pratique.

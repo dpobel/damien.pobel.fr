@@ -32,7 +32,7 @@ connues.
 [Katia a repéré](https://twitter.com/ZeCherryBlossom/status/399645088336211968)
 cet [aspirateur chez
 Maxitoys](http://www.maxitoys.fr/aspirateur-silence-force-cyclonic.html). Bon
-déjà, un aspirateur comme jouet… je comprend bien que les enfants veulent
+déjà, un aspirateur comme jouet… je comprends bien que les enfants veulent
 imiter leurs parents, mais n'y a t il que ça comme imitation possible&nbsp;?
 Mais le pire ici est dans la fiche du jouet où on peut lire que celui-ci est
 destiné aux filles et voir une fillette utiliser l'appareil… Joli assemblage,
