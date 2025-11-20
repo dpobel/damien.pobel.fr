@@ -24,7 +24,7 @@ commerce"></a></figure>
 
 Aller hop, **encore** un truc ajouté, cette fois c'est leur fameuse "garantie
 contrat Or" dont la réelle plus value par rapport à la garantie standard
-m'échappe un peu… En fait, si je comprend bien, la plupart des gens ne
+m'échappe un peu… En fait, si je comprends bien, la plupart des gens ne
 s'attendent pas à une quelconque manipulation du panier à cette étape, et si on
 est un peu pressé il est facile de pas remarquer cet ajout. En plus le style de
 la page n'aide pas&nbsp;:
