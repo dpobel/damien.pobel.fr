@@ -1,15 +1,15 @@
 <div class="side-block post-side">
   <dl>
-    <dt>Publié le</dt>
-    <dd>
-      <time datetime="{{ published.format('YYYY-MM-DD') }}">{{ published.format('DD MMM YYYY') }}</time>
-    </dd>
-    {% if updated %}
-    <dt>Mis à jour le</dt>
+    {% if not updated %}
+      {% set updated = published %}
+    {% endif %}
+    <dt>Dernière mise à jour</dt>
     <dd>
       <time datetime="{{ updated.format('YYYY-MM-DD') }}">{{ updated.format('DD MMM YYYY') }}</time>
+      {% if isOutdated %}
+        <p class="outdated-notice">ℹ️ Ce billet n'a pas été mis à jour depuis plus de 5 ans; par conséquent il contient probablement des informations périmées et/ou des liens cassés.</p>
+      {% endif %}
     </dd>
-    {% endif %}
   </dl>
   {% include "parts/tags.njk" %}
 </div>

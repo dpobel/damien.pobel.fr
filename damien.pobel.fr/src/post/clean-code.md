@@ -4,6 +4,7 @@ tags: complexité, métier, qualité, code, bonnes pratiques, traduction, clean 
 lang: fr
 published: 2020-06-16 23:28
 top-priority: 50
+evergreen: true
 photos:
     - images/water-drop.jpg
 ---
