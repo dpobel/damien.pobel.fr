@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 import metalsmith from "metalsmith";
 import msMoment from "metalsmith-moment";
 import outdatedPost from "../../lib/metalsmith/outdated-post.js";
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe("outdatedPost metalsmith plugin", () => {
