@@ -82,7 +82,7 @@ en équipe&nbsp;:
 * savoir donner un coup de main [sans infliger de
     l'aide](https://mixitconf.org/2018/vous-arrive-t-il-d-infliger-de-l-aide-)
 * faire confiance aux autres membres
-*…
+* …
 * et se parler tout simplement ;-)
 
 ## Avantages à travailler en équipe
