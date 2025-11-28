@@ -1,5 +1,5 @@
 export default function noop() {
-  return (files, metalsmith, done) => {
+  return (_files, _metalsmith, done) => {
     done();
   };
 }
