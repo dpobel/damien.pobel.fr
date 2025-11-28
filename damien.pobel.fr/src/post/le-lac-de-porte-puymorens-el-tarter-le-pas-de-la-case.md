@@ -8,17 +8,10 @@ published: 2007-04-27T00:11:25+02:00
 updated: 2016-02-12 13:33
 ---
 
-De retour après quelques jours du côté de [la principauté
-d'Andorre](http://photos.pwet.fr/villes-et-departements/andorre/) et plus
-précisément à [El
-Tarter](http://photos.pwet.fr/villes-et-departements/andorre/el-tarter/) à
-l'Hôtel Nordic au départ de
-[Corneilla-del-Vercol](http://photos.pwet.fr/villes-et-departements/pyrenees-orientales-66/corneilla-del-vercol/)
-en passant par [le Pas de la
-Case](http://photos.pwet.fr/villes-et-departements/andorre/pas-de-la-case/).
-J'ai pu tester un peu plus mon [Nikon D50 tout neuf](/post/nikon-d50-noir-2). Je
-le maîtrise encore mal, mais je me suis fait un grand plaisir de mitrailler tout
-ce que je pouvais.
+De retour après quelques jours du côté de la principauté d'Andorre, j'ai pu
+tester un peu plus mon [Nikon D50 tout neuf](/post/nikon-d50-noir-2). Je le
+maîtrise encore mal, mais je me suis fait un grand plaisir de mitrailler tout ce
+que je pouvais.
 
 
 <figure class="object-center"><a
