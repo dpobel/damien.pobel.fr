@@ -4,6 +4,7 @@ tags: bonnes pratiques, métier, code, qualité, citation, ingénierie logiciell
 lang: fr
 published: 2019-02-18
 top-priority: 30
+evergreen: true
 photos:
     - images/dose-cafe.jpg
 ---

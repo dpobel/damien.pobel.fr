@@ -36,6 +36,7 @@ import {
 } from "./lib/metalsmith/filter-collection.js";
 import imageVariation from "./lib/metalsmith/image-variation.js";
 import noopPlugin from "./lib/metalsmith/noop.js";
+import outdatedPostPlugin from "./lib/metalsmith/outdated-post.js";
 import tagLangFeed from "./lib/metalsmith/tag-lang-feed.js";
 import timedPlugin from "./lib/metalsmith/time.js";
 import nunjuckFilters from "./lib/nunjucks/filters.js";
@@ -160,6 +161,7 @@ const pluginsConfList = [
     name: "styleRenamePlugin",
     indev: true,
   },
+  { plugin: outdatedPostPlugin, name: "outdatedPlugin", indev: true },
   {
     plugin: layouts,
     conf: {

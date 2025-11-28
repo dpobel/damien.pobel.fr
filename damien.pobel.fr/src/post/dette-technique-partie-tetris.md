@@ -4,6 +4,7 @@ tags: traduction, métier, code, qualité, ingénierie logicielle, dette techniq
 lang: fr
 published: 2019-03-15
 top-priority: 60
+evergreen: true
 photos:
     - images/tetris.png
 ---
