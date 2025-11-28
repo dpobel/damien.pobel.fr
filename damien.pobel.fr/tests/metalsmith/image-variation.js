@@ -38,6 +38,7 @@ describe("imageVariation metalsmith plugin", function () {
 
       assert(buildResult[widthVariation]);
       sharp(buildResult[widthVariation].contents).metadata((err, metadata) => {
+        assert.ifError(err);
         assert.equal(220, metadata.width);
         assert.equal(161, metadata.height);
         done();
@@ -49,6 +50,7 @@ describe("imageVariation metalsmith plugin", function () {
 
       assert(buildResult[widthVariation]);
       sharp(buildResult[widthVariation].contents).metadata((err, metadata) => {
+        assert.ifError(err);
         assert.equal(220, metadata.width);
         assert.equal(220, metadata.height);
         done();
@@ -60,6 +62,7 @@ describe("imageVariation metalsmith plugin", function () {
 
       assert(buildResult[widthVariation]);
       sharp(buildResult[widthVariation].contents).metadata((err, metadata) => {
+        assert.ifError(err);
         assert.equal(220, metadata.width);
         assert.equal(147, metadata.height);
         done();
@@ -73,6 +76,7 @@ describe("imageVariation metalsmith plugin", function () {
 
       assert(buildResult[heightVariation]);
       sharp(buildResult[heightVariation].contents).metadata((err, metadata) => {
+        assert.ifError(err);
         assert.equal(300, metadata.height);
         assert.equal(410, metadata.width);
         done();
@@ -84,6 +88,7 @@ describe("imageVariation metalsmith plugin", function () {
 
       assert(buildResult[heightVariation]);
       sharp(buildResult[heightVariation].contents).metadata((err, metadata) => {
+        assert.ifError(err);
         assert.equal(300, metadata.height);
         assert.equal(301, metadata.width);
         done();
@@ -95,6 +100,7 @@ describe("imageVariation metalsmith plugin", function () {
 
       assert(buildResult[heightVariation]);
       sharp(buildResult[heightVariation].contents).metadata((err, metadata) => {
+        assert.ifError(err);
         assert.equal(300, metadata.height);
         assert.equal(450, metadata.width);
         done();
@@ -109,6 +115,7 @@ describe("imageVariation metalsmith plugin", function () {
       assert(buildResult[widthxheightVariation]);
       sharp(buildResult[widthxheightVariation].contents).metadata(
         (err, metadata) => {
+          assert.ifError(err);
           assert.equal(183, metadata.height);
           assert.equal(250, metadata.width);
           done();
@@ -122,6 +129,7 @@ describe("imageVariation metalsmith plugin", function () {
       assert(buildResult[widthxheightVariation]);
       sharp(buildResult[widthxheightVariation].contents).metadata(
         (err, metadata) => {
+          assert.ifError(err);
           assert.equal(250, metadata.height);
           assert.equal(250, metadata.width);
           done();
@@ -135,6 +143,7 @@ describe("imageVariation metalsmith plugin", function () {
       assert(buildResult[widthxheightVariation]);
       sharp(buildResult[widthxheightVariation].contents).metadata(
         (err, metadata) => {
+          assert.ifError(err);
           assert.equal(167, metadata.height);
           assert.equal(250, metadata.width);
           done();

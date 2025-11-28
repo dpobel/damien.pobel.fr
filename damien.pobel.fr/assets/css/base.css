@@ -1,9 +1,11 @@
 :root {
   --max-width: 960px;
-  --serif-font: Superclarendon, "Bookman Old Style", "URW Bookman",
-    "URW Bookman L", "Georgia Pro", Georgia, serif;
-  --sans-serif-font: ui-rounded, "Hiragino Maru Gothic ProN", Quicksand,
-    Comfortaa, Manjari, Calibri, source-sans-pro, sans-serif;
+  --serif-font:
+    Superclarendon, "Bookman Old Style", "URW Bookman", "URW Bookman L",
+    "Georgia Pro", Georgia, serif;
+  --sans-serif-font:
+    ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa, Manjari,
+    Calibri, source-sans-pro, sans-serif;
   --meta-color: #666;
   --title-color: #444;
   --text-color: #555;
@@ -86,11 +88,6 @@ hr {
   display: flex;
 }
 
-.page-content.type-post main,
-.page-content.type-list main {
-  width: 68.75%;
-}
-
 .page-content.type-post aside,
 .page-content.type-list aside {
   width: 31.25%;
@@ -98,6 +95,11 @@ hr {
 
 .page-content main {
   padding: 0 var(--gutter-size);
+}
+
+.page-content.type-post main,
+.page-content.type-list main {
+  width: 68.75%;
 }
 
 .page-content h1 {

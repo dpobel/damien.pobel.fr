@@ -24,7 +24,7 @@ function isPhotoPost(file) {
 }
 
 export default function (options) {
-  return (files, metalsmith, done) => {
+  return (_files, metalsmith, done) => {
     const metadata = metalsmith.metadata();
     let lastPhotosCount = 0;
 

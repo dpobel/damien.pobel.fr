@@ -96,7 +96,7 @@ export default function (options) {
   const siteUrl = options.siteUrl;
   const localRegexp = new RegExp(`(${imagePath}|${siteUrl}${imagePath})`);
 
-  return (files, metalsmith, done) => {
+  return (files, _metalsmith, done) => {
     const tasks = [];
 
     Object.keys(files).forEach((filePath) => {

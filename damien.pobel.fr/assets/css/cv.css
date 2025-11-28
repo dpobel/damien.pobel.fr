@@ -87,6 +87,7 @@
   box-sizing: border-box;
 }
 
+/* biome-ignore lint/style/noDescendingSpecificity: conflict with .cv .bio ul, probably need to add a class dl elements… */
 .cv dl ul {
   padding: 0;
   list-style-position: inside;
