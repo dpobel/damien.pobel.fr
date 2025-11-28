@@ -1,5 +1,6 @@
 import assert from "node:assert";
 import { dirname } from "node:path";
+import { beforeEach, describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
 import collections from "@metalsmith/collections";
 import metalsmith from "metalsmith";
@@ -13,7 +14,7 @@ describe("collectPhotos metalsmith plugin", () => {
   let buildError;
   const lastPhotosNumber = 2;
 
-  beforeEach((done) => {
+  beforeEach((_context, done) => {
     ms = metalsmith(__dirname);
     ms.source("fixtures/collect-photos/src")
       .use(collections({ posts: { pattern: "*.html", sortBy: "test" } }))

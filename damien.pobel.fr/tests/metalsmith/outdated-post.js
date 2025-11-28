@@ -1,5 +1,6 @@
 import assert from "node:assert";
 import { dirname } from "node:path";
+import { before, describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
 import metalsmith from "metalsmith";
 import msMoment from "metalsmith-moment";
@@ -11,7 +12,7 @@ describe("outdatedPost metalsmith plugin", () => {
   let buildError;
   let buildFiles;
 
-  before((done) => {
+  before((_context, done) => {
     metalsmith(__dirname)
       .source("fixtures/outdated-post/src")
       .use(msMoment(["published", "updated"]))

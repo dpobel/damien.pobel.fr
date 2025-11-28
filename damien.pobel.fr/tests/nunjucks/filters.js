@@ -1,4 +1,5 @@
 import assert from "node:assert";
+import { beforeEach, describe, it } from "node:test";
 import filters from "../../lib/nunjucks/filters.js";
 
 describe("Nunjucks filters", () => {
