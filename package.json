@@ -13,7 +13,7 @@
   },
   "type": "module",
   "scripts": {
-    "test": "mocha --recursive damien.pobel.fr/tests",
+    "test": "node --test-reporter spec --test 'damien.pobel.fr/tests/**/*.js'",
     "lint": " biome ci",
     "dp:restorecache": "SITE=damien.pobel.fr npm run restorecache",
     "restorecache": "./bin/restore_cache.sh",
@@ -51,7 +51,6 @@
     "metalsmith-pdfize": "^5.0.0",
     "metalsmith-renamer": "^0.5.25",
     "metalsmith-tags": "^2.1.0",
-    "mocha": "^11.7.5",
     "modern-normalize": "^3.0.1",
     "nunjucks": "^3.2.4",
     "open": "^11.0.0",

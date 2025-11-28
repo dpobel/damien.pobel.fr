@@ -1,5 +1,6 @@
 import assert from "node:assert";
 import { dirname } from "node:path";
+import { before, describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
 import metalsmith from "metalsmith";
 import tags from "metalsmith-tags";
@@ -12,7 +13,7 @@ describe("tagLangFeed metalsmith plugin", () => {
   let buildError;
   let buildFiles;
 
-  before((done) => {
+  before((_context, done) => {
     ms = metalsmith(__dirname);
     ms.source("fixtures/tag-lang-feed/src")
       .use((files, metalsmith, done) => {

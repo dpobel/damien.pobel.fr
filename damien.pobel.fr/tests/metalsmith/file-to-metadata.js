@@ -1,5 +1,6 @@
 import assert from "node:assert";
 import { dirname } from "node:path";
+import { beforeEach, describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
 import metalsmith from "metalsmith";
 import fileToMetadata from "../../lib/metalsmith/file-to-metadata.js";
@@ -11,7 +12,7 @@ describe("fileToMetadata metalsmith plugin", () => {
   let buildError;
   let buildFiles;
 
-  beforeEach((done) => {
+  beforeEach((_context, done) => {
     ms = metalsmith(__dirname);
     ms.source("fixtures/file-to-metadata/src")
       .use(fileToMetadata({ html: "*.htm", zero: "*zero" }))
