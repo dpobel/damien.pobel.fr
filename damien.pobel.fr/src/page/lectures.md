@@ -1,12 +1,14 @@
 ---
 title: Lectures
-updated: 2025-05-10
+updated: 2025-12-01
 ---
 
 # Lectures
 
 ## 2025
 
+* [Privilèges. Ce qu'il nous reste à abolir](https://www.editions-jclattes.fr/livre/privileges-ce-quil-nous-reste-abolir-9782709674027/) (Alice de Rochechouart)
+* [France fictions - Histoire des idées reçues de l'histoire de France](https://www.lisez.com/livres/france-fictions-histoire-des-idees-recues-de-lhistoire-de-france/9782412099650) (sous la direction de Yann Bouvier)
 * [Le grand détournement](https://allary-editions.fr/products/matthieu-aron-et-caroline-michel-aguirre-le-grand-detournement) (Caroline Michel-Aguirre et Matthieu Aron)
 * [La Constante Macabre ou comment a-t-on découragé des générations d'élèves ?](http://mclcmnew.free.fr/?page_id=381) (André Antibi)
 * [Les révoltés de Bohen](https://www.estellefaye.fr/butitsmyonlyline/romans/les-revoltes-de-bohen/) (Estelle Faye)
