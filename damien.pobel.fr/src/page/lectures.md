@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2025-12-01
+updated: 2025-12-06
 ---
 
 # Lectures
 
 ## 2025
 
+* [A-t-on besoin d'un chef ? - Petit traité d'intelligence collective](https://allary-editions.fr/products/mehdi-moussaid-a-t-on-besoin-dun-chef) (Mehdi Moussaid)
 * [Privilèges. Ce qu'il nous reste à abolir](https://www.editions-jclattes.fr/livre/privileges-ce-quil-nous-reste-abolir-9782709674027/) (Alice de Rochechouart)
 * [France fictions - Histoire des idées reçues de l'histoire de France](https://www.lisez.com/livres/france-fictions-histoire-des-idees-recues-de-lhistoire-de-france/9782412099650) (sous la direction de Yann Bouvier)
 * [Le grand détournement](https://allary-editions.fr/products/matthieu-aron-et-caroline-michel-aguirre-le-grand-detournement) (Caroline Michel-Aguirre et Matthieu Aron)
