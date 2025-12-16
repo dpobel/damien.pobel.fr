@@ -38,7 +38,7 @@ jobs:
       - name: Test
         run: npm test
 
-      - uses: actions/cache@v4
+      - uses: actions/cache@v5
         with:
           path: damien.pobel.fr/web/images
           key: "dp-images-2025-07-16-update-sharp"
