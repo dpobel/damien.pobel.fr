@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2025-12-06
+updated: 2025-12-13
 ---
 
 # Lectures
 
 ## 2025
 
+* [Logocratie](https://www.seuil.com/ouvrage/logocratie-clement-viktorovitch/9782021591163) (Clément Viktorovitch)
 * [A-t-on besoin d'un chef ? - Petit traité d'intelligence collective](https://allary-editions.fr/products/mehdi-moussaid-a-t-on-besoin-dun-chef) (Mehdi Moussaid)
 * [Privilèges. Ce qu'il nous reste à abolir](https://www.editions-jclattes.fr/livre/privileges-ce-quil-nous-reste-abolir-9782709674027/) (Alice de Rochechouart)
 * [France fictions - Histoire des idées reçues de l'histoire de France](https://www.lisez.com/livres/france-fictions-histoire-des-idees-recues-de-lhistoire-de-france/9782412099650) (sous la direction de Yann Bouvier)
