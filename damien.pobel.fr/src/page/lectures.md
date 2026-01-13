@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2025-12-16
+updated: 2026-01-13
 ---
 
 # Lectures
 
 ## 2025
 
+* [L'héritier des fées](https://site.nathan.fr/livres/lheritier-des-fees-une-fantasy-historique-au-coeur-des-chateaux-cathares-9782095037949.html) (Estelle Faye)
 * [Dieu, Darwin, tout et n'importe quoi](https://arenes.fr/livre/dieu-darwin-tout-et-nimporte-quoi/) (Vinciane Despret, Pierre Kroll)
 * [Logocratie](https://www.seuil.com/ouvrage/logocratie-clement-viktorovitch/9782021591163) (Clément Viktorovitch)
 * [A-t-on besoin d'un chef ? - Petit traité d'intelligence collective](https://allary-editions.fr/products/mehdi-moussaid-a-t-on-besoin-dun-chef) (Mehdi Moussaid)
