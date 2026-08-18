@@ -5,6 +5,12 @@ updated: 2026-01-13
 
 # Lectures
 
+## 2026
+
+* [La mort immortelle](https://actes-sud.fr/catalogue/la-mort-immortelle-015065) (Cixin Liu)
+* [La forêt sombre](https://actes-sud.fr/catalogue/la-foret-sombre-014938) (Cixin Liu)
+* [Révolution Consulat Empire (1789-1815)](https://www.belin-editeur.com/revolution-consulat-empire-1789-1815) (Michel Biard, Philippe Bourdin, Silvia Marzagalli)
+
 ## 2025
 
 * [L'héritier des fées](https://site.nathan.fr/livres/lheritier-des-fees-une-fantasy-historique-au-coeur-des-chateaux-cathares-9782095037949.html) (Estelle Faye)
@@ -27,7 +33,7 @@ updated: 2026-01-13
 * [Résister](https://www.payot-rivages.fr/payot/livre/r%C3%A9sister-9782228937597) (Salomé Saqué)
 * [En finir avec les idées fausses sur l'école](https://editionsatelier.com/boutique/nouveautes/414-en-finir-avec-les-idees-fausses-sur-l-ecole-9782708254350.html) (Louise Tourret)
 * [La nuit des temps](https://www.jailu.com/la-nuit-des-temps/9782290317587) (René Barjavel)
-* [Le Problème à trois corps](https://www.actes-sud.fr/catalogue/science-fiction-fantasy/le-probleme-trois-corps) (Cixin Liu)
+* [Le Problème à trois corps](https://actes-sud.fr/catalogue/le-probleme-a-trois-corps-014560) (Cixin Liu)
 * [Nature et préjugés](https://www.actes-sud.fr/catalogue/sciences-humaines-et-sociales-sciences/nature-et-prejuges) (Marc-André Selosse)
 * [Comme une larme d'étoile](https://complices-editions.eu/p/comme-une-larme-d-etoile) (Jérôme Gasulla)
 * [L'Univers à Portée de Main](https://editions.flammarion.com/lunivers-a-portee-de-main/9782081422209) (Christophe Galfard)
