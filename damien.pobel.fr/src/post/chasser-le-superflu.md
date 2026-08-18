@@ -1,6 +1,6 @@
 ---
 title: "Chasser le superflu"
-tags: code, métier, bonnes pratiques, ingénierie logicielle, qualité, complexité, dette technique
+tags: code, métier, bonnes pratiques, ingénierie logicielle, qualité, complexité, dette technique, developer philosophy
 lang: fr
 published: 2025-04-21
 photos:
