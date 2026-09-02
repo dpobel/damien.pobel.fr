@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2026-01-13
+updated: 2026-09-02
 ---
 
 # Lectures
 
 ## 2026
 
+* [Alien Earth](https://www.livredepoche.com/livre/alien-earth-9782253122647/) (Megan Lindholm alias Robin Hobb)
 * [La mort immortelle](https://actes-sud.fr/catalogue/la-mort-immortelle-015065) (Cixin Liu)
 * [La forêt sombre](https://actes-sud.fr/catalogue/la-foret-sombre-014938) (Cixin Liu)
 * [Révolution Consulat Empire (1789-1815)](https://www.belin-editeur.com/revolution-consulat-empire-1789-1815) (Michel Biard, Philippe Bourdin, Silvia Marzagalli)
