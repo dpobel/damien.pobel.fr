@@ -1,12 +1,13 @@
 ---
 title: Lectures
-updated: 2026-09-02
+updated: 2026-09-13
 ---
 
 # Lectures
 
 ## 2026
 
+* [Un reflet de Lune](https://www.folio-lesite.fr/catalogue/un-reflet-de-lune/9782072948466) (Estelle Faye)
 * [Alien Earth](https://www.livredepoche.com/livre/alien-earth-9782253122647/) (Megan Lindholm alias Robin Hobb)
 * [La mort immortelle](https://actes-sud.fr/catalogue/la-mort-immortelle-015065) (Cixin Liu)
 * [La forêt sombre](https://actes-sud.fr/catalogue/la-foret-sombre-014938) (Cixin Liu)
