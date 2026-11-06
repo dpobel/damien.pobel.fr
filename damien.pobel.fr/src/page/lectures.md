@@ -1,12 +1,15 @@
 ---
 title: Lectures
-updated: 2026-09-20
+updated: 2026-11-05
 ---
 
 # Lectures
 
 ## 2026
 
+* [La Maison des Jeux - L'intégrale](https://belial.fr/legacy/a/claire-north/la-maison-des-jeux-l-integrale) (Claire North)
+* [Black-out - Demain il sera trop tard](https://www.livredepoche.com/livre/black-out-9782253098690/) (Marc Elsberg)
+* [Éphémère - Tome 1 - Promesses murmurées](https://www.hachetteromans.fr/livre/ephemere-tome-1-promesses-murmurees-9782017258469/) (Emma Dinkel)
 * [La parole aux machines - Philosophie des grands modèles de langage](https://www.grasset.fr/livre/la-parole-aux-machines-9782246841654/) (Thibaut Giraud (Monsieur Phi))
 * [Un reflet de Lune](https://www.folio-lesite.fr/catalogue/un-reflet-de-lune/9782072948466) (Estelle Faye)
 * [Alien Earth](https://www.livredepoche.com/livre/alien-earth-9782253122647/) (Megan Lindholm alias Robin Hobb)
